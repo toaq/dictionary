@@ -1,2196 +1,2216 @@
 baq:
-  definition: "___ is the generic collective entity composed of the things that share property ___; ___ are the things that ___, in general."
+  definition: >-
+    ___ is the generic collective entity composed of the things that share
+    property ___; ___ are the things that ___, in general.
   gloss: generic
-
+  frame: LEO
 baı:
-  definition: "___ builds/assembles/makes ___."
+  definition: ___ builds/assembles/makes ___.
   gloss: build
-
+  frame: PAI
 bao:
-  definition: "___ is the colour white."
+  definition: ___ is the colour white.
   gloss: white
-
+  frame: POQ
 bu:
-  definition: "___ is not the case / is false; ___ does not satisfy property ___."
+  definition: ___ is not the case / is false; ___ does not satisfy property ___.
   gloss: not
-
+  frame: JEO
 buq:
-  definition: "___ is a mouth."
+  definition: ___ is a mouth.
   gloss: mouth
-
+  frame: POQ
 bua:
-  definition: "___ inhabits ___."
+  definition: ___ inhabits ___.
   gloss: inhabit
-
+  frame: PAI
 buaq:
-  definition: "___ fails to satisfy property ___."
+  definition: ___ fails to satisfy property ___.
   gloss: fail
-
+  frame: LEO
 buı:
-  definition: "___ is outside of ___."
+  definition: ___ is outside of ___.
   gloss: outside
-
+  frame: PAI
 buo:
-  definition: "___ is ready to satisfy property ___."
+  definition: ___ is ready to satisfy property ___.
   gloss: ready
-
+  frame: LEO
 buoq:
-  definition: "___ is non-serious."
+  definition: ___ is non-serious.
   gloss: non-serious
-
+  frame: POQ
 bue:
-  definition: "___ is a home of ___."
+  definition: ___ is a home of ___.
   gloss: home
-
+  frame: PAI
 buaı:
-  definition: "___ is long."
+  definition: ___ is long.
   gloss: long
-
+  frame: POQ
 bıq:
-  definition: "___ are a thousand in number."
+  definition: ___ are a thousand in number.
   gloss: thousand
-
+  frame: POQ
 bıa:
-  definition: "___ is sick/ill; ___ is sick/ill with ___."
+  definition: ___ is sick/ill; ___ is sick/ill with ___.
   gloss: sick
-
+  frame: PAI
 bıaq:
-  definition: "___ is enough; ___ sufficiently satisfies property ___."
+  definition: ___ is enough; ___ sufficiently satisfies property ___.
   gloss: enough
-
+  frame: LEO
 bıu:
-  definition: "___ is a tube."
+  definition: ___ is a tube.
   gloss: tube
-
+  frame: POQ
 bıo:
-  definition: "___ is a cup/glass."
+  definition: ___ is a cup/glass.
   gloss: cup
-
+  frame: POQ
 bıe:
-  definition: "___ takes place after ___."
+  definition: ___ takes place after ___.
   gloss: after
-
+  frame: CA
 bıao:
-  definition: "___ is confused."
+  definition: ___ is confused.
   gloss: confused
-
+  frame: POQ
 bo:
-  definition: "___ has/possesses ___."
+  definition: ___ has/possesses ___.
   gloss: have
-
+  frame: PAI
 boq:
-  definition: "That ___ is the case prevents ___ from being the case."
+  definition: That ___ is the case prevents ___ from being the case.
   gloss: prevent
-
+  frame: DUA
 boaq:
-  definition: "___ is a shadow; ___ is a shadow of ___."
+  definition: ___ is a shadow; ___ is a shadow of ___.
   gloss: shadow
-
+  frame: '-'
 boe:
-  definition: "___ is a leaf/sheet."
+  definition: ___ is a leaf/sheet.
   gloss: leaf
-
+  frame: POQ
 boı:
-  definition: "___ takes place from ___ onwards."
+  definition: ___ takes place from ___ onwards.
   gloss: since
-
+  frame: CA
 be:
-  definition: "___ is an infant; ___ is a baby."
+  definition: ___ is an infant; ___ is a baby.
   gloss: infant
-
+  frame: POQ
 beq:
-  definition: "___ is an extrusion/swelling/convex."
+  definition: ___ is an extrusion/swelling/convex.
   gloss: extrusion
-
+  frame: POQ
 bea:
-  definition: "___ is a knee/elbow/knuckle."
+  definition: ___ is a knee/elbow/knuckle.
   gloss: hinge.joint
-
+  frame: POQ
 beaq:
-  definition: "___ is a stick/pole."
+  definition: ___ is a stick/pole.
   gloss: stick
-
+  frame: POQ
 beo:
-  definition: "___ changes; ___ changes in property ___."
+  definition: ___ changes; ___ changes in property ___.
   gloss: change
-
+  frame: MIA
 ca:
-  definition: "___ physically causes ___ to be the case."
+  definition: ___ physically causes ___ to be the case.
   gloss: cause
-
+  frame: CA
 caq:
-  definition: "___ conducts/directs/manages ___."
+  definition: ___ conducts/directs/manages ___.
   gloss: conduct
-
+  frame: PAI
 caı:
-  definition: "___ is strong."
+  definition: ___ is strong.
   gloss: strong
-
+  frame: POQ
 cao:
-  definition: "___ is a season."
+  definition: ___ is a season.
   gloss: season
-
+  frame: POQ
 cua:
-  definition: "___ responds to satisfying property ___ by satisfying property ___."
+  definition: ___ responds to satisfying property ___ by satisfying property ___.
   gloss: respond
-
+  frame: CUA
 cuaq:
-  definition: "___ is the concept/idea of satisfying property ___."
+  definition: ___ is the concept/idea of satisfying property ___.
   gloss: concept
-
+  frame: LEO
 cuı:
-  definition: "___ is the colour magenta."
+  definition: ___ is the colour magenta.
   gloss: magenta
-
+  frame: POQ
 cuo:
-  definition: "___ assumes that ___ is the case."
+  definition: ___ assumes that ___ is the case.
   gloss: assume
-
+  frame: DUA
 cue:
-  definition: "___ reigns over ___."
+  definition: ___ reigns over ___.
   gloss: reign
-
+  frame: PAI
 cuaı:
-  definition: "___ is wet."
+  definition: ___ is wet.
   gloss: wet
-
+  frame: POQ
 cuao:
-  definition: "___ is beyond ___ in property ___."
+  definition: ___ is beyond ___ in property ___.
   gloss: beyond
-
+  frame: KUOI
 cı:
-  definition: "___ are six in number."
+  definition: ___ are six in number.
   gloss: six
-
+  frame: POQ
 cıa:
-  definition: "___ lacks property ___."
+  definition: ___ lacks property ___.
   gloss: lack
-
+  frame: LEO
 cıu:
-  definition: "___ excretes ___."
+  definition: ___ excretes ___.
   gloss: excrete
-
+  frame: PAI
 cıo:
-  definition: "___ is adolescent/pubescent."
+  definition: ___ is adolescent/pubescent.
   gloss: adolescent
-
+  frame: POQ
 cıe:
-  definition: "___ is a fish."
+  definition: ___ is a fish.
   gloss: fish
-
+  frame: POQ
 coa:
-  definition: "___ is a bridge."
+  definition: ___ is a bridge.
   gloss: bridge
-
+  frame: POQ
 coaq:
-  definition: "___ is tame/domesticated."
+  definition: ___ is tame/domesticated.
   gloss: tamed
-
+  frame: '-'
 coe:
-  definition: "___ is joined/connected to ___."
+  definition: ___ is joined/connected to ___.
   gloss: joined
-
+  frame: PAI
 ce:
-  definition: "___ is a node/station/port."
+  definition: ___ is a node/station/port.
   gloss: node
-
+  frame: POQ
 cea:
-  definition: "___ is a sack/bag/pocket."
+  definition: ___ is a sack/bag/pocket.
   gloss: sack
-
+  frame: POQ
 ceo:
-  definition: "___ begins/starts to occur; ___ begins/starts to satisfy property ___."
+  definition: ___ begins/starts to occur; ___ begins/starts to satisfy property ___.
   gloss: begin
-
+  frame: JEO
 cha:
-  definition: "___ takes place in way/form ___."
+  definition: ___ takes place in way/form ___.
   gloss: manner
-
+  frame: '?'
 chaq:
-  definition: "___ is a day."
+  definition: ___ is a day.
   gloss: day
-
+  frame: POQ
 chaı:
-  definition: "___ is tea (beverage)."
+  definition: ___ is tea (beverage).
   gloss: tea
-
+  frame: POQ
 chao:
-  definition: "___ is a vehicle."
+  definition: ___ is a vehicle.
   gloss: vehicle
-
+  frame: POQ
 chu:
-  definition: "___ is a middle; ___ is the middle of ___."
+  definition: ___ is a middle; ___ is the middle of ___.
   gloss: middle
-
+  frame: PAI
 chuq:
-  definition: "___ eats; ___ eats ___."
+  definition: ___ eats; ___ eats ___.
   gloss: eat
-
+  frame: PAI
 chua:
-  definition: "___ is a name of ___."
+  definition: ___ is a name of ___.
   gloss: name
-
+  frame: PAI
 chuaq:
-  definition: "___ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ___ is an ideology based on concept ___; ___ is an ism; ___ is an ___-ism."
+  definition: >-
+    ___ is a tendency of behaviour, action, state, condition or opinion
+    belonging to a class or group of persons, or the result of a doctrine,
+    ideology or principle or lack thereof; ___ is an ideology based on concept
+    ___; ___ is an ism; ___ is an ___-ism.
   gloss: ism
-
+  frame: '-'
 chuı:
-  definition: "___ is early."
+  definition: ___ is early.
   gloss: early
-
+  frame: JIA
 chuo:
-  definition: "___ is a tool/utensil/resource/instrument for satisfying property ___."
+  definition: ___ is a tool/utensil/resource/instrument for satisfying property ___.
   gloss: tool
-
+  frame: LEO
 chue:
-  definition: "___ is a train/caravan/succession."
+  definition: ___ is a train/caravan/succession.
   gloss: train
-
+  frame: POQ
 chuaı:
-  definition: "___ is frozen."
+  definition: ___ is frozen.
   gloss: frozen
-
+  frame: POQ
 chuao:
-  definition: "___ is a window."
+  definition: ___ is a window.
   gloss: window
-
+  frame: POQ
 chı:
-  definition: "___ believe ___ to be the case / to be true."
+  definition: ___ believe ___ to be the case / to be true.
   gloss: believe
-
+  frame: DUA
 chıq:
-  definition: "___ is an insect/bug."
+  definition: ___ is an insect/bug.
   gloss: insect
-
+  frame: '-'
 chıa:
-  definition: "___ needs to satisfy property ___ to satisfy property ___."
+  definition: ___ needs to satisfy property ___ to satisfy property ___.
   gloss: need
-
+  frame: CUA
 chıaq:
-  definition: "___ is conscious; ___ is aware of ___."
+  definition: ___ is conscious; ___ is aware of ___.
   gloss: aware
-
+  frame: DUA
 chıu:
-  definition: "___ is the address/coordinates of ___."
+  definition: ___ is the address/coordinates of ___.
   gloss: address
-
+  frame: PAI
 chıo:
-  definition: "___ repeats ___ times."
+  definition: ___ repeats ___ times.
   gloss: repeat
-
+  frame: JIE
 chıe:
-  definition: "___ learns to satisfy property ___; ___ learns how to satisfy property ___."
+  definition: ___ learns to satisfy property ___; ___ learns how to satisfy property ___.
   gloss: learn
-
+  frame: DUA
 chıeq:
-  definition: "___ intersects/crosses/traverses ___."
+  definition: ___ intersects/crosses/traverses ___.
   gloss: cross
-
+  frame: '-'
 chıaı:
-  definition: "___ is wrong/incorrect."
+  definition: ___ is wrong/incorrect.
   gloss: wrong
-
+  frame: '?'
 cho:
-  definition: "___ likes ___."
+  definition: ___ likes ___.
   gloss: like
-
+  frame: '?'
 choq:
-  definition: "___ uses ___ for ___."
+  definition: ___ uses ___ for ___.
   gloss: use
-
+  frame: KUOI
 choa:
-  definition: "___ utters ___."
+  definition: ___ utters ___.
   gloss: utter
-
+  frame: PAI
 choaq:
-  definition: "___ is a guest; ___ is a guest of ___."
+  definition: ___ is a guest; ___ is a guest of ___.
   gloss: guest
-
+  frame: PAI
 choı:
-  definition: "___ is sharp."
+  definition: ___ is sharp.
   gloss: sharp
-
+  frame: POQ
 choaı:
-  definition: "___ costs ___."
+  definition: ___ costs ___.
   gloss: cost
-
+  frame: PAI
 choe:
-  definition: "___ takes place until ___."
+  definition: ___ takes place until ___.
   gloss: until
-
+  frame: CA
 che:
-  definition: "___ is someone whose occupation it is to satisfy property ___."
-  gloss: -er
-
+  definition: ___ is someone whose occupation it is to satisfy property ___.
+  gloss: '-er'
+  frame: LEO
 chea:
-  definition: "___ is a hat."
+  definition: ___ is a hat.
   gloss: hat
-
+  frame: POQ
 cheaq:
-  definition: "___ is trusty/trusted to ___."
+  definition: ___ is trusty/trusted to ___.
   gloss: trusty
-
+  frame: PAI
 cheı:
-  definition: "___ is a digit/finger/toe."
+  definition: ___ is a digit/finger/toe.
   gloss: digit
-
+  frame: POQ
 cheo:
-  definition: "___ are in reciprocal relationship ___ with each other."
+  definition: ___ are in reciprocal relationship ___ with each other.
   gloss: reciprocally
-
+  frame: MIA
 cheoq:
-  definition: "___ is a bottle."
+  definition: ___ is a bottle.
   gloss: bottle
-
+  frame: POQ
 daq:
-  definition: "___ is time."
+  definition: ___ is time.
   gloss: time
-
+  frame: POQ
 daı:
-  definition: "___ is possible; ___ has the potential to satisfy property ___."
+  definition: ___ is possible; ___ has the potential to satisfy property ___.
   gloss: possible
-
+  frame: JEO
 dao:
-  definition: "___ is information/data."
+  definition: ___ is information/data.
   gloss: information
-
+  frame: POQ
 daosī:
-  definition: "___ is interested in ___; ___ is curious about ___."
+  definition: ___ is interested in ___; ___ is curious about ___.
   gloss: interested
-
+  frame: POQ
 du:
-  definition: "___ seems to be the case; ___ seems to satisfy property ___."
+  definition: ___ seems to be the case; ___ seems to satisfy property ___.
   gloss: seem
-
+  frame: JEO
 duq:
-  definition: "___ habitually satisfies property ___."
+  definition: ___ habitually satisfies property ___.
   gloss: habitually
-
+  frame: LEO
 dua:
-  definition: "___ knows ___ to be the case / to be true."
+  definition: ___ knows ___ to be the case / to be true.
   gloss: know
-
+  frame: DUA
 duaq:
-  definition: "___ is a larva (distinct juvenile form undergone before metamorphosis into adult form)."
+  definition: >-
+    ___ is a larva (distinct juvenile form undergone before metamorphosis into
+    adult form).
   gloss: larva
-
+  frame: '-'
 duı:
-  definition: "___ is too much ___; ___ satisfies property ___ too much to satisfy property ___."
+  definition: >-
+    ___ is too much ___; ___ satisfies property ___ too much to satisfy property
+    ___.
   gloss: too.much
-
+  frame: CUA
 duo:
-  definition: "___ moves to ___ from ___."
+  definition: ___ moves to ___ from ___.
   gloss: move
-
+  frame: FA
 duoı:
-  definition: "___ lasts/continues; ___ lasts for time ___."
+  definition: ___ lasts/continues; ___ lasts for time ___.
   gloss: continue
-
+  frame: '?'
 due:
-  definition: "___ is correct."
+  definition: ___ is correct.
   gloss: correct
-
+  frame: '?'
 dueq:
-  definition: "___ is a field."
+  definition: ___ is a field.
   gloss: field
-
+  frame: POQ
 duaı:
-  definition: "___ must satisfy property ___."
+  definition: ___ must satisfy property ___.
   gloss: must
-
+  frame: LEO
 duao:
-  definition: "___ is sweet/sugary."
+  definition: ___ is sweet/sugary.
   gloss: sweet
-
+  frame: POQ
 dı:
-  definition: "___ is allowed to satisfy property ___."
+  definition: ___ is allowed to satisfy property ___.
   gloss: allowed.to
-
+  frame: LEO
 dıa:
-  definition: "___ decreases in how much it satisfies property ___."
+  definition: ___ decreases in how much it satisfies property ___.
   gloss: decrease
-
+  frame: LEO
 dıaı:
-  definition: "___ are seven in number."
+  definition: ___ are seven in number.
   gloss: seven
-
+  frame: '-'
 dıaq:
-  definition: "___ occurs at regular intervals; ___ satisfies property ___ at regular intervals."
+  definition: >-
+    ___ occurs at regular intervals; ___ satisfies property ___ at regular
+    intervals.
   gloss: regular
-
+  frame: JEO
 dıu:
-  definition: "___ is the branch of knowledge that studies ___; ___ is a science."
+  definition: ___ is the branch of knowledge that studies ___; ___ is a science.
   gloss: science
-
+  frame: PAI
 dıo:
-  definition: "___ is a daytime."
+  definition: ___ is a daytime.
   gloss: daytime
-
+  frame: POQ
 dıe:
-  definition: "___ suggests ___."
+  definition: ___ suggests ___.
   gloss: suggest
-
+  frame: DUA
 dıeq:
-  definition: "___ sends ___ to ___."
+  definition: ___ sends ___ to ___.
   gloss: send
-
+  frame: '-'
 dıao:
-  definition: "___ is a drop."
+  definition: ___ is a drop.
   gloss: drop
-
+  frame: POQ
 do:
-  definition: "variable X"
+  definition: variable X
   gloss: variable.X
-
+  frame: '-'
 doq:
-  definition: "___ is short."
+  definition: ___ is short.
   gloss: short
-
+  frame: POQ
 doa:
-  definition: "___ gives property ___ to ___."
+  definition: ___ gives property ___ to ___.
   gloss: give
-
+  frame: FA
 doaq:
-  definition: "___ is a settlement/town/village/city."
+  definition: ___ is a settlement/town/village/city.
   gloss: settlement
-
+  frame: POQ
 doaı:
-  definition: "___ is bread."
+  definition: ___ is bread.
   gloss: bread
-
 doe:
-  definition: "___ functions/performs property ___."
+  definition: ___ functions/performs property ___.
   gloss: function
-
+  frame: LEO
 de:
-  definition: "___ is beautiful."
+  definition: ___ is beautiful.
   gloss: beautiful
-
+  frame: POQ
 deq:
-  definition: "___ is able / has the ability to satisfy property ___."
+  definition: ___ is able / has the ability to satisfy property ___.
   gloss: able
-
+  frame: LEO
 dea:
-  definition: "___ hits/punches/kicks ___."
+  definition: ___ hits/punches/kicks ___.
   gloss: hit
-
+  frame: PAI
 deaq:
-  definition: "___ is a floor."
+  definition: ___ is a floor.
   gloss: floor
-
+  frame: POQ
 deo:
-  definition: "___ is a child."
+  definition: ___ is a child.
   gloss: child
-
+  frame: POQ
 deoq:
-  definition: "___ communicates to ___ that they (the former) satisfy property ___."
+  definition: ___ communicates to ___ that they (the former) satisfy property ___.
   gloss: communicate
-
+  frame: PAI
 fa:
-  definition: "___ goes to ___ from ___."
+  definition: ___ goes to ___ from ___.
   gloss: go
-
+  frame: FA
 faq:
-  definition: "___ happens / takes place."
+  definition: ___ happens / takes place.
   gloss: happen
-
+  frame: JIA
 faı:
-  definition: "___ is frequent/common in property ___."
+  definition: ___ is frequent/common in property ___.
   gloss: frequent
-
+  frame: '?'
 fao:
-  definition: "___ is an end/ending; ___ is an end/ending of ___."
+  definition: ___ is an end/ending; ___ is an end/ending of ___.
   gloss: end
-
+  frame: DUA
 fu:
-  definition: "___ is a biological offspring of ___."
+  definition: ___ is a biological offspring of ___.
   gloss: offspring
-
+  frame: PAI
 fuq:
-  definition: "___ is an article of clothing / garment / dress."
+  definition: ___ is an article of clothing / garment / dress.
   gloss: clothing
-
+  frame: POQ
 fua:
-  definition: "___ is an item of furniture."
+  definition: ___ is an item of furniture.
   gloss: furniture
-
+  frame: POQ
 fuaq:
-  definition: "___ is an image / a picture."
+  definition: ___ is an image / a picture.
   gloss: picture
-
+  frame: POQ
 fuı:
-  definition: "Satisfying property ___ is easy for ___."
+  definition: Satisfying property ___ is easy for ___.
   gloss: easy
-
+  frame: FUI
 fuo:
-  definition: "___ touches ___ (non-somatic); ___ is in contact with ___."
+  definition: ___ touches ___ (non-somatic); ___ is in contact with ___.
   gloss: touch
-
+  frame: PAI
 fue:
-  definition: "___ are a hundred in number."
+  definition: ___ are a hundred in number.
   gloss: hundred
-
+  frame: POQ
 fuaı:
-  definition: "___ is a committee."
+  definition: ___ is a committee.
   gloss: committee
-
+  frame: POQ
 fıa:
-  definition: "___ is previous to ___ in sequence ___; ___ precedes ___ in sequence ___."
+  definition: ___ is previous to ___ in sequence ___; ___ precedes ___ in sequence ___.
   gloss: previous
-
+  frame: FA
 fıu:
-  definition: "___ is shallow."
+  definition: ___ is shallow.
   gloss: shallow
-
+  frame: POQ
 fıe:
-  definition: "___ is ugly."
+  definition: ___ is ugly.
   gloss: ugly
-
+  frame: POQ
 fıeq:
-  definition: "___ creates/invents ___."
+  definition: ___ creates/invents ___.
   gloss: create
-
+  frame: PAI
 foq:
-  definition: "___ is a telephone."
+  definition: ___ is a telephone.
   gloss: phone
-
+  frame: POQ
 foa:
-  definition: "___ feels ___ (good or bad); ___ is ___ (ill or well)."
+  definition: ___ feels ___ (good or bad); ___ is ___ (ill or well).
   gloss: feel
-
+  frame: '?'
 foaq:
-  definition: "___ is comfortable; ___ feels comfort; ___ feels comfort in satisfying property ___."
+  definition: >-
+    ___ is comfortable; ___ feels comfort; ___ feels comfort in satisfying
+    property ___.
   gloss: comfortable
-
+  frame: LEO
 foı:
-  definition: "___ is boring/dull."
+  definition: ___ is boring/dull.
   gloss: boring
-
+  frame: POQ
 fe:
-  definition: "___ are five in number."
+  definition: ___ are five in number.
   gloss: five
-
+  frame: POQ
 fea:
-  definition: "___ endures ___."
+  definition: ___ endures ___.
   gloss: endure
-
+  frame: LEO
 feı:
-  definition: "___ is angry/mad."
+  definition: ___ is angry/mad.
   gloss: angry
-
+  frame: POQ
 feo:
-  definition: "___ is a direction."
+  definition: ___ is a direction.
   gloss: direction
-
+  frame: POQ
 gaq:
-  definition: "___ accompanies / is with ___ in property ___."
+  definition: ___ accompanies / is with ___ in property ___.
   gloss: accompany
-
+  frame: JEQ
 gaı:
-  definition: "___ senses/observes/perceives ___."
+  definition: ___ senses/observes/perceives ___.
   gloss: perceive
-
+  frame: DUA
 gao:
-  definition: "___ is above ___."
+  definition: ___ is above ___.
   gloss: above
-
+  frame: PAI
 gu:
-  definition: "___ are two in number."
+  definition: ___ are two in number.
   gloss: two
-
+  frame: POQ
 guq:
-  definition: "___ is below/underneath ___."
+  definition: ___ is below/underneath ___.
   gloss: below
-
+  frame: PAI
 gua:
-  definition: "___ is a country."
+  definition: ___ is a country.
   gloss: country
-
+  frame: POQ
 guaq:
-  definition: "___ is land/terrain."
+  definition: ___ is land/terrain.
   gloss: land
-
+  frame: POQ
 guı:
-  definition: "___ is grain/cereal."
+  definition: ___ is grain/cereal.
   gloss: grain
-
+  frame: POQ
 guo:
-  definition: "___ is a repetition/instance of ___."
+  definition: ___ is a repetition/instance of ___.
   gloss: instance
-
+  frame: '?'
 guosa:
-  definition: "___ happens sometimes."
+  definition: ___ happens sometimes.
   gloss: sometimes
-
+  frame: JIA
 guoq:
-  definition: "___ is an anus."
+  definition: ___ is an anus.
   gloss: anus
-
+  frame: POQ
 gue:
-  definition: "___ is curved/bent."
+  definition: ___ is curved/bent.
   gloss: curved
-
+  frame: POQ
 guaı:
-  definition: "___ works in satisfying property ___."
+  definition: ___ works in satisfying property ___.
   gloss: work
-
+  frame: LEO
 guao:
-  definition: "___ is a furcation/fork/intersection/junction."
+  definition: ___ is a furcation/fork/intersection/junction.
   gloss: furcation
-
+  frame: POQ
 gı:
-  definition: "___ is good."
+  definition: ___ is good.
   gloss: good
-
+  frame: POQ
 gıq:
-  definition: "___ satisfies with reversed polarity property ___."
+  definition: ___ satisfies with reversed polarity property ___.
   gloss: opposite
-
+  frame: LEO
 gıa:
-  definition: "___ is a ribbon/tape/strip/stripe."
+  definition: ___ is a ribbon/tape/strip/stripe.
   gloss: ribbon
-
+  frame: POQ
 gıaq:
-  definition: "___ is music."
+  definition: ___ is music.
   gloss: music
-
+  frame: POQ
 gıu:
-  definition: "___ is a line."
+  definition: ___ is a line.
   gloss: line
-
+  frame: POQ
 gıo:
-  definition: "___ is light."
+  definition: ___ is light.
   gloss: light
-
+  frame: POQ
 gıe:
-  definition: "___ is an arm."
+  definition: ___ is an arm.
   gloss: arm
-
+  frame: POQ
 gıeq:
-  definition: "___ shocks ___."
+  definition: ___ shocks ___.
   gloss: shock
-
+  frame: '-'
 gıaı:
-  definition: "___ incises/carves/scratches/engraves/cuts into ___."
+  definition: ___ incises/carves/scratches/engraves/cuts into ___.
   gloss: incise
-
+  frame: '-'
 gıao:
-  definition: "___ is dry."
+  definition: ___ is dry.
   gloss: dry
-
+  frame: POQ
 goa:
-  definition: "___ is space/room."
+  definition: ___ is space/room.
   gloss: space
-
+  frame: POQ
 goaq:
-  definition: "___ is smooth/even."
+  definition: ___ is smooth/even.
   gloss: smooth
-
+  frame: POQ
 goı:
-  definition: "___ treats/doctors ___."
+  definition: ___ treats/doctors ___.
   gloss: treat
-
+  frame: PAI
 goaı:
-  definition: "___ rubs against ___ (intransitive non-agentive)."
+  definition: ___ rubs against ___ (intransitive non-agentive).
   gloss: rub
-
 goe:
-  definition: "___ will happen in ___ (amount of time) from now."
+  definition: ___ will happen in ___ (amount of time) from now.
   gloss: in
-
 ge:
-  definition: "___ is a stimulus."
+  definition: ___ is a stimulus.
   gloss: stimulus
-
+  frame: POQ
 geq:
-  definition: "___ meets ___."
+  definition: ___ meets ___.
   gloss: meet
-
+  frame: PAI
 gea:
-  definition: "___ is high."
+  definition: ___ is high.
   gloss: high
-
+  frame: POQ
 geaq:
-  definition: "___ is dirty/unclean/contaminated."
+  definition: ___ is dirty/unclean/contaminated.
   gloss: dirty
-
+  frame: POQ
 geı:
-  definition: "___ wears ___."
+  definition: ___ wears ___.
   gloss: wear
-
+  frame: PAI
 geo:
-  definition: "___ is old."
+  definition: ___ is old.
   gloss: old
-
+  frame: POQ
 ha:
-  definition: "___ is one/you/they (generic impersonal pronoun)."
+  definition: ___ is one/you/they (generic impersonal pronoun).
   gloss: one
-
+  frame: '-'
 haq:
-  definition: "___ is food."
+  definition: ___ is food.
   gloss: food
-
+  frame: POQ
 haı:
-  definition: "___ is already the case; ___ already satisfies property ___."
+  definition: ___ is already the case; ___ already satisfies property ___.
   gloss: already
-
+  frame: JEO
 hao:
-  definition: "the salient predicate"
+  definition: the salient predicate
   gloss: stuff
-
+  frame: '-'
 hua:
-  definition: "___ is a body part."
+  definition: ___ is a body part.
   gloss: body.part
-
+  frame: POQ
 huaq:
-  definition: "___ is more the case than ___; ___ is more than ___ in property ___."
+  definition: ___ is more the case than ___; ___ is more than ___ in property ___.
   gloss: more
-
+  frame: KUOI
 huı:
-  definition: "___ is bad."
+  definition: ___ is bad.
   gloss: bad
-
+  frame: POQ
 huo:
-  definition: "___ is auditory; ___ pertains to the sense of hearing/audition."
+  definition: ___ is auditory; ___ pertains to the sense of hearing/audition.
   gloss: auditory
-
+  frame: POQ
 huoı:
-  definition: "___ is a tail."
+  definition: ___ is a tail.
   gloss: tail
-
+  frame: POQ
 hue:
-  definition: "___ is a feather."
+  definition: ___ is a feather.
   gloss: feather
-
+  frame: '-'
 huaı:
-  definition: "___ scoops ___ out of ___."
+  definition: ___ scoops ___ out of ___.
   gloss: scoop
-
+  frame: FA
 huao:
-  definition: "___ is loose."
+  definition: ___ is loose.
   gloss: loose
-
+  frame: POQ
 hıaq:
-  definition: "___ is poor in property ___."
+  definition: ___ is poor in property ___.
   gloss: poor
-
+  frame: MIA
 hıu:
-  definition: "___ is a river."
+  definition: ___ is a river.
   gloss: river
-
+  frame: POQ
 hıo:
-  definition: "___ greets ___."
+  definition: ___ greets ___.
   gloss: greet
-
+  frame: PAI
 hıoq:
-  definition: "___ is proud / feels pride."
+  definition: ___ is proud / feels pride.
   gloss: proud
-
+  frame: POQ
 hıe:
-  definition: "___ carries/bears/hauls ___."
+  definition: ___ carries/bears/hauls ___.
   gloss: carry
-
+  frame: PAI
 hıaı:
-  definition: "___ laughs."
+  definition: ___ laughs.
   gloss: laugh
-
+  frame: POQ
 hıao:
-  definition: "___ harms/injures ___."
+  definition: ___ harms/injures ___.
   gloss: harm
-
+  frame: PAI
 ho:
-  definition: "___ is him/her/it / are them."
+  definition: ___ is him/her/it / are them.
   gloss: they
-
+  frame: POQ
 hoq:
-  definition: "___ is it (abstract)."
+  definition: ___ is it (abstract).
   gloss: it
-
+  frame: POQ
 hoa:
-  definition: "relative pronoun whose antecedent is the head of the containing relative clause"
+  definition: >-
+    relative pronoun whose antecedent is the head of the containing relative
+    clause
   gloss: it
-
+  frame: '-'
 hoaq:
-  definition: "___ burns."
+  definition: ___ burns.
   gloss: burn
-
+  frame: POQ
 hoı:
-  definition: "___ are the aforementioned things; ___ is/are the aforementioned things that satisfy property ___."
+  definition: >-
+    ___ are the aforementioned things; ___ is/are the aforementioned things that
+    satisfy property ___.
   gloss: aforementioned
-
+  frame: LEO
 hoaı:
-  definition: "___ is still the case."
+  definition: ___ is still the case.
   gloss: still
-
 hoe:
-  definition: "___ is a sun."
+  definition: ___ is a sun.
   gloss: sun
-
+  frame: POQ
 he:
-  definition: "___ is generally the case; ___ is how things generally are. (gnomic aspect)"
+  definition: ___ is generally the case; ___ is how things generally are. (gnomic aspect)
   gloss: generally
-
+  frame: '-'
 heq:
-  definition: "___ contains ___."
+  definition: ___ contains ___.
   gloss: contain
-
+  frame: PAI
 hea:
-  definition: "___ is a piece/chunk; ___ is a piece/chunk of substance ___."
+  definition: ___ is a piece/chunk; ___ is a piece/chunk of substance ___.
   gloss: piece
-
+  frame: PAI
 heaq:
-  definition: "___ carries/holds ___."
+  definition: ___ carries/holds ___.
   gloss: carry
-
+  frame: PAI
 heı:
-  definition: "___ are ten in number."
+  definition: ___ are ten in number.
   gloss: ten
-
+  frame: POQ
 heu:
-  definition: "___ is a fruit."
+  definition: ___ is a fruit.
   gloss: fruit
-
+  frame: POQ
 heo:
-  definition: "___ is different from ___; ___ differs from ___ in property ___."
+  definition: ___ is different from ___; ___ differs from ___ in property ___.
   gloss: different
-
+  frame: JEQ
 heoq:
-  definition: "___ is a waist."
+  definition: ___ is a waist.
   gloss: waist
-
+  frame: POQ
 jaq:
-  definition: "___ is very much the case; ___ is very/extremely ___."
+  definition: ___ is very much the case; ___ is very/extremely ___.
   gloss: very
-
+  frame: LEO
 jaı:
-  definition: "___ is happy/glad/joyful."
+  definition: ___ is happy/glad/joyful.
   gloss: happy
-
+  frame: POQ
 jao:
-  definition: "___ is far away from ___ in property ___."
+  definition: ___ is far away from ___ in property ___.
   gloss: far
-
+  frame: JEQ
 juq:
-  definition: "___ gets/acquires property ___."
+  definition: ___ gets/acquires property ___.
   gloss: acquire
-
+  frame: LEO
 jua:
-  definition: "___ is weird/strange/bizarre."
+  definition: ___ is weird/strange/bizarre.
   gloss: weird
-
+  frame: POQ
 juaq:
-  definition: "Even ___ is the case; even ___ satisfies property ___."
+  definition: Even ___ is the case; even ___ satisfies property ___.
   gloss: even
-
+  frame: JEO
 juı:
-  definition: "___ is near ___ in property ___."
+  definition: ___ is near ___ in property ___.
   gloss: near
-
+  frame: JEQ
 juo:
-  definition: "___ is a letter (written message)."
+  definition: ___ is a letter (written message).
   gloss: letter
-
+  frame: '-'
 juoı:
-  definition: "___ describes ___ as satisfying property ___."
+  definition: ___ describes ___ as satisfying property ___.
   gloss: describe
-
 juoq:
-  definition: "___ should satisfy property ___."
+  definition: ___ should satisfy property ___.
   gloss: should
-
+  frame: LEO
 jue:
-  definition: "___ is a month."
+  definition: ___ is a month.
   gloss: month
-
+  frame: POQ
 juaı:
-  definition: "___ is serious/earnest."
+  definition: ___ is serious/earnest.
   gloss: serious
-
+  frame: POQ
 juao:
-  definition: "___ is a rule/law."
+  definition: ___ is a rule/law.
   gloss: rule
-
+  frame: '?'
 jı:
-  definition: "___ is me / the speaker."
+  definition: ___ is me / the speaker.
   gloss: me
-
+  frame: POQ
 jıq:
-  definition: "___ exists / is real/actual."
+  definition: ___ exists / is real/actual.
   gloss: actual
-
+  frame: POQ
 jıa:
-  definition: "___ will happen."
+  definition: ___ will happen.
   gloss: will.be
-
+  frame: JIA
 jıaq:
-  definition: "___ is a world."
+  definition: ___ is a world.
   gloss: world
-
+  frame: POQ
 jıu:
-  definition: "___ is born."
+  definition: ___ is born.
   gloss: born
-
+  frame: POQ
 jıo:
-  definition: "___ is a building."
+  definition: ___ is a building.
   gloss: building
-
+  frame: POQ
 jıoq:
-  definition: "___ calculates ___."
+  definition: ___ calculates ___.
   gloss: calculate
-
+  frame: PAI
 jıe:
-  definition: "___ is as ___ deems/judges/evaluates things to be."
+  definition: ___ is as ___ deems/judges/evaluates things to be.
   gloss: deemed
-
+  frame: JIE
 jıeq:
-  definition: "___ is a tip / pointed end."
+  definition: ___ is a tip / pointed end.
   gloss: tip
-
+  frame: POQ
 jıaı:
-  definition: "___ grasps/holds ___."
+  definition: ___ grasps/holds ___.
   gloss: grasp
-
+  frame: PAI
 jıao:
-  definition: "___ is a god."
+  definition: ___ is a god.
   gloss: god
-
+  frame: POQ
 jo:
-  definition: "___ are four in number."
+  definition: ___ are four in number.
   gloss: four
-
+  frame: POQ
 joq:
-  definition: "___ is main/chief among ___."
+  definition: ___ is main/chief among ___.
   gloss: main
-
+  frame: PAI
 joa:
-  definition: "___ is a week."
+  definition: ___ is a week.
   gloss: week
-
+  frame: POQ
 joaq:
-  definition: "___ is a leader of ___."
+  definition: ___ is a leader of ___.
   gloss: leader
-
+  frame: PAI
 joı:
-  definition: "___ is case the case along with ___; ___ happens together with ___."
+  definition: ___ is case the case along with ___; ___ happens together with ___.
   gloss: along.with
-
+  frame: CA
 joaı:
-  definition: "___ looks/searches for something which satisfies property ___ among ___."
+  definition: ___ looks/searches for something which satisfies property ___ among ___.
   gloss: seek
-
+  frame: SOQ
 joe:
-  definition: "___ is skilled at satisfying property ___."
+  definition: ___ is skilled at satisfying property ___.
   gloss: skilled
-
+  frame: LEO
 jeq:
-  definition: "___ is the same as ___ in property ___."
+  definition: ___ is the same as ___ in property ___.
   gloss: same
-
+  frame: JEQ
 jea:
-  definition: "___ makes a purchase; ___ buys property ___; ___ buys property ___ from ___."
+  definition: ___ makes a purchase; ___ buys property ___; ___ buys property ___ from ___.
   gloss: buy
-
+  frame: FA
 jeaq:
-  definition: "___ increases; ___ increases in how much it satisfies property ___."
+  definition: ___ increases; ___ increases in how much it satisfies property ___.
   gloss: increase
-
+  frame: JEO
 jeo:
-  definition: "___ is true / is the case; ___ satisfies property ___."
+  definition: ___ is true / is the case; ___ satisfies property ___.
   gloss: is.true
-
+  frame: JEO
 jeoq:
-  definition: "___ is a concave shape; ___ is a cavity/hollow/cavern."
+  definition: ___ is a concave shape; ___ is a cavity/hollow/cavern.
   gloss: concave
-
+  frame: '-'
 kaq:
-  definition: "___ is visual/optical; ___ pertains to the sense of sight/vision."
+  definition: ___ is visual/optical; ___ pertains to the sense of sight/vision.
   gloss: visual
-
+  frame: POQ
 kaı:
-  definition: "___ writes ___ on ___."
+  definition: ___ writes ___ on ___.
   gloss: write
-
+  frame: FA
 kao:
-  definition: "___ is a record of information/data ___."
+  definition: ___ is a record of information/data ___.
   gloss: record
-
+  frame: '?'
 kuq:
-  definition: "___ says ___ to ___."
+  definition: ___ says ___ to ___.
   gloss: say
-
+  frame: FA
 kua:
-  definition: "___ is a room."
+  definition: ___ is a room.
   gloss: room
-
+  frame: POQ
 kuaq:
-  definition: "___ expresses property ___."
+  definition: ___ expresses property ___.
   gloss: express
-
+  frame: LEO
 kuı:
-  definition: "___ is the case because ___."
+  definition: ___ is the case because ___.
   gloss: because
-
+  frame: CA
 kuo:
-  definition: "___ is the colour black."
+  definition: ___ is the colour black.
   gloss: black
-
+  frame: POQ
 kuoı:
-  definition: "___ is less than ___ in property ___."
+  definition: ___ is less than ___ in property ___.
   gloss: less
-
+  frame: KUOI
 kuoq:
-  definition: "___ is a bone."
+  definition: ___ is a bone.
   gloss: bone
-
+  frame: POQ
 kue:
-  definition: "___ is a book."
+  definition: ___ is a book.
   gloss: book
-
+  frame: POQ
 kueq:
-  definition: "___ (plural) gather/collect at locus ___ (instransitive and non-agentive)."
+  definition: ___ (plural) gather/collect at locus ___ (instransitive and non-agentive).
   gloss: gather
-
+  frame: '-'
 kuaı:
-  definition: "___ hungers/urges/longs for property ___."
+  definition: ___ hungers/urges/longs for property ___.
   gloss: urge.for
-
+  frame: LEO
 kuao:
-  definition: "___ is the colour cyan."
+  definition: ___ is the colour cyan.
   gloss: cyan
-
+  frame: POQ
 kıq:
-  definition: "___ is a movie/film."
+  definition: ___ is a movie/film.
   gloss: movie
-
+  frame: POQ
 kıa:
-  definition: "___ is the colour red."
+  definition: ___ is the colour red.
   gloss: red
-
+  frame: POQ
 kıaq:
-  definition: "___ is a hair."
+  definition: ___ is a hair.
   gloss: hair
-
+  frame: POQ
 kıu:
-  definition: "___ is ___able."
-  gloss: -able
-
+  definition: ___ is ___able.
+  gloss: '-able'
+  frame: MIA
 kıoq:
-  definition: "___ is a ball/sphere."
+  definition: ___ is a ball/sphere.
   gloss: ball
-
+  frame: POQ
 kıe:
-  definition: "___ is thankful/grateful to ___ for satisfying property ___."
+  definition: ___ is thankful/grateful to ___ for satisfying property ___.
   gloss: thankful
-
+  frame: KUOI
 kıeq:
-  definition: "___ experiences disgust."
+  definition: ___ experiences disgust.
   gloss: disgusted
-
+  frame: POQ
 kıaı:
-  definition: "___ looks after ___; ___ takes care of ___."
+  definition: ___ looks after ___; ___ takes care of ___.
   gloss: look.after
-
+  frame: PAI
 kıao:
-  definition: "___ is a doorway."
+  definition: ___ is a doorway.
   gloss: door
-
+  frame: POQ
 ko:
-  definition: "___ is the xth among ___ where x is the numerosity of any things satisfying property ___ sorted by property ___."
+  definition: >-
+    ___ is the xth among ___ where x is the numerosity of any things satisfying
+    property ___ sorted by property ___.
   gloss: nth
-
+  frame: '?'
 koq:
-  definition: "___ is rough/uneven."
+  definition: ___ is rough/uneven.
   gloss: rough
-
+  frame: POQ
 koa:
-  definition: "___ is cold/cool."
+  definition: ___ is cold/cool.
   gloss: cold
-
+  frame: POQ
 koaq:
-  definition: "___ is mature/ripe/full-grown/adult."
+  definition: ___ is mature/ripe/full-grown/adult.
   gloss: mature
-
+  frame: POQ
 koı:
-  definition: "___ ambulates."
+  definition: ___ ambulates.
   gloss: ambulate
-
+  frame: POQ
 koaı:
-  definition: "___ is a net/web/sieve/filter."
+  definition: ___ is a net/web/sieve/filter.
   gloss: net
-
 koe:
-  definition: "___ chooses ___ out of ___ for ___."
+  definition: ___ chooses ___ out of ___ for ___.
   gloss: choose
-
+  frame: KOE
 keq:
-  definition: "___ are feces; ___ is excrement/shit/poo."
+  definition: ___ are feces; ___ is excrement/shit/poo.
   gloss: feces
-
+  frame: POQ
 kea:
-  definition: "___ is a machine/apparatus performing function ___."
+  definition: ___ is a machine/apparatus performing function ___.
   gloss: machine
-
+  frame: LEO
 keaq:
-  definition: "___ is salty."
+  definition: ___ is salty.
   gloss: salty
-
+  frame: POQ
 laq:
-  definition: "___ is a sound; ___ is audio."
+  definition: ___ is a sound; ___ is audio.
   gloss: sound
-
+  frame: POQ
 laı:
-  definition: "___ is a letter/glyph/sign/character/symbol/graphical component signifying ___."
+  definition: >-
+    ___ is a letter/glyph/sign/character/symbol/graphical component signifying
+    ___.
   gloss: letter
-
+  frame: '?'
 lao:
-  definition: "___ waits for ___ to be the case."
+  definition: ___ waits for ___ to be the case.
   gloss: wait
-
+  frame: DUA
 luq:
-  definition: "___ is calm/silent."
+  definition: ___ is calm/silent.
   gloss: calm
-
+  frame: POQ
 lua:
-  definition: "___ is a story."
+  definition: ___ is a story.
   gloss: story
-
+  frame: POQ
 luaq:
-  definition: "___ plays / has fun with / uses for entertainment ___."
+  definition: ___ plays / has fun with / uses for entertainment ___.
   gloss: play
-
+  frame: PAI
 luı:
-  definition: "___ has taken place."
+  definition: ___ has taken place.
   gloss: has.happened
-
+  frame: JIA
 luo:
-  definition: "___ is a family."
+  definition: ___ is a family.
   gloss: family
-
+  frame: POQ
 luoq:
-  definition: "___ is in balance with ___."
+  definition: ___ is in balance with ___.
   gloss: balanced
-
+  frame: '?'
 lue:
-  definition: "___ is the colour yellow."
+  definition: ___ is the colour yellow.
   gloss: yellow
-
+  frame: POQ
 lueq:
-  definition: "___ serves ___ with property ___."
+  definition: ___ serves ___ with property ___.
   gloss: serve
-
+  frame: KUOI
 luaı:
-  definition: "___ is funny/comical."
+  definition: ___ is funny/comical.
   gloss: funny
-
+  frame: '?'
 luao:
-  definition: "___ is a lip (general sense)."
+  definition: ___ is a lip (general sense).
   gloss: lip
-
+  frame: POQ
 lıq:
-  definition: "___ is female."
+  definition: ___ is female.
   gloss: female
-
+  frame: POQ
 lıa:
-  definition: "___ is beside ___; ___ is to the side of ___; ___ is next to ___."
+  definition: ___ is beside ___; ___ is to the side of ___; ___ is next to ___.
   gloss: beside
-
+  frame: PAI
 lıaq:
-  definition: "___ is a ___-tuple."
+  definition: ___ is a ___-tuple.
   gloss: tuple
-
+  frame: '?'
 lıu:
-  definition: "___ is light in weight."
+  definition: ___ is light in weight.
   gloss: light
-
+  frame: POQ
 lıo:
-  definition: "___ is to the left of ___."
+  definition: ___ is to the left of ___.
   gloss: left
-
+  frame: PAI
 lıe:
-  definition: "___ experiences satisfying property ___."
+  definition: ___ experiences satisfying property ___.
   gloss: experience
-
+  frame: LEO
 lıeq:
-  definition: "___ is a wedge."
+  definition: ___ is a wedge.
   gloss: wedge
-
+  frame: POQ
 lıaı:
-  definition: "___ swims."
+  definition: ___ swims.
   gloss: swim
-
+  frame: POQ
 lıao:
-  definition: "___ is a fungus/mushroom/mold."
+  definition: ___ is a fungus/mushroom/mold.
   gloss: fungus
-
+  frame: POQ
 loq:
-  definition: "___ is hot/warm."
+  definition: ___ is hot/warm.
   gloss: hot
-
+  frame: POQ
 loa:
-  definition: "___ is the colour purple."
+  definition: ___ is the colour purple.
   gloss: purple
-
+  frame: POQ
 loaq:
-  definition: "___ is a buttocks/ass/behind."
+  definition: ___ is a buttocks/ass/behind.
   gloss: buttocks
-
+  frame: POQ
 loı:
-  definition: "___ hates ___."
+  definition: ___ hates ___.
   gloss: hate
-
+  frame: PAI
 loaı:
-  definition: "___ flows."
+  definition: ___ flows.
   gloss: flow
-
 loe:
-  definition: "___ is a flame/fire."
+  definition: ___ is a flame/fire.
   gloss: flame
-
 le:
-  definition: "___ is likely/probable."
+  definition: ___ is likely/probable.
   gloss: likely
-
+  frame: JIA
 leq:
-  definition: "___ is a tongue."
+  definition: ___ is a tongue.
   gloss: tongue
-
+  frame: POQ
 lea:
-  definition: "___ is art."
+  definition: ___ is art.
   gloss: art
-
+  frame: POQ
 leaq:
-  definition: "___ is adjacent to ___ in property ___."
+  definition: ___ is adjacent to ___ in property ___.
   gloss: adjacent
-
+  frame: JEQ
 leı:
-  definition: "___ is rare in property ___."
+  definition: ___ is rare in property ___.
   gloss: rare
-
+  frame: MIA
 leo:
-  definition: "___ tries to satisfy property ___."
+  definition: ___ tries to satisfy property ___.
   gloss: try
-
+  frame: LEO
 leoq:
-  definition: "___ shields ___ from ___."
+  definition: ___ shields ___ from ___.
   gloss: shield
-
+  frame: '-'
 maq:
-  definition: "___ is it (non-personal concrete)."
+  definition: ___ is it (non-personal concrete).
   gloss: it
-
+  frame: POQ
 maı:
-  definition: "___ loves ___."
+  definition: ___ loves ___.
   gloss: love
-
+  frame: PAI
 mao:
-  definition: "___ is also the case; ___ also satisfies property ___."
+  definition: ___ is also the case; ___ also satisfies property ___.
   gloss: also
-
+  frame: JEO
 mu:
-  definition: "___ satisfies property ___ with the first and second places swapped."
-  gloss: -ed
-
+  definition: ___ satisfies property ___ with the first and second places swapped.
+  gloss: '-ed'
+  frame: '-'
 muq:
-  definition: "___ is a hand."
+  definition: ___ is a hand.
   gloss: hand
-
+  frame: POQ
 mua:
-  definition: "___ is an example of ___."
+  definition: ___ is an example of ___.
   gloss: example
-
+  frame: '?'
 muaq:
-  definition: "___ is dead."
+  definition: ___ is dead.
   gloss: dead
-
+  frame: POQ
 muı:
-  definition: "___ is a meaning of ___."
+  definition: ___ is a meaning of ___.
   gloss: meaning
-
+  frame: '?'
 muo:
-  definition: "___ is whole/complete in aspect ___."
+  definition: ___ is whole/complete in aspect ___.
   gloss: whole
-
+  frame: LEO
 muoı:
-  definition: "___ rotates/spins/turns."
+  definition: ___ rotates/spins/turns.
   gloss: rotate
-
+  frame: POQ
 muoq:
-  definition: "___ is made of ___."
+  definition: ___ is made of ___.
   gloss: made.of
-
+  frame: PAI
 muaı:
-  definition: "___ has an umami taste."
+  definition: ___ has an umami taste.
   gloss: umami
-
+  frame: POQ
 muao:
-  definition: "___ is a tree."
+  definition: ___ is a tree.
   gloss: tree
-
+  frame: POQ
 mıq:
-  definition: "___ is infinite in property ___."
+  definition: ___ is infinite in property ___.
   gloss: infinite
-
+  frame: MIA
 mıa:
-  definition: "___ is rich in relation ___; ___ is in relation ___ to/with many things."
+  definition: ___ is rich in relation ___; ___ is in relation ___ to/with many things.
   gloss: rich
-
+  frame: MIA
 mıaq:
-  definition: "___ is the value of ___."
+  definition: ___ is the value of ___.
   gloss: value
-
+  frame: '?'
 mıu:
-  definition: "___ opines/thinks that ___ is the case."
+  definition: ___ opines/thinks that ___ is the case.
   gloss: opine
-
+  frame: DUA
 mıo:
-  definition: "___ is the colour blue."
+  definition: ___ is the colour blue.
   gloss: blue
-
+  frame: POQ
 mıe:
-  definition: "___ lives / is alive."
+  definition: ___ lives / is alive.
   gloss: alive
-
+  frame: POQ
 mıeq:
-  definition: "___ measures/evaluates/determines what satisfies property ___."
+  definition: ___ measures/evaluates/determines what satisfies property ___.
   gloss: measure
-
+  frame: LEO
 mıaı:
-  definition: "___ rhymes with ___."
+  definition: ___ rhymes with ___.
   gloss: rhyme
-
+  frame: PAI
 mıao:
-  definition: "___ is a moon."
+  definition: ___ is a moon.
   gloss: moon
-
+  frame: POQ
 moa:
-  definition: "___ is a point in ___."
+  definition: ___ is a point in ___.
   gloss: point
-
+  frame: PAI
 moaı:
-  definition: "___ is thick."
+  definition: ___ is thick.
   gloss: thick
-
+  frame: POQ
 moaq:
-  definition: "___ remembers ___."
+  definition: ___ remembers ___.
   gloss: remember
-
+  frame: DUA
 moı:
-  definition: "___ thinks / is having a thought; ___ thinks thought ___."
+  definition: ___ thinks / is having a thought; ___ thinks thought ___.
   gloss: think
-
+  frame: DUA
 moe:
-  definition: "___ feels ___; ___ has emotion ___."
+  definition: ___ feels ___; ___ has emotion ___.
   gloss: feel
-
+  frame: '?'
 me:
-  definition: "___ is an aggregate of ___."
+  definition: ___ is an aggregate of ___.
   gloss: aggregate
-
+  frame: PAI
 mea:
-  definition: "___ is among ___."
+  definition: ___ is among ___.
   gloss: among
-
+  frame: PAI
 meaq:
-  definition: "___ is a ship/boat/vessel."
+  definition: ___ is a ship/boat/vessel.
   gloss: ship
-
+  frame: POQ
 meı:
-  definition: "___ is a mountain/hill."
+  definition: ___ is a mountain/hill.
   gloss: mountain
-
+  frame: POQ
 meo:
-  definition: "___ is sad."
+  definition: ___ is sad.
   gloss: sad
-
+  frame: POQ
 meoq:
-  definition: "___ is slow; ___ slowly satisfies property ___."
+  definition: ___ is slow; ___ slowly satisfies property ___.
   gloss: slow
-
+  frame: JEO
 naq:
-  definition: "___ is male."
+  definition: ___ is male.
   gloss: male
-
+  frame: POQ
 naı:
-  definition: "___ happens now."
+  definition: ___ happens now.
   gloss: is
-
+  frame: JIA
 nao:
-  definition: "___ is water."
+  definition: ___ is water.
   gloss: water
-
+  frame: POQ
 nu:
-  definition: "___ is such / is like that."
+  definition: ___ is such / is like that.
   gloss: such
-
+  frame: POQ
 nuq:
-  definition: "___ is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification)."
+  definition: >-
+    ___ is a worm-like animal (animal with long cylindrical tube-like body and
+    no limbs or with short limbs but crawling) (form classification).
   gloss: worm-like
-
+  frame: POQ
 nua:
-  definition: "___ takes/removes property ___ from ___."
+  definition: ___ takes/removes property ___ from ___.
   gloss: take
-
+  frame: SOQ
 nuaq:
-  definition: "___ is a night."
+  definition: ___ is a night.
   gloss: night
-
+  frame: POQ
 nuı:
-  definition: "___ is small/little."
+  definition: ___ is small/little.
   gloss: small
-
+  frame: POQ
 nuo:
-  definition: "___ sleeps / is asleep."
+  definition: ___ sleeps / is asleep.
   gloss: sleep
-
+  frame: POQ
 nuoı:
-  definition: "___ chews; ___ chews ___; ___ chews on ___."
+  definition: ___ chews; ___ chews ___; ___ chews on ___.
   gloss: masticate
-
 nuoq:
-  definition: "___ reflects/mirrors/echoes ___."
+  definition: ___ reflects/mirrors/echoes ___.
   gloss: reflect
-
+  frame: '-'
 nue:
-  definition: "___ promises/threatens to ___ to satisfy property ___."
+  definition: ___ promises/threatens to ___ to satisfy property ___.
   gloss: promise
-
+  frame: KUOI
 nueq:
-  definition: "___ is meat/flesh."
+  definition: ___ is meat/flesh.
   gloss: meat
-
+  frame: '-'
 nuaı:
-  definition: "___ is money."
+  definition: ___ is money.
   gloss: money
-
+  frame: POQ
 nuao:
-  definition: "___ is an arch; ___ arches."
+  definition: ___ is an arch; ___ arches.
   gloss: arch
-
+  frame: POQ
 nı:
-  definition: "___ is this/that; ___ is this/that/those thing(s) satisfying property ___."
+  definition: ___ is this/that; ___ is this/that/those thing(s) satisfying property ___.
   gloss: this
-
+  frame: POQ
 nıq:
-  definition: "___ is new; ___ is new to ___."
+  definition: ___ is new; ___ is new to ___.
   gloss: new
-
+  frame: PAI
 nıa:
-  definition: "___ is low."
+  definition: ___ is low.
   gloss: low
-
+  frame: POQ
 nıaq:
-  definition: "___ is a year."
+  definition: ___ is a year.
   gloss: year
-
+  frame: POQ
 nıu:
-  definition: "___ is a plant."
+  definition: ___ is a plant.
   gloss: plant
-
+  frame: POQ
 nıo:
-  definition: "___ is young."
+  definition: ___ is young.
   gloss: young
-
+  frame: POQ
 nıoq:
-  definition: "___ is a tooth."
+  definition: ___ is a tooth.
   gloss: tooth
-
+  frame: POQ
 nıe:
-  definition: "___ is inside ___."
+  definition: ___ is inside ___.
   gloss: inside
-
+  frame: PAI
 nıeq:
-  definition: "___ is unskilled at satisfying property ___."
+  definition: ___ is unskilled at satisfying property ___.
   gloss: unskilled
-
+  frame: LEO
 nıaı:
-  definition: "___ is an animal."
+  definition: ___ is an animal.
   gloss: animal
-
+  frame: POQ
 nıao:
-  definition: "___ is snow."
+  definition: ___ is snow.
   gloss: snow
-
-no:
-  definition: "___ is in format/medium/genre ___."
+  frame: POQ
+'no':
+  definition: ___ is in format/medium/genre ___.
   gloss: in
-
+  frame: PAI
 noq:
-  definition: "___ is gustatory; ___ pertains to the sense of taste/gustation."
+  definition: ___ is gustatory; ___ pertains to the sense of taste/gustation.
   gloss: gustatory
-
+  frame: POQ
 noa:
-  definition: "Satisfying property ___ is difficult for ___."
+  definition: Satisfying property ___ is difficult for ___.
   gloss: difficult
-
+  frame: FUI
 noaq:
-  definition: "___ reads ___ from ___."
+  definition: ___ reads ___ from ___.
   gloss: read
-
+  frame: FA
 noı:
-  definition: "___ is pain."
+  definition: ___ is pain.
   gloss: pain
-
+  frame: POQ
 noaı:
-  definition: "___ is milk."
+  definition: ___ is milk.
   gloss: milk
-
+  frame: POQ
 ne:
-  definition: "___ is how much ___ is the case; ___ is the amount that ___ is the case."
+  definition: ___ is how much ___ is the case; ___ is the amount that ___ is the case.
   gloss: amount
-
+  frame: PAI
 neq:
-  definition: "___ is determined by the luck/fortunate of ___."
-  gloss: 
-
+  definition: ___ is determined by the luck/fortunate of ___.
+  gloss: null
+  frame: JIE
 nea:
-  definition: "___ is wide/broad."
+  definition: ___ is wide/broad.
   gloss: wide
-
+  frame: POQ
 neaq:
-  definition: "___ is sand."
+  definition: ___ is sand.
   gloss: sand
-
+  frame: POQ
 neı:
-  definition: "___ are nine in number."
+  definition: ___ are nine in number.
   gloss: nine
-
+  frame: POQ
 neo:
-  definition: "___ is on ___."
-  gloss: on
-
+  definition: ___ is on ___.
+  gloss: 'on'
+  frame: PAI
 neoq:
-  definition: "___ is a Mr./Mrs./Ms./Miss."
+  definition: ___ is a Mr./Mrs./Ms./Miss.
   gloss: mr/mrs
-
+  frame: POQ
 paq:
-  definition: "___ is a part of ___."
+  definition: ___ is a part of ___.
   gloss: part
-
+  frame: PAI
 paı:
-  definition: "___ is a friend; ___ is a friend of ___."
+  definition: ___ is a friend; ___ is a friend of ___.
   gloss: friend
-
+  frame: PAI
 pao:
-  definition: "___ is a parent of ___; ___ acts parental towards ___; ___ raises ___."
+  definition: ___ is a parent of ___; ___ acts parental towards ___; ___ raises ___.
   gloss: parent
-
+  frame: PAI
 pu:
-  definition: "___ happened / occured / was the case."
+  definition: ___ happened / occured / was the case.
   gloss: was
-
+  frame: JIA
 puq:
-  definition: "___ are more than one / multiple things."
+  definition: ___ are more than one / multiple things.
   gloss: multiple
-
+  frame: POQ
 pua:
-  definition: "___ enjoys satisfying property ___."
+  definition: ___ enjoys satisfying property ___.
   gloss: enjoy
-
+  frame: LEO
 puaq:
-  definition: "___ is somatic/tactile; ___ pertains to the sense of touch/somatosensation."
+  definition: ___ is somatic/tactile; ___ pertains to the sense of touch/somatosensation.
   gloss: somatic
-
+  frame: POQ
 puı:
-  definition: "___ are many."
+  definition: ___ are many.
   gloss: many
-
+  frame: POQ
 puo:
-  definition: "___ is powder."
+  definition: ___ is powder.
   gloss: powder
-
+  frame: POQ
 pue:
-  definition: "___ is a foot."
+  definition: ___ is a foot.
   gloss: foot
-
+  frame: POQ
 pueq:
-  definition: "___ steps/treads on ___."
+  definition: ___ steps/treads on ___.
   gloss: tread
-
+  frame: '-'
 puaı:
-  definition: "___ is wild/untamed."
+  definition: ___ is wild/untamed.
   gloss: wild
-
+  frame: '-'
 puao:
-  definition: "___ is a cloud."
+  definition: ___ is a cloud.
   gloss: cloud
-
+  frame: POQ
 pı:
-  definition: "___ is urine/pee/piss."
+  definition: ___ is urine/pee/piss.
   gloss: urine
-
+  frame: POQ
 pıa:
-  definition: "___ is a sibling of ___."
+  definition: ___ is a sibling of ___.
   gloss: sibling
-
+  frame: PAI
 pıu:
-  definition: "___ is skin/peel/crust/hide/rind/outer cover."
+  definition: ___ is skin/peel/crust/hide/rind/outer cover.
   gloss: skin
-
 pıo:
-  definition: "___ is rock (material)."
+  definition: ___ is rock (material).
   gloss: rock
-
+  frame: POQ
 pıe:
-  definition: "___ drinks ___."
+  definition: ___ drinks ___.
   gloss: drink
-
+  frame: PAI
 pıao:
-  definition: "___ is complicated/complex."
+  definition: ___ is complicated/complex.
   gloss: complicated
-
+  frame: POQ
 poq:
-  definition: "___ is a person."
+  definition: ___ is a person.
   gloss: person
-
+  frame: POQ
 poa:
-  definition: "___ is closed/shut."
+  definition: ___ is closed/shut.
   gloss: closed
-
+  frame: POQ
 poaq:
-  definition: "___ breaks/parts/splits."
+  definition: ___ breaks/parts/splits.
   gloss: break
-
+  frame: POQ
 poaı:
-  definition: "___ is a seed/spore/egg/gamete/ovum/sperm/pollen."
+  definition: ___ is a seed/spore/egg/gamete/ovum/sperm/pollen.
   gloss: seed
-
 poe:
-  definition: "___ is apart/separate from ___ in property ___."
+  definition: ___ is apart/separate from ___ in property ___.
   gloss: apart
-
+  frame: JEQ
 pe:
-  definition: "___ is the case for/by the standard of ___."
+  definition: ___ is the case for/by the standard of ___.
   gloss: for
-
+  frame: '-'
 peq:
-  definition: "___ is paper."
+  definition: ___ is paper.
   gloss: paper
-
+  frame: POQ
 pea:
-  definition: "___ happened ___ (amount of time) ago."
+  definition: ___ happened ___ (amount of time) ago.
   gloss: ago
-
+  frame: '-'
 peo:
-  definition: "___ passes through ___."
+  definition: ___ passes through ___.
   gloss: through
-
+  frame: PAI
 raq:
-  definition: "___ pertains to / is about ___."
+  definition: ___ pertains to / is about ___.
   gloss: about
-
+  frame: PAI
 raı:
-  definition: "___ is something."
+  definition: ___ is something.
   gloss: something
-
+  frame: POQ
 rao:
-  definition: "___ happens at the same time as ___; ___ is simultaneous with ___."
+  definition: ___ happens at the same time as ___; ___ is simultaneous with ___.
   gloss: when
-
+  frame: CA
 ruq:
-  definition: "___ is rain."
+  definition: ___ is rain.
   gloss: rain
-
+  frame: POQ
 rua:
-  definition: "___ is a flower."
+  definition: ___ is a flower.
   gloss: flower
-
+  frame: POQ
 ruaq:
-  definition: "___ asserts/claims ___ to be the case."
+  definition: ___ asserts/claims ___ to be the case.
   gloss: assert
-
+  frame: DUA
 ruı:
-  definition: "___ is the colour gray."
+  definition: ___ is the colour gray.
   gloss: gray
-
+  frame: POQ
 ruo:
-  definition: "___ behaves in way ___ (property); ___ conducts themselves in manner ___ (property)."
+  definition: >-
+    ___ behaves in way ___ (property); ___ conducts themselves in manner ___
+    (property).
   gloss: behave
-
+  frame: LEO
 ruoı:
-  definition: "___ is thin."
+  definition: ___ is thin.
   gloss: thin
-
+  frame: POQ
 ruoq:
-  definition: "___ is straight/linear."
+  definition: ___ is straight/linear.
   gloss: straight
-
+  frame: POQ
 rue:
-  definition: "___ is weak/feeble."
+  definition: ___ is weak/feeble.
   gloss: weak
-
+  frame: POQ
 rueq:
-  definition: "___ is tight."
+  definition: ___ is tight.
   gloss: tight
-
+  frame: POQ
 ruaı:
-  definition: "___ is royal/noble/aristocratic."
+  definition: ___ is royal/noble/aristocratic.
   gloss: royal
-
+  frame: POQ
 ruao:
-  definition: "___ forgives ___ for satisfying property ___."
+  definition: ___ forgives ___ for satisfying property ___.
   gloss: forgive
-
+  frame: KUOI
 rıq:
-  definition: "___ is the colour green."
+  definition: ___ is the colour green.
   gloss: green
-
+  frame: POQ
 rıa:
-  definition: "___ is open."
+  definition: ___ is open.
   gloss: open
-
+  frame: POQ
 rıaq:
-  definition: "___ is a place/site; ___ is the place/site of ___."
+  definition: ___ is a place/site; ___ is the place/site of ___.
   gloss: place
-
+  frame: DUA
 rıu:
-  definition: "___ returns to satisfying property ___."
+  definition: ___ returns to satisfying property ___.
   gloss: return
-
+  frame: LEO
 rıo:
-  definition: "___ is air."
+  definition: ___ is air.
   gloss: air
-
+  frame: POQ
 rıoq:
-  definition: "___ is a type/kind of ___"
+  definition: ___ is a type/kind of ___
   gloss: type
-
+  frame: PAI
 rıe:
-  definition: "___ is between/amidst/among ___ (plural)."
+  definition: ___ is between/amidst/among ___ (plural).
   gloss: between
-
+  frame: PAI
 rıeq:
-  definition: "___ avoids/evades satisfying property ___."
+  definition: ___ avoids/evades satisfying property ___.
   gloss: avoid
-
+  frame: LEO
 rıaı:
-  definition: "___ supports ___; ___ holds up ___."
+  definition: ___ supports ___; ___ holds up ___.
   gloss: support
-
+  frame: PAI
 rıao:
-  definition: "___ is a twilight/dawn/dusk/half-light/glimmering."
+  definition: ___ is a twilight/dawn/dusk/half-light/glimmering.
   gloss: twilight
-
+  frame: POQ
 roq:
-  definition: "___ cries/weeps; ___ cries tears ___."
+  definition: ___ cries/weeps; ___ cries tears ___.
   gloss: weep
-
+  frame: PAI
 roa:
-  definition: "___ is natural."
+  definition: ___ is natural.
   gloss: natural
-
+  frame: POQ
 roaq:
-  definition: "___ is a biological parent of ___."
+  definition: ___ is a biological parent of ___.
   gloss: parent
-
+  frame: PAI
 roaı:
-  definition: "___ are eight in number."
+  definition: ___ are eight in number.
   gloss: eight
-
+  frame: POQ
 roe:
-  definition: "___ is healthy."
+  definition: ___ is healthy.
   gloss: healthy
-
+  frame: POQ
 req:
-  definition: "___ is a human."
+  definition: ___ is a human.
   gloss: human
-
+  frame: POQ
 rea:
-  definition: "___ is a border/edge of ___."
+  definition: ___ is a border/edge of ___.
   gloss: border
-
+  frame: PAI
 reaq:
-  definition: "___ lies on ___; ___ reclines on ___."
+  definition: ___ lies on ___; ___ reclines on ___.
   gloss: lie
-
+  frame: PAI
 reı:
-  definition: "___ is around ___; ___ surrounds ___."
+  definition: ___ is around ___; ___ surrounds ___.
   gloss: around
-
+  frame: PAI
 reo:
-  definition: "___ is coloured; ___ is of colour ___."
+  definition: ___ is coloured; ___ is of colour ___.
   gloss: coloured
-
+  frame: PAI
 reoq:
-  definition: "___ is late."
+  definition: ___ is late.
   gloss: late
-
+  frame: JIA
 saq:
-  definition: "___ are three in number."
+  definition: ___ are three in number.
   gloss: three
-
+  frame: POQ
 saı:
-  definition: "___ is matter/material/substance."
+  definition: ___ is matter/material/substance.
   gloss: matter
-
+  frame: '-'
 sao:
-  definition: "___ is big/large."
+  definition: ___ is big/large.
   gloss: big
-
+  frame: POQ
 su:
-  definition: "___ are [previous predicate]."
+  definition: '___ are [previous predicate].'
   gloss: previous.predicate
-
+  frame: '?'
 suq:
-  definition: "___ is you / the listener."
+  definition: ___ is you / the listener.
   gloss: you
-
+  frame: POQ
 sua:
-  definition: "___ is necessary for ___ to happen."
+  definition: ___ is necessary for ___ to happen.
   gloss: necessary
-
+  frame: CA
 suaq:
-  definition: "___ sings."
+  definition: ___ sings.
   gloss: sing
-
+  frame: PAI
 suı:
-  definition: "___ is least in property ___ among ___."
+  definition: ___ is least in property ___ among ___.
   gloss: least
-
+  frame: SOQ
 suo:
-  definition: "___ is broken/inoperable."
+  definition: ___ is broken/inoperable.
   gloss: broken
-
+  frame: POQ
 sue:
-  definition: "___ asks ___ to satisfy property ___."
+  definition: ___ asks ___ to satisfy property ___.
   gloss: request
-
+  frame: KUOI
 suaı:
-  definition: "___ is fast/quick; ___ quickly does ___."
+  definition: ___ is fast/quick; ___ quickly does ___.
   gloss: fast
-
+  frame: JEO
 suao:
-  definition: "___ is important."
+  definition: ___ is important.
   gloss: important
-
+  frame: POQ
 sı:
-  definition: "___ is attentive to / focuses on ___."
+  definition: ___ is attentive to / focuses on ___.
   gloss: attentive
-
+  frame: PAI
 sıq:
-  definition: "___ is clean/pure."
+  definition: ___ is clean/pure.
   gloss: clean
-
+  frame: POQ
 sıaq:
-  definition: "___ is to the right of ___."
+  definition: ___ is to the right of ___.
   gloss: right
-
+  frame: PAI
 sıu:
-  definition: "___ is similar to ___."
+  definition: ___ is similar to ___.
   gloss: similar
-
+  frame: PAI
 sıo:
-  definition: "___ is a thought/idea."
+  definition: ___ is a thought/idea.
   gloss: thought
-
+  frame: POQ
 sıoq:
-  definition: "___ is a wheel."
+  definition: ___ is a wheel.
   gloss: wheel
-
+  frame: POQ
 sıe:
-  definition: "___ is following to ___ in sequence ___."
+  definition: ___ is following to ___ in sequence ___.
   gloss: follow
-
+  frame: FA
 sıeq:
-  definition: "___ feels awe; ___ is amazed."
+  definition: ___ feels awe; ___ is amazed.
   gloss: awe
-
+  frame: POQ
 sıaı:
-  definition: "___ is blood."
+  definition: ___ is blood.
   gloss: blood
-
+  frame: POQ
 sıao:
-  definition: "___ is a beginning/start; ___ is a beginning/start of ___."
+  definition: ___ is a beginning/start; ___ is a beginning/start of ___.
   gloss: beginning
-
+  frame: DUA
 soq:
-  definition: "___ is the ___est among ___; ___ is the most ___ among ___."
+  definition: ___ is the ___est among ___; ___ is the most ___ among ___.
   gloss: most
-
+  frame: SOQ
 soa:
-  definition: "___ helps ___ to satisfy property ___."
+  definition: ___ helps ___ to satisfy property ___.
   gloss: help
-
+  frame: KUOI
 soaq:
-  definition: "___ is a garden."
+  definition: ___ is a garden.
   gloss: garden
-
+  frame: POQ
 soı:
-  definition: "___ fights with ___; ___ fights against ___."
+  definition: ___ fights with ___; ___ fights against ___.
   gloss: fight
-
+  frame: PAI
 soaı:
-  definition: "___ is a beam/ray/line extending outwards from a point."
+  definition: ___ is a beam/ray/line extending outwards from a point.
   gloss: beam
-
+  frame: POQ
 soe:
-  definition: "___ is sour."
+  definition: ___ is sour.
   gloss: sour
-
+  frame: POQ
 se:
-  definition: "___ is a result/product of performing action ___."
+  definition: ___ is a result/product of performing action ___.
   gloss: result
-
+  frame: '?'
 sea:
-  definition: "___ rests/relaxes."
+  definition: ___ rests/relaxes.
   gloss: rest
-
+  frame: POQ
 seaq:
-  definition: "___ has sex with ___; ___ has sexual intercourse with ___."
+  definition: ___ has sex with ___; ___ has sexual intercourse with ___.
   gloss: have.sex
-
+  frame: PAI
 seu:
-  definition: "___ is a number."
+  definition: ___ is a number.
   gloss: number
-
+  frame: POQ
 seo:
-  definition: "___ is a spouse of ___."
+  definition: ___ is a spouse of ___.
   gloss: spouse
-
+  frame: PAI
 seoq:
-  definition: "___ is a sky."
+  definition: ___ is a sky.
   gloss: sky
-
+  frame: POQ
 sha:
-  definition: "___ arrives at satisfying property ___."
+  definition: ___ arrives at satisfying property ___.
   gloss: arrive
-
+  frame: LEO
 shaq:
-  definition: "___ is in front of ___."
+  definition: ___ is in front of ___.
   gloss: in.front
-
+  frame: PAI
 shaı:
-  definition: "___ ceases to be the case; ___ stops satisfying property ___; ___ loses property ___."
+  definition: >-
+    ___ ceases to be the case; ___ stops satisfying property ___; ___ loses
+    property ___.
   gloss: cease
-
+  frame: JEO
 shao:
-  definition: "___ wants ___ to be the case."
+  definition: ___ wants ___ to be the case.
   gloss: want
-
+  frame: DUA
 shua:
-  definition: "___ falls to ___ from ___."
+  definition: ___ falls to ___ from ___.
   gloss: fall
-
+  frame: FA
 shuaq:
-  definition: "___ produces ___."
+  definition: ___ produces ___.
   gloss: produce
-
+  frame: PAI
 shuı:
-  definition: "___ is secret."
+  definition: ___ is secret.
   gloss: secret
-
+  frame: JIA
 shuo:
-  definition: "___ is a source/deposit/supply/reserve of ___."
+  definition: ___ is a source/deposit/supply/reserve of ___.
   gloss: reserve
-
+  frame: '-'
 shue:
-  definition: "___ remains/stays/keeps satisfying property ___."
+  definition: ___ remains/stays/keeps satisfying property ___.
   gloss: remain
-
+  frame: LEO
 shueq:
-  definition: "___ is bitter."
+  definition: ___ is bitter.
   gloss: bitter
-
+  frame: POQ
 shuaı:
-  definition: "___ is simple."
+  definition: ___ is simple.
   gloss: simple
-
+  frame: POQ
 shuao:
-  definition: "___ is a bird."
+  definition: ___ is a bird.
   gloss: bird
-
+  frame: POQ
 shı:
-  definition: "___ are one in number."
+  definition: ___ are one in number.
   gloss: one
-
+  frame: POQ
 shıq:
-  definition: "___ is olfactory; ___ pertains to the sense of smell/olfaction."
+  definition: ___ is olfactory; ___ pertains to the sense of smell/olfaction.
   gloss: smell
-
+  frame: POQ
 shıa:
-  definition: "___ is glass."
+  definition: ___ is glass.
   gloss: glass
-
+  frame: POQ
 shıaq:
-  definition: "___ is a leg."
+  definition: ___ is a leg.
   gloss: leg
-
+  frame: POQ
 shıu:
-  definition: "___ is before / in the past of ___."
+  definition: ___ is before / in the past of ___.
   gloss: before
-
+  frame: CA
 shıo:
-  definition: "___ is a hip/shoulder."
+  definition: ___ is a hip/shoulder.
   gloss: ball.joint
-
+  frame: POQ
 shıe:
-  definition: "___ is awake."
+  definition: ___ is awake.
   gloss: awake
-
+  frame: POQ
 sho:
-  definition: "___ becomes such that they satisfy property ___."
+  definition: ___ becomes such that they satisfy property ___.
   gloss: become
-
+  frame: LEO
 shoa:
-  definition: "___ is deep."
+  definition: ___ is deep.
   gloss: deep
-
+  frame: POQ
 shoı:
-  definition: "___ screams/shouts/yells/cries."
+  definition: ___ screams/shouts/yells/cries.
   gloss: scream
-
+  frame: POQ
 shoe:
-  definition: "___ lets ___ happen; ___ allows ___ to happen."
+  definition: ___ lets ___ happen; ___ allows ___ to happen.
   gloss: allow
-
+  frame: DUA
 shoaı:
-  definition: "___ is a wing."
+  definition: ___ is a wing.
   gloss: wing
-
+  frame: POQ
 she:
-  definition: "___ is the case if ___ is the case."
+  definition: ___ is the case if ___ is the case.
   gloss: if
-
+  frame: CA
 shea:
-  definition: "___ is empty in aspect ___."
+  definition: ___ is empty in aspect ___.
   gloss: empty
-
+  frame: LEO
 sheaq:
-  definition: "___ stands on ___."
+  definition: ___ stands on ___.
   gloss: stand
-
+  frame: PAI
 sheı:
-  definition: "___ is free to do ___."
+  definition: ___ is free to do ___.
   gloss: free
-
+  frame: LEO
 sheo:
-  definition: "___ regrets satisfying property ___."
+  definition: ___ regrets satisfying property ___.
   gloss: regret
-
+  frame: LEO
 taq:
-  definition: "___ is related to itself by property ___."
+  definition: ___ is related to itself by property ___.
   gloss: self
-
+  frame: MIA
 taı:
-  definition: "___ succeeds at satisfying property ___."
+  definition: ___ succeeds at satisfying property ___.
   gloss: succeed
-
+  frame: LEO
 tao:
-  definition: "___ does ___."
+  definition: ___ does ___.
   gloss: do
-
+  frame: LEO
 tuq:
-  definition: "___ are all things that satisfy property ___."
+  definition: ___ are all things that satisfy property ___.
   gloss: all
-
+  frame: LEO
 tua:
-  definition: "___ makes ___ happen."
+  definition: ___ makes ___ happen.
   gloss: make.happen
-
+  frame: DUA
 tuı:
-  definition: "___ sits on ___."
+  definition: ___ sits on ___.
   gloss: sit
-
+  frame: PAI
 tuo:
-  definition: "___ swallows; ___ swallows ___."
+  definition: ___ swallows; ___ swallows ___.
   gloss: swallow
-
+  frame: PAI
 tuoı:
-  definition: "___ is a flaw/fault/defect in ___."
+  definition: ___ is a flaw/fault/defect in ___.
   gloss: flaw
-
+  frame: PAI
 tuoq:
-  definition: "___ is heavy."
+  definition: ___ is heavy.
   gloss: heavy
-
+  frame: POQ
 tue:
-  definition: "___ is a state / state of affairs / situation; ___ is a state of affairs of property ___."
+  definition: >-
+    ___ is a state / state of affairs / situation; ___ is a state of affairs of
+    property ___.
   gloss: state
-
+  frame: '?'
 tuaı:
-  definition: "___ is a body/corpse."
+  definition: ___ is a body/corpse.
   gloss: body
-
+  frame: '-'
 tuao:
-  definition: "___ is little/non-much in property ___."
+  definition: ___ is little/non-much in property ___.
   gloss: little
-
+  frame: LEO
 tı:
-  definition: "___ is at ___."
+  definition: ___ is at ___.
   gloss: at
-
+  frame: PAI
 tıq:
-  definition: "___ is a tile."
+  definition: ___ is a tile.
   gloss: tile
-
+  frame: POQ
 tıa:
-  definition: "___ is behind ___."
+  definition: ___ is behind ___.
   gloss: behind
-
+  frame: PAI
 tıaq:
-  definition: "___ is the colour brown."
+  definition: ___ is the colour brown.
   gloss: brown
-
+  frame: POQ
 tıoq:
-  definition: "___ is a lock."
+  definition: ___ is a lock.
   gloss: lock
-
+  frame: POQ
 tıe:
-  definition: "___ covers ___."
+  definition: ___ covers ___.
   gloss: cover
-
+  frame: PAI
 tıeq:
-  definition: "___ is a way/path."
+  definition: ___ is a way/path.
   gloss: path
-
+  frame: POQ
 tıaı:
-  definition: "___ is a box."
+  definition: ___ is a box.
   gloss: box
-
+  frame: POQ
 tıao:
-  definition: "___ matches/fits/suits ___ in property ___."
+  definition: ___ matches/fits/suits ___ in property ___.
   gloss: match
-
+  frame: JEQ
 toq:
-  definition: "___ is a board."
+  definition: ___ is a board.
   gloss: board
-
+  frame: POQ
 toa:
-  definition: "___ is a word."
+  definition: ___ is a word.
   gloss: word
-
+  frame: POQ
 toaı:
-  definition: "___ is a quantum / smallest possible unit of quantity or quantifiable phenomenon ___."
+  definition: >-
+    ___ is a quantum / smallest possible unit of quantity or quantifiable
+    phenomenon ___.
   gloss: quantum
-
+  frame: PAI
 toaq:
-  definition: "___ is a language."
+  definition: ___ is a language.
   gloss: language
-
+  frame: POQ
 toe:
-  definition: "___ cuts ___ into ___."
+  definition: ___ cuts ___ into ___.
   gloss: cut
-
 te:
-  definition: "___ has been ___'ed (property)."
-  gloss: -ed
-
+  definition: ___ has been ___'ed (property).
+  gloss: '-ed'
+  frame: FA
 teq:
-  definition: "___ pays ___ to ___ for satisfying property ___."
+  definition: ___ pays ___ to ___ for satisfying property ___.
   gloss: pay
-
+  frame: KOE
 tea:
-  definition: "___ is scared / experiences fear."
+  definition: ___ is scared / experiences fear.
   gloss: scared
-
+  frame: POQ
 teaq:
-  definition: "___ is a breast."
+  definition: ___ is a breast.
   gloss: breast
-
+  frame: POQ
 teı:
-  definition: "___ is a form/shape; ___ is a form/shape of ___."
+  definition: ___ is a form/shape; ___ is a form/shape of ___.
   gloss: form
-
+  frame: PAI
 teoq:
-  definition: "___ is a question."
+  definition: ___ is a question.
   gloss: question
-
+  frame: POQ
