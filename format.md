@@ -2,6 +2,7 @@
 
 Please insert your fields as you need them (not too much, though) – the format is still up for consideration.
 
-* `definition` – official definition
-* `gloss` – official gloss
-* `frame` – a pointer to a frame definition from the beginning of the file, or `null`
+* `official` – the official data available for a given entry
+  * `english` – official definition in English
+  * `gloss` – official gloss in English
+* `frame` – a frame definition, if known
