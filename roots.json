@@ -1,757 +1,757 @@
 {
   "baq": {
     "official": {
-      "english": "___ is the generic collective entity composed of the things that share property ___; ___ are the things that ___, in general.",
+      "english": "▯ is the generic collective entity composed of the things that share property ▯; ▯ are the things that ▯, in general.",
       "gloss": "generic"
     },
     "frame": "c 1"
   },
   "baı": {
     "official": {
-      "english": "___ builds/assembles/makes ___.",
+      "english": "▯ builds/assembles/makes ▯.",
       "gloss": "build"
     },
     "frame": "c c"
   },
   "bao": {
     "official": {
-      "english": "___ is the colour white.",
+      "english": "▯ is the colour white.",
       "gloss": "white"
     },
     "frame": "c"
   },
   "bu": {
     "official": {
-      "english": "___ is not the case / is false; ___ does not satisfy property ___.",
+      "english": "▯ is not the case / is false; ▯ does not satisfy property ▯.",
       "gloss": "not"
     },
     "frame": "0; c 1"
   },
   "buq": {
     "official": {
-      "english": "___ is a mouth.",
+      "english": "▯ is a mouth.",
       "gloss": "mouth"
     },
     "frame": "c"
   },
   "bua": {
     "official": {
-      "english": "___ inhabits ___.",
+      "english": "▯ inhabits ▯.",
       "gloss": "inhabit"
     },
     "frame": "c c"
   },
   "buaq": {
     "official": {
-      "english": "___ fails to satisfy property ___.",
+      "english": "▯ fails to satisfy property ▯.",
       "gloss": "fail"
     },
     "frame": "c 1"
   },
   "buı": {
     "official": {
-      "english": "___ is outside of ___.",
+      "english": "▯ is outside of ▯.",
       "gloss": "outside"
     },
     "frame": "c c"
   },
   "buo": {
     "official": {
-      "english": "___ is ready to satisfy property ___.",
+      "english": "▯ is ready to satisfy property ▯.",
       "gloss": "ready"
     },
     "frame": "c 1"
   },
   "buoq": {
     "official": {
-      "english": "___ is non-serious.",
+      "english": "▯ is non-serious.",
       "gloss": "non-serious"
     },
     "frame": "c"
   },
   "bue": {
     "official": {
-      "english": "___ is a home of ___.",
+      "english": "▯ is a home of ▯.",
       "gloss": "home"
     },
     "frame": "c c"
   },
   "buaı": {
     "official": {
-      "english": "___ is long.",
+      "english": "▯ is long.",
       "gloss": "long"
     },
     "frame": "c"
   },
   "bıq": {
     "official": {
-      "english": "___ are a thousand in number.",
+      "english": "▯ are a thousand in number.",
       "gloss": "thousand"
     },
     "frame": "c"
   },
   "bıa": {
     "official": {
-      "english": "___ is sick/ill; ___ is sick/ill with ___.",
+      "english": "▯ is sick/ill; ▯ is sick/ill with ▯.",
       "gloss": "sick"
     },
     "frame": "c c"
   },
   "bıaq": {
     "official": {
-      "english": "___ is enough; ___ sufficiently satisfies property ___.",
+      "english": "▯ is enough; ▯ sufficiently satisfies property ▯.",
       "gloss": "enough"
     },
     "frame": "c 1"
   },
   "bıu": {
     "official": {
-      "english": "___ is a tube.",
+      "english": "▯ is a tube.",
       "gloss": "tube"
     },
     "frame": "c"
   },
   "bıo": {
     "official": {
-      "english": "___ is a cup/glass.",
+      "english": "▯ is a cup/glass.",
       "gloss": "cup"
     },
     "frame": "c"
   },
   "bıe": {
     "official": {
-      "english": "___ takes place after ___.",
+      "english": "▯ takes place after ▯.",
       "gloss": "after"
     },
     "frame": "0 0"
   },
   "bıao": {
     "official": {
-      "english": "___ is confused.",
+      "english": "▯ is confused.",
       "gloss": "confused"
     },
     "frame": "c"
   },
   "bo": {
     "official": {
-      "english": "___ has/possesses ___.",
+      "english": "▯ has/possesses ▯.",
       "gloss": "have"
     },
     "frame": "c c"
   },
   "boq": {
     "official": {
-      "english": "That ___ is the case prevents ___ from being the case.",
+      "english": "That ▯ is the case prevents ▯ from being the case.",
       "gloss": "prevent"
     },
     "frame": "c 0"
   },
   "boaq": {
     "official": {
-      "english": "___ is a shadow; ___ is a shadow of ___.",
+      "english": "▯ is a shadow; ▯ is a shadow of ▯.",
       "gloss": "shadow"
     }
   },
   "boe": {
     "official": {
-      "english": "___ is a leaf/sheet.",
+      "english": "▯ is a leaf/sheet.",
       "gloss": "leaf"
     },
     "frame": "c"
   },
   "boı": {
     "official": {
-      "english": "___ takes place from ___ onwards.",
+      "english": "▯ takes place from ▯ onwards.",
       "gloss": "since"
     },
     "frame": "0 0"
   },
   "be": {
     "official": {
-      "english": "___ is an infant; ___ is a baby.",
+      "english": "▯ is an infant; ▯ is a baby.",
       "gloss": "infant"
     },
     "frame": "c"
   },
   "beq": {
     "official": {
-      "english": "___ is an extrusion/swelling/convex.",
+      "english": "▯ is an extrusion/swelling/convex.",
       "gloss": "extrusion"
     },
     "frame": "c"
   },
   "bea": {
     "official": {
-      "english": "___ is a knee/elbow/knuckle.",
+      "english": "▯ is a knee/elbow/knuckle.",
       "gloss": "hinge.joint"
     },
     "frame": "c"
   },
   "beaq": {
     "official": {
-      "english": "___ is a stick/pole.",
+      "english": "▯ is a stick/pole.",
       "gloss": "stick"
     },
     "frame": "c"
   },
   "beo": {
     "official": {
-      "english": "___ changes; ___ changes in property ___.",
+      "english": "▯ changes; ▯ changes in property ▯.",
       "gloss": "change"
     },
     "frame": "c 2"
   },
   "ca": {
     "official": {
-      "english": "___ physically causes ___ to be the case.",
+      "english": "▯ physically causes ▯ to be the case.",
       "gloss": "cause"
     },
     "frame": "0 0"
   },
   "caq": {
     "official": {
-      "english": "___ conducts/directs/manages ___.",
+      "english": "▯ conducts/directs/manages ▯.",
       "gloss": "conduct"
     },
     "frame": "c c"
   },
   "caı": {
     "official": {
-      "english": "___ is strong.",
+      "english": "▯ is strong.",
       "gloss": "strong"
     },
     "frame": "c"
   },
   "cao": {
     "official": {
-      "english": "___ is a season.",
+      "english": "▯ is a season.",
       "gloss": "season"
     },
     "frame": "c"
   },
   "cua": {
     "official": {
-      "english": "___ responds to satisfying property ___ by satisfying property ___.",
+      "english": "▯ responds to satisfying property ▯ by satisfying property ▯.",
       "gloss": "respond"
     },
     "frame": "c 1 1"
   },
   "cuaq": {
     "official": {
-      "english": "___ is the concept/idea of satisfying property ___.",
+      "english": "▯ is the concept/idea of satisfying property ▯.",
       "gloss": "concept"
     },
     "frame": "c 1"
   },
   "cuı": {
     "official": {
-      "english": "___ is the colour magenta.",
+      "english": "▯ is the colour magenta.",
       "gloss": "magenta"
     },
     "frame": "c"
   },
   "cuo": {
     "official": {
-      "english": "___ assumes that ___ is the case.",
+      "english": "▯ assumes that ▯ is the case.",
       "gloss": "assume"
     },
     "frame": "c 0"
   },
   "cue": {
     "official": {
-      "english": "___ reigns over ___.",
+      "english": "▯ reigns over ▯.",
       "gloss": "reign"
     },
     "frame": "c c"
   },
   "cuaı": {
     "official": {
-      "english": "___ is wet.",
+      "english": "▯ is wet.",
       "gloss": "wet"
     },
     "frame": "c"
   },
   "cuao": {
     "official": {
-      "english": "___ is beyond ___ in property ___.",
+      "english": "▯ is beyond ▯ in property ▯.",
       "gloss": "beyond"
     },
     "frame": "c c 1"
   },
   "cı": {
     "official": {
-      "english": "___ are six in number.",
+      "english": "▯ are six in number.",
       "gloss": "six"
     },
     "frame": "c"
   },
   "cıa": {
     "official": {
-      "english": "___ lacks property ___.",
+      "english": "▯ lacks property ▯.",
       "gloss": "lack"
     },
     "frame": "c 1"
   },
   "cıu": {
     "official": {
-      "english": "___ excretes ___.",
+      "english": "▯ excretes ▯.",
       "gloss": "excrete"
     },
     "frame": "c c"
   },
   "cıo": {
     "official": {
-      "english": "___ is adolescent/pubescent.",
+      "english": "▯ is adolescent/pubescent.",
       "gloss": "adolescent"
     },
     "frame": "c"
   },
   "cıe": {
     "official": {
-      "english": "___ is a fish.",
+      "english": "▯ is a fish.",
       "gloss": "fish"
     },
     "frame": "c"
   },
   "coa": {
     "official": {
-      "english": "___ is a bridge.",
+      "english": "▯ is a bridge.",
       "gloss": "bridge"
     },
     "frame": "c"
   },
   "coaq": {
     "official": {
-      "english": "___ is tame/domesticated.",
+      "english": "▯ is tame/domesticated.",
       "gloss": "tamed"
     }
   },
   "coe": {
     "official": {
-      "english": "___ is joined/connected to ___.",
+      "english": "▯ is joined/connected to ▯.",
       "gloss": "joined"
     },
     "frame": "c c"
   },
   "ce": {
     "official": {
-      "english": "___ is a node/station/port.",
+      "english": "▯ is a node/station/port.",
       "gloss": "node"
     },
     "frame": "c"
   },
   "cea": {
     "official": {
-      "english": "___ is a sack/bag/pocket.",
+      "english": "▯ is a sack/bag/pocket.",
       "gloss": "sack"
     },
     "frame": "c"
   },
   "ceo": {
     "official": {
-      "english": "___ begins/starts to occur; ___ begins/starts to satisfy property ___.",
+      "english": "▯ begins/starts to occur; ▯ begins/starts to satisfy property ▯.",
       "gloss": "begin"
     },
     "frame": "0; c 1"
   },
   "cha": {
     "official": {
-      "english": "___ takes place in way/form ___.",
+      "english": "▯ takes place in way/form ▯.",
       "gloss": "manner"
     }
   },
   "chaq": {
     "official": {
-      "english": "___ is a day.",
+      "english": "▯ is a day.",
       "gloss": "day"
     },
     "frame": "c"
   },
   "chaı": {
     "official": {
-      "english": "___ is tea (beverage).",
+      "english": "▯ is tea (beverage).",
       "gloss": "tea"
     },
     "frame": "c"
   },
   "chao": {
     "official": {
-      "english": "___ is a vehicle.",
+      "english": "▯ is a vehicle.",
       "gloss": "vehicle"
     },
     "frame": "c"
   },
   "chu": {
     "official": {
-      "english": "___ is a middle; ___ is the middle of ___.",
+      "english": "▯ is a middle; ▯ is the middle of ▯.",
       "gloss": "middle"
     },
     "frame": "c c"
   },
   "chuq": {
     "official": {
-      "english": "___ eats; ___ eats ___.",
+      "english": "▯ eats; ▯ eats ▯.",
       "gloss": "eat"
     },
     "frame": "c c"
   },
   "chua": {
     "official": {
-      "english": "___ is a name of ___.",
+      "english": "▯ is a name of ▯.",
       "gloss": "name"
     },
     "frame": "c c"
   },
   "chuaq": {
     "official": {
-      "english": "___ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ___ is an ideology based on concept ___; ___ is an ism; ___ is an ___-ism.",
+      "english": "▯ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ▯ is an ideology based on concept ▯; ▯ is an ism; ▯ is an ▯-ism.",
       "gloss": "ism"
     }
   },
   "chuı": {
     "official": {
-      "english": "___ is early.",
+      "english": "▯ is early.",
       "gloss": "early"
     },
     "frame": "0"
   },
   "chuo": {
     "official": {
-      "english": "___ is a tool/utensil/resource/instrument for satisfying property ___.",
+      "english": "▯ is a tool/utensil/resource/instrument for satisfying property ▯.",
       "gloss": "tool"
     },
     "frame": "c 1"
   },
   "chue": {
     "official": {
-      "english": "___ is a train/caravan/succession.",
+      "english": "▯ is a train/caravan/succession.",
       "gloss": "train"
     },
     "frame": "c"
   },
   "chuaı": {
     "official": {
-      "english": "___ is frozen.",
+      "english": "▯ is frozen.",
       "gloss": "frozen"
     },
     "frame": "c"
   },
   "chuao": {
     "official": {
-      "english": "___ is a window.",
+      "english": "▯ is a window.",
       "gloss": "window"
     },
     "frame": "c"
   },
   "chı": {
     "official": {
-      "english": "___ believe ___ to be the case / to be true.",
+      "english": "▯ believe ▯ to be the case / to be true.",
       "gloss": "believe"
     },
     "frame": "c 0"
   },
   "chıq": {
     "official": {
-      "english": "___ is an insect/bug.",
+      "english": "▯ is an insect/bug.",
       "gloss": "insect"
     }
   },
   "chıa": {
     "official": {
-      "english": "___ needs to satisfy property ___ to satisfy property ___.",
+      "english": "▯ needs to satisfy property ▯ to satisfy property ▯.",
       "gloss": "need"
     },
     "frame": "c 1 1"
   },
   "chıaq": {
     "official": {
-      "english": "___ is conscious; ___ is aware of ___.",
+      "english": "▯ is conscious; ▯ is aware of ▯.",
       "gloss": "aware"
     },
     "frame": "c 0"
   },
   "chıu": {
     "official": {
-      "english": "___ is the address/coordinates of ___.",
+      "english": "▯ is the address/coordinates of ▯.",
       "gloss": "address"
     },
     "frame": "c c"
   },
   "chıo": {
     "official": {
-      "english": "___ repeats ___ times.",
+      "english": "▯ repeats ▯ times.",
       "gloss": "repeat"
     },
     "frame": "0 c"
   },
   "chıe": {
     "official": {
-      "english": "___ learns to satisfy property ___; ___ learns how to satisfy property ___.",
+      "english": "▯ learns to satisfy property ▯; ▯ learns how to satisfy property ▯.",
       "gloss": "learn"
     },
     "frame": "c 0"
   },
   "chıeq": {
     "official": {
-      "english": "___ intersects/crosses/traverses ___.",
+      "english": "▯ intersects/crosses/traverses ▯.",
       "gloss": "cross"
     }
   },
   "chıaı": {
     "official": {
-      "english": "___ is wrong/incorrect.",
+      "english": "▯ is wrong/incorrect.",
       "gloss": "wrong"
     }
   },
   "cho": {
     "official": {
-      "english": "___ likes ___.",
+      "english": "▯ likes ▯.",
       "gloss": "like"
     }
   },
   "choq": {
     "official": {
-      "english": "___ uses ___ for ___.",
+      "english": "▯ uses ▯ for ▯.",
       "gloss": "use"
     },
     "frame": "c c 1"
   },
   "choa": {
     "official": {
-      "english": "___ utters ___.",
+      "english": "▯ utters ▯.",
       "gloss": "utter"
     },
     "frame": "c c"
   },
   "choaq": {
     "official": {
-      "english": "___ is a guest; ___ is a guest of ___.",
+      "english": "▯ is a guest; ▯ is a guest of ▯.",
       "gloss": "guest"
     },
     "frame": "c c"
   },
   "choı": {
     "official": {
-      "english": "___ is sharp.",
+      "english": "▯ is sharp.",
       "gloss": "sharp"
     },
     "frame": "c"
   },
   "choaı": {
     "official": {
-      "english": "___ costs ___.",
+      "english": "▯ costs ▯.",
       "gloss": "cost"
     },
     "frame": "c c"
   },
   "choe": {
     "official": {
-      "english": "___ takes place until ___.",
+      "english": "▯ takes place until ▯.",
       "gloss": "until"
     },
     "frame": "0 0"
   },
   "che": {
     "official": {
-      "english": "___ is someone whose occupation it is to satisfy property ___.",
+      "english": "▯ is someone whose occupation it is to satisfy property ▯.",
       "gloss": "-er"
     },
     "frame": "c 1"
   },
   "chea": {
     "official": {
-      "english": "___ is a hat.",
+      "english": "▯ is a hat.",
       "gloss": "hat"
     },
     "frame": "c"
   },
   "cheaq": {
     "official": {
-      "english": "___ is trusty/trusted to ___.",
+      "english": "▯ is trusty/trusted to ▯.",
       "gloss": "trusty"
     },
     "frame": "c c"
   },
   "cheı": {
     "official": {
-      "english": "___ is a digit/finger/toe.",
+      "english": "▯ is a digit/finger/toe.",
       "gloss": "digit"
     },
     "frame": "c"
   },
   "cheo": {
     "official": {
-      "english": "___ are in reciprocal relationship ___ with each other.",
+      "english": "▯ are in reciprocal relationship ▯ with each other.",
       "gloss": "reciprocally"
     },
     "frame": "c 2"
   },
   "cheoq": {
     "official": {
-      "english": "___ is a bottle.",
+      "english": "▯ is a bottle.",
       "gloss": "bottle"
     },
     "frame": "c"
   },
   "daq": {
     "official": {
-      "english": "___ is time.",
+      "english": "▯ is time.",
       "gloss": "time"
     },
     "frame": "c"
   },
   "daı": {
     "official": {
-      "english": "___ is possible; ___ has the potential to satisfy property ___.",
+      "english": "▯ is possible; ▯ has the potential to satisfy property ▯.",
       "gloss": "possible"
     },
     "frame": "0; c 1"
   },
   "dao": {
     "official": {
-      "english": "___ is information/data.",
+      "english": "▯ is information/data.",
       "gloss": "information"
     },
     "frame": "c"
   },
   "daosī": {
     "official": {
-      "english": "___ is interested in ___; ___ is curious about ___.",
+      "english": "▯ is interested in ▯; ▯ is curious about ▯.",
       "gloss": "interested"
     },
     "frame": "c"
   },
   "du": {
     "official": {
-      "english": "___ seems to be the case; ___ seems to satisfy property ___.",
+      "english": "▯ seems to be the case; ▯ seems to satisfy property ▯.",
       "gloss": "seem"
     },
     "frame": "0; c 1"
   },
   "duq": {
     "official": {
-      "english": "___ habitually satisfies property ___.",
+      "english": "▯ habitually satisfies property ▯.",
       "gloss": "habitually"
     },
     "frame": "c 1"
   },
   "dua": {
     "official": {
-      "english": "___ knows ___ to be the case / to be true.",
+      "english": "▯ knows ▯ to be the case / to be true.",
       "gloss": "know"
     },
     "frame": "c 0"
   },
   "duaq": {
     "official": {
-      "english": "___ is a larva (distinct juvenile form undergone before metamorphosis into adult form).",
+      "english": "▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).",
       "gloss": "larva"
     }
   },
   "duı": {
     "official": {
-      "english": "___ is too much ___; ___ satisfies property ___ too much to satisfy property ___.",
+      "english": "▯ is too much ▯; ▯ satisfies property ▯ too much to satisfy property ▯.",
       "gloss": "too.much"
     },
     "frame": "c 1 1"
   },
   "duo": {
     "official": {
-      "english": "___ moves to ___ from ___.",
+      "english": "▯ moves to ▯ from ▯.",
       "gloss": "move"
     },
     "frame": "c c c"
   },
   "duoı": {
     "official": {
-      "english": "___ lasts/continues; ___ lasts for time ___.",
+      "english": "▯ lasts/continues; ▯ lasts for time ▯.",
       "gloss": "continue"
     }
   },
   "due": {
     "official": {
-      "english": "___ is correct.",
+      "english": "▯ is correct.",
       "gloss": "correct"
     }
   },
   "dueq": {
     "official": {
-      "english": "___ is a field.",
+      "english": "▯ is a field.",
       "gloss": "field"
     },
     "frame": "c"
   },
   "duaı": {
     "official": {
-      "english": "___ must satisfy property ___.",
+      "english": "▯ must satisfy property ▯.",
       "gloss": "must"
     },
     "frame": "c 1"
   },
   "duao": {
     "official": {
-      "english": "___ is sweet/sugary.",
+      "english": "▯ is sweet/sugary.",
       "gloss": "sweet"
     },
     "frame": "c"
   },
   "dı": {
     "official": {
-      "english": "___ is allowed to satisfy property ___.",
+      "english": "▯ is allowed to satisfy property ▯.",
       "gloss": "allowed.to"
     },
     "frame": "c 1"
   },
   "dıa": {
     "official": {
-      "english": "___ decreases in how much it satisfies property ___.",
+      "english": "▯ decreases in how much it satisfies property ▯.",
       "gloss": "decrease"
     },
     "frame": "c 1"
   },
   "dıaı": {
     "official": {
-      "english": "___ are seven in number.",
+      "english": "▯ are seven in number.",
       "gloss": "seven"
     }
   },
   "dıaq": {
     "official": {
-      "english": "___ occurs at regular intervals; ___ satisfies property ___ at regular intervals.",
+      "english": "▯ occurs at regular intervals; ▯ satisfies property ▯ at regular intervals.",
       "gloss": "regular"
     },
     "frame": "0; c 1"
   },
   "dıu": {
     "official": {
-      "english": "___ is the branch of knowledge that studies ___; ___ is a science.",
+      "english": "▯ is the branch of knowledge that studies ▯; ▯ is a science.",
       "gloss": "science"
     },
     "frame": "c c"
   },
   "dıo": {
     "official": {
-      "english": "___ is a daytime.",
+      "english": "▯ is a daytime.",
       "gloss": "daytime"
     },
     "frame": "c"
   },
   "dıe": {
     "official": {
-      "english": "___ suggests ___.",
+      "english": "▯ suggests ▯.",
       "gloss": "suggest"
     },
     "frame": "c 0"
   },
   "dıeq": {
     "official": {
-      "english": "___ sends ___ to ___.",
+      "english": "▯ sends ▯ to ▯.",
       "gloss": "send"
     }
   },
   "dıao": {
     "official": {
-      "english": "___ is a drop.",
+      "english": "▯ is a drop.",
       "gloss": "drop"
     },
     "frame": "c"
@@ -764,498 +764,498 @@
   },
   "doq": {
     "official": {
-      "english": "___ is short.",
+      "english": "▯ is short.",
       "gloss": "short"
     },
     "frame": "c"
   },
   "doa": {
     "official": {
-      "english": "___ gives property ___ to ___.",
+      "english": "▯ gives property ▯ to ▯.",
       "gloss": "give"
     },
     "frame": "c c c"
   },
   "doaq": {
     "official": {
-      "english": "___ is a settlement/town/village/city.",
+      "english": "▯ is a settlement/town/village/city.",
       "gloss": "settlement"
     },
     "frame": "c"
   },
   "doaı": {
     "official": {
-      "english": "___ is bread.",
+      "english": "▯ is bread.",
       "gloss": "bread"
     }
   },
   "doe": {
-    "definition": "___ functions/performs property ___.",
+    "definition": "▯ functions/performs property ▯.",
     "gloss": "function",
     "frame": "c 1"
   },
   "de": {
     "official": {
-      "english": "___ is beautiful.",
+      "english": "▯ is beautiful.",
       "gloss": "beautiful"
     },
     "frame": "c"
   },
   "deq": {
     "official": {
-      "english": "___ is able / has the ability to satisfy property ___.",
+      "english": "▯ is able / has the ability to satisfy property ▯.",
       "gloss": "able"
     },
     "frame": "c 1"
   },
   "dea": {
     "official": {
-      "english": "___ hits/punches/kicks ___.",
+      "english": "▯ hits/punches/kicks ▯.",
       "gloss": "hit"
     },
     "frame": "c c"
   },
   "deaq": {
     "official": {
-      "english": "___ is a floor.",
+      "english": "▯ is a floor.",
       "gloss": "floor"
     },
     "frame": "c"
   },
   "deo": {
     "official": {
-      "english": "___ is a child.",
+      "english": "▯ is a child.",
       "gloss": "child"
     },
     "frame": "c"
   },
   "deoq": {
     "official": {
-      "english": "___ communicates to ___ that they (the former) satisfy property ___.",
+      "english": "▯ communicates to ▯ that they (the former) satisfy property ▯.",
       "gloss": "communicate"
     },
     "frame": "c c"
   },
   "fa": {
     "official": {
-      "english": "___ goes to ___ from ___.",
+      "english": "▯ goes to ▯ from ▯.",
       "gloss": "go"
     },
     "frame": "c c c"
   },
   "faq": {
     "official": {
-      "english": "___ happens / takes place.",
+      "english": "▯ happens / takes place.",
       "gloss": "happen"
     },
     "frame": "0"
   },
   "faı": {
     "official": {
-      "english": "___ is frequent/common in property ___.",
+      "english": "▯ is frequent/common in property ▯.",
       "gloss": "frequent"
     }
   },
   "fao": {
     "official": {
-      "english": "___ is an end/ending; ___ is an end/ending of ___.",
+      "english": "▯ is an end/ending; ▯ is an end/ending of ▯.",
       "gloss": "end"
     },
     "frame": "c 0"
   },
   "fu": {
     "official": {
-      "english": "___ is a biological offspring of ___.",
+      "english": "▯ is a biological offspring of ▯.",
       "gloss": "offspring"
     },
     "frame": "c c"
   },
   "fuq": {
     "official": {
-      "english": "___ is an article of clothing / garment / dress.",
+      "english": "▯ is an article of clothing / garment / dress.",
       "gloss": "clothing"
     },
     "frame": "c"
   },
   "fua": {
     "official": {
-      "english": "___ is an item of furniture.",
+      "english": "▯ is an item of furniture.",
       "gloss": "furniture"
     },
     "frame": "c"
   },
   "fuaq": {
     "official": {
-      "english": "___ is an image / a picture.",
+      "english": "▯ is an image / a picture.",
       "gloss": "picture"
     },
     "frame": "c"
   },
   "fuı": {
     "official": {
-      "english": "Satisfying property ___ is easy for ___.",
+      "english": "Satisfying property ▯ is easy for ▯.",
       "gloss": "easy"
     },
     "frame": "1 c"
   },
   "fuo": {
     "official": {
-      "english": "___ touches ___ (non-somatic); ___ is in contact with ___.",
+      "english": "▯ touches ▯ (non-somatic); ▯ is in contact with ▯.",
       "gloss": "touch"
     },
     "frame": "c c"
   },
   "fue": {
     "official": {
-      "english": "___ are a hundred in number.",
+      "english": "▯ are a hundred in number.",
       "gloss": "hundred"
     },
     "frame": "c"
   },
   "fuaı": {
     "official": {
-      "english": "___ is a committee.",
+      "english": "▯ is a committee.",
       "gloss": "committee"
     },
     "frame": "c"
   },
   "fıa": {
     "official": {
-      "english": "___ is previous to ___ in sequence ___; ___ precedes ___ in sequence ___.",
+      "english": "▯ is previous to ▯ in sequence ▯; ▯ precedes ▯ in sequence ▯.",
       "gloss": "previous"
     },
     "frame": "c c c"
   },
   "fıu": {
     "official": {
-      "english": "___ is shallow.",
+      "english": "▯ is shallow.",
       "gloss": "shallow"
     },
     "frame": "c"
   },
   "fıe": {
     "official": {
-      "english": "___ is ugly.",
+      "english": "▯ is ugly.",
       "gloss": "ugly"
     },
     "frame": "c"
   },
   "fıeq": {
     "official": {
-      "english": "___ creates/invents ___.",
+      "english": "▯ creates/invents ▯.",
       "gloss": "create"
     },
     "frame": "c c"
   },
   "foq": {
     "official": {
-      "english": "___ is a telephone.",
+      "english": "▯ is a telephone.",
       "gloss": "phone"
     },
     "frame": "c"
   },
   "foa": {
     "official": {
-      "english": "___ feels ___ (good or bad); ___ is ___ (ill or well).",
+      "english": "▯ feels ▯ (good or bad); ▯ is ▯ (ill or well).",
       "gloss": "feel"
     }
   },
   "foaq": {
     "official": {
-      "english": "___ is comfortable; ___ feels comfort; ___ feels comfort in satisfying property ___.",
+      "english": "▯ is comfortable; ▯ feels comfort; ▯ feels comfort in satisfying property ▯.",
       "gloss": "comfortable"
     },
     "frame": "c 1"
   },
   "foı": {
     "official": {
-      "english": "___ is boring/dull.",
+      "english": "▯ is boring/dull.",
       "gloss": "boring"
     },
     "frame": "c"
   },
   "fe": {
     "official": {
-      "english": "___ are five in number.",
+      "english": "▯ are five in number.",
       "gloss": "five"
     },
     "frame": "c"
   },
   "fea": {
     "official": {
-      "english": "___ endures ___.",
+      "english": "▯ endures ▯.",
       "gloss": "endure"
     },
     "frame": "c 1"
   },
   "feı": {
     "official": {
-      "english": "___ is angry/mad.",
+      "english": "▯ is angry/mad.",
       "gloss": "angry"
     },
     "frame": "c"
   },
   "feo": {
     "official": {
-      "english": "___ is a direction.",
+      "english": "▯ is a direction.",
       "gloss": "direction"
     },
     "frame": "c"
   },
   "gaq": {
     "official": {
-      "english": "___ accompanies / is with ___ in property ___.",
+      "english": "▯ accompanies / is with ▯ in property ▯.",
       "gloss": "accompany"
     },
     "frame": "c c 2"
   },
   "gaı": {
     "official": {
-      "english": "___ senses/observes/perceives ___.",
+      "english": "▯ senses/observes/perceives ▯.",
       "gloss": "perceive"
     },
     "frame": "c 0"
   },
   "gao": {
     "official": {
-      "english": "___ is above ___.",
+      "english": "▯ is above ▯.",
       "gloss": "above"
     },
     "frame": "c c"
   },
   "gu": {
     "official": {
-      "english": "___ are two in number.",
+      "english": "▯ are two in number.",
       "gloss": "two"
     },
     "frame": "c"
   },
   "guq": {
     "official": {
-      "english": "___ is below/underneath ___.",
+      "english": "▯ is below/underneath ▯.",
       "gloss": "below"
     },
     "frame": "c c"
   },
   "gua": {
     "official": {
-      "english": "___ is a country.",
+      "english": "▯ is a country.",
       "gloss": "country"
     },
     "frame": "c"
   },
   "guaq": {
     "official": {
-      "english": "___ is land/terrain.",
+      "english": "▯ is land/terrain.",
       "gloss": "land"
     },
     "frame": "c"
   },
   "guı": {
     "official": {
-      "english": "___ is grain/cereal.",
+      "english": "▯ is grain/cereal.",
       "gloss": "grain"
     },
     "frame": "c"
   },
   "guo": {
     "official": {
-      "english": "___ is a repetition/instance of ___.",
+      "english": "▯ is a repetition/instance of ▯.",
       "gloss": "instance"
     }
   },
   "guosa": {
     "official": {
-      "english": "___ happens sometimes.",
+      "english": "▯ happens sometimes.",
       "gloss": "sometimes"
     },
     "frame": "0"
   },
   "guoq": {
     "official": {
-      "english": "___ is an anus.",
+      "english": "▯ is an anus.",
       "gloss": "anus"
     },
     "frame": "c"
   },
   "gue": {
     "official": {
-      "english": "___ is curved/bent.",
+      "english": "▯ is curved/bent.",
       "gloss": "curved"
     },
     "frame": "c"
   },
   "guaı": {
     "official": {
-      "english": "___ works in satisfying property ___.",
+      "english": "▯ works in satisfying property ▯.",
       "gloss": "work"
     },
     "frame": "c 1"
   },
   "guao": {
     "official": {
-      "english": "___ is a furcation/fork/intersection/junction.",
+      "english": "▯ is a furcation/fork/intersection/junction.",
       "gloss": "furcation"
     },
     "frame": "c"
   },
   "gı": {
     "official": {
-      "english": "___ is good.",
+      "english": "▯ is good.",
       "gloss": "good"
     },
     "frame": "c"
   },
   "gıq": {
     "official": {
-      "english": "___ satisfies with reversed polarity property ___.",
+      "english": "▯ satisfies with reversed polarity property ▯.",
       "gloss": "opposite"
     },
     "frame": "c 1"
   },
   "gıa": {
     "official": {
-      "english": "___ is a ribbon/tape/strip/stripe.",
+      "english": "▯ is a ribbon/tape/strip/stripe.",
       "gloss": "ribbon"
     },
     "frame": "c"
   },
   "gıaq": {
     "official": {
-      "english": "___ is music.",
+      "english": "▯ is music.",
       "gloss": "music"
     },
     "frame": "c"
   },
   "gıu": {
     "official": {
-      "english": "___ is a line.",
+      "english": "▯ is a line.",
       "gloss": "line"
     },
     "frame": "c"
   },
   "gıo": {
     "official": {
-      "english": "___ is light.",
+      "english": "▯ is light.",
       "gloss": "light"
     },
     "frame": "c"
   },
   "gıe": {
     "official": {
-      "english": "___ is an arm.",
+      "english": "▯ is an arm.",
       "gloss": "arm"
     },
     "frame": "c"
   },
   "gıeq": {
     "official": {
-      "english": "___ shocks ___.",
+      "english": "▯ shocks ▯.",
       "gloss": "shock"
     }
   },
   "gıaı": {
     "official": {
-      "english": "___ incises/carves/scratches/engraves/cuts into ___.",
+      "english": "▯ incises/carves/scratches/engraves/cuts into ▯.",
       "gloss": "incise"
     }
   },
   "gıao": {
     "official": {
-      "english": "___ is dry.",
+      "english": "▯ is dry.",
       "gloss": "dry"
     },
     "frame": "c"
   },
   "goa": {
     "official": {
-      "english": "___ is space/room.",
+      "english": "▯ is space/room.",
       "gloss": "space"
     },
     "frame": "c"
   },
   "goaq": {
     "official": {
-      "english": "___ is smooth/even.",
+      "english": "▯ is smooth/even.",
       "gloss": "smooth"
     },
     "frame": "c"
   },
   "goı": {
     "official": {
-      "english": "___ treats/doctors ___.",
+      "english": "▯ treats/doctors ▯.",
       "gloss": "treat"
     },
     "frame": "c c"
   },
   "goaı": {
     "official": {
-      "english": "___ rubs against ___ (intransitive non-agentive).",
+      "english": "▯ rubs against ▯ (intransitive non-agentive).",
       "gloss": "rub"
     }
   },
   "goe": {
-    "definition": "___ will happen in ___ (amount of time) from now.",
+    "definition": "▯ will happen in ▯ (amount of time) from now.",
     "gloss": "in"
   },
   "ge": {
     "official": {
-      "english": "___ is a stimulus.",
+      "english": "▯ is a stimulus.",
       "gloss": "stimulus"
     },
     "frame": "c"
   },
   "geq": {
     "official": {
-      "english": "___ meets ___.",
+      "english": "▯ meets ▯.",
       "gloss": "meet"
     },
     "frame": "c c"
   },
   "gea": {
     "official": {
-      "english": "___ is high.",
+      "english": "▯ is high.",
       "gloss": "high"
     },
     "frame": "c"
   },
   "geaq": {
     "official": {
-      "english": "___ is dirty/unclean/contaminated.",
+      "english": "▯ is dirty/unclean/contaminated.",
       "gloss": "dirty"
     },
     "frame": "c"
   },
   "geı": {
     "official": {
-      "english": "___ wears ___.",
+      "english": "▯ wears ▯.",
       "gloss": "wear"
     },
     "frame": "c c"
   },
   "geo": {
     "official": {
-      "english": "___ is old.",
+      "english": "▯ is old.",
       "gloss": "old"
     },
     "frame": "c"
   },
   "ha": {
     "official": {
-      "english": "___ is one/you/they (generic impersonal pronoun).",
+      "english": "▯ is one/you/they (generic impersonal pronoun).",
       "gloss": "one"
     }
   },
   "haq": {
     "official": {
-      "english": "___ is food.",
+      "english": "▯ is food.",
       "gloss": "food"
     },
     "frame": "c"
   },
   "haı": {
     "official": {
-      "english": "___ is already the case; ___ already satisfies property ___.",
+      "english": "▯ is already the case; ▯ already satisfies property ▯.",
       "gloss": "already"
     },
     "frame": "0; c 1"
@@ -1268,118 +1268,118 @@
   },
   "hua": {
     "official": {
-      "english": "___ is a body part.",
+      "english": "▯ is a body part.",
       "gloss": "body.part"
     },
     "frame": "c"
   },
   "huaq": {
     "official": {
-      "english": "___ is more the case than ___; ___ is more than ___ in property ___.",
+      "english": "▯ is more the case than ▯; ▯ is more than ▯ in property ▯.",
       "gloss": "more"
     },
     "frame": "c c 1"
   },
   "huı": {
     "official": {
-      "english": "___ is bad.",
+      "english": "▯ is bad.",
       "gloss": "bad"
     },
     "frame": "c"
   },
   "huo": {
     "official": {
-      "english": "___ is auditory; ___ pertains to the sense of hearing/audition.",
+      "english": "▯ is auditory; ▯ pertains to the sense of hearing/audition.",
       "gloss": "auditory"
     },
     "frame": "c"
   },
   "huoı": {
     "official": {
-      "english": "___ is a tail.",
+      "english": "▯ is a tail.",
       "gloss": "tail"
     },
     "frame": "c"
   },
   "hue": {
     "official": {
-      "english": "___ is a feather.",
+      "english": "▯ is a feather.",
       "gloss": "feather"
     }
   },
   "huaı": {
     "official": {
-      "english": "___ scoops ___ out of ___.",
+      "english": "▯ scoops ▯ out of ▯.",
       "gloss": "scoop"
     },
     "frame": "c c c"
   },
   "huao": {
     "official": {
-      "english": "___ is loose.",
+      "english": "▯ is loose.",
       "gloss": "loose"
     },
     "frame": "c"
   },
   "hıaq": {
     "official": {
-      "english": "___ is poor in property ___.",
+      "english": "▯ is poor in property ▯.",
       "gloss": "poor"
     },
     "frame": "c 2"
   },
   "hıu": {
     "official": {
-      "english": "___ is a river.",
+      "english": "▯ is a river.",
       "gloss": "river"
     },
     "frame": "c"
   },
   "hıo": {
     "official": {
-      "english": "___ greets ___.",
+      "english": "▯ greets ▯.",
       "gloss": "greet"
     },
     "frame": "c c"
   },
   "hıoq": {
     "official": {
-      "english": "___ is proud / feels pride.",
+      "english": "▯ is proud / feels pride.",
       "gloss": "proud"
     },
     "frame": "c"
   },
   "hıe": {
     "official": {
-      "english": "___ carries/bears/hauls ___.",
+      "english": "▯ carries/bears/hauls ▯.",
       "gloss": "carry"
     },
     "frame": "c c"
   },
   "hıaı": {
     "official": {
-      "english": "___ laughs.",
+      "english": "▯ laughs.",
       "gloss": "laugh"
     },
     "frame": "c"
   },
   "hıao": {
     "official": {
-      "english": "___ harms/injures ___.",
+      "english": "▯ harms/injures ▯.",
       "gloss": "harm"
     },
     "frame": "c c"
   },
   "ho": {
     "official": {
-      "english": "___ is him/her/it / are them.",
+      "english": "▯ is him/her/it / are them.",
       "gloss": "they"
     },
     "frame": "c"
   },
   "hoq": {
     "official": {
-      "english": "___ is it (abstract).",
+      "english": "▯ is it (abstract).",
       "gloss": "it"
     },
     "frame": "c"
@@ -1392,2368 +1392,2368 @@
   },
   "hoaq": {
     "official": {
-      "english": "___ burns.",
+      "english": "▯ burns.",
       "gloss": "burn"
     },
     "frame": "c"
   },
   "hoı": {
     "official": {
-      "english": "___ are the aforementioned things; ___ is/are the aforementioned things that satisfy property ___.",
+      "english": "▯ are the aforementioned things; ▯ is/are the aforementioned things that satisfy property ▯.",
       "gloss": "aforementioned"
     },
     "frame": "c 1"
   },
   "hoaı": {
     "official": {
-      "english": "___ is still the case.",
+      "english": "▯ is still the case.",
       "gloss": "still"
     }
   },
   "hoe": {
-    "definition": "___ is a sun.",
+    "definition": "▯ is a sun.",
     "gloss": "sun",
     "frame": "c"
   },
   "he": {
     "official": {
-      "english": "___ is generally the case; ___ is how things generally are. (gnomic aspect)",
+      "english": "▯ is generally the case; ▯ is how things generally are. (gnomic aspect)",
       "gloss": "generally"
     }
   },
   "heq": {
     "official": {
-      "english": "___ contains ___.",
+      "english": "▯ contains ▯.",
       "gloss": "contain"
     },
     "frame": "c c"
   },
   "hea": {
     "official": {
-      "english": "___ is a piece/chunk; ___ is a piece/chunk of substance ___.",
+      "english": "▯ is a piece/chunk; ▯ is a piece/chunk of substance ▯.",
       "gloss": "piece"
     },
     "frame": "c c"
   },
   "heaq": {
     "official": {
-      "english": "___ carries/holds ___.",
+      "english": "▯ carries/holds ▯.",
       "gloss": "carry"
     },
     "frame": "c c"
   },
   "heı": {
     "official": {
-      "english": "___ are ten in number.",
+      "english": "▯ are ten in number.",
       "gloss": "ten"
     },
     "frame": "c"
   },
   "heu": {
     "official": {
-      "english": "___ is a fruit.",
+      "english": "▯ is a fruit.",
       "gloss": "fruit"
     },
     "frame": "c"
   },
   "heo": {
     "official": {
-      "english": "___ is different from ___; ___ differs from ___ in property ___.",
+      "english": "▯ is different from ▯; ▯ differs from ▯ in property ▯.",
       "gloss": "different"
     },
     "frame": "c c 2"
   },
   "heoq": {
     "official": {
-      "english": "___ is a waist.",
+      "english": "▯ is a waist.",
       "gloss": "waist"
     },
     "frame": "c"
   },
   "jaq": {
     "official": {
-      "english": "___ is very much the case; ___ is very/extremely ___.",
+      "english": "▯ is very much the case; ▯ is very/extremely ▯.",
       "gloss": "very"
     },
     "frame": "c 1"
   },
   "jaı": {
     "official": {
-      "english": "___ is happy/glad/joyful.",
+      "english": "▯ is happy/glad/joyful.",
       "gloss": "happy"
     },
     "frame": "c"
   },
   "jao": {
     "official": {
-      "english": "___ is far away from ___ in property ___.",
+      "english": "▯ is far away from ▯ in property ▯.",
       "gloss": "far"
     },
     "frame": "c c 2"
   },
   "juq": {
     "official": {
-      "english": "___ gets/acquires property ___.",
+      "english": "▯ gets/acquires property ▯.",
       "gloss": "acquire"
     },
     "frame": "c 1"
   },
   "jua": {
     "official": {
-      "english": "___ is weird/strange/bizarre.",
+      "english": "▯ is weird/strange/bizarre.",
       "gloss": "weird"
     },
     "frame": "c"
   },
   "juaq": {
     "official": {
-      "english": "Even ___ is the case; even ___ satisfies property ___.",
+      "english": "Even ▯ is the case; even ▯ satisfies property ▯.",
       "gloss": "even"
     },
     "frame": "0; c 1"
   },
   "juı": {
     "official": {
-      "english": "___ is near ___ in property ___.",
+      "english": "▯ is near ▯ in property ▯.",
       "gloss": "near"
     },
     "frame": "c c 2"
   },
   "juo": {
     "official": {
-      "english": "___ is a letter (written message).",
+      "english": "▯ is a letter (written message).",
       "gloss": "letter"
     }
   },
   "juoı": {
     "official": {
-      "english": "___ describes ___ as satisfying property ___.",
+      "english": "▯ describes ▯ as satisfying property ▯.",
       "gloss": "describe"
     }
   },
   "juoq": {
-    "definition": "___ should satisfy property ___.",
+    "definition": "▯ should satisfy property ▯.",
     "gloss": "should",
     "frame": "c 1"
   },
   "jue": {
     "official": {
-      "english": "___ is a month.",
+      "english": "▯ is a month.",
       "gloss": "month"
     },
     "frame": "c"
   },
   "juaı": {
     "official": {
-      "english": "___ is serious/earnest.",
+      "english": "▯ is serious/earnest.",
       "gloss": "serious"
     },
     "frame": "c"
   },
   "juao": {
     "official": {
-      "english": "___ is a rule/law.",
+      "english": "▯ is a rule/law.",
       "gloss": "rule"
     }
   },
   "jı": {
     "official": {
-      "english": "___ is me / the speaker.",
+      "english": "▯ is me / the speaker.",
       "gloss": "me"
     },
     "frame": "c"
   },
   "jıq": {
     "official": {
-      "english": "___ exists / is real/actual.",
+      "english": "▯ exists / is real/actual.",
       "gloss": "actual"
     },
     "frame": "c"
   },
   "jıa": {
     "official": {
-      "english": "___ will happen.",
+      "english": "▯ will happen.",
       "gloss": "will.be"
     },
     "frame": "0"
   },
   "jıaq": {
     "official": {
-      "english": "___ is a world.",
+      "english": "▯ is a world.",
       "gloss": "world"
     },
     "frame": "c"
   },
   "jıu": {
     "official": {
-      "english": "___ is born.",
+      "english": "▯ is born.",
       "gloss": "born"
     },
     "frame": "c"
   },
   "jıo": {
     "official": {
-      "english": "___ is a building.",
+      "english": "▯ is a building.",
       "gloss": "building"
     },
     "frame": "c"
   },
   "jıoq": {
     "official": {
-      "english": "___ calculates ___.",
+      "english": "▯ calculates ▯.",
       "gloss": "calculate"
     },
     "frame": "c c"
   },
   "jıe": {
     "official": {
-      "english": "___ is as ___ deems/judges/evaluates things to be.",
+      "english": "▯ is as ▯ deems/judges/evaluates things to be.",
       "gloss": "deemed"
     },
     "frame": "0 c"
   },
   "jıeq": {
     "official": {
-      "english": "___ is a tip / pointed end.",
+      "english": "▯ is a tip / pointed end.",
       "gloss": "tip"
     },
     "frame": "c"
   },
   "jıaı": {
     "official": {
-      "english": "___ grasps/holds ___.",
+      "english": "▯ grasps/holds ▯.",
       "gloss": "grasp"
     },
     "frame": "c c"
   },
   "jıao": {
     "official": {
-      "english": "___ is a god.",
+      "english": "▯ is a god.",
       "gloss": "god"
     },
     "frame": "c"
   },
   "jo": {
     "official": {
-      "english": "___ are four in number.",
+      "english": "▯ are four in number.",
       "gloss": "four"
     },
     "frame": "c"
   },
   "joq": {
     "official": {
-      "english": "___ is main/chief among ___.",
+      "english": "▯ is main/chief among ▯.",
       "gloss": "main"
     },
     "frame": "c c"
   },
   "joa": {
     "official": {
-      "english": "___ is a week.",
+      "english": "▯ is a week.",
       "gloss": "week"
     },
     "frame": "c"
   },
   "joaq": {
     "official": {
-      "english": "___ is a leader of ___.",
+      "english": "▯ is a leader of ▯.",
       "gloss": "leader"
     },
     "frame": "c c"
   },
   "joı": {
     "official": {
-      "english": "___ is case the case along with ___; ___ happens together with ___.",
+      "english": "▯ is case the case along with ▯; ▯ happens together with ▯.",
       "gloss": "along.with"
     },
     "frame": "0 0"
   },
   "joaı": {
     "official": {
-      "english": "___ looks/searches for something which satisfies property ___ among ___.",
+      "english": "▯ looks/searches for something which satisfies property ▯ among ▯.",
       "gloss": "seek"
     },
     "frame": "c 1 c"
   },
   "joe": {
     "official": {
-      "english": "___ is skilled at satisfying property ___.",
+      "english": "▯ is skilled at satisfying property ▯.",
       "gloss": "skilled"
     },
     "frame": "c 1"
   },
   "jeq": {
     "official": {
-      "english": "___ is the same as ___ in property ___.",
+      "english": "▯ is the same as ▯ in property ▯.",
       "gloss": "same"
     },
     "frame": "c c 2"
   },
   "jea": {
     "official": {
-      "english": "___ makes a purchase; ___ buys property ___; ___ buys property ___ from ___.",
+      "english": "▯ makes a purchase; ▯ buys property ▯; ▯ buys property ▯ from ▯.",
       "gloss": "buy"
     },
     "frame": "c c c"
   },
   "jeaq": {
     "official": {
-      "english": "___ increases; ___ increases in how much it satisfies property ___.",
+      "english": "▯ increases; ▯ increases in how much it satisfies property ▯.",
       "gloss": "increase"
     },
     "frame": "0; c 1"
   },
   "jeo": {
     "official": {
-      "english": "___ is true / is the case; ___ satisfies property ___.",
+      "english": "▯ is true / is the case; ▯ satisfies property ▯.",
       "gloss": "is.true"
     },
     "frame": "0; c 1"
   },
   "jeoq": {
     "official": {
-      "english": "___ is a concave shape; ___ is a cavity/hollow/cavern.",
+      "english": "▯ is a concave shape; ▯ is a cavity/hollow/cavern.",
       "gloss": "concave"
     }
   },
   "kaq": {
     "official": {
-      "english": "___ is visual/optical; ___ pertains to the sense of sight/vision.",
+      "english": "▯ is visual/optical; ▯ pertains to the sense of sight/vision.",
       "gloss": "visual"
     },
     "frame": "c"
   },
   "kaı": {
     "official": {
-      "english": "___ writes ___ on ___.",
+      "english": "▯ writes ▯ on ▯.",
       "gloss": "write"
     },
     "frame": "c c c"
   },
   "kao": {
     "official": {
-      "english": "___ is a record of information/data ___.",
+      "english": "▯ is a record of information/data ▯.",
       "gloss": "record"
     }
   },
   "kuq": {
     "official": {
-      "english": "___ says ___ to ___.",
+      "english": "▯ says ▯ to ▯.",
       "gloss": "say"
     },
     "frame": "c c c"
   },
   "kua": {
     "official": {
-      "english": "___ is a room.",
+      "english": "▯ is a room.",
       "gloss": "room"
     },
     "frame": "c"
   },
   "kuaq": {
     "official": {
-      "english": "___ expresses property ___.",
+      "english": "▯ expresses property ▯.",
       "gloss": "express"
     },
     "frame": "c 1"
   },
   "kuı": {
     "official": {
-      "english": "___ is the case because ___.",
+      "english": "▯ is the case because ▯.",
       "gloss": "because"
     },
     "frame": "0 0"
   },
   "kuo": {
     "official": {
-      "english": "___ is the colour black.",
+      "english": "▯ is the colour black.",
       "gloss": "black"
     },
     "frame": "c"
   },
   "kuoı": {
     "official": {
-      "english": "___ is less than ___ in property ___.",
+      "english": "▯ is less than ▯ in property ▯.",
       "gloss": "less"
     },
     "frame": "c c 1"
   },
   "kuoq": {
     "official": {
-      "english": "___ is a bone.",
+      "english": "▯ is a bone.",
       "gloss": "bone"
     },
     "frame": "c"
   },
   "kue": {
     "official": {
-      "english": "___ is a book.",
+      "english": "▯ is a book.",
       "gloss": "book"
     },
     "frame": "c"
   },
   "kueq": {
     "official": {
-      "english": "___ (plural) gather/collect at locus ___ (instransitive and non-agentive).",
+      "english": "▯ (plural) gather/collect at locus ▯ (instransitive and non-agentive).",
       "gloss": "gather"
     }
   },
   "kuaı": {
     "official": {
-      "english": "___ hungers/urges/longs for property ___.",
+      "english": "▯ hungers/urges/longs for property ▯.",
       "gloss": "urge.for"
     },
     "frame": "c 1"
   },
   "kuao": {
     "official": {
-      "english": "___ is the colour cyan.",
+      "english": "▯ is the colour cyan.",
       "gloss": "cyan"
     },
     "frame": "c"
   },
   "kıq": {
     "official": {
-      "english": "___ is a movie/film.",
+      "english": "▯ is a movie/film.",
       "gloss": "movie"
     },
     "frame": "c"
   },
   "kıa": {
     "official": {
-      "english": "___ is the colour red.",
+      "english": "▯ is the colour red.",
       "gloss": "red"
     },
     "frame": "c"
   },
   "kıaq": {
     "official": {
-      "english": "___ is a hair.",
+      "english": "▯ is a hair.",
       "gloss": "hair"
     },
     "frame": "c"
   },
   "kıu": {
     "official": {
-      "english": "___ is ___able.",
+      "english": "▯ is ▯able.",
       "gloss": "-able"
     },
     "frame": "c 2"
   },
   "kıoq": {
     "official": {
-      "english": "___ is a ball/sphere.",
+      "english": "▯ is a ball/sphere.",
       "gloss": "ball"
     },
     "frame": "c"
   },
   "kıe": {
     "official": {
-      "english": "___ is thankful/grateful to ___ for satisfying property ___.",
+      "english": "▯ is thankful/grateful to ▯ for satisfying property ▯.",
       "gloss": "thankful"
     },
     "frame": "c c 1"
   },
   "kıeq": {
     "official": {
-      "english": "___ experiences disgust.",
+      "english": "▯ experiences disgust.",
       "gloss": "disgusted"
     },
     "frame": "c"
   },
   "kıaı": {
     "official": {
-      "english": "___ looks after ___; ___ takes care of ___.",
+      "english": "▯ looks after ▯; ▯ takes care of ▯.",
       "gloss": "look.after"
     },
     "frame": "c c"
   },
   "kıao": {
     "official": {
-      "english": "___ is a doorway.",
+      "english": "▯ is a doorway.",
       "gloss": "door"
     },
     "frame": "c"
   },
   "ko": {
     "official": {
-      "english": "___ is the xth among ___ where x is the numerosity of any things satisfying property ___ sorted by property ___.",
+      "english": "▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.",
       "gloss": "nth"
     }
   },
   "koq": {
     "official": {
-      "english": "___ is rough/uneven.",
+      "english": "▯ is rough/uneven.",
       "gloss": "rough"
     },
     "frame": "c"
   },
   "koa": {
     "official": {
-      "english": "___ is cold/cool.",
+      "english": "▯ is cold/cool.",
       "gloss": "cold"
     },
     "frame": "c"
   },
   "koaq": {
     "official": {
-      "english": "___ is mature/ripe/full-grown/adult.",
+      "english": "▯ is mature/ripe/full-grown/adult.",
       "gloss": "mature"
     },
     "frame": "c"
   },
   "koı": {
     "official": {
-      "english": "___ ambulates.",
+      "english": "▯ ambulates.",
       "gloss": "ambulate"
     },
     "frame": "c"
   },
   "koaı": {
     "official": {
-      "english": "___ is a net/web/sieve/filter.",
+      "english": "▯ is a net/web/sieve/filter.",
       "gloss": "net"
     }
   },
   "koe": {
-    "definition": "___ chooses ___ out of ___ for ___.",
+    "definition": "▯ chooses ▯ out of ▯ for ▯.",
     "gloss": "choose",
     "frame": "c c c 1"
   },
   "keq": {
     "official": {
-      "english": "___ are feces; ___ is excrement/shit/poo.",
+      "english": "▯ are feces; ▯ is excrement/shit/poo.",
       "gloss": "feces"
     },
     "frame": "c"
   },
   "kea": {
     "official": {
-      "english": "___ is a machine/apparatus performing function ___.",
+      "english": "▯ is a machine/apparatus performing function ▯.",
       "gloss": "machine"
     },
     "frame": "c 1"
   },
   "keaq": {
     "official": {
-      "english": "___ is salty.",
+      "english": "▯ is salty.",
       "gloss": "salty"
     },
     "frame": "c"
   },
   "laq": {
     "official": {
-      "english": "___ is a sound; ___ is audio.",
+      "english": "▯ is a sound; ▯ is audio.",
       "gloss": "sound"
     },
     "frame": "c"
   },
   "laı": {
     "official": {
-      "english": "___ is a letter/glyph/sign/character/symbol/graphical component signifying ___.",
+      "english": "▯ is a letter/glyph/sign/character/symbol/graphical component signifying ▯.",
       "gloss": "letter"
     }
   },
   "lao": {
     "official": {
-      "english": "___ waits for ___ to be the case.",
+      "english": "▯ waits for ▯ to be the case.",
       "gloss": "wait"
     },
     "frame": "c 0"
   },
   "luq": {
     "official": {
-      "english": "___ is calm/silent.",
+      "english": "▯ is calm/silent.",
       "gloss": "calm"
     },
     "frame": "c"
   },
   "lua": {
     "official": {
-      "english": "___ is a story.",
+      "english": "▯ is a story.",
       "gloss": "story"
     },
     "frame": "c"
   },
   "luaq": {
     "official": {
-      "english": "___ plays / has fun with / uses for entertainment ___.",
+      "english": "▯ plays / has fun with / uses for entertainment ▯.",
       "gloss": "play"
     },
     "frame": "c c"
   },
   "luı": {
     "official": {
-      "english": "___ has taken place.",
+      "english": "▯ has taken place.",
       "gloss": "has.happened"
     },
     "frame": "0"
   },
   "luo": {
     "official": {
-      "english": "___ is a family.",
+      "english": "▯ is a family.",
       "gloss": "family"
     },
     "frame": "c"
   },
   "luoq": {
     "official": {
-      "english": "___ is in balance with ___.",
+      "english": "▯ is in balance with ▯.",
       "gloss": "balanced"
     }
   },
   "lue": {
     "official": {
-      "english": "___ is the colour yellow.",
+      "english": "▯ is the colour yellow.",
       "gloss": "yellow"
     },
     "frame": "c"
   },
   "lueq": {
     "official": {
-      "english": "___ serves ___ with property ___.",
+      "english": "▯ serves ▯ with property ▯.",
       "gloss": "serve"
     },
     "frame": "c c 1"
   },
   "luaı": {
     "official": {
-      "english": "___ is funny/comical.",
+      "english": "▯ is funny/comical.",
       "gloss": "funny"
     }
   },
   "luao": {
     "official": {
-      "english": "___ is a lip (general sense).",
+      "english": "▯ is a lip (general sense).",
       "gloss": "lip"
     },
     "frame": "c"
   },
   "lıq": {
     "official": {
-      "english": "___ is female.",
+      "english": "▯ is female.",
       "gloss": "female"
     },
     "frame": "c"
   },
   "lıa": {
     "official": {
-      "english": "___ is beside ___; ___ is to the side of ___; ___ is next to ___.",
+      "english": "▯ is beside ▯; ▯ is to the side of ▯; ▯ is next to ▯.",
       "gloss": "beside"
     },
     "frame": "c c"
   },
   "lıaq": {
     "official": {
-      "english": "___ is a ___-tuple.",
+      "english": "▯ is a ▯-tuple.",
       "gloss": "tuple"
     }
   },
   "lıu": {
     "official": {
-      "english": "___ is light in weight.",
+      "english": "▯ is light in weight.",
       "gloss": "light"
     },
     "frame": "c"
   },
   "lıo": {
     "official": {
-      "english": "___ is to the left of ___.",
+      "english": "▯ is to the left of ▯.",
       "gloss": "left"
     },
     "frame": "c c"
   },
   "lıe": {
     "official": {
-      "english": "___ experiences satisfying property ___.",
+      "english": "▯ experiences satisfying property ▯.",
       "gloss": "experience"
     },
     "frame": "c 1"
   },
   "lıeq": {
     "official": {
-      "english": "___ is a wedge.",
+      "english": "▯ is a wedge.",
       "gloss": "wedge"
     },
     "frame": "c"
   },
   "lıaı": {
     "official": {
-      "english": "___ swims.",
+      "english": "▯ swims.",
       "gloss": "swim"
     },
     "frame": "c"
   },
   "lıao": {
     "official": {
-      "english": "___ is a fungus/mushroom/mold.",
+      "english": "▯ is a fungus/mushroom/mold.",
       "gloss": "fungus"
     },
     "frame": "c"
   },
   "loq": {
     "official": {
-      "english": "___ is hot/warm.",
+      "english": "▯ is hot/warm.",
       "gloss": "hot"
     },
     "frame": "c"
   },
   "loa": {
     "official": {
-      "english": "___ is the colour purple.",
+      "english": "▯ is the colour purple.",
       "gloss": "purple"
     },
     "frame": "c"
   },
   "loaq": {
     "official": {
-      "english": "___ is a buttocks/ass/behind.",
+      "english": "▯ is a buttocks/ass/behind.",
       "gloss": "buttocks"
     },
     "frame": "c"
   },
   "loı": {
     "official": {
-      "english": "___ hates ___.",
+      "english": "▯ hates ▯.",
       "gloss": "hate"
     },
     "frame": "c c"
   },
   "loaı": {
     "official": {
-      "english": "___ flows.",
+      "english": "▯ flows.",
       "gloss": "flow"
     }
   },
   "loe": {
-    "definition": "___ is a flame/fire.",
+    "definition": "▯ is a flame/fire.",
     "gloss": "flame"
   },
   "le": {
     "official": {
-      "english": "___ is likely/probable.",
+      "english": "▯ is likely/probable.",
       "gloss": "likely"
     },
     "frame": "0"
   },
   "leq": {
     "official": {
-      "english": "___ is a tongue.",
+      "english": "▯ is a tongue.",
       "gloss": "tongue"
     },
     "frame": "c"
   },
   "lea": {
     "official": {
-      "english": "___ is art.",
+      "english": "▯ is art.",
       "gloss": "art"
     },
     "frame": "c"
   },
   "leaq": {
     "official": {
-      "english": "___ is adjacent to ___ in property ___.",
+      "english": "▯ is adjacent to ▯ in property ▯.",
       "gloss": "adjacent"
     },
     "frame": "c c 2"
   },
   "leı": {
     "official": {
-      "english": "___ is rare in property ___.",
+      "english": "▯ is rare in property ▯.",
       "gloss": "rare"
     },
     "frame": "c 2"
   },
   "leo": {
     "official": {
-      "english": "___ tries to satisfy property ___.",
+      "english": "▯ tries to satisfy property ▯.",
       "gloss": "try"
     },
     "frame": "c 1"
   },
   "leoq": {
     "official": {
-      "english": "___ shields ___ from ___.",
+      "english": "▯ shields ▯ from ▯.",
       "gloss": "shield"
     }
   },
   "maq": {
     "official": {
-      "english": "___ is it (non-personal concrete).",
+      "english": "▯ is it (non-personal concrete).",
       "gloss": "it"
     },
     "frame": "c"
   },
   "maı": {
     "official": {
-      "english": "___ loves ___.",
+      "english": "▯ loves ▯.",
       "gloss": "love"
     },
     "frame": "c c"
   },
   "mao": {
     "official": {
-      "english": "___ is also the case; ___ also satisfies property ___.",
+      "english": "▯ is also the case; ▯ also satisfies property ▯.",
       "gloss": "also"
     },
     "frame": "0; c 1"
   },
   "mu": {
     "official": {
-      "english": "___ satisfies property ___ with the first and second places swapped.",
+      "english": "▯ satisfies property ▯ with the first and second places swapped.",
       "gloss": "-ed"
     }
   },
   "muq": {
     "official": {
-      "english": "___ is a hand.",
+      "english": "▯ is a hand.",
       "gloss": "hand"
     },
     "frame": "c"
   },
   "mua": {
     "official": {
-      "english": "___ is an example of ___.",
+      "english": "▯ is an example of ▯.",
       "gloss": "example"
     }
   },
   "muaq": {
     "official": {
-      "english": "___ is dead.",
+      "english": "▯ is dead.",
       "gloss": "dead"
     },
     "frame": "c"
   },
   "muı": {
     "official": {
-      "english": "___ is a meaning of ___.",
+      "english": "▯ is a meaning of ▯.",
       "gloss": "meaning"
     }
   },
   "muo": {
     "official": {
-      "english": "___ is whole/complete in aspect ___.",
+      "english": "▯ is whole/complete in aspect ▯.",
       "gloss": "whole"
     },
     "frame": "c 1"
   },
   "muoı": {
     "official": {
-      "english": "___ rotates/spins/turns.",
+      "english": "▯ rotates/spins/turns.",
       "gloss": "rotate"
     },
     "frame": "c"
   },
   "muoq": {
     "official": {
-      "english": "___ is made of ___.",
+      "english": "▯ is made of ▯.",
       "gloss": "made.of"
     },
     "frame": "c c"
   },
   "muaı": {
     "official": {
-      "english": "___ has an umami taste.",
+      "english": "▯ has an umami taste.",
       "gloss": "umami"
     },
     "frame": "c"
   },
   "muao": {
     "official": {
-      "english": "___ is a tree.",
+      "english": "▯ is a tree.",
       "gloss": "tree"
     },
     "frame": "c"
   },
   "mıq": {
     "official": {
-      "english": "___ is infinite in property ___.",
+      "english": "▯ is infinite in property ▯.",
       "gloss": "infinite"
     },
     "frame": "c 2"
   },
   "mıa": {
     "official": {
-      "english": "___ is rich in relation ___; ___ is in relation ___ to/with many things.",
+      "english": "▯ is rich in relation ▯; ▯ is in relation ▯ to/with many things.",
       "gloss": "rich"
     },
     "frame": "c 2"
   },
   "mıaq": {
     "official": {
-      "english": "___ is the value of ___.",
+      "english": "▯ is the value of ▯.",
       "gloss": "value"
     }
   },
   "mıu": {
     "official": {
-      "english": "___ opines/thinks that ___ is the case.",
+      "english": "▯ opines/thinks that ▯ is the case.",
       "gloss": "opine"
     },
     "frame": "c 0"
   },
   "mıo": {
     "official": {
-      "english": "___ is the colour blue.",
+      "english": "▯ is the colour blue.",
       "gloss": "blue"
     },
     "frame": "c"
   },
   "mıe": {
     "official": {
-      "english": "___ lives / is alive.",
+      "english": "▯ lives / is alive.",
       "gloss": "alive"
     },
     "frame": "c"
   },
   "mıeq": {
     "official": {
-      "english": "___ measures/evaluates/determines what satisfies property ___.",
+      "english": "▯ measures/evaluates/determines what satisfies property ▯.",
       "gloss": "measure"
     },
     "frame": "c 1"
   },
   "mıaı": {
     "official": {
-      "english": "___ rhymes with ___.",
+      "english": "▯ rhymes with ▯.",
       "gloss": "rhyme"
     },
     "frame": "c c"
   },
   "mıao": {
     "official": {
-      "english": "___ is a moon.",
+      "english": "▯ is a moon.",
       "gloss": "moon"
     },
     "frame": "c"
   },
   "moa": {
     "official": {
-      "english": "___ is a point in ___.",
+      "english": "▯ is a point in ▯.",
       "gloss": "point"
     },
     "frame": "c c"
   },
   "moaı": {
     "official": {
-      "english": "___ is thick.",
+      "english": "▯ is thick.",
       "gloss": "thick"
     },
     "frame": "c"
   },
   "moaq": {
     "official": {
-      "english": "___ remembers ___.",
+      "english": "▯ remembers ▯.",
       "gloss": "remember"
     },
     "frame": "c 0"
   },
   "moı": {
     "official": {
-      "english": "___ thinks / is having a thought; ___ thinks thought ___.",
+      "english": "▯ thinks / is having a thought; ▯ thinks thought ▯.",
       "gloss": "think"
     },
     "frame": "c 0"
   },
   "moe": {
     "official": {
-      "english": "___ feels ___; ___ has emotion ___.",
+      "english": "▯ feels ▯; ▯ has emotion ▯.",
       "gloss": "feel"
     }
   },
   "me": {
     "official": {
-      "english": "___ is an aggregate of ___.",
+      "english": "▯ is an aggregate of ▯.",
       "gloss": "aggregate"
     },
     "frame": "c c"
   },
   "mea": {
     "official": {
-      "english": "___ is among ___.",
+      "english": "▯ is among ▯.",
       "gloss": "among"
     },
     "frame": "c c"
   },
   "meaq": {
     "official": {
-      "english": "___ is a ship/boat/vessel.",
+      "english": "▯ is a ship/boat/vessel.",
       "gloss": "ship"
     },
     "frame": "c"
   },
   "meı": {
     "official": {
-      "english": "___ is a mountain/hill.",
+      "english": "▯ is a mountain/hill.",
       "gloss": "mountain"
     },
     "frame": "c"
   },
   "meo": {
     "official": {
-      "english": "___ is sad.",
+      "english": "▯ is sad.",
       "gloss": "sad"
     },
     "frame": "c"
   },
   "meoq": {
     "official": {
-      "english": "___ is slow; ___ slowly satisfies property ___.",
+      "english": "▯ is slow; ▯ slowly satisfies property ▯.",
       "gloss": "slow"
     },
     "frame": "0; c 1"
   },
   "naq": {
     "official": {
-      "english": "___ is male.",
+      "english": "▯ is male.",
       "gloss": "male"
     },
     "frame": "c"
   },
   "naı": {
     "official": {
-      "english": "___ happens now.",
+      "english": "▯ happens now.",
       "gloss": "is"
     },
     "frame": "0"
   },
   "nao": {
     "official": {
-      "english": "___ is water.",
+      "english": "▯ is water.",
       "gloss": "water"
     },
     "frame": "c"
   },
   "nu": {
     "official": {
-      "english": "___ is such / is like that.",
+      "english": "▯ is such / is like that.",
       "gloss": "such"
     },
     "frame": "c"
   },
   "nuq": {
     "official": {
-      "english": "___ is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification).",
+      "english": "▯ is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification).",
       "gloss": "worm-like"
     },
     "frame": "c"
   },
   "nua": {
     "official": {
-      "english": "___ takes/removes property ___ from ___.",
+      "english": "▯ takes/removes property ▯ from ▯.",
       "gloss": "take"
     },
     "frame": "c 1 c"
   },
   "nuaq": {
     "official": {
-      "english": "___ is a night.",
+      "english": "▯ is a night.",
       "gloss": "night"
     },
     "frame": "c"
   },
   "nuı": {
     "official": {
-      "english": "___ is small/little.",
+      "english": "▯ is small/little.",
       "gloss": "small"
     },
     "frame": "c"
   },
   "nuo": {
     "official": {
-      "english": "___ sleeps / is asleep.",
+      "english": "▯ sleeps / is asleep.",
       "gloss": "sleep"
     },
     "frame": "c"
   },
   "nuoı": {
     "official": {
-      "english": "___ chews; ___ chews ___; ___ chews on ___.",
+      "english": "▯ chews; ▯ chews ▯; ▯ chews on ▯.",
       "gloss": "masticate"
     }
   },
   "nuoq": {
-    "definition": "___ reflects/mirrors/echoes ___.",
+    "definition": "▯ reflects/mirrors/echoes ▯.",
     "gloss": "reflect"
   },
   "nue": {
     "official": {
-      "english": "___ promises/threatens to ___ to satisfy property ___.",
+      "english": "▯ promises/threatens to ▯ to satisfy property ▯.",
       "gloss": "promise"
     },
     "frame": "c c 1"
   },
   "nueq": {
     "official": {
-      "english": "___ is meat/flesh.",
+      "english": "▯ is meat/flesh.",
       "gloss": "meat"
     }
   },
   "nuaı": {
     "official": {
-      "english": "___ is money.",
+      "english": "▯ is money.",
       "gloss": "money"
     },
     "frame": "c"
   },
   "nuao": {
     "official": {
-      "english": "___ is an arch; ___ arches.",
+      "english": "▯ is an arch; ▯ arches.",
       "gloss": "arch"
     },
     "frame": "c"
   },
   "nı": {
     "official": {
-      "english": "___ is this/that; ___ is this/that/those thing(s) satisfying property ___.",
+      "english": "▯ is this/that; ▯ is this/that/those thing(s) satisfying property ▯.",
       "gloss": "this"
     },
     "frame": "c"
   },
   "nıq": {
     "official": {
-      "english": "___ is new; ___ is new to ___.",
+      "english": "▯ is new; ▯ is new to ▯.",
       "gloss": "new"
     },
     "frame": "c c"
   },
   "nıa": {
     "official": {
-      "english": "___ is low.",
+      "english": "▯ is low.",
       "gloss": "low"
     },
     "frame": "c"
   },
   "nıaq": {
     "official": {
-      "english": "___ is a year.",
+      "english": "▯ is a year.",
       "gloss": "year"
     },
     "frame": "c"
   },
   "nıu": {
     "official": {
-      "english": "___ is a plant.",
+      "english": "▯ is a plant.",
       "gloss": "plant"
     },
     "frame": "c"
   },
   "nıo": {
     "official": {
-      "english": "___ is young.",
+      "english": "▯ is young.",
       "gloss": "young"
     },
     "frame": "c"
   },
   "nıoq": {
     "official": {
-      "english": "___ is a tooth.",
+      "english": "▯ is a tooth.",
       "gloss": "tooth"
     },
     "frame": "c"
   },
   "nıe": {
     "official": {
-      "english": "___ is inside ___.",
+      "english": "▯ is inside ▯.",
       "gloss": "inside"
     },
     "frame": "c c"
   },
   "nıeq": {
     "official": {
-      "english": "___ is unskilled at satisfying property ___.",
+      "english": "▯ is unskilled at satisfying property ▯.",
       "gloss": "unskilled"
     },
     "frame": "c 1"
   },
   "nıaı": {
     "official": {
-      "english": "___ is an animal.",
+      "english": "▯ is an animal.",
       "gloss": "animal"
     },
     "frame": "c"
   },
   "nıao": {
     "official": {
-      "english": "___ is snow.",
+      "english": "▯ is snow.",
       "gloss": "snow"
     },
     "frame": "c"
   },
   "no": {
     "official": {
-      "english": "___ is in format/medium/genre ___.",
+      "english": "▯ is in format/medium/genre ▯.",
       "gloss": "in"
     },
     "frame": "c c"
   },
   "noq": {
     "official": {
-      "english": "___ is gustatory; ___ pertains to the sense of taste/gustation.",
+      "english": "▯ is gustatory; ▯ pertains to the sense of taste/gustation.",
       "gloss": "gustatory"
     },
     "frame": "c"
   },
   "noa": {
     "official": {
-      "english": "Satisfying property ___ is difficult for ___.",
+      "english": "Satisfying property ▯ is difficult for ▯.",
       "gloss": "difficult"
     },
     "frame": "1 c"
   },
   "noaq": {
     "official": {
-      "english": "___ reads ___ from ___.",
+      "english": "▯ reads ▯ from ▯.",
       "gloss": "read"
     },
     "frame": "c c c"
   },
   "noı": {
     "official": {
-      "english": "___ is pain.",
+      "english": "▯ is pain.",
       "gloss": "pain"
     },
     "frame": "c"
   },
   "noaı": {
     "official": {
-      "english": "___ is milk.",
+      "english": "▯ is milk.",
       "gloss": "milk"
     },
     "frame": "c"
   },
   "ne": {
     "official": {
-      "english": "___ is how much ___ is the case; ___ is the amount that ___ is the case.",
+      "english": "▯ is how much ▯ is the case; ▯ is the amount that ▯ is the case.",
       "gloss": "amount"
     },
     "frame": "c c"
   },
   "neq": {
     "official": {
-      "english": "___ is determined by the luck/fortunate of ___.",
+      "english": "▯ is determined by the luck/fortunate of ▯.",
       "gloss": null
     },
     "frame": "0 c"
   },
   "nea": {
     "official": {
-      "english": "___ is wide/broad.",
+      "english": "▯ is wide/broad.",
       "gloss": "wide"
     },
     "frame": "c"
   },
   "neaq": {
     "official": {
-      "english": "___ is sand.",
+      "english": "▯ is sand.",
       "gloss": "sand"
     },
     "frame": "c"
   },
   "neı": {
     "official": {
-      "english": "___ are nine in number.",
+      "english": "▯ are nine in number.",
       "gloss": "nine"
     },
     "frame": "c"
   },
   "neo": {
     "official": {
-      "english": "___ is on ___.",
+      "english": "▯ is on ▯.",
       "gloss": "on"
     },
     "frame": "c c"
   },
   "neoq": {
     "official": {
-      "english": "___ is a Mr./Mrs./Ms./Miss.",
+      "english": "▯ is a Mr./Mrs./Ms./Miss.",
       "gloss": "mr/mrs"
     },
     "frame": "c"
   },
   "paq": {
     "official": {
-      "english": "___ is a part of ___.",
+      "english": "▯ is a part of ▯.",
       "gloss": "part"
     },
     "frame": "c c"
   },
   "paı": {
     "official": {
-      "english": "___ is a friend; ___ is a friend of ___.",
+      "english": "▯ is a friend; ▯ is a friend of ▯.",
       "gloss": "friend"
     },
     "frame": "c c"
   },
   "pao": {
     "official": {
-      "english": "___ is a parent of ___; ___ acts parental towards ___; ___ raises ___.",
+      "english": "▯ is a parent of ▯; ▯ acts parental towards ▯; ▯ raises ▯.",
       "gloss": "parent"
     },
     "frame": "c c"
   },
   "pu": {
     "official": {
-      "english": "___ happened / occured / was the case.",
+      "english": "▯ happened / occured / was the case.",
       "gloss": "was"
     },
     "frame": "0"
   },
   "puq": {
     "official": {
-      "english": "___ are more than one / multiple things.",
+      "english": "▯ are more than one / multiple things.",
       "gloss": "multiple"
     },
     "frame": "c"
   },
   "pua": {
     "official": {
-      "english": "___ enjoys satisfying property ___.",
+      "english": "▯ enjoys satisfying property ▯.",
       "gloss": "enjoy"
     },
     "frame": "c 1"
   },
   "puaq": {
     "official": {
-      "english": "___ is somatic/tactile; ___ pertains to the sense of touch/somatosensation.",
+      "english": "▯ is somatic/tactile; ▯ pertains to the sense of touch/somatosensation.",
       "gloss": "somatic"
     },
     "frame": "c"
   },
   "puı": {
     "official": {
-      "english": "___ are many.",
+      "english": "▯ are many.",
       "gloss": "many"
     },
     "frame": "c"
   },
   "puo": {
     "official": {
-      "english": "___ is powder.",
+      "english": "▯ is powder.",
       "gloss": "powder"
     },
     "frame": "c"
   },
   "pue": {
     "official": {
-      "english": "___ is a foot.",
+      "english": "▯ is a foot.",
       "gloss": "foot"
     },
     "frame": "c"
   },
   "pueq": {
     "official": {
-      "english": "___ steps/treads on ___.",
+      "english": "▯ steps/treads on ▯.",
       "gloss": "tread"
     }
   },
   "puaı": {
     "official": {
-      "english": "___ is wild/untamed.",
+      "english": "▯ is wild/untamed.",
       "gloss": "wild"
     }
   },
   "puao": {
     "official": {
-      "english": "___ is a cloud.",
+      "english": "▯ is a cloud.",
       "gloss": "cloud"
     },
     "frame": "c"
   },
   "pı": {
     "official": {
-      "english": "___ is urine/pee/piss.",
+      "english": "▯ is urine/pee/piss.",
       "gloss": "urine"
     },
     "frame": "c"
   },
   "pıa": {
     "official": {
-      "english": "___ is a sibling of ___.",
+      "english": "▯ is a sibling of ▯.",
       "gloss": "sibling"
     },
     "frame": "c c"
   },
   "pıu": {
     "official": {
-      "english": "___ is skin/peel/crust/hide/rind/outer cover.",
+      "english": "▯ is skin/peel/crust/hide/rind/outer cover.",
       "gloss": "skin"
     }
   },
   "pıo": {
-    "definition": "___ is rock (material).",
+    "definition": "▯ is rock (material).",
     "gloss": "rock",
     "frame": "c"
   },
   "pıe": {
     "official": {
-      "english": "___ drinks ___.",
+      "english": "▯ drinks ▯.",
       "gloss": "drink"
     },
     "frame": "c c"
   },
   "pıao": {
     "official": {
-      "english": "___ is complicated/complex.",
+      "english": "▯ is complicated/complex.",
       "gloss": "complicated"
     },
     "frame": "c"
   },
   "poq": {
     "official": {
-      "english": "___ is a person.",
+      "english": "▯ is a person.",
       "gloss": "person"
     },
     "frame": "c"
   },
   "poa": {
     "official": {
-      "english": "___ is closed/shut.",
+      "english": "▯ is closed/shut.",
       "gloss": "closed"
     },
     "frame": "c"
   },
   "poaq": {
     "official": {
-      "english": "___ breaks/parts/splits.",
+      "english": "▯ breaks/parts/splits.",
       "gloss": "break"
     },
     "frame": "c"
   },
   "poaı": {
     "official": {
-      "english": "___ is a seed/spore/egg/gamete/ovum/sperm/pollen.",
+      "english": "▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.",
       "gloss": "seed"
     }
   },
   "poe": {
-    "definition": "___ is apart/separate from ___ in property ___.",
+    "definition": "▯ is apart/separate from ▯ in property ▯.",
     "gloss": "apart",
     "frame": "c c 2"
   },
   "pe": {
     "official": {
-      "english": "___ is the case for/by the standard of ___.",
+      "english": "▯ is the case for/by the standard of ▯.",
       "gloss": "for"
     }
   },
   "peq": {
     "official": {
-      "english": "___ is paper.",
+      "english": "▯ is paper.",
       "gloss": "paper"
     },
     "frame": "c"
   },
   "pea": {
     "official": {
-      "english": "___ happened ___ (amount of time) ago.",
+      "english": "▯ happened ▯ (amount of time) ago.",
       "gloss": "ago"
     }
   },
   "peo": {
     "official": {
-      "english": "___ passes through ___.",
+      "english": "▯ passes through ▯.",
       "gloss": "through"
     },
     "frame": "c c"
   },
   "raq": {
     "official": {
-      "english": "___ pertains to / is about ___.",
+      "english": "▯ pertains to / is about ▯.",
       "gloss": "about"
     },
     "frame": "c c"
   },
   "raı": {
     "official": {
-      "english": "___ is something.",
+      "english": "▯ is something.",
       "gloss": "something"
     },
     "frame": "c"
   },
   "rao": {
     "official": {
-      "english": "___ happens at the same time as ___; ___ is simultaneous with ___.",
+      "english": "▯ happens at the same time as ▯; ▯ is simultaneous with ▯.",
       "gloss": "when"
     },
     "frame": "0 0"
   },
   "ruq": {
     "official": {
-      "english": "___ is rain.",
+      "english": "▯ is rain.",
       "gloss": "rain"
     },
     "frame": "c"
   },
   "rua": {
     "official": {
-      "english": "___ is a flower.",
+      "english": "▯ is a flower.",
       "gloss": "flower"
     },
     "frame": "c"
   },
   "ruaq": {
     "official": {
-      "english": "___ asserts/claims ___ to be the case.",
+      "english": "▯ asserts/claims ▯ to be the case.",
       "gloss": "assert"
     },
     "frame": "c 0"
   },
   "ruı": {
     "official": {
-      "english": "___ is the colour gray.",
+      "english": "▯ is the colour gray.",
       "gloss": "gray"
     },
     "frame": "c"
   },
   "ruo": {
     "official": {
-      "english": "___ behaves in way ___ (property); ___ conducts themselves in manner ___ (property).",
+      "english": "▯ behaves in way ▯ (property); ▯ conducts themselves in manner ▯ (property).",
       "gloss": "behave"
     },
     "frame": "c 1"
   },
   "ruoı": {
     "official": {
-      "english": "___ is thin.",
+      "english": "▯ is thin.",
       "gloss": "thin"
     },
     "frame": "c"
   },
   "ruoq": {
     "official": {
-      "english": "___ is straight/linear.",
+      "english": "▯ is straight/linear.",
       "gloss": "straight"
     },
     "frame": "c"
   },
   "rue": {
     "official": {
-      "english": "___ is weak/feeble.",
+      "english": "▯ is weak/feeble.",
       "gloss": "weak"
     },
     "frame": "c"
   },
   "rueq": {
     "official": {
-      "english": "___ is tight.",
+      "english": "▯ is tight.",
       "gloss": "tight"
     },
     "frame": "c"
   },
   "ruaı": {
     "official": {
-      "english": "___ is royal/noble/aristocratic.",
+      "english": "▯ is royal/noble/aristocratic.",
       "gloss": "royal"
     },
     "frame": "c"
   },
   "ruao": {
     "official": {
-      "english": "___ forgives ___ for satisfying property ___.",
+      "english": "▯ forgives ▯ for satisfying property ▯.",
       "gloss": "forgive"
     },
     "frame": "c c 1"
   },
   "rıq": {
     "official": {
-      "english": "___ is the colour green.",
+      "english": "▯ is the colour green.",
       "gloss": "green"
     },
     "frame": "c"
   },
   "rıa": {
     "official": {
-      "english": "___ is open.",
+      "english": "▯ is open.",
       "gloss": "open"
     },
     "frame": "c"
   },
   "rıaq": {
     "official": {
-      "english": "___ is a place/site; ___ is the place/site of ___.",
+      "english": "▯ is a place/site; ▯ is the place/site of ▯.",
       "gloss": "place"
     },
     "frame": "c 0"
   },
   "rıu": {
     "official": {
-      "english": "___ returns to satisfying property ___.",
+      "english": "▯ returns to satisfying property ▯.",
       "gloss": "return"
     },
     "frame": "c 1"
   },
   "rıo": {
     "official": {
-      "english": "___ is air.",
+      "english": "▯ is air.",
       "gloss": "air"
     },
     "frame": "c"
   },
   "rıoq": {
     "official": {
-      "english": "___ is a type/kind of ___",
+      "english": "▯ is a type/kind of ▯",
       "gloss": "type"
     },
     "frame": "c c"
   },
   "rıe": {
     "official": {
-      "english": "___ is between/amidst/among ___ (plural).",
+      "english": "▯ is between/amidst/among ▯ (plural).",
       "gloss": "between"
     },
     "frame": "c c"
   },
   "rıeq": {
     "official": {
-      "english": "___ avoids/evades satisfying property ___.",
+      "english": "▯ avoids/evades satisfying property ▯.",
       "gloss": "avoid"
     },
     "frame": "c 1"
   },
   "rıaı": {
     "official": {
-      "english": "___ supports ___; ___ holds up ___.",
+      "english": "▯ supports ▯; ▯ holds up ▯.",
       "gloss": "support"
     },
     "frame": "c c"
   },
   "rıao": {
     "official": {
-      "english": "___ is a twilight/dawn/dusk/half-light/glimmering.",
+      "english": "▯ is a twilight/dawn/dusk/half-light/glimmering.",
       "gloss": "twilight"
     },
     "frame": "c"
   },
   "roq": {
     "official": {
-      "english": "___ cries/weeps; ___ cries tears ___.",
+      "english": "▯ cries/weeps; ▯ cries tears ▯.",
       "gloss": "weep"
     },
     "frame": "c c"
   },
   "roa": {
     "official": {
-      "english": "___ is natural.",
+      "english": "▯ is natural.",
       "gloss": "natural"
     },
     "frame": "c"
   },
   "roaq": {
     "official": {
-      "english": "___ is a biological parent of ___.",
+      "english": "▯ is a biological parent of ▯.",
       "gloss": "parent"
     },
     "frame": "c c"
   },
   "roaı": {
     "official": {
-      "english": "___ are eight in number.",
+      "english": "▯ are eight in number.",
       "gloss": "eight"
     },
     "frame": "c"
   },
   "roe": {
     "official": {
-      "english": "___ is healthy.",
+      "english": "▯ is healthy.",
       "gloss": "healthy"
     },
     "frame": "c"
   },
   "req": {
     "official": {
-      "english": "___ is a human.",
+      "english": "▯ is a human.",
       "gloss": "human"
     },
     "frame": "c"
   },
   "rea": {
     "official": {
-      "english": "___ is a border/edge of ___.",
+      "english": "▯ is a border/edge of ▯.",
       "gloss": "border"
     },
     "frame": "c c"
   },
   "reaq": {
     "official": {
-      "english": "___ lies on ___; ___ reclines on ___.",
+      "english": "▯ lies on ▯; ▯ reclines on ▯.",
       "gloss": "lie"
     },
     "frame": "c c"
   },
   "reı": {
     "official": {
-      "english": "___ is around ___; ___ surrounds ___.",
+      "english": "▯ is around ▯; ▯ surrounds ▯.",
       "gloss": "around"
     },
     "frame": "c c"
   },
   "reo": {
     "official": {
-      "english": "___ is coloured; ___ is of colour ___.",
+      "english": "▯ is coloured; ▯ is of colour ▯.",
       "gloss": "coloured"
     },
     "frame": "c c"
   },
   "reoq": {
     "official": {
-      "english": "___ is late.",
+      "english": "▯ is late.",
       "gloss": "late"
     },
     "frame": "0"
   },
   "saq": {
     "official": {
-      "english": "___ are three in number.",
+      "english": "▯ are three in number.",
       "gloss": "three"
     },
     "frame": "c"
   },
   "saı": {
     "official": {
-      "english": "___ is matter/material/substance.",
+      "english": "▯ is matter/material/substance.",
       "gloss": "matter"
     }
   },
   "sao": {
     "official": {
-      "english": "___ is big/large.",
+      "english": "▯ is big/large.",
       "gloss": "big"
     },
     "frame": "c"
   },
   "su": {
     "official": {
-      "english": "___ are [previous predicate].",
+      "english": "▯ are [previous predicate].",
       "gloss": "previous.predicate"
     }
   },
   "suq": {
     "official": {
-      "english": "___ is you / the listener.",
+      "english": "▯ is you / the listener.",
       "gloss": "you"
     },
     "frame": "c"
   },
   "sua": {
     "official": {
-      "english": "___ is necessary for ___ to happen.",
+      "english": "▯ is necessary for ▯ to happen.",
       "gloss": "necessary"
     },
     "frame": "0 0"
   },
   "suaq": {
     "official": {
-      "english": "___ sings.",
+      "english": "▯ sings.",
       "gloss": "sing"
     },
     "frame": "c c"
   },
   "suı": {
     "official": {
-      "english": "___ is least in property ___ among ___.",
+      "english": "▯ is least in property ▯ among ▯.",
       "gloss": "least"
     },
     "frame": "c 1 c"
   },
   "suo": {
     "official": {
-      "english": "___ is broken/inoperable.",
+      "english": "▯ is broken/inoperable.",
       "gloss": "broken"
     },
     "frame": "c"
   },
   "sue": {
     "official": {
-      "english": "___ asks ___ to satisfy property ___.",
+      "english": "▯ asks ▯ to satisfy property ▯.",
       "gloss": "request"
     },
     "frame": "c c 1"
   },
   "suaı": {
     "official": {
-      "english": "___ is fast/quick; ___ quickly does ___.",
+      "english": "▯ is fast/quick; ▯ quickly does ▯.",
       "gloss": "fast"
     },
     "frame": "0; c 1"
   },
   "suao": {
     "official": {
-      "english": "___ is important.",
+      "english": "▯ is important.",
       "gloss": "important"
     },
     "frame": "c"
   },
   "sı": {
     "official": {
-      "english": "___ is attentive to / focuses on ___.",
+      "english": "▯ is attentive to / focuses on ▯.",
       "gloss": "attentive"
     },
     "frame": "c c"
   },
   "sıq": {
     "official": {
-      "english": "___ is clean/pure.",
+      "english": "▯ is clean/pure.",
       "gloss": "clean"
     },
     "frame": "c"
   },
   "sıaq": {
     "official": {
-      "english": "___ is to the right of ___.",
+      "english": "▯ is to the right of ▯.",
       "gloss": "right"
     },
     "frame": "c c"
   },
   "sıu": {
     "official": {
-      "english": "___ is similar to ___.",
+      "english": "▯ is similar to ▯.",
       "gloss": "similar"
     },
     "frame": "c c"
   },
   "sıo": {
     "official": {
-      "english": "___ is a thought/idea.",
+      "english": "▯ is a thought/idea.",
       "gloss": "thought"
     },
     "frame": "c"
   },
   "sıoq": {
     "official": {
-      "english": "___ is a wheel.",
+      "english": "▯ is a wheel.",
       "gloss": "wheel"
     },
     "frame": "c"
   },
   "sıe": {
     "official": {
-      "english": "___ is following to ___ in sequence ___.",
+      "english": "▯ is following to ▯ in sequence ▯.",
       "gloss": "follow"
     },
     "frame": "c c c"
   },
   "sıeq": {
     "official": {
-      "english": "___ feels awe; ___ is amazed.",
+      "english": "▯ feels awe; ▯ is amazed.",
       "gloss": "awe"
     },
     "frame": "c"
   },
   "sıaı": {
     "official": {
-      "english": "___ is blood.",
+      "english": "▯ is blood.",
       "gloss": "blood"
     },
     "frame": "c"
   },
   "sıao": {
     "official": {
-      "english": "___ is a beginning/start; ___ is a beginning/start of ___.",
+      "english": "▯ is a beginning/start; ▯ is a beginning/start of ▯.",
       "gloss": "beginning"
     },
     "frame": "c 0"
   },
   "soq": {
     "official": {
-      "english": "___ is the ___est among ___; ___ is the most ___ among ___.",
+      "english": "▯ is the ▯est among ▯; ▯ is the most ▯ among ▯.",
       "gloss": "most"
     },
     "frame": "c 1 c"
   },
   "soa": {
     "official": {
-      "english": "___ helps ___ to satisfy property ___.",
+      "english": "▯ helps ▯ to satisfy property ▯.",
       "gloss": "help"
     },
     "frame": "c c 1"
   },
   "soaq": {
     "official": {
-      "english": "___ is a garden.",
+      "english": "▯ is a garden.",
       "gloss": "garden"
     },
     "frame": "c"
   },
   "soı": {
     "official": {
-      "english": "___ fights with ___; ___ fights against ___.",
+      "english": "▯ fights with ▯; ▯ fights against ▯.",
       "gloss": "fight"
     },
     "frame": "c c"
   },
   "soaı": {
     "official": {
-      "english": "___ is a beam/ray/line extending outwards from a point.",
+      "english": "▯ is a beam/ray/line extending outwards from a point.",
       "gloss": "beam"
     },
     "frame": "c"
   },
   "soe": {
     "official": {
-      "english": "___ is sour.",
+      "english": "▯ is sour.",
       "gloss": "sour"
     },
     "frame": "c"
   },
   "se": {
     "official": {
-      "english": "___ is a result/product of performing action ___.",
+      "english": "▯ is a result/product of performing action ▯.",
       "gloss": "result"
     }
   },
   "sea": {
     "official": {
-      "english": "___ rests/relaxes.",
+      "english": "▯ rests/relaxes.",
       "gloss": "rest"
     },
     "frame": "c"
   },
   "seaq": {
     "official": {
-      "english": "___ has sex with ___; ___ has sexual intercourse with ___.",
+      "english": "▯ has sex with ▯; ▯ has sexual intercourse with ▯.",
       "gloss": "have.sex"
     },
     "frame": "c c"
   },
   "seu": {
     "official": {
-      "english": "___ is a number.",
+      "english": "▯ is a number.",
       "gloss": "number"
     },
     "frame": "c"
   },
   "seo": {
     "official": {
-      "english": "___ is a spouse of ___.",
+      "english": "▯ is a spouse of ▯.",
       "gloss": "spouse"
     },
     "frame": "c c"
   },
   "seoq": {
     "official": {
-      "english": "___ is a sky.",
+      "english": "▯ is a sky.",
       "gloss": "sky"
     },
     "frame": "c"
   },
   "sha": {
     "official": {
-      "english": "___ arrives at satisfying property ___.",
+      "english": "▯ arrives at satisfying property ▯.",
       "gloss": "arrive"
     },
     "frame": "c 1"
   },
   "shaq": {
     "official": {
-      "english": "___ is in front of ___.",
+      "english": "▯ is in front of ▯.",
       "gloss": "in.front"
     },
     "frame": "c c"
   },
   "shaı": {
     "official": {
-      "english": "___ ceases to be the case; ___ stops satisfying property ___; ___ loses property ___.",
+      "english": "▯ ceases to be the case; ▯ stops satisfying property ▯; ▯ loses property ▯.",
       "gloss": "cease"
     },
     "frame": "0; c 1"
   },
   "shao": {
     "official": {
-      "english": "___ wants ___ to be the case.",
+      "english": "▯ wants ▯ to be the case.",
       "gloss": "want"
     },
     "frame": "c 0"
   },
   "shua": {
     "official": {
-      "english": "___ falls to ___ from ___.",
+      "english": "▯ falls to ▯ from ▯.",
       "gloss": "fall"
     },
     "frame": "c c c"
   },
   "shuaq": {
     "official": {
-      "english": "___ produces ___.",
+      "english": "▯ produces ▯.",
       "gloss": "produce"
     },
     "frame": "c c"
   },
   "shuı": {
     "official": {
-      "english": "___ is secret.",
+      "english": "▯ is secret.",
       "gloss": "secret"
     },
     "frame": "0"
   },
   "shuo": {
     "official": {
-      "english": "___ is a source/deposit/supply/reserve of ___.",
+      "english": "▯ is a source/deposit/supply/reserve of ▯.",
       "gloss": "reserve"
     }
   },
   "shue": {
     "official": {
-      "english": "___ remains/stays/keeps satisfying property ___.",
+      "english": "▯ remains/stays/keeps satisfying property ▯.",
       "gloss": "remain"
     },
     "frame": "c 1"
   },
   "shueq": {
     "official": {
-      "english": "___ is bitter.",
+      "english": "▯ is bitter.",
       "gloss": "bitter"
     },
     "frame": "c"
   },
   "shuaı": {
     "official": {
-      "english": "___ is simple.",
+      "english": "▯ is simple.",
       "gloss": "simple"
     },
     "frame": "c"
   },
   "shuao": {
     "official": {
-      "english": "___ is a bird.",
+      "english": "▯ is a bird.",
       "gloss": "bird"
     },
     "frame": "c"
   },
   "shı": {
     "official": {
-      "english": "___ are one in number.",
+      "english": "▯ are one in number.",
       "gloss": "one"
     },
     "frame": "c"
   },
   "shıq": {
     "official": {
-      "english": "___ is olfactory; ___ pertains to the sense of smell/olfaction.",
+      "english": "▯ is olfactory; ▯ pertains to the sense of smell/olfaction.",
       "gloss": "smell"
     },
     "frame": "c"
   },
   "shıa": {
     "official": {
-      "english": "___ is glass.",
+      "english": "▯ is glass.",
       "gloss": "glass"
     },
     "frame": "c"
   },
   "shıaq": {
     "official": {
-      "english": "___ is a leg.",
+      "english": "▯ is a leg.",
       "gloss": "leg"
     },
     "frame": "c"
   },
   "shıu": {
     "official": {
-      "english": "___ is before / in the past of ___.",
+      "english": "▯ is before / in the past of ▯.",
       "gloss": "before"
     },
     "frame": "0 0"
   },
   "shıo": {
     "official": {
-      "english": "___ is a hip/shoulder.",
+      "english": "▯ is a hip/shoulder.",
       "gloss": "ball.joint"
     },
     "frame": "c"
   },
   "shıe": {
     "official": {
-      "english": "___ is awake.",
+      "english": "▯ is awake.",
       "gloss": "awake"
     },
     "frame": "c"
   },
   "sho": {
     "official": {
-      "english": "___ becomes such that they satisfy property ___.",
+      "english": "▯ becomes such that they satisfy property ▯.",
       "gloss": "become"
     },
     "frame": "c 1"
   },
   "shoa": {
     "official": {
-      "english": "___ is deep.",
+      "english": "▯ is deep.",
       "gloss": "deep"
     },
     "frame": "c"
   },
   "shoı": {
     "official": {
-      "english": "___ screams/shouts/yells/cries.",
+      "english": "▯ screams/shouts/yells/cries.",
       "gloss": "scream"
     },
     "frame": "c"
   },
   "shoe": {
     "official": {
-      "english": "___ lets ___ happen; ___ allows ___ to happen.",
+      "english": "▯ lets ▯ happen; ▯ allows ▯ to happen.",
       "gloss": "allow"
     },
     "frame": "c 0"
   },
   "shoaı": {
     "official": {
-      "english": "___ is a wing.",
+      "english": "▯ is a wing.",
       "gloss": "wing"
     },
     "frame": "c"
   },
   "she": {
     "official": {
-      "english": "___ is the case if ___ is the case.",
+      "english": "▯ is the case if ▯ is the case.",
       "gloss": "if"
     },
     "frame": "0 0"
   },
   "shea": {
     "official": {
-      "english": "___ is empty in aspect ___.",
+      "english": "▯ is empty in aspect ▯.",
       "gloss": "empty"
     },
     "frame": "c 1"
   },
   "sheaq": {
     "official": {
-      "english": "___ stands on ___.",
+      "english": "▯ stands on ▯.",
       "gloss": "stand"
     },
     "frame": "c c"
   },
   "sheı": {
     "official": {
-      "english": "___ is free to do ___.",
+      "english": "▯ is free to do ▯.",
       "gloss": "free"
     },
     "frame": "c 1"
   },
   "sheo": {
     "official": {
-      "english": "___ regrets satisfying property ___.",
+      "english": "▯ regrets satisfying property ▯.",
       "gloss": "regret"
     },
     "frame": "c 1"
   },
   "taq": {
     "official": {
-      "english": "___ is related to itself by property ___.",
+      "english": "▯ is related to itself by property ▯.",
       "gloss": "self"
     },
     "frame": "c 2"
   },
   "taı": {
     "official": {
-      "english": "___ succeeds at satisfying property ___.",
+      "english": "▯ succeeds at satisfying property ▯.",
       "gloss": "succeed"
     },
     "frame": "c 1"
   },
   "tao": {
     "official": {
-      "english": "___ does ___.",
+      "english": "▯ does ▯.",
       "gloss": "do"
     },
     "frame": "c 1"
   },
   "tuq": {
     "official": {
-      "english": "___ are all things that satisfy property ___.",
+      "english": "▯ are all things that satisfy property ▯.",
       "gloss": "all"
     },
     "frame": "c 1"
   },
   "tua": {
     "official": {
-      "english": "___ makes ___ happen.",
+      "english": "▯ makes ▯ happen.",
       "gloss": "make.happen"
     },
     "frame": "c 0"
   },
   "tuı": {
     "official": {
-      "english": "___ sits on ___.",
+      "english": "▯ sits on ▯.",
       "gloss": "sit"
     },
     "frame": "c c"
   },
   "tuo": {
     "official": {
-      "english": "___ swallows; ___ swallows ___.",
+      "english": "▯ swallows; ▯ swallows ▯.",
       "gloss": "swallow"
     },
     "frame": "c c"
   },
   "tuoı": {
     "official": {
-      "english": "___ is a flaw/fault/defect in ___.",
+      "english": "▯ is a flaw/fault/defect in ▯.",
       "gloss": "flaw"
     },
     "frame": "c c"
   },
   "tuoq": {
     "official": {
-      "english": "___ is heavy.",
+      "english": "▯ is heavy.",
       "gloss": "heavy"
     },
     "frame": "c"
   },
   "tue": {
     "official": {
-      "english": "___ is a state / state of affairs / situation; ___ is a state of affairs of property ___.",
+      "english": "▯ is a state / state of affairs / situation; ▯ is a state of affairs of property ▯.",
       "gloss": "state"
     }
   },
   "tuaı": {
     "official": {
-      "english": "___ is a body/corpse.",
+      "english": "▯ is a body/corpse.",
       "gloss": "body"
     }
   },
   "tuao": {
     "official": {
-      "english": "___ is little/non-much in property ___.",
+      "english": "▯ is little/non-much in property ▯.",
       "gloss": "little"
     },
     "frame": "c 1"
   },
   "tı": {
     "official": {
-      "english": "___ is at ___.",
+      "english": "▯ is at ▯.",
       "gloss": "at"
     },
     "frame": "c c"
   },
   "tıq": {
     "official": {
-      "english": "___ is a tile.",
+      "english": "▯ is a tile.",
       "gloss": "tile"
     },
     "frame": "c"
   },
   "tıa": {
     "official": {
-      "english": "___ is behind ___.",
+      "english": "▯ is behind ▯.",
       "gloss": "behind"
     },
     "frame": "c c"
   },
   "tıaq": {
     "official": {
-      "english": "___ is the colour brown.",
+      "english": "▯ is the colour brown.",
       "gloss": "brown"
     },
     "frame": "c"
   },
   "tıoq": {
     "official": {
-      "english": "___ is a lock.",
+      "english": "▯ is a lock.",
       "gloss": "lock"
     },
     "frame": "c"
   },
   "tıe": {
     "official": {
-      "english": "___ covers ___.",
+      "english": "▯ covers ▯.",
       "gloss": "cover"
     },
     "frame": "c c"
   },
   "tıeq": {
     "official": {
-      "english": "___ is a way/path.",
+      "english": "▯ is a way/path.",
       "gloss": "path"
     },
     "frame": "c"
   },
   "tıaı": {
     "official": {
-      "english": "___ is a box.",
+      "english": "▯ is a box.",
       "gloss": "box"
     },
     "frame": "c"
   },
   "tıao": {
     "official": {
-      "english": "___ matches/fits/suits ___ in property ___.",
+      "english": "▯ matches/fits/suits ▯ in property ▯.",
       "gloss": "match"
     },
     "frame": "c c 2"
   },
   "toq": {
     "official": {
-      "english": "___ is a board.",
+      "english": "▯ is a board.",
       "gloss": "board"
     },
     "frame": "c"
   },
   "toa": {
     "official": {
-      "english": "___ is a word.",
+      "english": "▯ is a word.",
       "gloss": "word"
     },
     "frame": "c"
   },
   "toaı": {
     "official": {
-      "english": "___ is a quantum / smallest possible unit of quantity or quantifiable phenomenon ___.",
+      "english": "▯ is a quantum / smallest possible unit of quantity or quantifiable phenomenon ▯.",
       "gloss": "quantum"
     },
     "frame": "c c"
   },
   "toaq": {
     "official": {
-      "english": "___ is a language.",
+      "english": "▯ is a language.",
       "gloss": "language"
     },
     "frame": "c"
   },
   "toe": {
     "official": {
-      "english": "___ cuts ___ into ___.",
+      "english": "▯ cuts ▯ into ▯.",
       "gloss": "cut"
     }
   },
   "te": {
-    "definition": "___ has been ___'ed (property).",
+    "definition": "▯ has been ▯'ed (property).",
     "gloss": "-ed",
     "frame": "c c c"
   },
   "teq": {
     "official": {
-      "english": "___ pays ___ to ___ for satisfying property ___.",
+      "english": "▯ pays ▯ to ▯ for satisfying property ▯.",
       "gloss": "pay"
     },
     "frame": "c c c 1"
   },
   "tea": {
     "official": {
-      "english": "___ is scared / experiences fear.",
+      "english": "▯ is scared / experiences fear.",
       "gloss": "scared"
     },
     "frame": "c"
   },
   "teaq": {
     "official": {
-      "english": "___ is a breast.",
+      "english": "▯ is a breast.",
       "gloss": "breast"
     },
     "frame": "c"
   },
   "teı": {
     "official": {
-      "english": "___ is a form/shape; ___ is a form/shape of ___.",
+      "english": "▯ is a form/shape; ▯ is a form/shape of ▯.",
       "gloss": "form"
     },
     "frame": "c c"
   },
   "teoq": {
     "official": {
-      "english": "___ is a question.",
+      "english": "▯ is a question.",
       "gloss": "question"
     },
     "frame": "c"
