@@ -5,4 +5,4 @@ Please insert your fields as you need them (not too much, though) – the format
 * `official` – the official data available for a given entry
   * `english` – official definition in English
   * `gloss` – official gloss in English
-* `frame` – a frame definition, if known
+* `frame` – a frame definition, if known; `null` means that the word doesn't have a set frame (possibly anaphoric)

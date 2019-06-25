@@ -144,13 +144,14 @@
       "english": "That ▯ is the case prevents ▯ from being the case.",
       "gloss": "prevent"
     },
-    "frame": "c 0"
+    "frame": "0 0"
   },
   "boaq": {
     "official": {
       "english": "▯ is a shadow; ▯ is a shadow of ▯.",
       "gloss": "shadow"
-    }
+    },
+    "frame": "c c"
   },
   "boe": {
     "official": {
@@ -324,7 +325,8 @@
     "official": {
       "english": "▯ is tame/domesticated.",
       "gloss": "tamed"
-    }
+    },
+    "frame": "c"
   },
   "coe": {
     "official": {
@@ -406,7 +408,8 @@
     "official": {
       "english": "▯ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ▯ is an ideology based on concept ▯; ▯ is an ism; ▯ is an ▯-ism.",
       "gloss": "ism"
-    }
+    },
+    "frame": "c 1"
   },
   "chuı": {
     "official": {
@@ -454,7 +457,8 @@
     "official": {
       "english": "▯ is an insect/bug.",
       "gloss": "insect"
-    }
+    },
+    "frame": "c"
   },
   "chıa": {
     "official": {
@@ -495,7 +499,8 @@
     "official": {
       "english": "▯ intersects/crosses/traverses ▯.",
       "gloss": "cross"
-    }
+    },
+    "frame": "c c"
   },
   "chıaı": {
     "official": {
@@ -507,7 +512,8 @@
     "official": {
       "english": "▯ likes ▯.",
       "gloss": "like"
-    }
+    },
+    "frame": "c c"
   },
   "choq": {
     "official": {
@@ -614,13 +620,6 @@
     },
     "frame": "c"
   },
-  "daosī": {
-    "official": {
-      "english": "▯ is interested in ▯; ▯ is curious about ▯.",
-      "gloss": "interested"
-    },
-    "frame": "c"
-  },
   "du": {
     "official": {
       "english": "▯ seems to be the case; ▯ seems to satisfy property ▯.",
@@ -646,7 +645,8 @@
     "official": {
       "english": "▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).",
       "gloss": "larva"
-    }
+    },
+    "frame": "c"
   },
   "duı": {
     "official": {
@@ -666,7 +666,8 @@
     "official": {
       "english": "▯ lasts/continues; ▯ lasts for time ▯.",
       "gloss": "continue"
-    }
+    },
+    "frame": "0 c"
   },
   "due": {
     "official": {
@@ -713,7 +714,8 @@
     "official": {
       "english": "▯ are seven in number.",
       "gloss": "seven"
-    }
+    },
+    "frame": "c"
   },
   "dıaq": {
     "official": {
@@ -747,7 +749,8 @@
     "official": {
       "english": "▯ sends ▯ to ▯.",
       "gloss": "send"
-    }
+    },
+    "frame": "c c c"
   },
   "dıao": {
     "official": {
@@ -760,7 +763,8 @@
     "official": {
       "english": "variable X",
       "gloss": "variable.X"
-    }
+    },
+    "frame": "c"
   },
   "doq": {
     "official": {
@@ -774,7 +778,7 @@
       "english": "▯ gives property ▯ to ▯.",
       "gloss": "give"
     },
-    "frame": "c c c"
+    "frame": "c 0 c"
   },
   "doaq": {
     "official": {
@@ -787,11 +791,14 @@
     "official": {
       "english": "▯ is bread.",
       "gloss": "bread"
-    }
+    },
+    "frame": "c"
   },
   "doe": {
-    "definition": "▯ functions/performs property ▯.",
-    "gloss": "function",
+    "official": {
+      "english": "▯ functions/performs property ▯.",
+      "gloss": "function"
+    },
     "frame": "c 1"
   },
   "de": {
@@ -854,7 +861,8 @@
     "official": {
       "english": "▯ is frequent/common in property ▯.",
       "gloss": "frequent"
-    }
+    },
+    "frame": "c 1"
   },
   "fao": {
     "official": {
@@ -958,7 +966,8 @@
     "official": {
       "english": "▯ feels ▯ (good or bad); ▯ is ▯ (ill or well).",
       "gloss": "feel"
-    }
+    },
+    "frame": "c 1"
   },
   "foaq": {
     "official": {
@@ -1007,7 +1016,7 @@
       "english": "▯ accompanies / is with ▯ in property ▯.",
       "gloss": "accompany"
     },
-    "frame": "c c 2"
+    "frame": "c c 1"
   },
   "gaı": {
     "official": {
@@ -1063,13 +1072,6 @@
       "english": "▯ is a repetition/instance of ▯.",
       "gloss": "instance"
     }
-  },
-  "guosa": {
-    "official": {
-      "english": "▯ happens sometimes.",
-      "gloss": "sometimes"
-    },
-    "frame": "0"
   },
   "guoq": {
     "official": {
@@ -1158,7 +1160,8 @@
     "official": {
       "english": "▯ incises/carves/scratches/engraves/cuts into ▯.",
       "gloss": "incise"
-    }
+    },
+    "frame": "c c"
   },
   "gıao": {
     "official": {
@@ -1192,11 +1195,15 @@
     "official": {
       "english": "▯ rubs against ▯ (intransitive non-agentive).",
       "gloss": "rub"
-    }
+    },
+    "frame": "c c"
   },
   "goe": {
-    "definition": "▯ will happen in ▯ (amount of time) from now.",
-    "gloss": "in"
+    "official": {
+      "english": "▯ will happen in ▯ (amount of time) from now.",
+      "gloss": "in"
+    },
+    "frame": "0 c"
   },
   "ge": {
     "official": {
@@ -1244,7 +1251,8 @@
     "official": {
       "english": "▯ is one/you/they (generic impersonal pronoun).",
       "gloss": "one"
-    }
+    },
+    "frame": "c"
   },
   "haq": {
     "official": {
@@ -1264,7 +1272,8 @@
     "official": {
       "english": "the salient predicate",
       "gloss": "stuff"
-    }
+    },
+    "frame": null
   },
   "hua": {
     "official": {
@@ -1388,7 +1397,8 @@
     "official": {
       "english": "relative pronoun whose antecedent is the head of the containing relative clause",
       "gloss": "it"
-    }
+    },
+    "frame": "c"
   },
   "hoaq": {
     "official": {
@@ -1408,7 +1418,8 @@
     "official": {
       "english": "▯ is still the case.",
       "gloss": "still"
-    }
+    },
+    "frame": "0"
   },
   "hoe": {
     "definition": "▯ is a sun.",
@@ -1419,7 +1430,8 @@
     "official": {
       "english": "▯ is generally the case; ▯ is how things generally are. (gnomic aspect)",
       "gloss": "generally"
-    }
+    },
+    "frame": "0"
   },
   "heq": {
     "official": {
@@ -1475,7 +1487,7 @@
       "english": "▯ is very much the case; ▯ is very/extremely ▯.",
       "gloss": "very"
     },
-    "frame": "c 1"
+    "frame": "0; c 1"
   },
   "jaı": {
     "official": {
@@ -1523,17 +1535,21 @@
     "official": {
       "english": "▯ is a letter (written message).",
       "gloss": "letter"
-    }
+    },
+    "frame": "c"
   },
   "juoı": {
     "official": {
       "english": "▯ describes ▯ as satisfying property ▯.",
       "gloss": "describe"
-    }
+    },
+    "frame": "c c 1"
   },
   "juoq": {
-    "definition": "▯ should satisfy property ▯.",
-    "gloss": "should",
+    "official": {
+      "english": "▯ should satisfy property ▯.",
+      "gloss": "should"
+    },
     "frame": "c 1"
   },
   "jue": {
@@ -1694,7 +1710,7 @@
       "english": "▯ makes a purchase; ▯ buys property ▯; ▯ buys property ▯ from ▯.",
       "gloss": "buy"
     },
-    "frame": "c c c"
+    "frame": "c 1 c"
   },
   "jeaq": {
     "official": {
@@ -1714,7 +1730,8 @@
     "official": {
       "english": "▯ is a concave shape; ▯ is a cavity/hollow/cavern.",
       "gloss": "concave"
-    }
+    },
+    "frame": "c"
   },
   "kaq": {
     "official": {
@@ -1796,7 +1813,8 @@
     "official": {
       "english": "▯ (plural) gather/collect at locus ▯ (instransitive and non-agentive).",
       "gloss": "gather"
-    }
+    },
+    "frame": "c c"
   },
   "kuaı": {
     "official": {
@@ -1879,7 +1897,8 @@
     "official": {
       "english": "▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.",
       "gloss": "nth"
-    }
+    },
+    "frame": "c c 1 1"
   },
   "koq": {
     "official": {
@@ -1913,7 +1932,8 @@
     "official": {
       "english": "▯ is a net/web/sieve/filter.",
       "gloss": "net"
-    }
+    },
+    "frame": "c"
   },
   "koe": {
     "definition": "▯ chooses ▯ out of ▯ for ▯.",
@@ -1952,7 +1972,8 @@
     "official": {
       "english": "▯ is a letter/glyph/sign/character/symbol/graphical component signifying ▯.",
       "gloss": "letter"
-    }
+    },
+    "frame": "c 0"
   },
   "lao": {
     "official": {
@@ -2000,7 +2021,8 @@
     "official": {
       "english": "▯ is in balance with ▯.",
       "gloss": "balanced"
-    }
+    },
+    "frame": "c c"
   },
   "lue": {
     "official": {
@@ -2020,7 +2042,8 @@
     "official": {
       "english": "▯ is funny/comical.",
       "gloss": "funny"
-    }
+    },
+    "frame": "c"
   },
   "luao": {
     "official": {
@@ -2123,11 +2146,15 @@
     "official": {
       "english": "▯ flows.",
       "gloss": "flow"
-    }
+    },
+    "frame": "c"
   },
   "loe": {
-    "definition": "▯ is a flame/fire.",
-    "gloss": "flame"
+    "official": {
+      "english": "▯ is a flame/fire.",
+      "gloss": "flame"
+    },
+    "frame": "c"
   },
   "le": {
     "official": {
@@ -2175,7 +2202,8 @@
     "official": {
       "english": "▯ shields ▯ from ▯.",
       "gloss": "shield"
-    }
+    },
+    "frame": "c c c"
   },
   "maq": {
     "official": {
@@ -2202,7 +2230,8 @@
     "official": {
       "english": "▯ satisfies property ▯ with the first and second places swapped.",
       "gloss": "-ed"
-    }
+    },
+    "frame": "c c 2"
   },
   "muq": {
     "official": {
@@ -2228,7 +2257,8 @@
     "official": {
       "english": "▯ is a meaning of ▯.",
       "gloss": "meaning"
-    }
+    },
+    "frame": "0 c"
   },
   "muo": {
     "official": {
@@ -2283,7 +2313,8 @@
     "official": {
       "english": "▯ is the value of ▯.",
       "gloss": "value"
-    }
+    },
+    "frame": "c c"
   },
   "mıu": {
     "official": {
@@ -2470,11 +2501,15 @@
     "official": {
       "english": "▯ chews; ▯ chews ▯; ▯ chews on ▯.",
       "gloss": "masticate"
-    }
+    },
+    "frame": "c c"
   },
   "nuoq": {
-    "definition": "▯ reflects/mirrors/echoes ▯.",
-    "gloss": "reflect"
+    "official": {
+      "english": "▯ reflects/mirrors/echoes ▯.",
+      "gloss": "reflect"
+    },
+    "frame": "c c"
   },
   "nue": {
     "official": {
@@ -2487,7 +2522,8 @@
     "official": {
       "english": "▯ is meat/flesh.",
       "gloss": "meat"
-    }
+    },
+    "frame": "c"
   },
   "nuaı": {
     "official": {
@@ -2508,7 +2544,7 @@
       "english": "▯ is this/that; ▯ is this/that/those thing(s) satisfying property ▯.",
       "gloss": "this"
     },
-    "frame": "c"
+    "frame": "c 1"
   },
   "nıq": {
     "official": {
@@ -2627,7 +2663,7 @@
       "english": "▯ is how much ▯ is the case; ▯ is the amount that ▯ is the case.",
       "gloss": "amount"
     },
-    "frame": "c c"
+    "frame": "c 0"
   },
   "neq": {
     "official": {
@@ -2745,13 +2781,15 @@
     "official": {
       "english": "▯ steps/treads on ▯.",
       "gloss": "tread"
-    }
+    },
+    "frame": "c c"
   },
   "puaı": {
     "official": {
       "english": "▯ is wild/untamed.",
       "gloss": "wild"
-    }
+    },
+    "frame": "c"
   },
   "puao": {
     "official": {
@@ -2778,11 +2816,14 @@
     "official": {
       "english": "▯ is skin/peel/crust/hide/rind/outer cover.",
       "gloss": "skin"
-    }
+    },
+    "frame": "c"
   },
   "pıo": {
-    "definition": "▯ is rock (material).",
-    "gloss": "rock",
+    "official": {
+      "english": "▯ is rock (material).",
+      "gloss": "rock"
+    },
     "frame": "c"
   },
   "pıe": {
@@ -2824,7 +2865,8 @@
     "official": {
       "english": "▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.",
       "gloss": "seed"
-    }
+    },
+    "frame": "c"
   },
   "poe": {
     "definition": "▯ is apart/separate from ▯ in property ▯.",
@@ -2835,7 +2877,8 @@
     "official": {
       "english": "▯ is the case for/by the standard of ▯.",
       "gloss": "for"
-    }
+    },
+    "frame": "0 1"
   },
   "peq": {
     "official": {
@@ -2848,7 +2891,8 @@
     "official": {
       "english": "▯ happened ▯ (amount of time) ago.",
       "gloss": "ago"
-    }
+    },
+    "frame": "0 c"
   },
   "peo": {
     "official": {
@@ -3113,7 +3157,8 @@
     "official": {
       "english": "▯ is matter/material/substance.",
       "gloss": "matter"
-    }
+    },
+    "frame": "c"
   },
   "sao": {
     "official": {
@@ -3126,7 +3171,8 @@
     "official": {
       "english": "▯ are [previous predicate].",
       "gloss": "previous.predicate"
-    }
+    },
+    "frame": null
   },
   "suq": {
     "official": {
@@ -3300,7 +3346,8 @@
     "official": {
       "english": "▯ is a result/product of performing action ▯.",
       "gloss": "result"
-    }
+    },
+    "frame": "c 0"
   },
   "sea": {
     "official": {
@@ -3390,7 +3437,8 @@
     "official": {
       "english": "▯ is a source/deposit/supply/reserve of ▯.",
       "gloss": "reserve"
-    }
+    },
+    "frame": "c c"
   },
   "shue": {
     "official": {
@@ -3606,13 +3654,15 @@
     "official": {
       "english": "▯ is a state / state of affairs / situation; ▯ is a state of affairs of property ▯.",
       "gloss": "state"
-    }
+    },
+    "frame": "0 1"
   },
   "tuaı": {
     "official": {
       "english": "▯ is a body/corpse.",
       "gloss": "body"
-    }
+    },
+    "frame": "c"
   },
   "tuao": {
     "official": {
@@ -3716,12 +3766,15 @@
     "official": {
       "english": "▯ cuts ▯ into ▯.",
       "gloss": "cut"
-    }
+    },
+    "frame": "c c c"
   },
   "te": {
-    "definition": "▯ has been ▯'ed (property).",
-    "gloss": "-ed",
-    "frame": "c c c"
+    "official": {
+      "english": "▯ has been ▯'ed (property).",
+      "gloss": "-ed"
+    },
+    "frame": "c 2"
   },
   "teq": {
     "official": {
