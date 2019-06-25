@@ -4,4 +4,4 @@ Please insert your fields as you need them (not too much, though) – the format
 
 * `definition` – official definition
 * `gloss` – official gloss
-* `frame` – one of the frames defined in `frames.yml`, or `'?'`
+* `frame` – a pointer to a frame definition from the beginning of the file, or `null`
