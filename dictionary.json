@@ -949,7 +949,7 @@
     "frame": "c"
   },
   "hıaq": {
-    "english": "▯ is poor in property ▯.",
+    "english": "▯ is poor in relation ▯; ▯ is in relation ▯ to/with few things.",
     "gloss": "poor",
     "frame": "c 2"
   },
@@ -1223,7 +1223,7 @@
     "frame": "c 1 c"
   },
   "jeaq": {
-    "english": "▯ increases; ▯ increases in how much it satisfies property ▯.",
+    "english": "▯ is increasingly the case; ▯ increases in how much it satisfies property ▯.",
     "gloss": "increase",
     "frame": "0; c 1"
   },
@@ -1292,7 +1292,7 @@
     "frame": "c"
   },
   "kueq": {
-    "english": "▯ (plural) gather/collect at locus ▯ (instransitive and non-agentive).",
+    "english": "▯ (plural) gather/collect at locus ▯ (intransitive and non-agentive).",
     "gloss": "gather",
     "frame": "c c"
   },
@@ -1372,7 +1372,7 @@
     "frame": "c"
   },
   "koı": {
-    "english": "▯ ambulates.",
+    "english": "▯ ambulates (walks/runs/crawls).",
     "gloss": "ambulate",
     "frame": "c"
   },
@@ -1905,7 +1905,7 @@
   },
   "neq": {
     "english": "▯ is determined by the luck/fortunate of ▯.",
-    "gloss": null,
+    "gloss": "luck",
     "frame": "0 c"
   },
   "nea": {
