@@ -9,6 +9,8 @@ function render_entry([name, entry]) {
     if(entry.frame === undefined)
       console.log(`Note: «${name}» has no frame assigned to it`);
     else throw new Error(`frame ‘${entry.frame}’ from entry «${name}» does not have a namesake`);
+  if(entry.frame === null)
+    entry.frame = 'not applicable';
   return `\
 <div class="entry">
   <div class="header">
@@ -16,7 +18,7 @@ function render_entry([name, entry]) {
     <span class="gloss">${entry.gloss}</span>
   </div>
   <div class="content">
-    <span class="toaq">${entry.english}</span>
+    <span class="english">${entry.english}</span>
   </div>
   <div class="footer">
     <span class="frame">${frame_name}</span>

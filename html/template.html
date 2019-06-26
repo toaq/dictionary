@@ -4,33 +4,58 @@
     <title>Toaq Dictionary</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Trade+Winds" rel="stylesheet">
     <style>
       html {
         width: 100%;
       }
       body {
         width: 500px;
-        padding: 10px;
+        padding: 20px;
         display: block;
         margin: 0 auto;
-        font-size: 100%;
+        font-size: 16px;
+        line-height: 20px;
         font-family: sans-serif;
         box-sizing: border-box;
       }
+      h1 {
+        text-align: center;
+      }
+      .suoi {
+        font-family: 'Trade Winds', sans-serif;
+      }
       .entry {
-        margin-top: 1em;
+        margin-top: 20px;
       }
       .toaq {
-        font-weight: strong;
+        font-weight: bold;
       }
       .gloss {
-        color: #777;
+        color: #0cc;
       }
-      .content {
-        padding-left: 1em;
+      .content, .footer {
+        padding-left: 2em;
+        text-indent: -1em;
       }
       .footer {
         font-size: 75%;
+      }
+      .compact .entry {
+        margin-top: 2px;
+      }
+      .compact .entry > div {
+        display: inline;
+        padding-left: 0;
+        text-indent: 0;
+      }
+      .compact .footer {
+        font-size: 100%;
+        color: #777;
+      }
+      .compact .entries {
+        line-height: 14px;
+        font-size: 14px;
       }
       @media(max-width: 500px) {
         body, html {
@@ -38,9 +63,18 @@
         }
       }
     </style>
+    <script>
+      window.onload = function() {
+        var compact = document.getElementById('compact');
+        compact.onchange = function() {
+          document.querySelector('html').className = compact.checked ? "compact" : "";
+        };
+      };
+    </script>
   </head>
   <body>
-    <h1>Toaq Dictionary</h1>
+    <h1><span class="suoi">Toaq</span> Dictionary</h1>
+    <input type="checkbox" id="compact"> <label for="compact">Compact</label>
     <p>You may also view this dictionary <a href="./dictionary.json">as a JSON file</a>.</p>
     <div class="entries">
       %%%
