@@ -1,30 +1,5 @@
 [
   {
-    "toaq": "poı",
-    "type": "predicate",
-    "english": "▯ is the case and has its first slot satisfy property ▯",
-    "gloss": "while",
-    "frame": "0 1",
-    "namesake": true,
-    "examples": [
-      {
-        "toaq": "Chủq jí pòı kảqsī múao da.",
-        "english": "I eat while looking at the trees."
-      },
-      {
-        "toaq": "Põı jảı bı shỏı hó mó «Lủı tảı jí da!» teo da.",
-        "english": "Extremely happy, they cried ‘I did it!’."
-      },
-      {
-        "toaq": "Pỏı sûaıkỏı jí na lî kảqsī sa ráı jí da.",
-        "english": "I run while having somebody staring at me."
-      },
-      {
-        "toaq": "Ke jípā dủq pỏı nủo pa jẻq tẻacā ke pó báq kẻshā da.",
-        "english": "The things I typically do while sleeping are as scary as with clowns."
-      }
-    ]
-  {
     "toaq": "ba",
     "type": "illocution",
     "english": "imperative",
@@ -5750,6 +5725,32 @@
     "type": "predicate",
     "english": "▯ is ours.",
     "gloss": "our"
+  },
+  {
+    "toaq": "poı",
+    "type": "predicate",
+    "english": "▯ is the case and has its first slot satisfy property ▯",
+    "gloss": "while",
+    "frame": "0 1",
+    "namesake": true,
+    "examples": [
+      {
+        "toaq": "Chủq jí pòı kảqsī múao da.",
+        "english": "I eat while looking at the trees."
+      },
+      {
+        "toaq": "Põı jảı bı shỏı hó mó «Lủı tảı jí da!» teo da.",
+        "english": "Extremely happy, they cried ‘I did it!’."
+      },
+      {
+        "toaq": "Pỏı sûaıkỏı jí na lî kảqsī sa ráı jí da.",
+        "english": "I run while having somebody staring at me."
+      },
+      {
+        "toaq": "Ke jípā dủq pỏı nủo pa jẻq tẻacā ke pó báq kẻshā da.",
+        "english": "The things I typically do while sleeping are as scary as with clowns."
+      }
+    ]
   },
   {
     "toaq": "pu",
