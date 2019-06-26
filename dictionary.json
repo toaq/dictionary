@@ -1161,9 +1161,9 @@
     "frame": "c"
   },
   "jıoq": {
-    "english": "▯ calculates ▯.",
+    "english": "▯ calculates what satisfies property ▯.",
     "gloss": "calculate",
-    "frame": "c c"
+    "frame": "c 1"
   },
   "jıe": {
     "english": "▯ is as ▯ deems/judges/evaluates things to be.",
