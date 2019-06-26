@@ -1,7 +1,7 @@
 #!/usr/bin/env node
-let dict = Object.entries(require('./../dictionary.json'));
+let dict = require('./../dictionary.json');
 let stats = dict.reduce(
-  (tally, [root, {frame}]) => {
+  (tally, {frame}) => {
     tally[frame] = (tally[frame] || 0) + 1;
     return tally
   }, {});

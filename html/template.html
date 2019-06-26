@@ -22,6 +22,9 @@
       h1 {
         text-align: center;
       }
+      a {
+        color: inherit;
+      }
       .suoi {
         font-family: 'Trade Winds', sans-serif;
       }
@@ -31,15 +34,29 @@
       .toaq {
         font-weight: bold;
       }
-      .gloss {
-        color: #0cc;
+      .type {
+        color: #0c0;
       }
-      .content, .footer {
+      .gloss {
+        color: #099;
+      }
+      .content {
         padding-left: 2em;
         text-indent: -1em;
       }
       .footer {
-        font-size: 75%;
+        margin: 0;
+        padding-left: 1em;
+        list-style-type: none;
+      }
+      .attribute {
+        color: #777;
+      }
+      .value {
+        color: #630;
+      }
+      .footer, .type, .gloss {
+        font-size: 12px;
       }
       .compact .entry {
         margin-top: 2px;
@@ -49,9 +66,8 @@
         padding-left: 0;
         text-indent: 0;
       }
-      .compact .footer {
-        font-size: 100%;
-        color: #777;
+      .compact .footer, .compact .footer li {
+        display: inline;
       }
       .compact .entries {
         line-height: 14px;
