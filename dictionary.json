@@ -147,7 +147,8 @@
   "ca": {
     "english": "▯ physically causes ▯ to be the case.",
     "gloss": "cause",
-    "frame": "0 0"
+    "frame": "0 0",
+    "namesake": true
   },
   "caq": {
     "english": "▯ conducts/directs/manages ▯.",
@@ -167,7 +168,8 @@
   "cua": {
     "english": "▯ responds to satisfying property ▯ by satisfying property ▯.",
     "gloss": "respond",
-    "frame": "c 1 1"
+    "frame": "c 1 1",
+    "namesake": true
   },
   "cuaq": {
     "english": "▯ is the concept/idea of satisfying property ▯.",
@@ -455,7 +457,8 @@
   "dua": {
     "english": "▯ knows ▯ to be the case / to be true.",
     "gloss": "know",
-    "frame": "c 0"
+    "frame": "c 0",
+    "namesake": true
   },
   "duaq": {
     "english": "▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).",
@@ -554,7 +557,7 @@
   "doa": {
     "english": "▯ gives property ▯ to ▯.",
     "gloss": "give",
-    "frame": "c 0 c"
+    "frame": "c 1 c"
   },
   "doaq": {
     "english": "▯ is a settlement/town/village/city.",
@@ -604,7 +607,8 @@
   "fa": {
     "english": "▯ goes to ▯ from ▯.",
     "gloss": "go",
-    "frame": "c c c"
+    "frame": "c c c",
+    "namesake": true
   },
   "faq": {
     "english": "▯ happens / takes place.",
@@ -644,7 +648,8 @@
   "fuı": {
     "english": "Satisfying property ▯ is easy for ▯.",
     "gloss": "easy",
-    "frame": "1 c"
+    "frame": "1 c",
+    "namesake": true
   },
   "fuo": {
     "english": "▯ touches ▯ (non-somatic); ▯ is in contact with ▯.",
@@ -907,7 +912,8 @@
   "hao": {
     "english": "the salient predicate",
     "gloss": "stuff",
-    "frame": null
+    "frame": null,
+    "namesake": true
   },
   "hua": {
     "english": "▯ is a body part.",
@@ -917,7 +923,8 @@
   "huaq": {
     "english": "▯ is more the case than ▯; ▯ is more than ▯ in property ▯.",
     "gloss": "more",
-    "frame": "c c 1"
+    "frame": "c c 1",
+    "namesake": true
   },
   "huı": {
     "english": "▯ is bad.",
@@ -1135,7 +1142,8 @@
   "jıa": {
     "english": "▯ will happen.",
     "gloss": "will.be",
-    "frame": "0"
+    "frame": "0",
+    "namesake": true
   },
   "jıaq": {
     "english": "▯ is a world.",
@@ -1160,7 +1168,8 @@
   "jıe": {
     "english": "▯ is as ▯ deems/judges/evaluates things to be.",
     "gloss": "deemed",
-    "frame": "0 c"
+    "frame": "0 c",
+    "namesake": true
   },
   "jıeq": {
     "english": "▯ is a tip / pointed end.",
@@ -1230,7 +1239,8 @@
   "jeo": {
     "english": "▯ is true / is the case; ▯ satisfies property ▯.",
     "gloss": "is.true",
-    "frame": "0; c 1"
+    "frame": "0; c 1",
+    "namesake": true
   },
   "jeoq": {
     "english": "▯ is a concave shape; ▯ is a cavity/hollow/cavern.",
@@ -1354,7 +1364,8 @@
   "ko": {
     "english": "▯ is the xth among ▯ where x is the numerosity of any things satisfying property ▯ sorted by property ▯.",
     "gloss": "nth",
-    "frame": "c c 1 1"
+    "frame": "c c 1 1",
+    "namesake": true
   },
   "koq": {
     "english": "▯ is rough/uneven.",
@@ -1384,7 +1395,8 @@
   "koe": {
     "english": "▯ chooses ▯ out of ▯ for ▯.",
     "gloss": "choose",
-    "frame": "c c c 1"
+    "frame": "c c c 1",
+    "namesake": true
   },
   "keq": {
     "english": "▯ are feces; ▯ is excrement/shit/poo.",
@@ -1568,7 +1580,8 @@
   "leo": {
     "english": "▯ tries to satisfy property ▯.",
     "gloss": "try",
-    "frame": "c 1"
+    "frame": "c 1",
+    "namesake": true
   },
   "leoq": {
     "english": "▯ shields ▯ from ▯.",
@@ -1593,7 +1606,8 @@
   "mu": {
     "english": "▯ satisfies property ▯ with the first and second places swapped.",
     "gloss": "-ed",
-    "frame": "c c 2"
+    "frame": "c c 2",
+    "namesake": true
   },
   "muq": {
     "english": "▯ is a hand.",
@@ -1647,7 +1661,8 @@
   "mıa": {
     "english": "▯ is rich in relation ▯; ▯ is in relation ▯ to/with many things.",
     "gloss": "rich",
-    "frame": "c 2"
+    "frame": "c 2",
+    "namesake": true
   },
   "mıaq": {
     "english": "▯ is the value of ▯.",
@@ -1941,7 +1956,8 @@
   "paı": {
     "english": "▯ is a friend; ▯ is a friend of ▯.",
     "gloss": "friend",
-    "frame": "c c"
+    "frame": "c c",
+    "namesake": true
   },
   "pao": {
     "english": "▯ is a parent of ▯; ▯ acts parental towards ▯; ▯ raises ▯.",
@@ -2056,7 +2072,8 @@
   "pe": {
     "english": "▯ is the case for/by the standard of ▯.",
     "gloss": "for",
-    "frame": "0 1"
+    "frame": "0 1",
+    "namesake": true
   },
   "peq": {
     "english": "▯ is paper.",
@@ -2081,7 +2098,8 @@
   "raı": {
     "english": "▯ is something.",
     "gloss": "something",
-    "frame": "c"
+    "frame": "c",
+    "namesake": true
   },
   "rao": {
     "english": "▯ happens at the same time as ▯; ▯ is simultaneous with ▯.",
@@ -2361,7 +2379,8 @@
   "soq": {
     "english": "▯ is the ▯est among ▯; ▯ is the most ▯ among ▯.",
     "gloss": "most",
-    "frame": "c 1 c"
+    "frame": "c 1 c",
+    "namesake": true
   },
   "soa": {
     "english": "▯ helps ▯ to satisfy property ▯.",
