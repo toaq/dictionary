@@ -752,13 +752,25 @@
     "toaq": "chuaırūq",
     "type": "predicate",
     "english": "▯ is hail.",
-    "gloss": "hail"
+    "gloss": "hail",
+    "examples": [
+      {
+        "toaq": "Shủa chúaırūq.",
+        "english": "Hail is falling."
+      }
+    ]
   },
   {
     "toaq": "chuaırūqshūa",
     "type": "predicate",
     "english": "It hails; ▯ hails; ▯ hails onto ▯.",
-    "gloss": "hail"
+    "gloss": "hail",
+    "examples": [
+      {
+        "toaq": "Chủaırūqshūa.",
+        "english": "It's hailing."
+      }
+    ]
   },
   {
     "toaq": "chue",
@@ -923,21 +935,6 @@
     "frame": "c c"
   },
   {
-    "toaq": "Chỏ jí ní rẻo.",
-    "type": "phrase",
-    "english": "\"I like this colour.\""
-  },
-  {
-    "toaq": "Chỏqgī hóı jỏemū da.",
-    "type": "phrase",
-    "english": "\"That skill is useful.\""
-  },
-  {
-    "toaq": "Chủaırūqshūa.",
-    "type": "phrase",
-    "english": "\"It's hailing.\""
-  },
-  {
     "toaq": "co",
     "type": "quantifier",
     "english": "quantifier: how many",
@@ -1002,12 +999,13 @@
     "type": "predicate",
     "english": "▯ is the concept/idea of satisfying property ▯.",
     "gloss": "concept",
-    "frame": "c 1"
-  },
-  {
-    "toaq": "cuaq dẻ",
-    "type": "argument phrase",
-    "english": "\"the concept of beauty\""
+    "frame": "c 1",
+    "examples": [
+      {
+        "toaq": "cuaq dẻ",
+        "english": "the concept of beauty"
+      }
+    ]
   },
   {
     "toaq": "cuaı",
@@ -1437,17 +1435,17 @@
   {
     "toaq": "dãqfāı",
     "type": "adverb",
-    "english": "\"often\""
+    "english": "often"
   },
   {
     "toaq": "dãqlēı",
     "type": "adverb",
-    "english": "\"seldom\""
+    "english": "seldom"
   },
   {
     "toaq": "dãı",
     "type": "adverb",
-    "english": "\"maybe\", \"possibly\"",
+    "english": "maybe; possibly",
     "gloss": "maybe"
   },
   {
@@ -1552,13 +1550,8 @@
   {
     "toaq": "dũafūı",
     "type": "adverb",
-    "english": "\"obviously\", \"clearly\", \"of course\"",
+    "english": "obviously; clearly; of course",
     "gloss": "obviously"
-  },
-  {
-    "toaq": "Dẻoq súq nò hı tóaq moq?",
-    "type": "phrase",
-    "english": "\"In what language are you communicating?\""
   },
   {
     "toaq": "fa",
@@ -2114,16 +2107,25 @@
     "gloss": "flour"
   },
   {
-    "toaq": "gòe sa búaı dảqnē",
-    "type": "phrase",
-    "english": "\"a long time from now\""
-  },
-  {
     "toaq": "gı",
     "type": "predicate",
     "english": "▯ is good.",
     "gloss": "good",
-    "frame": "c"
+    "frame": "c",
+    "examples": [
+      {
+        "toaq": "Gỉ chảq ba.",
+        "english": "Good day!"
+      },
+      {
+        "toaq": "Gỉ dỉosīao ba.",
+        "english": "Good morning!"
+      },
+      {
+        "toaq": "Gỉ nủaq ba.",
+        "english": "Good night!"
+      }
+    ]
   },
   {
     "toaq": "gıa",
@@ -2282,21 +2284,6 @@
     "english": "▯ is a line.",
     "gloss": "line",
     "frame": "c"
-  },
-  {
-    "toaq": "Gỉ chảq ba.",
-    "type": "phrase",
-    "english": "\"Good day!\""
-  },
-  {
-    "toaq": "Gỉ dỉosīao ba.",
-    "type": "phrase",
-    "english": "\"Good morning!\""
-  },
-  {
-    "toaq": "Gỉ nủaq ba.",
-    "type": "phrase",
-    "english": "\"Good night!\""
   },
   {
     "toaq": "ha",
@@ -2791,7 +2778,13 @@
     "type": "predicate",
     "english": "▯ greets ▯.",
     "gloss": "greet",
-    "frame": "c c"
+    "frame": "c c",
+    "examples": [
+      {
+        "toaq": "Hỉo ka.",
+        "english": "hello; bye"
+      }
+    ]
   },
   {
     "toaq": "hıoq",
@@ -2812,16 +2805,6 @@
     "english": "▯ is a river.",
     "gloss": "river",
     "frame": "c"
-  },
-  {
-    "toaq": "Hẻ jủoı hó jí lî mỏıjōe da. ",
-    "type": "phrase",
-    "english": "They describe me as smart."
-  },
-  {
-    "toaq": "Hỉo ka.",
-    "type": "phrase",
-    "english": "\"hello\", \"bye\""
   },
   {
     "toaq": "ja",
@@ -3211,7 +3194,17 @@
     "type": "predicate",
     "english": "▯ describes ▯ as satisfying property ▯.",
     "gloss": "describe",
-    "frame": "c c 1"
+    "frame": "c c 1",
+    "examples": [
+      {
+        "toaq": "Pủ jủoı sảo hó ní jỉo da. ",
+        "english": "They described this building as big."
+      },
+      {
+        "toaq": "Hẻ jủoı hó jí lî mỏıjōe da. ",
+        "english": "They describe me as smart."
+      }
+    ]
   },
   {
     "toaq": "juq",
@@ -3322,7 +3315,13 @@
     "english": "▯ is as ▯ deems/judges/evaluates things to be.",
     "gloss": "deemed",
     "frame": "0 c",
-    "namesake": true
+    "namesake": true,
+    "examples": [
+      {
+        "toaq": "Jảq dẻ báq rủa jìe hó da.",
+        "english": "Flowers are very beautiful to them."
+      }
+    ]
   },
   {
     "toaq": "jıeq",
@@ -3376,11 +3375,6 @@
     "type": "predicate",
     "english": "▯ is a birthday of ▯.",
     "gloss": "birthday"
-  },
-  {
-    "toaq": "Jảq dẻ báq rủa jìe hó da.",
-    "type": "phrase",
-    "english": "\"Flowers are very beautiful to them.\""
   },
   {
     "toaq": "ka",
@@ -3715,12 +3709,24 @@
     "toaq": "kuaq kỉe",
     "type": "predicate",
     "english": "▯ thanks ▯.",
-    "gloss": "thank"
+    "gloss": "thank",
+    "examples": [
+      {
+        "toaq": "Kủaq kỉe jí ka.",
+        "english": "Thank you (I hereby express my gratitude)"
+      }
+    ]
   },
   {
     "toaq": "kuaq shẻo",
     "type": "predicate",
-    "english": "▯ apologizes to ▯."
+    "english": "▯ apologizes to ▯.",
+    "examples": [
+      {
+        "toaq": "Kủaq shẻo jí ka.",
+        "english": "I apologize (I hereby express that I'm sorry)"
+      }
+    ]
   },
   {
     "toaq": "kuaı",
@@ -3835,7 +3841,7 @@
   {
     "toaq": "kùı",
     "type": "preposition",
-    "english": "\"because\""
+    "english": "because"
   },
   {
     "toaq": "kı",
@@ -3947,16 +3953,6 @@
     "english": "▯ is ▯able.",
     "gloss": "-able",
     "frame": "c 2"
-  },
-  {
-    "toaq": "Kủaq kỉe jí ka.",
-    "type": "phrase",
-    "english": "\"Thank you\", \"I hereby express my gratitude\""
-  },
-  {
-    "toaq": "Kủaq shẻo jí ka.",
-    "type": "phrase",
-    "english": "\"I apologize\", \"I hereby express that I'm sorry\""
   },
   {
     "toaq": "la",
@@ -4399,7 +4395,7 @@
   {
     "toaq": "lẽ",
     "type": "adverb",
-    "english": "\"probably\""
+    "english": "probably"
   },
   {
     "toaq": "ma",
@@ -4596,7 +4592,7 @@
   {
     "toaq": "moehūa",
     "type": "predicate",
-    "english": "▯ is an organ of feeling/emotion (\"heart\").",
+    "english": "▯ is an organ of feeling/emotion (“heart”).",
     "gloss": "organ.of.feeling"
   },
   {
@@ -4659,7 +4655,17 @@
     "type": "predicate",
     "english": "▯ satisfies property ▯ with the first and second places swapped.",
     "gloss": "-ed",
-    "frame": "c c 2"
+    "frame": "c c 2",
+    "examples": [
+      {
+        "toaq": "Mủ kảqgāı hó.",
+        "english": "They are being seen."
+      },
+      {
+        "toaq": "Chỏqgī hóı jỏemū da.",
+        "english": "That skill is useful."
+      }
+    ]
   },
   {
     "toaq": "mua",
@@ -4920,16 +4926,6 @@
     "gloss": "agree"
   },
   {
-    "toaq": "Mả pủ sỏa súq hóı hỉaotē kủne moq.",
-    "type": "phrase",
-    "english": "\"Did you help that injured dog?\""
-  },
-  {
-    "toaq": "Mủ kảqgāı hó.",
-    "type": "phrase",
-    "english": "\"They are being seen.\""
-  },
-  {
     "toaq": "na",
     "type": "terminator",
     "english": "terminate statement",
@@ -5101,7 +5097,17 @@
     "type": "predicate",
     "english": "▯ is in format/medium/genre ▯.",
     "gloss": "in",
-    "frame": "c c"
+    "frame": "c c",
+    "examples": [
+      {
+        "toaq": "Dẻoq súq nò hı tóaq moq?",
+        "english": "In what language are you communicating?"
+      },
+      {
+        "toaq": "nò Fárāqsē",
+        "english": "in French"
+      }
+    ]
   },
   {
     "toaq": "noa",
@@ -5301,11 +5307,6 @@
     "gloss": "town"
   },
   {
-    "toaq": "nò Fárāqsē",
-    "type": "phrase",
-    "english": "\"in French\""
-  },
-  {
     "toaq": "nı",
     "type": "predicate",
     "english": "▯ is this/that; ▯ is this/that/those thing(s) satisfying property ▯.",
@@ -5330,7 +5331,13 @@
     "toaq": "nıaoshūa",
     "type": "predicate",
     "english": "It snows; ▯ snows; ▯ snows onto ▯.",
-    "gloss": "snow"
+    "gloss": "snow",
+    "examples": [
+      {
+        "toaq": "Nỉaoshūa.",
+        "english": "It's snowing."
+      }
+    ]
   },
   {
     "toaq": "nıaq",
@@ -5481,18 +5488,8 @@
   {
     "toaq": "nũ",
     "type": "adverb",
-    "english": "\"like this\", \"like that\"",
+    "english": "like this; like that",
     "gloss": "like.that"
-  },
-  {
-    "toaq": "Nỉaoshūa.",
-    "type": "phrase",
-    "english": "\"It's snowing.\""
-  },
-  {
-    "toaq": "Nủı ní pè báq hẻlū da.",
-    "type": "phrase",
-    "english": "\"This one is small for an elephant.\""
   },
   {
     "toaq": "pa",
@@ -5581,14 +5578,26 @@
     "english": "▯ is the case for/by the standard of ▯.",
     "gloss": "for",
     "frame": "0 1",
-    "namesake": true
+    "namesake": true,
+    "examples": [
+      {
+        "toaq": "Nủı ní pè báq hẻlū da.",
+        "english": "This one is small for an elephant."
+      }
+    ]
   },
   {
     "toaq": "pea",
     "type": "predicate",
     "english": "▯ happened ▯ (amount of time) ago.",
     "gloss": "ago",
-    "frame": "0 c"
+    "frame": "0 c",
+    "examples": [
+      {
+        "toaq": "pèa sa dáqnē",
+        "english": "some time ago"
+      }
+    ]
   },
   {
     "toaq": "peo",
@@ -5903,12 +5912,6 @@
     "gloss": "few"
   },
   {
-    "toaq": "pèa sa dáqnē",
-    "type": "phrase",
-    "english": "\"some time ago\"",
-    "gloss": "ago"
-  },
-  {
     "toaq": "pı",
     "type": "predicate",
     "english": "▯ is urine/pee/piss.",
@@ -5981,11 +5984,6 @@
     "frame": "c"
   },
   {
-    "toaq": "Pủ jủoı sảo hó ní jỉo da. ",
-    "type": "phrase",
-    "english": "They described this building as big."
-  },
-  {
     "toaq": "ra",
     "type": "conjunction",
     "english": "inclusive or",
@@ -6002,7 +6000,25 @@
     "type": "predicate",
     "english": "▯ happens at the same time as ▯; ▯ is simultaneous with ▯.",
     "gloss": "when",
-    "frame": "0 0"
+    "frame": "0 0",
+    "examples": [
+      {
+        "toaq": "rào sa ráı",
+        "english": "some time; at some point"
+      },
+      {
+        "toaq": "rào sıa dáqmōa",
+        "english": "never, at no moment"
+      },
+      {
+        "toaq": "rào tu cháq",
+        "english": "every day"
+      },
+      {
+        "toaq": "rào tu dáqmōa",
+        "english": "always, at every moment"
+      }
+    ]
   },
   {
     "toaq": "raq",
@@ -6049,7 +6065,17 @@
     "type": "predicate",
     "english": "▯ is coloured; ▯ is of colour ▯.",
     "gloss": "coloured",
-    "frame": "c c"
+    "frame": "c c",
+    "examples": [
+      {
+        "toaq": "Chỏ jí ní rẻo.",
+        "english": "I like this colour."
+      },
+      {
+        "toaq": "Rẻo ní hı ráı moq.",
+        "english": "What colour is this?, What colour does this have?"
+      }
+    ]
   },
   {
     "toaq": "reoq",
@@ -6289,7 +6315,13 @@
     "toaq": "ruqshūa",
     "type": "predicate",
     "english": "It rains; ▯ rains; ▯ rains onto ▯.",
-    "gloss": "rain"
+    "gloss": "rain",
+    "examples": [
+      {
+        "toaq": "Rủqshūa.",
+        "english": "It's raining."
+      }
+    ]
   },
   {
     "toaq": "ruı",
@@ -6305,29 +6337,9 @@
     "gloss": "gray"
   },
   {
-    "toaq": "rào sa ráı",
-    "type": "prepositional phrase",
-    "english": "\"some time\", \"at some point\""
-  },
-  {
-    "toaq": "rào sıa dáqmōa",
-    "type": "prepositional phrase",
-    "english": "\"never\", \"at no moment\""
-  },
-  {
-    "toaq": "rào tu cháq",
-    "type": "prepositional phrase",
-    "english": "\"every day\""
-  },
-  {
-    "toaq": "rào tu dáqmōa",
-    "type": "prepositional phrase",
-    "english": "\"always\", \"at every moment\""
-  },
-  {
     "toaq": "rõa",
     "type": "adverb",
-    "english": "\"naturally\"",
+    "english": "naturally",
     "gloss": "naturally"
   },
   {
@@ -6449,35 +6461,24 @@
     "gloss": "return"
   },
   {
-    "toaq": "Rẻo ní hıráı moq?",
-    "type": "phrase",
-    "english": "\"What colour is this?\", \"What colour does this have?\""
-  },
-  {
-    "toaq": "Rủqshūa.",
-    "type": "phrase",
-    "english": "\"It's raining.\""
-  },
-  {
     "toaq": "sa",
     "type": "quantifier",
     "english": "existential quantifier",
-    "gloss": "some"
-  },
-  {
-    "toaq": "sa póq",
-    "type": "argument phrase",
-    "english": "\"someone\", \"somebody\""
-  },
-  {
-    "toaq": "sa ráı",
-    "type": "argument phrase",
-    "english": "\"something\""
-  },
-  {
-    "toaq": "sa túq rảı",
-    "type": "argument phrase",
-    "english": "\"all things (together)\""
+    "gloss": "some",
+    "examples": [
+      {
+        "toaq": "sa póq",
+        "english": "someone; somebody"
+      },
+      {
+        "toaq": "sa ráı",
+        "english": "something"
+      },
+      {
+        "toaq": "sa túq rảı",
+        "english": "all things (together)"
+      }
+    ]
   },
   {
     "toaq": "sabāq",
@@ -6950,11 +6951,6 @@
     "gloss": "past"
   },
   {
-    "toaq": "Shủa chúaırūq.",
-    "type": "phrase",
-    "english": "\"Hail is falling.\""
-  },
-  {
     "toaq": "soa",
     "type": "predicate",
     "english": "▯ helps ▯ to satisfy property ▯.",
@@ -7097,7 +7093,13 @@
     "type": "predicate",
     "english": "▯ asks ▯ to satisfy property ▯.",
     "gloss": "request",
-    "frame": "c c 1"
+    "frame": "c c 1",
+    "examples": [
+      {
+        "toaq": "Sủe jí súq lî tủa nẻo ja dó máq tóqfūa ka.",
+        "english": "Please put it on the table (I hereby ask you to put it on the table)"
+      }
+    ]
   },
   {
     "toaq": "suetā",
@@ -7139,11 +7141,6 @@
     "frame": "c 1 c"
   },
   {
-    "toaq": "súq ru jí",
-    "type": "argument phrase",
-    "english": "\"you and I\""
-  },
-  {
     "toaq": "sı",
     "type": "predicate",
     "english": "▯ is attentive to / focuses on ▯.",
@@ -7154,23 +7151,23 @@
     "toaq": "sıa",
     "type": "quantifier",
     "english": "zero quantifier.",
-    "gloss": "no"
-  },
-  {
-    "toaq": "sıa póq",
-    "type": "argument phrase",
-    "english": "\"noone\""
-  },
-  {
-    "toaq": "sıa ráı",
-    "type": "argument phrase",
-    "english": "\"nothing\""
+    "gloss": "no",
+    "examples": [
+      {
+        "toaq": "sıa póq",
+        "english": "no-one"
+      },
+      {
+        "toaq": "sıa ráı",
+        "english": "nothing"
+      }
+    ]
   },
   {
     "toaq": "sıachōa",
     "type": "predicate",
     "english": "▯ says nothing / is silent.",
-    "gloss": "say.nothing."
+    "gloss": "say.nothing"
   },
   {
     "toaq": "sıao",
@@ -7284,11 +7281,6 @@
     "frame": "c c"
   },
   {
-    "toaq": "Sủe jí súq lî tủa nẻo ja dó máq tóqfūa ka.",
-    "type": "phrase",
-    "english": "\"Please put it on the table\", \"I hereby ask you to put it on the table\""
-  },
-  {
     "toaq": "ta",
     "type": "linking word",
     "english": "linking word: 4th argument place",
@@ -7362,7 +7354,17 @@
     "type": "predicate",
     "english": "▯ has been ▯'ed (property).",
     "gloss": "-ed",
-    "frame": "c 2"
+    "frame": "c 2",
+    "examples": [
+      {
+        "toaq": "Tẻ hỉao ní kủnē da.",
+        "english": "This dog is injured."
+      },
+      {
+        "toaq": "Mả pủ sỏa súq hóı hỉaotē kủne moq.",
+        "english": "Did you help that injured dog?"
+      }
+    ]
   },
   {
     "toaq": "tea",
@@ -7510,17 +7512,17 @@
     "toaq": "tu",
     "type": "quantifier",
     "english": "quantifier: universal quantifier",
-    "gloss": "any"
-  },
-  {
-    "toaq": "tu póq",
-    "type": "argument phrase",
-    "english": "\"everyone\""
-  },
-  {
-    "toaq": "tu ráı",
-    "type": "argument phrase",
-    "english": "\"everything\", \"anything\""
+    "gloss": "any",
+    "examples": [
+      {
+        "toaq": "tu póq",
+        "english": "everyone"
+      },
+      {
+        "toaq": "tu ráı",
+        "english": "everything; anything"
+      }
+    ]
   },
   {
     "toaq": "tua",
@@ -7887,10 +7889,5 @@
     "type": "predicate",
     "english": "▯ stays at ▯.",
     "gloss": "stay"
-  },
-  {
-    "toaq": "Tẻ hỉao ní kủnē da.",
-    "type": "phrase",
-    "english": "\"This dog is injured.\""
   }
 ]

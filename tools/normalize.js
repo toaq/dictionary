@@ -7,8 +7,8 @@ d = d.sort((a_, b_) => {
   let b = b_.toaq.toLowerCase();
   if(a == b) throw new Error(`duplicate entry «${a}»!`);
   return a > b ? 1 : -1;
-}).map(({toaq, type, english, gloss, frame, namesake}) =>
-       ({toaq, type, english, gloss, frame, namesake}));
+}).map(({toaq, type, english, gloss, frame, namesake, remarks, examples}) =>
+       ({toaq, type, english, gloss, frame, namesake, remarks, examples}));
 d.forEach(e => {
   let missing = required_fields.filter(_ => !e[_]);
   if(missing.length)

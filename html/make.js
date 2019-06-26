@@ -13,10 +13,13 @@ function render_entry(entry) {
     if(entry.frame !== undefined)
       throw new Error(`frame ‘${entry.frame}’ from entry «${entry.toaq}» does not have a namesake`);
   } else attr('frame', `${frame_name} (${entry.frame})`);
-  let gl = '';
-  if(entry.gloss)
-    gl = ` <span class="gloss">‘${entry.gloss}’</span>`;
-  return `<div class="entry"><div class="header"><span class="toaq">${entry.toaq}</span> <span class="type">${entry.type}</span>${gl}</div> <div class="content">${entry.english}</div><ul class="footer">${attributes.join(' ')}</ul></div>`;
+  if(entry.examples && entry.examples.length) {
+    let maples = entry.examples.map(({toaq, english}) =>
+      `<li><span class="toaq">${toaq}</span> <span class="english">${english}</span></li>`);
+    attr('examples', `<ul class="examples">${maples.join(' ')}</ul>`);
+  }
+  if(entry.gloss) gl = ` <span class="gloss">‘${entry.gloss}’</span>`;
+  return `<div class="entry"><div class="header"><span class="toaq">${entry.toaq}</span> <span class="type">${entry.type}</span>${gl || ''}</div> <div class="content">${entry.english}</div> <ul class="footer">${attributes.join(' ')}</ul></div>`;
 }
 
 const template = fs.readFileSync('template.html').toString();

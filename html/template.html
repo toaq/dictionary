@@ -4,7 +4,7 @@
     <title>Toaq Dictionary</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://fonts.googleapis.com/css?family=Trade+Winds" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Trade+Winds:400|Merriweather:400?display=swap|Merriweather+Sans:300" rel="stylesheet">
     <style>
       html {
         width: 100%;
@@ -16,11 +16,13 @@
         margin: 0 auto;
         font-size: 16px;
         line-height: 20px;
-        font-family: sans-serif;
+        font-family: 'Merriweather Sans', sans-serif;
+        font-weight: 300;
         box-sizing: border-box;
       }
       h1 {
         text-align: center;
+        font-weight: 300;
       }
       a {
         color: inherit;
@@ -32,7 +34,7 @@
         margin-top: 20px;
       }
       .toaq {
-        font-weight: bold;
+        font-family: 'Merriweather', serif;
       }
       .type {
         color: #0c0;
@@ -44,10 +46,18 @@
         padding-left: 2em;
         text-indent: -1em;
       }
+      .footer, .type, .gloss {
+        font-size: 12px;
+      }
       .footer {
         margin: 0;
-        padding-left: 1em;
+        padding-left: 0;
         list-style-type: none;
+        line-height: 16px;
+        padding-top: 4px;
+      }
+      .footer > li::before {
+        content: ' ';
       }
       .attribute {
         color: #777;
@@ -55,8 +65,12 @@
       .value {
         color: #630;
       }
-      .footer, .type, .gloss {
-        font-size: 12px;
+      .examples {
+        list-style-type: none;
+        padding-left: 0;
+      }
+      .examples > li::before {
+        content: '— ';
       }
       .compact .entry {
         margin-top: 2px;
@@ -66,11 +80,12 @@
         padding-left: 0;
         text-indent: 0;
       }
-      .compact .footer, .compact .footer li {
+      .compact .footer, .compact .footer > li,
+      .compact .examples, .compact .examples > li {
         display: inline;
       }
       .compact .entries {
-        line-height: 14px;
+        line-height: 16px;
         font-size: 14px;
       }
       @media(max-width: 500px) {

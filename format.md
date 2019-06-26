@@ -8,5 +8,9 @@ Please insert your fields as you need them (not too much, though) – the format
 * `gloss` – gloss in English
 * `frame` – frame definition, if known; `null` means that the word doesn't have a set frame (possibly anaphoric)
 * `namesake` – whether this word is the name used to refer to its frametype
+* `remarks` – array of strings
+* `examples` – array of objects:
+  - `toaq`
+  - `english`
 
 `tools/normalize.js` is for normalizing the dictionary file.
