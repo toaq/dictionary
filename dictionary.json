@@ -1704,9 +1704,10 @@
   {
     "toaq": "fuaı",
     "type": "predicate",
-    "english": "▯ is a committee.",
+    "english": "▯ is a committee/board/commission/task force/panel.",
     "gloss": "committee",
-    "frame": "c"
+    "frame": "c",
+    "notes": ["Can refer to any body or group of people tasked with carrying out a particular function or with the accomplishment of some specific purpose."]
   },
   {
     "toaq": "fue",
