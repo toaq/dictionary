@@ -17,8 +17,8 @@ d = d.sort((a_, b_) => {
   let b = sortify(b_.toaq);
   if(a_ != b_ && a == b) throw new Error(`duplicate entries: «${a_.toaq}» and «${b_.toaq}»!`);
   return a > b ? 1 : -1;
-}).map(({toaq, type, english, gloss, frame, namesake, remarks, examples}) =>
-       ({toaq, type, english, gloss, frame, namesake, remarks, examples}));
+}).map(({toaq, type, english, gloss, frame, namesake, notes, examples}) =>
+       ({toaq, type, english, gloss, frame, namesake, notes, examples}));
 d.forEach(e => {
   let missing = required_fields.filter(_ => !e[_]);
   if(missing.length)

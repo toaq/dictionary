@@ -21,6 +21,9 @@ function render_entry(entry) {
       `<li><span class="toaq">${toaq}</span> <span class="english">${english}</span></li>`);
     attr('examples', `<ul class="examples">${maples.join(' ')}</ul>`);
   }
+  if(entry.notes && entry.notes.length) {
+    attr('notes', `<ul class="notes"><li>${entry.notes.join('</li> <li>')}</li></ul>`);
+  }
   if(entry.gloss) gl = ` <span class="gloss">‘${entry.gloss}’</span>`;
   return `<div class="entry"><div class="header"><span class="toaq">${entry.toaq}</span> <span class="type">${entry.type}</span>${gl || ''}</div> <div class="content">${entry.english}</div> <ul class="footer">${attributes.join(' ')}</ul></div>`;
 }
