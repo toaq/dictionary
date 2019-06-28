@@ -3328,7 +3328,8 @@
     "toaq": "jeı",
     "type": "predicatizer",
     "english": "turns following phrase X into predicate: ▯ is X.",
-    "gloss": "identical"
+    "gloss": "identical",
+    "frame": "c c"
   },
   {
     "toaq": "jeo",
@@ -4612,7 +4613,8 @@
     "toaq": "mı",
     "type": "predicatizer",
     "english": "turns following phrase X into predicate: ▯ is/are the one(s) called X.",
-    "gloss": "those.named"
+    "gloss": "those.named",
+    "frame": "c"
   },
   {
     "toaq": "mıa",
@@ -5842,7 +5844,8 @@
     "toaq": "po",
     "type": "predicatizer",
     "english": "turns following phrase X into predicate: ▯ is of X; ▯ is associated with X.",
-    "gloss": "of"
+    "gloss": "of",
+    "frame": "c"
   },
   {
     "toaq": "poa",
@@ -6726,7 +6729,8 @@
     "toaq": "shu",
     "type": "predicatizer",
     "english": "turn next phrase into quote predicate",
-    "gloss": "the.phrase"
+    "gloss": "the.phrase",
+    "frame": "c"
   },
   {
     "toaq": "shua",
