@@ -990,7 +990,8 @@
     "type": "predicate",
     "english": "▯ are in reciprocal relationship ▯ with each other.",
     "gloss": "reciprocally",
-    "frame": "c 2"
+    "frame": "c 2",
+    "distributive": "n d"
   },
   {
     "toaq": "cheoq",
@@ -2608,7 +2609,8 @@
     "type": "predicate",
     "english": "▯ carries/bears/hauls ▯.",
     "gloss": "carry",
-    "frame": "c c"
+    "frame": "c c",
+    "distributive": "d d"
   },
   {
     "toaq": "ho",
@@ -4854,7 +4856,8 @@
     "type": "predicate",
     "english": "▯ is among ▯.",
     "gloss": "among",
-    "frame": "c c"
+    "frame": "c c",
+    "distributive": "d n"
   },
   {
     "toaq": "meahēo",
