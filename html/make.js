@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+// Synthesise the HTML document from the JSON database using the
+// template at `./template.html`, outputting to `./dictionary.html`.
+
 const fs = require('fs');
 const dict = require('./../dictionary.json');
 process.chdir(__dirname);
