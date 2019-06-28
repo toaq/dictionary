@@ -12,7 +12,7 @@ Please insert your fields as you need them (not too much, though) – the format
 * `examples` – array of objects:
   - `toaq`
   - `english`
-* `distributive` - an array of boolean values referring to the distributivity of each argument place; `false` means non-distributive/collective, `true` means distributive
+* `distribution` - a string of the same format as `frame` where each slot type is replaced with either of ‘d’ or ‘n’ (for ‘distributive’ and ‘non-distributive’)
 * `keywords` - a list of English words that one might search for when trying to find the headword; synonyms of the gloss or of the main words found in the sentential definition
 
 `tools/normalize.js` is for normalizing the dictionary file.
