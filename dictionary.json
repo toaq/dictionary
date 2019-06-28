@@ -7862,9 +7862,12 @@
   {
     "toaq": "teoq",
     "type": "predicate",
-    "english": "▯ (quote) is a question.",
+    "english": "▯ is a question.",
     "gloss": "question",
-    "frame": "c"
+    "frame": "c",
+    "notes": [
+      "Refers to a quote rather than a fifth tone content clause."
+    ]
   },
   {
     "toaq": "teoqkūq",
