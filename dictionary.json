@@ -1607,9 +1607,10 @@
   {
     "toaq": "fuaı",
     "type": "predicate",
-    "english": "▯ is a committee.",
+    "english": "▯ is a committee/board/commission/task force/panel.",
     "gloss": "committee",
-    "frame": "c"
+    "frame": "c",
+    "notes": ["Can refer to any body or group of people tasked with carrying out a particular function or with the accomplishment of some specific purpose."]
   },
   {
     "toaq": "fuaq",
@@ -1710,8 +1711,8 @@
   {
     "toaq": "foı",
     "type": "predicate",
-    "english": "▯ is boring/dull.",
-    "gloss": "boring",
+    "english": "▯ is bored.",
+    "gloss": "bored",
     "frame": "c"
   },
   {
@@ -7612,7 +7613,7 @@
   {
     "toaq": "tıao",
     "type": "predicate",
-    "english": "▯ matches/fits/suits ▯ in property ▯.",
+    "english": "▯ matches/fits/suits ▯ in relation ▯.",
     "gloss": "match",
     "frame": "c c 2"
   },
