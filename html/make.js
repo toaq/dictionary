@@ -13,7 +13,7 @@ function render_entry(entry) {
   }
   let frame_name = frame_names[entry.frame];
   if(!frame_name) {
-    if(entry.frame !== undefined)
+    if(entry.frame)
       throw new Error(`frame ‘${entry.frame}’ from entry «${entry.toaq}» does not have a namesake`);
   } else attr('frame', `${frame_name} (${entry.frame})`);
   let english = entry.english;
@@ -28,21 +28,23 @@ function render_entry(entry) {
     english.push(last_english);
     english = english.join('; ');
   }
-  if(entry.examples && entry.examples.length) {
-    let maples = entry.examples.map(({toaq, english}) =>
-      `<li><span class="toaq">${toaq}</span> <span class="english">${english}</span></li>`);
-    attr('examples', `<ul class="examples">${maples.join(' ')}</ul>`);
-  }
+  if(entry.gloss) gl = ` <span class="gloss">‘${entry.gloss}’</span>`;
   if(entry.fields && entry.fields.length)
     entry.fields = entry.fields.map((_, i) =>
       '<span class="toaq">' +
       _.map((s, i) => s.replace(/[auıoe]/,
         m => ((m == 'ı' ? 'i' : m) + '\u0309').normalize('NFC'))).join(' ra ')
       + ' dó' + ['shī', 'gū', 'sāq', 'jō', 'fē', 'cī'][i] + '</span>');
-  for(f of ['notes', 'keywords', 'fields'])
+  for(f of ['notes', 'fields'])
     if(entry[f] && entry[f].length)
       attr(f, `<ul class="notes"><li>${entry[f].join('</li> <li>')}</li></ul>`);
-  if(entry.gloss) gl = ` <span class="gloss">‘${entry.gloss}’</span>`;
+  if(entry.keywords && entry.keywords.length)
+    attr('keywords', entry.keywords.join('; '));
+  if(entry.examples && entry.examples.length) {
+    let maples = entry.examples.map(({toaq, english}) =>
+      `<li><span class="toaq">${toaq}</span> <span class="english">${english}</span></li>`);
+    attr('examples', `<ul class="examples">${maples.join(' ')}</ul>`);
+  }
   return `<div class="entry"><div class="header"><span class="toaq">${entry.toaq}</span> <span class="type">${entry.type}</span>${gl || ''}</div> <div class="content">${english}</div> <ul class="footer">${attributes.join(' ')}</ul></div>`;
 }
 
