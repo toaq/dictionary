@@ -5,8 +5,6 @@
     "english": "imperative",
     "gloss": "imperative",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
     "examples": [
       {
@@ -21,8 +19,7 @@
         "toaq": "Nủofā jí ba.",
         "english": "I should go to sleep."
       }
-    ],
-    "fields": []
+    ]
   },
   {
     "toaq": "baı",
@@ -378,11 +375,8 @@
     "english": "terminates prenex",
     "gloss": ":",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "bıa",
@@ -738,11 +732,8 @@
     "english": "puts emphasis on the following word",
     "gloss": "emphasis",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "beo",
@@ -871,11 +862,8 @@
     "english": "linking word: 3rd argument place",
     "gloss": "3rd.place",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "cua",
@@ -1943,11 +1931,8 @@
     "english": "quantifier: how many",
     "gloss": "how.many",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "coa",
@@ -2039,11 +2024,8 @@
     "english": "assertive illocution",
     "gloss": "ASS",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "daı",
@@ -3216,11 +3198,8 @@
     "english": "terminates conversion via predicalizer.",
     "gloss": "END",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "gaı",
@@ -3913,11 +3892,8 @@
     "english": "linking word, indicates that the following argument fills the second argument place of the predicate.",
     "gloss": "2nd.place",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "goa",
@@ -4310,11 +4286,8 @@
     "english": "vocative",
     "gloss": "O",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "hua",
@@ -4623,11 +4596,8 @@
     "english": "which?",
     "gloss": "which",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "hıaı",
@@ -5130,11 +5100,8 @@
     "english": "quantifier: lambda",
     "gloss": "lambda",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jaı",
@@ -5298,11 +5265,8 @@
     "english": "begin incidental clause",
     "gloss": "begin.incidental",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jua",
@@ -5961,11 +5925,8 @@
     "english": "begin new sentence",
     "gloss": "new.sentence",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jea",
@@ -6179,11 +6140,8 @@
     "english": "performative illocution",
     "gloss": "hereby",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "kafē",
@@ -6395,11 +6353,8 @@
     "english": "marks focus",
     "gloss": "FOC",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "kua",
@@ -6722,11 +6677,8 @@
     "english": "terminates parenthetical",
     "gloss": ")",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "kıa",
@@ -6830,11 +6782,8 @@
     "english": "start parenthetical",
     "gloss": "(",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "kıoq",
@@ -7168,11 +7117,8 @@
     "english": "quantifier: the",
     "gloss": "the",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "kea",
@@ -7216,11 +7162,8 @@
     "english": "but/however",
     "gloss": "but",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "keq",
@@ -7252,11 +7195,8 @@
     "english": "begin meta clause; makes a comment about the containing sentence (text not content).",
     "gloss": "meta",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "laı",
@@ -7348,11 +7288,8 @@
     "english": "statement prefix: turn statement into predicate",
     "gloss": "that",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "lua",
@@ -7552,11 +7489,8 @@
     "english": "statement prefix: turn statement into property",
     "gloss": "the.property",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "lıa",
@@ -8062,11 +7996,8 @@
     "english": "statement prefix: whether",
     "gloss": "whether",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "maı",
@@ -8660,11 +8591,8 @@
     "english": "begin full-text quote.",
     "gloss": "«",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "moa",
@@ -8828,11 +8756,8 @@
     "english": "interrogative illocution",
     "gloss": "?",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "moe",
@@ -9044,11 +8969,8 @@
     "english": "terminate statement",
     "gloss": "END",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "naı",
@@ -10072,11 +9994,8 @@
     "english": "terminate prenex and apply prenex arguments to predicate in order",
     "gloss": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "paı",
@@ -10985,11 +10904,8 @@
     "english": "inclusive or",
     "gloss": "or",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "radīo",
@@ -11086,11 +11002,8 @@
     "english": "and",
     "gloss": "and",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "rua",
@@ -11559,11 +11472,8 @@
     "english": "exclusive or",
     "gloss": "xor",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "roa",
@@ -11636,11 +11546,8 @@
     "english": "plural and",
     "gloss": "and",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "roq",
@@ -11825,8 +11732,6 @@
     "english": "existential quantifier",
     "gloss": "some",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
     "examples": [
       {
@@ -11841,8 +11746,7 @@
         "toaq": "sa túq rảı",
         "english": "all things (together)"
       }
-    ],
-    "fields": []
+    ]
   },
   {
     "toaq": "sabāq",
@@ -12791,8 +12695,6 @@
     "english": "zero quantifier.",
     "gloss": "no",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
     "examples": [
       {
@@ -12803,8 +12705,7 @@
         "toaq": "sıa ráı",
         "english": "nothing"
       }
-    ],
-    "fields": []
+    ]
   },
   {
     "toaq": "sıachōa",
@@ -13305,11 +13206,8 @@
     "english": "linking word: 4th argument place",
     "gloss": "4th.place",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "taı",
@@ -13437,8 +13335,6 @@
     "english": "quantifier: universal quantifier",
     "gloss": "any",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
     "examples": [
       {
@@ -13449,8 +13345,7 @@
         "toaq": "tu ráı",
         "english": "everything; anything"
       }
-    ],
-    "fields": []
+    ]
   },
   {
     "toaq": "tua",
@@ -14010,11 +13905,8 @@
     "english": "statement prefix: how much; to what extent",
     "gloss": "how.much",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "tıopūı",
@@ -14154,11 +14046,8 @@
     "english": "helper particle in forethought conjunctions: to + conj ▯ to ▯",
     "gloss": "CONJ",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "toa",
@@ -14355,11 +14244,8 @@
     "english": "terminate full-text quote.",
     "gloss": "»",
     "keywords": [],
-    "frame": "",
-    "distribution": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "teoq",
