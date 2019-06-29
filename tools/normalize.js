@@ -17,19 +17,22 @@ d = d.sort((a_, b_) => {
   let b = sortify(b_.toaq);
   if(a_ != b_ && a == b) throw new Error(`duplicate entries: «${a_.toaq}» and «${b_.toaq}»!`);
   return a > b ? 1 : -1;
-}).map(obj => ({
-  toaq: obj.toaq, type: obj.type, english: obj.english,
-  gloss: obj.gloss || '', keywords: obj.keywords || [],
-  frame: obj.frame || '', distribution: obj.distribution || '',
-  namesake: obj.namesake || undefined, notes: obj.notes || [],
-  examples: obj.examples || [], fields: obj.fields || []
-}));
+}).map(obj => {
+  let predlike = ['predicate', 'predicatizer'].includes(obj.type);
+  return {
+    toaq: obj.toaq, type: obj.type, english: obj.english,
+    gloss: obj.gloss || '', keywords: obj.keywords || [],
+    frame: predlike ? obj.frame || '' : undefined,
+    distribution: predlike ? obj.distribution || '' : undefined,
+    namesake: (predlike && obj.namesake) || undefined,
+    notes: obj.notes || [],
+    examples: obj.examples || [],
+    fields: predlike ? obj.fields || [] : undefined };
+});
 d.forEach(e => {
   let missing = required_fields.filter(_ => !e[_]);
   if(missing.length)
     console.warn(`«${e.toaq}» doesn't have the following obligatory fields: ${missing.join(', ')}`);
-  if(['predicate', 'predicatizer'].includes(e.type) != !!e.frame)
-    ; // console.warn(`«${e.toaq}» does${e.frame ? '' : ' not'} have a frame despite being a ${e.type}`);
 });
 require('fs').writeFileSync('../dictionary.json',
   JSON.stringify(d, null, 2) + '\n');
