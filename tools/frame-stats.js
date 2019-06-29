@@ -1,4 +1,6 @@
 #!/usr/bin/env node
+// Generate frame statistics; writes to stdout.
+
 let dict = require('./../dictionary.json');
 let stats = dict.reduce(
   (tally, {frame}) => {

@@ -65,11 +65,12 @@
       .value {
         color: #630;
       }
-      .examples {
+      .examples, .notes {
         list-style-type: none;
         padding-left: 0;
       }
-      .examples > li::before {
+      .examples > li::before,
+      .notes    > li::before {
         content: '— ';
       }
       .compact .entry {
@@ -80,8 +81,9 @@
         padding-left: 0;
         text-indent: 0;
       }
-      .compact .footer, .compact .footer > li,
-      .compact .examples, .compact .examples > li {
+      .compact .footer,   .compact .footer   > li,
+      .compact .examples, .compact .examples > li
+      .compact .notes,    .compact .notes    > li {
         display: inline;
       }
       .compact .entries {
