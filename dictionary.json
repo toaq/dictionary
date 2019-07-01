@@ -1338,7 +1338,7 @@
     "fields": []
   },
   {
-    "toaq": "chuecē",
+    "toaq": "chuecēq",
     "type": "predicate",
     "english": "▯ is a train station.",
     "gloss": "train.station",
@@ -1985,11 +1985,11 @@
   {
     "toaq": "ce",
     "type": "predicate",
-    "english": "▯ is a node/station/port.",
-    "gloss": "node",
+    "english": "relative pronoun whose antecedent is the head of the containing relative clause",
+    "gloss": "it",
     "keywords": [],
     "frame": "c",
-    "distribution": "d",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2014,6 +2014,18 @@
     "keywords": [],
     "frame": "0; c 1",
     "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ceq",
+    "type": "predicate",
+    "english": "▯ is a node/station/port.",
+    "gloss": "node",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4741,18 +4753,6 @@
     "type": "predicate",
     "english": "▯ is him/her/it / are them.",
     "gloss": "they",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hoa",
-    "type": "predicate",
-    "english": "relative pronoun whose antecedent is the head of the containing relative clause",
-    "gloss": "it",
     "keywords": [],
     "frame": "c",
     "distribution": "n",
@@ -8868,7 +8868,7 @@
     "fields": []
   },
   {
-    "toaq": "meaqcē",
+    "toaq": "meaqcēq",
     "type": "predicate",
     "english": "▯ is a harbour/haven.",
     "gloss": "harbour",
@@ -13624,7 +13624,7 @@
     "fields": []
   },
   {
-    "toaq": "tuchāocē",
+    "toaq": "tuchāocēq",
     "type": "predicate",
     "english": "▯ is a bus stop.",
     "gloss": "bus.stop",
