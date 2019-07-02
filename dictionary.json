@@ -4180,7 +4180,7 @@
     "gloss": "stuff",
     "keywords": [],
     "frame": "variable",
-    "distribution": "",
+    "distribution": "variable",
     "namesake": true,
     "notes": [],
     "examples": [],
@@ -5844,7 +5844,7 @@
     "gloss": "quartet",
     "keywords": [],
     "frame": "c",
-    "distribution": "",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
