@@ -30,7 +30,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dủe nảqrēq jí kìu jî sa túq lủ bảı hóa pójī bủajīo da.",
+        "english": "I'm a real man because I built my house."
+      },
+      {
+        "toaq": "Hu báı go jỉo ga sỉ súq jóqhūa ba.",
+        "english": "Construction workers, mind your heads."
+      }
+    ],
     "fields": []
   },
   {
@@ -138,7 +147,20 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bủa jí jíopāq da.",
+        "english": "I live in a flat."
+      },
+      {
+        "toaq": "Bủa jí mí Củrīq da.",
+        "english": "I live in Zurich."
+      },
+      {
+        "toaq": "Bủ bủa hó da.",
+        "english": "He doesn't have a home."
+      }
+    ],
     "fields": []
   },
   {
@@ -483,7 +505,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Gảıkīu nûoq go fúaq pỏ jóqshāq bío da.",
+        "english": "You can see the image of the face being reflected by the wine glass."
+      },
+      {
+        "toaq": "Bỉo rı hảqrīaı moq.",
+        "english": "Cups or plates?"
+      }
+    ],
     "fields": []
   },
   {
@@ -531,7 +562,16 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bìejāo tîshāgīq mí Lỉq bı dủashō púqjī tîo púqjī pa tỉbūmēo hó da.",
+        "english": "Long after Lynn left, we realised how much we miss them."
+      },
+      {
+        "toaq": "Bỉejāo go hóq gêq hó jí da.",
+        "english": "It was a long time after that when he met me."
+      }
+    ],
     "fields": []
   },
   {
@@ -964,7 +1004,20 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Củo hó bû dảı rûohūı báq pỏq hó da.",
+        "english": "He assumed it wasn't possible for others to be rude to him."
+      },
+      {
+        "toaq": "mũ củo",
+        "english": "presumably"
+      },
+      {
+        "toaq": "Shè cûo bı bủ chỉ ba.",
+        "english": "If there are assumptions, there shouldn't be belief."
+      }
+    ],
     "fields": []
   },
   {
@@ -1048,7 +1101,20 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sủaı lỉachīeqfā táqchāo tǐ hóa cháotīeq na súqjī da.",
+        "english": "The cars on the road pass beside us quickly."
+      },
+      {
+        "toaq": "Kảqsī súq cháotīeq hu lúeq chảocāq ba!",
+        "english": "Watch the road, chauffeur!"
+      },
+      {
+        "toaq": "Rúolūa pỏ chíejīo bı, lủarūo jí lî chảotīeq da.",
+        "english": "In the school play, I played the road."
+      }
+    ],
     "fields": []
   },
   {
@@ -1394,7 +1460,20 @@
     "frame": "c 1",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Ā, nỉqgūo chỉaıtāo tủa tỉ jí tíoqchūo tóqfūa da!",
+        "english": "Argh, I put the keys on the table by mistake yet again!"
+      },
+      {
+        "toaq": "Hủırūo súq sıa chíaıtāo ba.",
+        "english": "You shouldn't be mean to those who have erred."
+      },
+      {
+        "toaq": "Cảbīaq nûokūaı jí na nâı jảq dảqfāı chỉaıtāo jí da.",
+        "english": "I'm so tired I'm making a lot of mistakes right now."
+      }
+    ],
     "fields": []
   },
   {
@@ -2717,7 +2796,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dỏq túqsīa chẻı da.",
+        "english": "The last finger is short."
+      },
+      {
+        "toaq": "Lảo súq dùoı bóq ba.",
+        "english": "Wait for a short while."
+      }
+    ],
     "fields": []
   },
   {
@@ -3812,7 +3900,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Gỉ gíq gỉ ba ru jẻo bú ba",
+        "english": "May the ungood be good, and may lies be true."
+      },
+      {
+        "toaq": "Gīgīqjāqgū hóq da!",
+        "english": "That's doubleplusungood!"
+      }
+    ],
     "fields": []
   },
   {
@@ -5672,7 +5769,20 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Mả jỉq sa jỉao moq.",
+        "english": "Do any gods exist?"
+      },
+      {
+        "toaq": "Shỏe tủa dủa jí súq jíq ba.",
+        "english": "Let me tell you about something that happened for real."
+      },
+      {
+        "toaq": "Mỏı jí mù shẻ jîq jí.",
+        "english": "I think, therefore I am."
+      }
+    ],
     "fields": []
   },
   {
@@ -6502,7 +6612,20 @@
     "frame": "0 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Fẻılūaq hó jí kùıtūe bêo jí pó lî chỉejīo da.",
+        "english": "They were bullying me, which is why I changed my school."
+      },
+      {
+        "toaq": "Shỉ kủıtūe hóq da.",
+        "english": "That's one reason."
+      },
+      {
+        "toaq": "Bủ sỉ súq kúıtūe da.",
+        "english": "You aren't focusing on the reasons."
+      }
+    ],
     "fields": []
   },
   {
@@ -7013,7 +7136,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Kỏaqrēq há shè bîaq gẻo rı sẻcāq há moq.",
+        "english": "Are you an adult when you're sufficiently old, or responsible?"
+      },
+      {
+        "toaq": "Pủı kóaqrēq ru móınīeq da.",
+        "english": "There are many adults as well as idiots."
+      }
+    ],
     "fields": []
   },
   {
@@ -7916,7 +8048,16 @@
     "frame": "c c c",
     "distribution": "d d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Lẻaqfīa péı gủ péı sảq síemē rỏasēu da.",
+        "english": "Two comes right before three in the natural numbers."
+      },
+      {
+        "toaq": "Bủ sủq pú lẻaqfīa go jỉ, tıu fả súq fáo go lảogīu ba!",
+        "english": "You're not the one who was right before me, so go to the end of the line!"
+      }
+    ],
     "fields": []
   },
   {
@@ -7989,7 +8130,20 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tủa bủı súq léq ba!",
+        "english": "Stick out your tongue!"
+      },
+      {
+        "toaq": "Jí bı hủaq bủaı léq pésō da.",
+        "english": "As for me, the tongue is longer than the penis."
+      },
+      {
+        "toaq": "Lẻq lú tẻ rỉoqhīao pó káıchūo hó hóa da.",
+        "english": "The tongue was where the pen damaged him."
+      }
+    ],
     "fields": []
   },
   {
@@ -9386,7 +9540,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dủ mủısīa híqlī mủıjūoıkūqsē go shủ nủq ju mả bủ hóq da!",
+        "english": "The English definition for ‘nuq’ is bonkers, isn't it!"
+      },
+      {
+        "toaq": "Lỏıjīe jí tîtūa súq cu pójī kủe sa núq da.",
+        "english": "I hate it when you put snakes in my room."
+      }
+    ],
     "fields": []
   },
   {
@@ -10262,7 +10425,20 @@
     "frame": "c",
     "distribution": "n",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Pủı pójī kíaq da.",
+        "english": "I have many hairs."
+      },
+      {
+        "toaq": "Mảı hó sa púı da.",
+        "english": "He loved many."
+      },
+      {
+        "toaq": "Mảı hó púı da.",
+        "english": "He loved the lot."
+      }
+    ],
     "fields": []
   },
   {
@@ -10694,7 +10870,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Kảqsī jí póhō fủq ba.",
+        "english": "May I take a look at his clothes."
+      },
+      {
+        "toaq": "Rủaq sıa ráı pôhō máq da.",
+        "english": "Nobody said it was theirs."
+      }
+    ],
     "fields": []
   },
   {
@@ -11101,7 +11286,20 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Lũ rủaq hó bı jủqgī nûaıchōq cu pó téqmē pẻsōtīe da.",
+        "english": "As he said, we had better invest in the condom industry."
+      },
+      {
+        "toaq": "Lú rủaq hóa bû hóq bı chỉaı da.",
+        "english": "Those who think otherwise are wrong. (As for those who think that it's false, there is wrongness.)"
+      },
+      {
+        "toaq": "Kủaq rủaq jí ka.",
+        "english": "I hereby assert."
+      }
+    ],
     "fields": []
   },
   {
@@ -13104,7 +13302,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sẻakūaı hó kùı lû rào páqmūo nỉchāq bı hỉe hó da.",
+        "english": "He's exhausted because he's been carrying things all day."
+      },
+      {
+        "toaq": "Bìe dáqbūaı tủe kỏı bı sẻakūaı da.",
+        "english": "After the long run, there is exhaustion."
+      }
+    ],
     "fields": []
   },
   {
@@ -14085,7 +14292,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tỏaı ní chôa da. Chỏatōaı ní da.",
+        "english": "This is a quantum of speech. It's a phoneme."
+      },
+      {
+        "toaq": "Jỉaıdōa súq níq tỏaı go dủaohāq jí ba.",
+        "english": "Give me another piece of cake."
+      }
+    ],
     "fields": []
   },
   {
