@@ -3080,6 +3080,7 @@
     "keywords": [],
     "frame": "1",
     "distribution": "d",
+    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -3939,6 +3940,7 @@
     "keywords": [],
     "frame": "0 c c",
     "distribution": "d d d",
+    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -8473,6 +8475,7 @@
     "keywords": [],
     "frame": "c c 0",
     "distribution": "d d d",
+    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
