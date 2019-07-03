@@ -398,7 +398,16 @@
     "gloss": ":",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Rúa bı chỏ jí da.",
+        "english": "As for flowers, I like."
+      },
+      {
+        "toaq": "Dãqfāı bı chủq hó.",
+        "english": "Frequently, he eats."
+      }
+    ]
   },
   {
     "toaq": "bıa",
@@ -2038,7 +2047,12 @@
     "gloss": "how.many",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Tỉ co rúa moq.",
+        "english": "How many flowers are present?"
+      }
+    ]
   },
   {
     "toaq": "coa",
@@ -2583,7 +2597,12 @@
     "frame": "c 1",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dỉ dủ dẻ dó da.",
+        "english": "X is allowed to seem beautiful."
+      }
+    ],
     "fields": []
   },
   {
@@ -4388,7 +4407,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Cả gé pỏ ní hảqbāısē bûqcīu jí da.",
+        "english": "The mere look of this food is mouth-watering."
+      },
+      {
+        "toaq": "Hảqbāısē rı lủ tủq lủ tảo súq na lî tủa nẻo go hóa háqrīaı moq.",
+        "english": "Is it cooked food or something which all you did to it was put it on the plate?"
+      }
+    ],
     "fields": []
   },
   {
@@ -4860,7 +4888,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Cúaq hỉu pa lủ jủaq súoı dỉuchē lî bủ mủo mủıdūa go hóa da.",
+        "english": "The concept of a river is something even great scientists don't fully grasp."
+      }
+    ],
     "fields": []
   },
   {
@@ -5412,7 +5445,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Jảqnūı báq sảıtōaı da.",
+        "english": "An atom is tiny."
+      },
+      {
+        "toaq": "Bủ dẻq kảqgāı jí báq pỏ sa jáqnūı da.",
+        "english": "I can't spot tiny things."
+      }
+    ],
     "fields": []
   },
   {
@@ -5502,7 +5544,16 @@
     "frame": "",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Jủaochīaı bỏnūa hó dóaı da.",
+        "english": "It is illegal for him to take the bread."
+      },
+      {
+        "toaq": "Jủaochīaı hóq pó chúaq rỏa da.",
+        "english": "That is against the laws of nature."
+      }
+    ],
     "fields": []
   },
   {
@@ -5802,7 +5853,16 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Jỉashāo rủqshūa jí da.",
+        "english": "I hope that it rains."
+      },
+      {
+        "toaq": "Bủ chỉ súq tu lú rủaq sa jíashāo pỏ jíaqfāo hóa ba.",
+        "english": "Have distrust in everything that those who hope for the apocalypse say."
+      }
+    ],
     "fields": []
   },
   {
@@ -5814,7 +5874,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bủ jỉu sa réq da.",
+        "english": "Some humans don't get born."
+      },
+      {
+        "toaq": "Kảqsī súq náı chủfāq jỉu ba.",
+        "english": "Look at the one who's being born right now."
+      }
+    ],
     "fields": []
   },
   {
@@ -6434,7 +6503,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bủ dẻq nỏa jí ní kảısē da.",
+        "english": "I can't read this writing."
+      }
+    ],
     "fields": []
   },
   {
@@ -6881,7 +6955,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dẻq jí lî kảıfīeq rào sa shí dỉofāo go sa shí sảo kủepāq da.",
+        "english": "I can write a large chapter in an evening."
+      },
+      {
+        "toaq": "Kỏ rảıhī kúepāq moq.",
+        "english": "Which chapter is it?"
+      }
+    ],
     "fields": []
   },
   {
@@ -8556,7 +8639,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Cả bỉafōı mûoı da.",
+        "english": "Spinning causes dizziness."
+      }
+    ],
     "fields": []
   },
   {
@@ -10385,7 +10473,20 @@
     "distribution": "d d",
     "namesake": true,
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Pảı jí súq da.",
+        "english": "I'm your friend."
+      },
+      {
+        "toaq": "Chẻo pảı hó da.",
+        "english": "They're friends (for each other)."
+      },
+      {
+        "toaq": "Rủo chã pảı ba!",
+        "english": "Act like friends do!"
+      }
+    ],
     "fields": []
   },
   {
@@ -10794,7 +10895,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Lủı pủeq jí sa légō cà hôaı bủ shảı nỏılīe jí da.",
+        "english": "I have stepped on a Lego, which is why I still can't stop hurting."
+      }
+    ],
     "fields": []
   },
   {
@@ -13370,7 +13476,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Mỏı súq sa jáıcā ru sỉo ba.",
+        "english": "Think happy thoughts."
+      },
+      {
+        "toaq": "Sỉo ru jỉqbū hóq da.",
+        "english": "It's a thought, not reality."
+      }
+    ],
     "fields": []
   },
   {
