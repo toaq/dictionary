@@ -149,7 +149,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Bủa jí jíopāq da.",
+        "toaq": "Bủa jí kúabūe da.",
         "english": "I live in a flat."
       },
       {
@@ -2715,7 +2715,20 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Chỏsōq báq dỉofāo jí da.",
+        "english": "Evenings are my favourite."
+      },
+      {
+        "toaq": "Rảıhī lú hẻ tâo súq hóa rào báq díofāo moq.",
+        "english": "What do you typically do in the evening?"
+      },
+      {
+        "toaq": "Ảā, hảı dỉofāo da!",
+        "english": "Aah, finally, the evening!"
+      }
+    ],
     "fields": []
   },
   {
@@ -2856,7 +2869,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dẻ báq rủa da.",
+        "english": "Flowers are beautiful."
+      },
+      {
+        "toaq": "Mảı jí sa bú dẻ da.",
+        "english": "I love something which isn't beautiful."
+      }
+    ],
     "fields": []
   },
   {
@@ -3449,13 +3471,18 @@
   {
     "toaq": "guaırīaq",
     "type": "predicate",
-    "english": "▯ is a work place / office.",
+    "english": "▯ is a workplace / office.",
     "gloss": "workplace",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Báq gủaırīaq pa rỉaq gûaı da.",
+        "english": "Workplaces are places of work."
+      }
+    ],
     "fields": []
   },
   {
@@ -4328,7 +4355,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bảı jí sa háq da.",
+        "english": "I make some food."
+      },
+      {
+        "toaq": "Jìe jí bı mủ jủaq mủ bủ máq lî hảq da.",
+        "english": "To me, this isn't even food."
+      }
+    ],
     "fields": []
   },
   {
@@ -4494,7 +4530,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Hủaq gỉ súq ní gủoqpōq da.",
+        "english": "You're better than that arsehole."
+      },
+      {
+        "toaq": "Dỉe súq sa húaq gỉ ba.",
+        "english": "Suggest something better."
+      }
+    ],
     "fields": []
   },
   {
@@ -5740,7 +5785,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Rảıhī múı pỏ ní jỉaqtū moq.",
+        "english": "What's the meaning of this universe?"
+      }
+    ],
     "fields": []
   },
   {
@@ -6552,13 +6602,18 @@
   {
     "toaq": "kuabūe",
     "type": "predicate",
-    "english": "▯ is an appartment/flat.",
+    "english": "▯ is an apartment/flat.",
     "gloss": "appartment",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tỉ go pójī pủ kủabūe sa púı shỉaqmīa da.",
+        "english": "In my past flat, there was a lot of cockroaches."
+      }
+    ],
     "fields": []
   },
   {
@@ -7060,7 +7115,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Kỉeq jí kùı nîtī sa shíaqmīa da.",
+        "english": "I'm disgusted because of a cockroach being here."
+      }
+    ],
     "fields": []
   },
   {
@@ -7949,7 +8009,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Lỏaı híu.",
+        "english": "The river flows."
+      },
+      {
+        "toaq": "Gảısī súq chûfāq lỏaı náo ba.",
+        "english": "Look at the water flowing."
+      }
+    ],
     "fields": []
   },
   {
@@ -8523,7 +8592,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bỏesīu múq da.",
+        "english": "The hand is flat."
+      }
+    ],
     "fields": []
   },
   {
@@ -8832,7 +8906,16 @@
     "gloss": "«",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Mỏ kủaq kỉe kả teo lú hẻ kủq báq kỉekūaq hóa da.",
+        "english": "‘Thank you.’ is what thankers typically say."
+      },
+      {
+        "toaq": "Kủq hó mó bủ ba! teo da.",
+        "english": "He said, ‘don't!’."
+      }
+    ]
   },
   {
     "toaq": "moa",
@@ -9575,7 +9658,12 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nủoı jí sa núoıdūao.",
+        "english": "I am chewing chewing gum."
+      }
+    ],
     "fields": []
   },
   {
@@ -9692,7 +9780,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sỉurūo súq sa níaı da.",
+        "english": "You act like some animal."
+      },
+      {
+        "toaq": "Nỉaı báq rẻq da.",
+        "english": "Humans are animals."
+      }
+    ],
     "fields": []
   },
   {
@@ -9877,7 +9974,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nỉq hóq jí da.",
+        "english": "That's new to me."
+      },
+      {
+        "toaq": "Tủa gảıkīu súq sa níq ba.",
+        "english": "Show something new."
+      }
+    ],
     "fields": []
   },
   {
@@ -9889,7 +9995,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nîqdāo sıa ráı pa gỉ nỉqdāo da.",
+        "english": "No news is good news."
+      },
+      {
+        "toaq": "Rảıhī pósūq nỉqdāo moq.",
+        "english": "What's your news?"
+      }
+    ],
     "fields": []
   },
   {
@@ -10253,7 +10368,12 @@
     "gloss": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Jí súq pa mảı da = Jí pa mảı súq da = Mảı jí súq da.",
+        "english": "Me you loves = Me loves you = Loves me you."
+      }
+    ]
   },
   {
     "toaq": "paı",
@@ -10818,7 +10938,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tảosīa pỉcīu jí pòı gẻı sa shíaqfūq da.",
+        "english": "I accidentally peed in my pants."
+      }
+    ],
     "fields": []
   },
   {
@@ -11190,7 +11315,24 @@
     "gloss": "or",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Tảo súq sa gí ra sa mú pủa da.",
+        "english": "You're doing something good or something pleasuring."
+      },
+      {
+        "toaq": "Tảo súq sa gí ra lủ mủ pủa da.",
+        "english": "You're doing something good or pleasuring."
+      },
+      {
+        "toaq": "Tảo súq sa gí, na ra tảo súq sa mú pủa da.",
+        "english": "You're doing something good or you're doing something pleasuring."
+      },
+      {
+        "toaq": "Gỉ ra lủ mủ pủa na hóq moq.",
+        "english": "Is it either good or pleasuring?"
+      }
+    ]
   },
   {
     "toaq": "radīo",
@@ -11266,7 +11408,24 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Mả rảq cúaq sẻu cúaq nẻ moq.",
+        "english": "Are numbers related to quantities?"
+      },
+      {
+        "toaq": "Dẻoqchēo hó ràq díofāo da.",
+        "english": "They were talking about the evening."
+      },
+      {
+        "toaq": "Bủ rảq hóq.",
+        "english": "That's unrelated."
+      },
+      {
+        "toaq": "Rảq ba.",
+        "english": "Stay on topic."
+      }
+    ],
     "fields": []
   },
   {
@@ -11278,7 +11437,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Rảqmōı jí cúaq sẻaq da.",
+        "english": "I think about sex."
+      },
+      {
+        "toaq": "Bủ rảqmōı jí máq ba!",
+        "english": "I should stop thinking about it!"
+      }
+    ],
     "fields": []
   },
   {
@@ -11432,7 +11600,16 @@
     "frame": "c 1",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Rủo súq sa chíaı da.",
+        "english": "You're acting in a wrong way."
+      },
+      {
+        "toaq": "Lî tủa chẻo chỉeq ja dó gíe pa hẻ mủ rủo báq pỏq da.",
+        "english": "Crossing one's arms is how people typically behave."
+      }
+    ],
     "fields": []
   },
   {
@@ -11761,7 +11938,16 @@
     "frame": "c 1",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bủ rỉeq sẻcāq súq ba.",
+        "english": "Don't avoid your responsibilities."
+      },
+      {
+        "toaq": "Dủ rỉeq dẻoq hó jí ju mẻocā da.",
+        "english": "He seems to be avoiding (talking to) me, which is sad."
+      }
+    ],
     "fields": []
   },
   {
@@ -12079,7 +12265,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sảo pójī da.",
+        "english": "Mine is big."
+      },
+      {
+        "toaq": "Bủ nủı sáo da.",
+        "english": "The big thing isn't small."
+      }
+    ],
     "fields": []
   },
   {
@@ -12115,7 +12310,16 @@
     "frame": "c",
     "distribution": "n",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Hủı fảq sâq chéı da.",
+        "english": "It's bad that the fingers are three."
+      },
+      {
+        "toaq": "Mả rảqdūa súq mí sảq dủagī sỉmī moq.",
+        "english": "Do you know of the three wise monkeys?"
+      }
+    ],
     "fields": []
   },
   {
@@ -12247,7 +12451,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sủaıkōı ju sủa mỉe ba!",
+        "english": "Run for your life!"
+      },
+      {
+        "toaq": "Pủa kảqsī jí líachīeqfā sủaıkōı da.",
+        "english": "I find pleasure in looking at runners passing by."
+      }
+    ],
     "fields": []
   },
   {
@@ -12825,7 +13038,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tỉ shíqhūa hı ráı moq.",
+        "english": "Where's the nose?"
+      },
+      {
+        "toaq": "Bủ dẻq shỉqgāı jí kùı cîa mủ pảq jí shíqhūa da!",
+        "english": "I can't smell because I'm missing my nose!"
+      }
+    ],
     "fields": []
   },
   {
@@ -13095,7 +13317,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Mả dỉ sỉ súq ní sỉdī moq.",
+        "english": "Are you allowed to pay attention to this CD?"
+      }
+    ],
     "fields": []
   },
   {
@@ -13429,7 +13656,20 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Pủjūı sẻaq jí da.",
+        "english": "I've just had sex."
+      },
+      {
+        "toaq": "Mủ kảqgāı chûfāq chẻo sẻaq hó da.",
+        "english": "They were spotted having sex."
+      },
+      {
+        "toaq": "Mả shảogī gúosīa sẻaq moq.",
+        "english": "Are those who have never had sex benevolent?"
+      }
+    ],
     "fields": []
   },
   {
@@ -14654,7 +14894,16 @@
     "frame": "c 1",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sẻo sıa há sa téqgūaı dỏekāı ba.",
+        "english": "May nobody be a spouse to anybody who has a programming job."
+      },
+      {
+        "toaq": "Tẻqgūaı jí lî dỏekāı da.",
+        "english": "I have a job of programming."
+      }
+    ],
     "fields": []
   },
   {
