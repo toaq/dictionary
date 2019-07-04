@@ -172,7 +172,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Hủaq báq bủaı báq dỏq lî gỉ bô há hóa da.",
+        "english": "Long things are better to have than short things."
+      },
+      {
+        "toaq": "Bủaı ní bẻaq da.",
+        "english": "This stick is long."
+      }
+    ],
     "fields": []
   },
   {
@@ -256,7 +265,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Bủı jí búe da.",
+        "english": "I'm outside home."
+      },
+      {
+        "toaq": "Bủ bủı ba. Lỏq da.",
+        "english": "Shouldn't go outside. It's hot."
+      }
+    ],
     "fields": []
   },
   {
@@ -1225,7 +1243,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Cảbīaq hó lî rào tıo dáqbūaı bı jỏaı lủ hảq nỉe hóa chúaıkēa na na, lî shỏ chủaı pó ja ráı ga shỉqhūa da.",
+        "english": "They were looking for food in the freezer for such a long time that their nose froze."
+      },
+      {
+        "toaq": "Gỉ shè bôjēa jí sa chúaıkēa da.",
+        "english": "It would be nice if I got myself a freezer."
+      }
+    ],
     "fields": []
   },
   {
@@ -2489,7 +2516,16 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dủashāo jí chûa hı ráı jóhēıgūkō gủacūe go Hủsōnāgūa da.",
+        "english": "I wonder what the forty-second president of the United States' name was."
+      },
+      {
+        "toaq": "Bủ gỉ kủıtūe bû kảqsī dúashāo na kâqsī ku súq hó da…",
+        "english": "That a wonderer isn't looking at anything is no good excuse for *you* to look at them."
+      }
+    ],
     "fields": []
   },
   {
@@ -3424,7 +3460,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Hỉaodāısī báq chẻ gảokōı dâı shủa da.",
+        "english": "Climbers are careful of that one can fall."
+      }
+    ],
     "fields": []
   },
   {
@@ -3573,7 +3614,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Dẻq jí lî shủaq ja dó sa gúıpūo ju jỏı nûoı dó sa róa gủı da.",
+        "english": "I can produce flour by chewing raw grain."
+      }
+    ],
     "fields": []
   },
   {
@@ -4440,7 +4486,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nỏıgē háqhūa jí da.",
+        "english": "My stomach hurts."
+      }
+    ],
     "fields": []
   },
   {
@@ -5256,7 +5307,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Hẻq tíaı hı ráı moq.",
+        "english": "What's in the box?"
+      },
+      {
+        "toaq": "Pủ bủ dủa jí hêq bío da.",
+        "english": "I didn't know there was something in the cup."
+      }
+    ],
     "fields": []
   },
   {
@@ -6988,7 +7048,16 @@
     "frame": "c c c",
     "distribution": "d n d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Kủeqtūa jí héu tíaı da.",
+        "english": "I collect the fruits into the box."
+      },
+      {
+        "toaq": "Súq pa kủeqtūa sıa chéalīao ba!",
+        "english": "You, don't collect any mushrooms!"
+      }
+    ],
     "fields": []
   },
   {
@@ -7509,7 +7578,16 @@
     "gloss": "but",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Jẻo, keo bủ.",
+        "english": "True, but false."
+      },
+      {
+        "toaq": "Bủ jảq gỉdēq jí lî fỉeq go sa gí mủa go shủ kẻo, keo lẻo jỏaı súq lî pảq shú kẻo ja méahēo mủa ba.",
+        "english": "I can't think of any good examples of «keo» at the moment, but look for other sentences with «keo» in them."
+      }
+    ]
   },
   {
     "toaq": "keq",
@@ -9787,7 +9865,12 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Chỏqgī báq chủo tǔa nủoq da.",
+        "english": "Mirrors are useful."
+      }
+    ],
     "fields": []
   },
   {
@@ -10374,7 +10457,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Mả dỉ chủq báq pỏq báq nẻaq moq.",
+        "english": "Can you eat sand?"
+      }
+    ],
     "fields": []
   },
   {
@@ -10594,7 +10682,12 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Pảqshāı jí tíoqtīao da.",
+        "english": "I lost my keys."
+      }
+    ],
     "fields": []
   },
   {
@@ -10972,7 +11065,12 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Pủeq jí pósūq pủe hìao súq.",
+        "english": "I treaded on your foot, which hurt you."
+      }
+    ],
     "fields": []
   },
   {
@@ -13738,7 +13836,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Chỉa sẻa jí da.",
+        "english": "I need to have a rest."
+      },
+      {
+        "toaq": "Hẻ tủe sẻa báq tủe sẻaq da.",
+        "english": "Acts of sex are typically acts of relaxation."
+      }
+    ],
     "fields": []
   },
   {
@@ -13934,7 +14041,20 @@
     "frame": "c c 1",
     "distribution": "d d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Kủaq tảodīe mủaqshō ka.",
+        "english": "I advise to die."
+      },
+      {
+        "toaq": "Tảodīe hó jí lî pỉe go sa róesāı da.",
+        "english": "He advised me to take some medicine."
+      },
+      {
+        "toaq": "Kủaq nủe tủrāo rỉeq tảo dẻı lú tảodīe hó jí ka.",
+        "english": "I promise I'd always avoid doing what he advised me to do."
+      }
+    ],
     "fields": []
   },
   {
