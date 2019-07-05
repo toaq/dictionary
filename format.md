@@ -26,3 +26,48 @@ Please insert your fields as you need them (not too much, though) – the format
 `tools/normalize.js` is for normalizing the dictionary file.
 
 At the moment, oblique words (prepositions and adverbs) should be entered as examples. The normalizer will reject «daı» and «dãı» as duplicates.
+
+**Example entry:**
+```
+{
+    "toaq": "cho",
+    "type": "predicate",
+    "english": "▯ likes ▯.",
+    "gloss": "like",
+    "keywords": [
+      "like",
+      "fond of",
+      "enjoy",
+      "pleased by"
+    ],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Chỏ da.",
+        "english": "There is fondness."
+      },
+      {
+        "toaq": "Chỏ jí da.",
+        "english": "I am experiencing fondness."
+      },
+      {
+        "toaq": "Hẻ chỏ déo báq rủa da.",
+        "english": "The children are fond of flowers."
+      },
+      {
+        "toaq": "Chỏ súq hı nỉ fủa moq.",
+        "english": "Which of these pieces of furniture do you like?"
+      },
+      {
+        "toaq": "chó",
+        "english": "those who have fondness"
+      }
+    ],
+    "fields": [
+      ["poq"],
+      ["raı"]
+    ]
+}
+```
