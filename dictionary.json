@@ -87,7 +87,16 @@
     "frame": "c 1",
     "distribution": "d n",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Jảq chỏ jí báq rủa da.",
+        "english": "I really like flowers."
+      },
+      {
+        "toaq": "Bảq súq lî mỏınīeq da!",
+        "english": "You're an ordinary crackpot!"
+      }
+    ],
     "fields": []
   },
   {
@@ -914,7 +923,16 @@
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Cảq jí chémē da.",
+        "english": "I manage the team."
+      },
+      {
+        "toaq": "Sủetāo súq cáq ba.",
+        "english": "Obey the manager."
+      }
+    ],
     "fields": []
   },
   {
@@ -1231,7 +1249,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Chỏ jí lî chủq go chúaı nảo da.",
+        "english": "I like to eat ice."
+      }
+    ],
     "fields": []
   },
   {
@@ -2537,7 +2560,12 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Rào shíuchāq bı dủashō jí jîq sa pójī shỉqhūa da.",
+        "english": "Yesterday, I discovered that there exists a nose of mine."
+      }
+    ],
     "fields": []
   },
   {
@@ -4572,7 +4600,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nỉe go pójī gủaıkūa sa púı fủaq pỏ báq hủaıchūo da.",
+        "english": "In my office, there are many pictures of spoons."
+      }
+    ],
     "fields": []
   },
   {
@@ -5385,7 +5418,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Jảı jí kùı lûı tảı jí da.",
+        "english": "I'm happy because I have succeeded."
+      },
+      {
+        "toaq": "Chỏ súq báq jảı rı mẻo moq.",
+        "english": "Do you like happy or sad people?"
+      }
+    ],
     "fields": []
   },
   {
@@ -7285,7 +7327,20 @@
     "distribution": "d n d d",
     "namesake": true,
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Kỏ hẻı ní péqbōe pỏ máq kủa pó sa dúafūı da.",
+        "english": "With the pages of this book sorted in the obvious way, this page is the 1000th."
+      },
+      {
+        "toaq": "Kỏ jỏ hó da.",
+        "english": "He's fourth."
+      },
+      {
+        "toaq": "Kỏ jí láogīu lî tủq tỉ ja rúa chúaotōq da.",
+        "english": "I'm as far in the queue as many there are flowers on the window ledge."
+      }
+    ],
     "fields": []
   },
   {
@@ -7357,7 +7412,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tỉdūaı múq kóaı da.",
+        "english": "The hand is stuck in the web."
+      }
+    ],
     "fields": []
   },
   {
@@ -7643,7 +7703,16 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Lảo jí cûakūq hó da.",
+        "english": "I'm waiting for him to respond."
+      },
+      {
+        "toaq": "Bủ shủe lảo súq ba.",
+        "english": "Don't be waiting."
+      }
+    ],
     "fields": []
   },
   {
@@ -10940,7 +11009,16 @@
     "frame": "0",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Pủjūı hỉeqtāq jí.",
+        "english": "I've just jumped."
+      },
+      {
+        "toaq": "Hỉeqtāq jí pũjūı.",
+        "english": "I've just jumped."
+      }
+    ],
     "fields": []
   },
   {
@@ -11159,7 +11237,12 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tỉ kiarēo píu da.",
+        "english": "The red thing is on the skin."
+      }
+    ],
     "fields": []
   },
   {
@@ -13134,7 +13217,12 @@
     "frame": "c 0",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Shỉujāı gỉopōaq jí da.",
+        "english": "I'm looking forward to the fireworks."
+      }
+    ],
     "fields": []
   },
   {
@@ -14213,7 +14301,16 @@
     "frame": "c c 0",
     "distribution": "d d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tủa gảı jí súq lôq búı da.",
+        "english": "I show you that it's hot outside."
+      },
+      {
+        "toaq": "Tủa tảq gảı dảı chỏq chủq hó jí báq chủqgūao da.",
+        "english": "He showed me that it's possible for me to use forks to eat."
+      }
+    ],
     "fields": []
   },
   {
@@ -14398,7 +14495,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Mả tủaıcīa múaq pỏq moq.",
+        "english": "Are dead people non-tangible?"
+      },
+      {
+        "toaq": "Púı bỏ fı sủq bı jủaq tûaıcīa máq da.",
+        "english": "As for your wealth, it isn't even physical."
+      }
+    ],
     "fields": []
   },
   {
@@ -14872,7 +14978,16 @@
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tỏa shú tỏa da.",
+        "english": "‘Toa’ is a word."
+      },
+      {
+        "toaq": "Bủ mủıdūa jí tóa da.",
+        "english": "I don't understand the word."
+      }
+    ],
     "fields": []
   },
   {
