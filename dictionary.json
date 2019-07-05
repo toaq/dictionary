@@ -1678,12 +1678,41 @@
     "type": "predicate",
     "english": "▯ likes ▯.",
     "gloss": "like",
-    "keywords": [],
+    "keywords": [
+      "like",
+      "fond of",
+      "enjoy",
+      "pleased by"
+    ],
     "frame": "c c",
     "distribution": "d d",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": [
+      {
+        "toaq": "Chỏ da.",
+        "english": "There is fondness."
+      },
+      {
+        "toaq": "Chỏ jí da.",
+        "english": "I am experiencing fondness."
+      },
+      {
+        "toaq": "Hẻ chỏ déo báq rủa da.",
+        "english": "The children are fond of flowers."
+      },
+      {
+        "toaq": "Chỏ súq hı nỉ fủa moq.",
+        "english": "Which of these pieces of furniture do you like?"
+      },
+      {
+        "toaq": "chó",
+        "english": "those who have fondness"
+      }
+    ],
+    "fields": [
+      ["poq"],
+      ["raı"]
+    ]
   },
   {
     "toaq": "choq",
