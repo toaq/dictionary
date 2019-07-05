@@ -8,9 +8,11 @@ let d = require('./../dictionary.json');
 function sortify(s) {
   return s.normalize('NFD').toLowerCase()
     .replace(/ı/g, 'i')
-    // This one is for Toaq-like vowel ordering (auioe).
-    .replace(/[ue]/g, s => s == 'e' ? 'u' : 'e')
-    .replace(/[^a-z\ ]/g, '');
+    .replace(/[^a-z\ ]/g, '')
+    // Prioritise q over vowels (` comes earlies than a codepoint-wise).
+    .replace(/q/g, '`')
+    // Toaq-like vowel ordering (auioe).
+    .replace(/[ue]/g, s => s == 'e' ? 'u' : 'e');
 }
 d = d.sort((a_, b_) => {
   let a = sortify(a_.toaq);

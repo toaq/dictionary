@@ -22,6 +22,27 @@
     ]
   },
   {
+    "toaq": "baq",
+    "type": "predicate",
+    "english": "▯ is the generic collective entity composed of the things that share property ▯; ▯ are the things that ▯, in general.",
+    "gloss": "generic",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d n",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Jảq chỏ jí báq rủa da.",
+        "english": "I really like flowers."
+      },
+      {
+        "toaq": "Bảq súq lî mỏınīeq da!",
+        "english": "You're an ordinary crackpot!"
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "baı",
     "type": "predicate",
     "english": "▯ builds/assembles/makes ▯.",
@@ -79,27 +100,6 @@
     "fields": []
   },
   {
-    "toaq": "baq",
-    "type": "predicate",
-    "english": "▯ is the generic collective entity composed of the things that share property ▯; ▯ are the things that ▯, in general.",
-    "gloss": "generic",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d n",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Jảq chỏ jí báq rủa da.",
-        "english": "I really like flowers."
-      },
-      {
-        "toaq": "Bảq súq lî mỏınīeq da!",
-        "english": "You're an ordinary crackpot!"
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "batātā",
     "type": "predicate",
     "english": "▯ is a potato.",
@@ -148,6 +148,30 @@
     "fields": []
   },
   {
+    "toaq": "buq",
+    "type": "predicate",
+    "english": "▯ is a mouth.",
+    "gloss": "mouth",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "buqlūao",
+    "type": "predicate",
+    "english": "▯ is a lip.",
+    "gloss": "lip",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "bua",
     "type": "predicate",
     "english": "▯ inhabits ▯.",
@@ -170,6 +194,30 @@
         "english": "He doesn't have a home."
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "buaq",
+    "type": "predicate",
+    "english": "▯ fails to satisfy property ▯.",
+    "gloss": "fail",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "buaq gảı",
+    "type": "predicate",
+    "english": "▯ misses ▯; ▯ fails to observe ▯.",
+    "gloss": "miss",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -213,30 +261,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "buaq",
-    "type": "predicate",
-    "english": "▯ fails to satisfy property ▯.",
-    "gloss": "fail",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "buaq gảı",
-    "type": "predicate",
-    "english": "▯ misses ▯; ▯ fails to observe ▯.",
-    "gloss": "miss",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -359,30 +383,6 @@
     "fields": []
   },
   {
-    "toaq": "buq",
-    "type": "predicate",
-    "english": "▯ is a mouth.",
-    "gloss": "mouth",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "buqlūao",
-    "type": "predicate",
-    "english": "▯ is a lip.",
-    "gloss": "lip",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "burūaq",
     "type": "predicate",
     "english": "▯ lies / asserts untruth ▯.",
@@ -437,10 +437,34 @@
     ]
   },
   {
+    "toaq": "bıq",
+    "type": "predicate",
+    "english": "▯ are a thousand in number.",
+    "gloss": "thousand",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "bıa",
     "type": "predicate",
     "english": "▯ is sick/ill; ▯ is sick/ill with ▯.",
     "gloss": "sick",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "bıaq",
+    "type": "predicate",
+    "english": "▯ is enough; ▯ sufficiently satisfies property ▯.",
+    "gloss": "enough",
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
@@ -468,18 +492,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "bıaq",
-    "type": "predicate",
-    "english": "▯ is enough; ▯ sufficiently satisfies property ▯.",
-    "gloss": "enough",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -554,18 +566,6 @@
     "fields": []
   },
   {
-    "toaq": "bıq",
-    "type": "predicate",
-    "english": "▯ are a thousand in number.",
-    "gloss": "thousand",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "bırā",
     "type": "predicate",
     "english": "▯ is beer.",
@@ -629,6 +629,18 @@
     "gloss": "have",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "boq",
+    "type": "predicate",
+    "english": "That ▯ is the case prevents ▯ from being the case.",
+    "gloss": "prevent",
+    "keywords": [],
+    "frame": "0 0",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -728,18 +740,6 @@
     "fields": []
   },
   {
-    "toaq": "boq",
-    "type": "predicate",
-    "english": "That ▯ is the case prevents ▯ from being the case.",
-    "gloss": "prevent",
-    "keywords": [],
-    "frame": "0 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "bosē",
     "type": "predicate",
     "english": "▯ is a wasp.",
@@ -782,6 +782,18 @@
         "english": "Where is the baby?"
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "beq",
+    "type": "predicate",
+    "english": "▯ is an extrusion/swelling/convex.",
+    "gloss": "extrusion",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -842,18 +854,6 @@
     "fields": []
   },
   {
-    "toaq": "beq",
-    "type": "predicate",
-    "english": "▯ is an extrusion/swelling/convex.",
-    "gloss": "extrusion",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "ca",
     "type": "predicate",
     "english": "▯ physically causes ▯ to be the case.",
@@ -874,42 +874,6 @@
     "keywords": [],
     "frame": "0 c",
     "distribution": "",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "caı",
-    "type": "predicate",
-    "english": "▯ is strong.",
-    "gloss": "strong",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "caıdūa",
-    "type": "predicate",
-    "english": "▯ is certain that ▯ is the case.",
-    "gloss": "certain",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "cao",
-    "type": "predicate",
-    "english": "▯ is a season.",
-    "gloss": "season",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -960,6 +924,42 @@
     "fields": []
   },
   {
+    "toaq": "caı",
+    "type": "predicate",
+    "english": "▯ is strong.",
+    "gloss": "strong",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "caıdūa",
+    "type": "predicate",
+    "english": "▯ is certain that ▯ is the case.",
+    "gloss": "certain",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "cao",
+    "type": "predicate",
+    "english": "▯ is a season.",
+    "gloss": "season",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "cu",
     "type": "linking word",
     "english": "linking word: 3rd argument place",
@@ -979,6 +979,23 @@
     "namesake": true,
     "notes": [],
     "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "cuaq",
+    "type": "predicate",
+    "english": "▯ is the concept/idea of satisfying property ▯.",
+    "gloss": "concept",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "cúaq dẻ",
+        "english": "the concept of beauty"
+      }
+    ],
     "fields": []
   },
   {
@@ -1015,23 +1032,6 @@
     "distribution": "d d d",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "cuaq",
-    "type": "predicate",
-    "english": "▯ is the concept/idea of satisfying property ▯.",
-    "gloss": "concept",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "cúaq dẻ",
-        "english": "the concept of beauty"
-      }
-    ],
     "fields": []
   },
   {
@@ -1132,6 +1132,30 @@
     "fields": []
   },
   {
+    "toaq": "chaq",
+    "type": "predicate",
+    "english": "▯ is a day.",
+    "gloss": "day",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chaqtū",
+    "type": "predicate",
+    "english": "▯ happens every day; ▯ is daily.",
+    "gloss": "daily",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "chaı",
     "type": "predicate",
     "english": "▯ is tea (beverage).",
@@ -1181,30 +1205,6 @@
     "fields": []
   },
   {
-    "toaq": "chaq",
-    "type": "predicate",
-    "english": "▯ is a day.",
-    "gloss": "day",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "chaqtū",
-    "type": "predicate",
-    "english": "▯ happens every day; ▯ is daily.",
-    "gloss": "daily",
-    "keywords": [],
-    "frame": "0",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "chu",
     "type": "predicate",
     "english": "▯ is a middle; ▯ is the middle of ▯.",
@@ -1217,12 +1217,72 @@
     "fields": []
   },
   {
+    "toaq": "chuq",
+    "type": "predicate",
+    "english": "▯ eats; ▯ eats ▯.",
+    "gloss": "eat",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chuqgūao",
+    "type": "predicate",
+    "english": "▯ is a fork.",
+    "gloss": "fork",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chuqkūaı",
+    "type": "predicate",
+    "english": "▯ is hungry.",
+    "gloss": "hungry",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chuqtīao",
+    "type": "predicate",
+    "english": "▯ is edible.",
+    "gloss": "edible",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "chua",
     "type": "predicate",
     "english": "▯ is a name of ▯.",
     "gloss": "name",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chuaq",
+    "type": "predicate",
+    "english": "▯ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ▯ is an ideology based on concept ▯; ▯ is an ism; ▯ is an ▯-ism.",
+    "gloss": "ism",
+    "keywords": [],
+    "frame": "c 1",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -1349,18 +1409,6 @@
     "fields": []
   },
   {
-    "toaq": "chuaq",
-    "type": "predicate",
-    "english": "▯ is a tendency of behaviour, action, state, condition or opinion belonging to a class or group of persons, or the result of a doctrine, ideology or principle or lack thereof; ▯ is an ideology based on concept ▯; ▯ is an ism; ▯ is an ▯-ism.",
-    "gloss": "ism",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "chufāq",
     "type": "predicate",
     "english": "▯ is ongoing; ▯ is in the middle of taking place; ▯ is ▯-ing.",
@@ -1421,54 +1469,6 @@
     "fields": []
   },
   {
-    "toaq": "chuq",
-    "type": "predicate",
-    "english": "▯ eats; ▯ eats ▯.",
-    "gloss": "eat",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "chuqgūao",
-    "type": "predicate",
-    "english": "▯ is a fork.",
-    "gloss": "fork",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "chuqkūaı",
-    "type": "predicate",
-    "english": "▯ is hungry.",
-    "gloss": "hungry",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "chuqtīao",
-    "type": "predicate",
-    "english": "▯ is edible.",
-    "gloss": "edible",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "chue",
     "type": "predicate",
     "english": "▯ is a train/caravan/succession.",
@@ -1505,6 +1505,18 @@
     "fields": []
   },
   {
+    "toaq": "chıq",
+    "type": "predicate",
+    "english": "▯ is an insect/bug.",
+    "gloss": "insect",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "chıa",
     "type": "predicate",
     "english": "▯ needs to satisfy property ▯ to satisfy property ▯.",
@@ -1512,6 +1524,18 @@
     "keywords": [],
     "frame": "c 1 1",
     "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chıaq",
+    "type": "predicate",
+    "english": "▯ is conscious; ▯ is aware of ▯.",
+    "gloss": "aware",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1554,18 +1578,6 @@
     "fields": []
   },
   {
-    "toaq": "chıaq",
-    "type": "predicate",
-    "english": "▯ is conscious; ▯ is aware of ▯.",
-    "gloss": "aware",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "chıu",
     "type": "predicate",
     "english": "▯ is the address/coordinates of ▯.",
@@ -1602,18 +1614,6 @@
     "fields": []
   },
   {
-    "toaq": "chıq",
-    "type": "predicate",
-    "english": "▯ is an insect/bug.",
-    "gloss": "insect",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "chıe",
     "type": "predicate",
     "english": "▯ learns to satisfy property ▯; ▯ learns how to satisfy property ▯.",
@@ -1621,18 +1621,6 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "chıejīo",
-    "type": "predicate",
-    "english": "▯ is a school.",
-    "gloss": "school",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1662,6 +1650,18 @@
     "fields": []
   },
   {
+    "toaq": "chıejīo",
+    "type": "predicate",
+    "english": "▯ is a school.",
+    "gloss": "school",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "chıetūa",
     "type": "predicate",
     "english": "▯ teaches ▯ property ▯.",
@@ -1681,123 +1681,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choa",
-    "type": "predicate",
-    "english": "▯ utters ▯.",
-    "gloss": "utter",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choadēoq",
-    "type": "predicate",
-    "english": "▯ talks to ▯.",
-    "gloss": "talk",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choaı",
-    "type": "predicate",
-    "english": "▯ costs ▯.",
-    "gloss": "cost",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choalāq",
-    "type": "predicate",
-    "english": "▯ is a voice.",
-    "gloss": "voice",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Hủosī súq chóalāq pỏ pósūq mỏırīaq ba.",
-        "english": "Listen to the voice of your heart."
-      },
-      {
-        "toaq": "Tủq chóalāq lú hỏqrāo tảı hủogāı jí pó hóa da.",
-        "english": "Voices is all I managed to hear then."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "choaq",
-    "type": "predicate",
-    "english": "▯ is a guest; ▯ is a guest of ▯.",
-    "gloss": "guest",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choaqjīo",
-    "type": "predicate",
-    "english": "▯ is a hotel/guesthouse.",
-    "gloss": "hotel",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choı",
-    "type": "predicate",
-    "english": "▯ is sharp.",
-    "gloss": "sharp",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choıbēq",
-    "type": "predicate",
-    "english": "▯ is a thorn.",
-    "gloss": "thorn",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "choıhūa",
-    "type": "predicate",
-    "english": "▯ is a thorn.",
-    "gloss": "thorn",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1855,6 +1738,123 @@
     "type": "predicate",
     "english": "▯ is usable (fit for use).",
     "gloss": "usable",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choa",
+    "type": "predicate",
+    "english": "▯ utters ▯.",
+    "gloss": "utter",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choaq",
+    "type": "predicate",
+    "english": "▯ is a guest; ▯ is a guest of ▯.",
+    "gloss": "guest",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choaqjīo",
+    "type": "predicate",
+    "english": "▯ is a hotel/guesthouse.",
+    "gloss": "hotel",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choadēoq",
+    "type": "predicate",
+    "english": "▯ talks to ▯.",
+    "gloss": "talk",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choaı",
+    "type": "predicate",
+    "english": "▯ costs ▯.",
+    "gloss": "cost",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choalāq",
+    "type": "predicate",
+    "english": "▯ is a voice.",
+    "gloss": "voice",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Hủosī súq chóalāq pỏ pósūq mỏırīaq ba.",
+        "english": "Listen to the voice of your heart."
+      },
+      {
+        "toaq": "Tủq chóalāq lú hỏqrāo tảı hủogāı jí pó hóa da.",
+        "english": "Voices is all I managed to hear then."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "choı",
+    "type": "predicate",
+    "english": "▯ is sharp.",
+    "gloss": "sharp",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choıbēq",
+    "type": "predicate",
+    "english": "▯ is a thorn.",
+    "gloss": "thorn",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "choıhūa",
+    "type": "predicate",
+    "english": "▯ is a thorn.",
+    "gloss": "thorn",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -1935,18 +1935,6 @@
     "fields": []
   },
   {
-    "toaq": "chealīao",
-    "type": "predicate",
-    "english": "▯ is a mushroom.",
-    "gloss": "mushroom",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "cheaq",
     "type": "predicate",
     "english": "▯ is trusty/trusted to ▯.",
@@ -1954,6 +1942,18 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chealīao",
+    "type": "predicate",
+    "english": "▯ is a mushroom.",
+    "gloss": "mushroom",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2198,71 +2198,6 @@
     "examples": []
   },
   {
-    "toaq": "daı",
-    "type": "predicate",
-    "english": "▯ is possible; ▯ has the potential to satisfy property ▯.",
-    "gloss": "possible",
-    "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "dãı",
-        "english": "maybe; possibly"
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "daıchī",
-    "type": "predicate",
-    "english": "▯ has hope that ▯ is the case; ▯ believes ▯ can happen.",
-    "gloss": "hope",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "daısīo",
-    "type": "predicate",
-    "english": "▯ is an idea.",
-    "gloss": "idea",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "dao",
-    "type": "predicate",
-    "english": "▯ is information/data.",
-    "gloss": "information",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "daosī",
-    "type": "predicate",
-    "english": "▯ is interested in ▯; ▯ is curious about ▯.",
-    "gloss": "interested",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "daq",
     "type": "predicate",
     "english": "▯ is time.",
@@ -2393,6 +2328,71 @@
     "fields": []
   },
   {
+    "toaq": "daı",
+    "type": "predicate",
+    "english": "▯ is possible; ▯ has the potential to satisfy property ▯.",
+    "gloss": "possible",
+    "keywords": [],
+    "frame": "0; c 1",
+    "distribution": "d; d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "dãı",
+        "english": "maybe; possibly"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "daıchī",
+    "type": "predicate",
+    "english": "▯ has hope that ▯ is the case; ▯ believes ▯ can happen.",
+    "gloss": "hope",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "daısīo",
+    "type": "predicate",
+    "english": "▯ is an idea.",
+    "gloss": "idea",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "dao",
+    "type": "predicate",
+    "english": "▯ is information/data.",
+    "gloss": "information",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "daosī",
+    "type": "predicate",
+    "english": "▯ is interested in ▯; ▯ is curious about ▯.",
+    "gloss": "interested",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "du",
     "type": "predicate",
     "english": "▯ seems to be the case; ▯ seems to satisfy property ▯.",
@@ -2400,6 +2400,18 @@
     "keywords": [],
     "frame": "0; c 1",
     "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "duq",
+    "type": "predicate",
+    "english": "▯ habitually satisfies property ▯.",
+    "gloss": "habitually",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2413,6 +2425,18 @@
     "frame": "c 0",
     "distribution": "d d",
     "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "duaq",
+    "type": "predicate",
+    "english": "▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).",
+    "gloss": "larva",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2499,18 +2523,6 @@
     "type": "predicate",
     "english": "▯ is a piece of candy.",
     "gloss": "candy",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "duaq",
-    "type": "predicate",
-    "english": "▯ is a larva (distinct juvenile form undergone before metamorphosis into adult form).",
-    "gloss": "larva",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -2617,18 +2629,6 @@
     "fields": []
   },
   {
-    "toaq": "duq",
-    "type": "predicate",
-    "english": "▯ habitually satisfies property ▯.",
-    "gloss": "habitually",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "due",
     "type": "predicate",
     "english": "▯ is correct.",
@@ -2682,6 +2682,30 @@
     "fields": []
   },
   {
+    "toaq": "dıaq",
+    "type": "predicate",
+    "english": "▯ occurs at regular intervals; ▯ satisfies property ▯ at regular intervals.",
+    "gloss": "regular",
+    "keywords": [],
+    "frame": "0; c 1",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "dıaqkūe",
+    "type": "predicate",
+    "english": "▯ is a journal/periodical/newspaper.",
+    "gloss": "journal",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "dıaı",
     "type": "predicate",
     "english": "▯ are seven in number.",
@@ -2710,30 +2734,6 @@
     "type": "predicate",
     "english": "▯ is a drop.",
     "gloss": "drop",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "dıaq",
-    "type": "predicate",
-    "english": "▯ occurs at regular intervals; ▯ satisfies property ▯ at regular intervals.",
-    "gloss": "regular",
-    "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "dıaqkūe",
-    "type": "predicate",
-    "english": "▯ is a journal/periodical/newspaper.",
-    "gloss": "journal",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -2863,6 +2863,27 @@
     "fields": []
   },
   {
+    "toaq": "doq",
+    "type": "predicate",
+    "english": "▯ is short.",
+    "gloss": "short",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Dỏq túqsīa chẻı da.",
+        "english": "The last finger is short."
+      },
+      {
+        "toaq": "Lảo súq dùoı bóq ba.",
+        "english": "Wait for a short while."
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "doa",
     "type": "predicate",
     "english": "▯ gives property ▯ to ▯.",
@@ -2870,18 +2891,6 @@
     "keywords": [],
     "frame": "c 1 c",
     "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "doaı",
-    "type": "predicate",
-    "english": "▯ is bread.",
-    "gloss": "bread",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2911,24 +2920,15 @@
     "fields": []
   },
   {
-    "toaq": "doq",
+    "toaq": "doaı",
     "type": "predicate",
-    "english": "▯ is short.",
-    "gloss": "short",
+    "english": "▯ is bread.",
+    "gloss": "bread",
     "keywords": [],
     "frame": "c",
-    "distribution": "d",
+    "distribution": "n",
     "notes": [],
-    "examples": [
-      {
-        "toaq": "Dỏq túqsīa chẻı da.",
-        "english": "The last finger is short."
-      },
-      {
-        "toaq": "Lảo súq dùoı bóq ba.",
-        "english": "Wait for a short while."
-      }
-    ],
+    "examples": [],
     "fields": []
   },
   {
@@ -2962,6 +2962,18 @@
         "english": "I love something which isn't beautiful."
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "deq",
+    "type": "predicate",
+    "english": "▯ is able / has the ability to satisfy property ▯.",
+    "gloss": "able",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -3025,18 +3037,6 @@
     "fields": []
   },
   {
-    "toaq": "deq",
-    "type": "predicate",
-    "english": "▯ is able / has the ability to satisfy property ▯.",
-    "gloss": "able",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "fa",
     "type": "predicate",
     "english": "▯ goes to ▯ from ▯.",
@@ -3045,6 +3045,18 @@
     "frame": "c c c",
     "distribution": "d d d",
     "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "faq",
+    "type": "predicate",
+    "english": "▯ happens / takes place.",
+    "gloss": "happen",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3074,18 +3086,6 @@
     "fields": []
   },
   {
-    "toaq": "faq",
-    "type": "predicate",
-    "english": "▯ happens / takes place.",
-    "gloss": "happen",
-    "keywords": [],
-    "frame": "0",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "farīkā",
     "type": "predicate",
     "english": "▯ is Africa.",
@@ -3110,10 +3110,10 @@
     "fields": []
   },
   {
-    "toaq": "fua",
+    "toaq": "fuq",
     "type": "predicate",
-    "english": "▯ is an item of furniture.",
-    "gloss": "furniture",
+    "english": "▯ is an article of clothing / garment / dress.",
+    "gloss": "clothing",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -3122,16 +3122,14 @@
     "fields": []
   },
   {
-    "toaq": "fuaı",
+    "toaq": "fua",
     "type": "predicate",
-    "english": "▯ is a committee/board/commission/task force/panel.",
-    "gloss": "committee",
+    "english": "▯ is an item of furniture.",
+    "gloss": "furniture",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [
-      "Can refer to any body or group of people tasked with carrying out a particular function or with the accomplishment of some specific purpose."
-    ],
+    "notes": [],
     "examples": [],
     "fields": []
   },
@@ -3172,6 +3170,20 @@
     "fields": []
   },
   {
+    "toaq": "fuaı",
+    "type": "predicate",
+    "english": "▯ is a committee/board/commission/task force/panel.",
+    "gloss": "committee",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [
+      "Can refer to any body or group of people tasked with carrying out a particular function or with the accomplishment of some specific purpose."
+    ],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "fuı",
     "type": "predicate",
     "english": "Satisfying property ▯ is easy for ▯.",
@@ -3192,18 +3204,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "fuq",
-    "type": "predicate",
-    "english": "▯ is an article of clothing / garment / dress.",
-    "gloss": "clothing",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3269,6 +3269,39 @@
     "fields": []
   },
   {
+    "toaq": "foq",
+    "type": "predicate",
+    "english": "▯ is a telephone.",
+    "gloss": "phone",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Jỉaıdōa go fóq ba.",
+        "english": "Gimme the phone."
+      },
+      {
+        "toaq": "Cảbīaq nỉq ní fỏq lî bủ chủo fỏqdēoq da!",
+        "english": "This phone is so new you can't call with it!"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "foqdēoq",
+    "type": "predicate",
+    "english": "▯ talks on the phone with ▯.",
+    "gloss": "talk.on.the.phone",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "foa",
     "type": "predicate",
     "english": "▯ feels ▯ (good or bad); ▯ is ▯ (ill or well).",
@@ -3313,39 +3346,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "foq",
-    "type": "predicate",
-    "english": "▯ is a telephone.",
-    "gloss": "phone",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Jỉaıdōa go fóq ba.",
-        "english": "Gimme the phone."
-      },
-      {
-        "toaq": "Cảbīaq nỉq ní fỏq lî bủ chủo fỏqdēoq da!",
-        "english": "This phone is so new you can't call with it!"
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "foqdēoq",
-    "type": "predicate",
-    "english": "▯ talks on the phone with ▯.",
-    "gloss": "talk.on.the.phone",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3432,6 +3432,18 @@
     "examples": []
   },
   {
+    "toaq": "gaq",
+    "type": "predicate",
+    "english": "▯ accompanies / is with ▯ in property ▯.",
+    "gloss": "accompany",
+    "keywords": [],
+    "frame": "c c 1",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "gaı",
     "type": "predicate",
     "english": "▯ senses/observes/perceives state of affairs ▯.",
@@ -3509,18 +3521,6 @@
     "fields": []
   },
   {
-    "toaq": "gaq",
-    "type": "predicate",
-    "english": "▯ accompanies / is with ▯ in property ▯.",
-    "gloss": "accompany",
-    "keywords": [],
-    "frame": "c c 1",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "gu",
     "type": "predicate",
     "english": "▯ are two in number.",
@@ -3533,10 +3533,70 @@
     "fields": []
   },
   {
+    "toaq": "guq",
+    "type": "predicate",
+    "english": "▯ is below/underneath ▯.",
+    "gloss": "below",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "guqdūo",
+    "type": "predicate",
+    "english": "▯ moves downwards.",
+    "gloss": "move.downwards",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "guqpāq",
+    "type": "predicate",
+    "english": "▯ is the bottom of ▯.",
+    "gloss": "bottom",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "gua",
     "type": "predicate",
     "english": "▯ is a country.",
     "gloss": "country",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "guaq",
+    "type": "predicate",
+    "english": "▯ is land/terrain.",
+    "gloss": "land",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "guaqnāo",
+    "type": "predicate",
+    "english": "▯ is a lake.",
+    "gloss": "lake",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -3581,30 +3641,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "guaq",
-    "type": "predicate",
-    "english": "▯ is land/terrain.",
-    "gloss": "land",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "guaqnāo",
-    "type": "predicate",
-    "english": "▯ is a lake.",
-    "gloss": "lake",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3735,42 +3771,6 @@
     "fields": []
   },
   {
-    "toaq": "guq",
-    "type": "predicate",
-    "english": "▯ is below/underneath ▯.",
-    "gloss": "below",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "guqdūo",
-    "type": "predicate",
-    "english": "▯ moves downwards.",
-    "gloss": "move.downwards",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "guqpāq",
-    "type": "predicate",
-    "english": "▯ is the bottom of ▯.",
-    "gloss": "bottom",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "gushōaı",
     "type": "predicate",
     "english": "▯ is a fly.",
@@ -3832,34 +3832,43 @@
     "fields": []
   },
   {
-    "toaq": "gıa",
+    "toaq": "gıq",
     "type": "predicate",
-    "english": "▯ is a ribbon/tape/strip/stripe.",
-    "gloss": "ribbon",
+    "english": "▯ satisfies with reversed polarity property ▯.",
+    "gloss": "opposite",
     "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "gıaı",
-    "type": "predicate",
-    "english": "▯ incises/carves/scratches/engraves/cuts into ▯.",
-    "gloss": "incise",
-    "keywords": [],
-    "frame": "c c",
+    "frame": "c 1",
     "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
   },
   {
-    "toaq": "gıao",
+    "toaq": "gıq gỉ",
     "type": "predicate",
-    "english": "▯ is dry.",
-    "gloss": "dry",
+    "english": "▯ is ungood.",
+    "gloss": "ungood",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Gỉ gíq gỉ ba ru jẻo bú ba",
+        "english": "May the ungood be good, and may lies be true."
+      },
+      {
+        "toaq": "Gīgīqjāqgū hóq da!",
+        "english": "That's doubleplusungood!"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "gıa",
+    "type": "predicate",
+    "english": "▯ is a ribbon/tape/strip/stripe.",
+    "gloss": "ribbon",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -3884,6 +3893,30 @@
     "type": "predicate",
     "english": "▯ is a musical instrument.",
     "gloss": "musical.instrument",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "gıaı",
+    "type": "predicate",
+    "english": "▯ incises/carves/scratches/engraves/cuts into ▯.",
+    "gloss": "incise",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "gıao",
+    "type": "predicate",
+    "english": "▯ is dry.",
+    "gloss": "dry",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -4036,39 +4069,6 @@
     "fields": []
   },
   {
-    "toaq": "gıq",
-    "type": "predicate",
-    "english": "▯ satisfies with reversed polarity property ▯.",
-    "gloss": "opposite",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "gıq gỉ",
-    "type": "predicate",
-    "english": "▯ is ungood.",
-    "gloss": "ungood",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Gỉ gíq gỉ ba ru jẻo bú ba",
-        "english": "May the ungood be good, and may lies be true."
-      },
-      {
-        "toaq": "Gīgīqjāqgū hóq da!",
-        "english": "That's doubleplusungood!"
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "gıtā",
     "type": "predicate",
     "english": "▯ is a guitar.",
@@ -4093,6 +4093,18 @@
     "fields": []
   },
   {
+    "toaq": "gıeq",
+    "type": "predicate",
+    "english": "▯ shocks ▯.",
+    "gloss": "shock",
+    "keywords": [],
+    "frame": "",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "gıebēa",
     "type": "predicate",
     "english": "▯ is an elbow.",
@@ -4112,18 +4124,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "gıeq",
-    "type": "predicate",
-    "english": "▯ shocks ▯.",
-    "gloss": "shock",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4154,6 +4154,18 @@
     "type": "predicate",
     "english": "▯ is space/room.",
     "gloss": "space",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "goaq",
+    "type": "predicate",
+    "english": "▯ is smooth/even.",
+    "gloss": "smooth",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -4235,18 +4247,6 @@
     "fields": []
   },
   {
-    "toaq": "goaq",
-    "type": "predicate",
-    "english": "▯ is smooth/even.",
-    "gloss": "smooth",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "goı",
     "type": "predicate",
     "english": "▯ treats/doctors ▯.",
@@ -4278,90 +4278,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "gea",
-    "type": "predicate",
-    "english": "▯ is high.",
-    "gloss": "high",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "geajēaqkēa",
-    "type": "predicate",
-    "english": "▯ is a lift.",
-    "gloss": "lift",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "geanūa",
-    "type": "predicate",
-    "english": "▯ lifts up ▯.",
-    "gloss": "lift",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "geaq",
-    "type": "predicate",
-    "english": "▯ is dirty/unclean/contaminated.",
-    "gloss": "dirty",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "geı",
-    "type": "predicate",
-    "english": "▯ wears ▯.",
-    "gloss": "wear",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "geo",
-    "type": "predicate",
-    "english": "▯ is old.",
-    "gloss": "old",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "geonē",
-    "type": "predicate",
-    "english": "▯ is the age of ▯.",
-    "gloss": "age",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4403,6 +4319,90 @@
     "fields": []
   },
   {
+    "toaq": "gea",
+    "type": "predicate",
+    "english": "▯ is high.",
+    "gloss": "high",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "geaq",
+    "type": "predicate",
+    "english": "▯ is dirty/unclean/contaminated.",
+    "gloss": "dirty",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "geajēaqkēa",
+    "type": "predicate",
+    "english": "▯ is a lift.",
+    "gloss": "lift",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "geanūa",
+    "type": "predicate",
+    "english": "▯ lifts up ▯.",
+    "gloss": "lift",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "geı",
+    "type": "predicate",
+    "english": "▯ wears ▯.",
+    "gloss": "wear",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "geo",
+    "type": "predicate",
+    "english": "▯ is old.",
+    "gloss": "old",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "geonē",
+    "type": "predicate",
+    "english": "▯ is the age of ▯.",
+    "gloss": "age",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ha",
     "type": "predicate",
     "english": "▯ is one/you/they (generic impersonal pronoun).",
@@ -4410,31 +4410,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "haı",
-    "type": "predicate",
-    "english": "▯ is already the case; ▯ already satisfies property ▯.",
-    "gloss": "already",
-    "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hao",
-    "type": "predicate",
-    "english": "the salient predicate",
-    "gloss": "stuff",
-    "keywords": [],
-    "frame": "variable",
-    "distribution": "variable",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -4535,6 +4510,31 @@
     "fields": []
   },
   {
+    "toaq": "haı",
+    "type": "predicate",
+    "english": "▯ is already the case; ▯ already satisfies property ▯.",
+    "gloss": "already",
+    "keywords": [],
+    "frame": "0; c 1",
+    "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "hao",
+    "type": "predicate",
+    "english": "the salient predicate",
+    "gloss": "stuff",
+    "keywords": [],
+    "frame": "variable",
+    "distribution": "variable",
+    "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "harānē",
     "type": "predicate",
     "english": "▯ is a spider.",
@@ -4572,47 +4572,6 @@
     "type": "predicate",
     "english": "▯ is a body part.",
     "gloss": "body.part",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "huaı",
-    "type": "predicate",
-    "english": "▯ scoops ▯ out of ▯.",
-    "gloss": "scoop",
-    "keywords": [],
-    "frame": "c c c",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "huaıchūo",
-    "type": "predicate",
-    "english": "▯ is a spoon.",
-    "gloss": "spoon",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Nỉe go pójī gủaıkūa sa púı fủaq pỏ báq hủaıchūo da.",
-        "english": "In my office, there are many pictures of spoons."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "huao",
-    "type": "predicate",
-    "english": "▯ is loose.",
-    "gloss": "loose",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -4686,6 +4645,47 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "huaı",
+    "type": "predicate",
+    "english": "▯ scoops ▯ out of ▯.",
+    "gloss": "scoop",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "huaıchūo",
+    "type": "predicate",
+    "english": "▯ is a spoon.",
+    "gloss": "spoon",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Nỉe go pójī gủaıkūa sa púı fủaq pỏ báq hủaıchūo da.",
+        "english": "In my office, there are many pictures of spoons."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "huao",
+    "type": "predicate",
+    "english": "▯ is loose.",
+    "gloss": "loose",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4892,6 +4892,18 @@
     "examples": []
   },
   {
+    "toaq": "hıaq",
+    "type": "predicate",
+    "english": "▯ is poor in relation ▯; ▯ is in relation ▯ to/with few things.",
+    "gloss": "poor",
+    "keywords": [],
+    "frame": "c 2",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "hıaı",
     "type": "predicate",
     "english": "▯ laughs.",
@@ -4946,18 +4958,6 @@
     "gloss": "escape",
     "keywords": [],
     "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hıaq",
-    "type": "predicate",
-    "english": "▯ is poor in relation ▯; ▯ is in relation ▯ to/with few things.",
-    "gloss": "poor",
-    "keywords": [],
-    "frame": "c 2",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -5046,66 +5046,6 @@
     "fields": []
   },
   {
-    "toaq": "hoa",
-    "type": "predicate",
-    "english": "relative pronoun whose antecedent is the head of the containing relative clause",
-    "gloss": "it",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hoaı",
-    "type": "predicate",
-    "english": "▯ is still the case.",
-    "gloss": "still",
-    "keywords": [],
-    "frame": "0",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hoaq",
-    "type": "predicate",
-    "english": "▯ burns.",
-    "gloss": "burn",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hoaqkēa",
-    "type": "predicate",
-    "english": "▯ is a lighter.",
-    "gloss": "lighter",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "hoı",
-    "type": "predicate",
-    "english": "▯ are the aforementioned things; ▯ is/are the aforementioned things that satisfy property ▯.",
-    "gloss": "aforementioned",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "hoq",
     "type": "predicate",
     "english": "▯ is it (abstract).",
@@ -5152,6 +5092,66 @@
     "fields": []
   },
   {
+    "toaq": "hoa",
+    "type": "predicate",
+    "english": "relative pronoun whose antecedent is the head of the containing relative clause",
+    "gloss": "it",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "hoaq",
+    "type": "predicate",
+    "english": "▯ burns.",
+    "gloss": "burn",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "hoaqkēa",
+    "type": "predicate",
+    "english": "▯ is a lighter.",
+    "gloss": "lighter",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "hoaı",
+    "type": "predicate",
+    "english": "▯ is still the case.",
+    "gloss": "still",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "hoı",
+    "type": "predicate",
+    "english": "▯ are the aforementioned things; ▯ is/are the aforementioned things that satisfy property ▯.",
+    "gloss": "aforementioned",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "horā",
     "type": "predicate",
     "english": "▯ is an hour.",
@@ -5182,6 +5182,63 @@
     "gloss": "generally",
     "keywords": [],
     "frame": "0",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "heq",
+    "type": "predicate",
+    "english": "▯ contains ▯.",
+    "gloss": "contain",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Hẻq tíaı hı ráı moq.",
+        "english": "What's in the box?"
+      },
+      {
+        "toaq": "Pủ bủ dủa jí hêq bío da.",
+        "english": "I didn't know there was something in the cup."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "heqchūo",
+    "type": "predicate",
+    "english": "▯ is a container.",
+    "gloss": "container",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "heqmūo",
+    "type": "predicate",
+    "english": "▯ is full; ▯ is filled with ▯.",
+    "gloss": "full",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "heqshēa",
+    "type": "predicate",
+    "english": "▯ is empty.",
+    "gloss": "empty",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
     "notes": [],
     "examples": [],
@@ -5332,63 +5389,6 @@
     "fields": []
   },
   {
-    "toaq": "heq",
-    "type": "predicate",
-    "english": "▯ contains ▯.",
-    "gloss": "contain",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Hẻq tíaı hı ráı moq.",
-        "english": "What's in the box?"
-      },
-      {
-        "toaq": "Pủ bủ dủa jí hêq bío da.",
-        "english": "I didn't know there was something in the cup."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "heqchūo",
-    "type": "predicate",
-    "english": "▯ is a container.",
-    "gloss": "container",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "heqmūo",
-    "type": "predicate",
-    "english": "▯ is full; ▯ is filled with ▯.",
-    "gloss": "full",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "heqshēa",
-    "type": "predicate",
-    "english": "▯ is empty.",
-    "gloss": "empty",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "hesā",
     "type": "predicate",
     "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
@@ -5408,63 +5408,6 @@
     "keywords": [],
     "notes": [],
     "examples": []
-  },
-  {
-    "toaq": "jaı",
-    "type": "predicate",
-    "english": "▯ is happy/glad/joyful.",
-    "gloss": "happy",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Jảı jí kùı lûı tảı jí da.",
-        "english": "I'm happy because I have succeeded."
-      },
-      {
-        "toaq": "Chỏ súq báq jảı rı mẻo moq.",
-        "english": "Do you like happy or sad people?"
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "jakē",
-    "type": "predicate",
-    "english": "▯ is a jacket.",
-    "gloss": "jacket",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jao",
-    "type": "predicate",
-    "english": "▯ is far away from ▯ in property ▯.",
-    "gloss": "far",
-    "keywords": [],
-    "frame": "c c 2",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jaokūq",
-    "type": "predicate",
-    "english": "▯ is a telephone / walkie talkie.",
-    "gloss": "telephone",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "jaq",
@@ -5572,6 +5515,63 @@
     "fields": []
   },
   {
+    "toaq": "jaı",
+    "type": "predicate",
+    "english": "▯ is happy/glad/joyful.",
+    "gloss": "happy",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Jảı jí kùı lûı tảı jí da.",
+        "english": "I'm happy because I have succeeded."
+      },
+      {
+        "toaq": "Chỏ súq báq jảı rı mẻo moq.",
+        "english": "Do you like happy or sad people?"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "jakē",
+    "type": "predicate",
+    "english": "▯ is a jacket.",
+    "gloss": "jacket",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jao",
+    "type": "predicate",
+    "english": "▯ is far away from ▯ in property ▯.",
+    "gloss": "far",
+    "keywords": [],
+    "frame": "c c 2",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jaokūq",
+    "type": "predicate",
+    "english": "▯ is a telephone / walkie talkie.",
+    "gloss": "telephone",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "jarāfā",
     "type": "predicate",
     "english": "▯ is a giraffe.",
@@ -5593,6 +5593,30 @@
     "examples": []
   },
   {
+    "toaq": "juq",
+    "type": "predicate",
+    "english": "▯ gets/acquires property ▯.",
+    "gloss": "acquire",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "juqgī",
+    "type": "predicate",
+    "english": "▯ benefits ▯.",
+    "gloss": "benefit",
+    "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "jua",
     "type": "predicate",
     "english": "▯ is weird/strange/bizarre.",
@@ -5611,6 +5635,18 @@
         "english": "Something weird is staring at me."
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "juaq",
+    "type": "predicate",
+    "english": "Even ▯ is the case; even ▯ satisfies property ▯.",
+    "gloss": "even",
+    "keywords": [],
+    "frame": "0; c 1",
+    "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -5671,18 +5707,6 @@
     "fields": []
   },
   {
-    "toaq": "juaq",
-    "type": "predicate",
-    "english": "Even ▯ is the case; even ▯ satisfies property ▯.",
-    "gloss": "even",
-    "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "juı",
     "type": "predicate",
     "english": "▯ is near ▯ in property ▯.",
@@ -5707,6 +5731,18 @@
     "fields": []
   },
   {
+    "toaq": "juoq",
+    "type": "predicate",
+    "english": "▯ should satisfy property ▯.",
+    "gloss": "should",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "juoı",
     "type": "predicate",
     "english": "▯ describes ▯ as satisfying property ▯.",
@@ -5725,42 +5761,6 @@
         "english": "They describe me as smart."
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "juoq",
-    "type": "predicate",
-    "english": "▯ should satisfy property ▯.",
-    "gloss": "should",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "juq",
-    "type": "predicate",
-    "english": "▯ gets/acquires property ▯.",
-    "gloss": "acquire",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "juqgī",
-    "type": "predicate",
-    "english": "▯ benefits ▯.",
-    "gloss": "benefit",
-    "keywords": [],
-    "frame": "0 c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
@@ -5805,6 +5805,43 @@
     "fields": []
   },
   {
+    "toaq": "jıq",
+    "type": "predicate",
+    "english": "▯ exists / is real/actual.",
+    "gloss": "actual",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Mả jỉq sa jỉao moq.",
+        "english": "Do any gods exist?"
+      },
+      {
+        "toaq": "Shỏe tủa dủa jí súq jíq ba.",
+        "english": "Let me tell you about something that happened for real."
+      },
+      {
+        "toaq": "Mỏı jí mù shẻ jîq jí.",
+        "english": "I think, therefore I am."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "jıqdūa",
+    "type": "predicate",
+    "english": "▯ knows that ▯ exists.",
+    "gloss": "know",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "jıa",
     "type": "predicate",
     "english": "▯ will happen.",
@@ -5814,6 +5851,35 @@
     "distribution": "d",
     "notes": [],
     "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jıaq",
+    "type": "predicate",
+    "english": "▯ is a world.",
+    "gloss": "world",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jıaqtū",
+    "type": "predicate",
+    "english": "▯ is the universe.",
+    "gloss": "universe",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Rảıhī múı pỏ ní jỉaqtū moq.",
+        "english": "What's the meaning of this universe?"
+      }
+    ],
     "fields": []
   },
   {
@@ -5918,35 +5984,6 @@
     "fields": []
   },
   {
-    "toaq": "jıaq",
-    "type": "predicate",
-    "english": "▯ is a world.",
-    "gloss": "world",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jıaqtū",
-    "type": "predicate",
-    "english": "▯ is the universe.",
-    "gloss": "universe",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Rảıhī múı pỏ ní jỉaqtū moq.",
-        "english": "What's the meaning of this universe?"
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "jıashāo",
     "type": "predicate",
     "english": "▯ hopes that ▯ will be the case.",
@@ -6042,43 +6079,6 @@
     "fields": []
   },
   {
-    "toaq": "jıq",
-    "type": "predicate",
-    "english": "▯ exists / is real/actual.",
-    "gloss": "actual",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Mả jỉq sa jỉao moq.",
-        "english": "Do any gods exist?"
-      },
-      {
-        "toaq": "Shỏe tủa dủa jí súq jíq ba.",
-        "english": "Let me tell you about something that happened for real."
-      },
-      {
-        "toaq": "Mỏı jí mù shẻ jîq jí.",
-        "english": "I think, therefore I am."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "jıqdūa",
-    "type": "predicate",
-    "english": "▯ knows that ▯ exists.",
-    "gloss": "know",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "jıe",
     "type": "predicate",
     "english": "▯ is as ▯ deems/judges/evaluates things to be.",
@@ -6121,6 +6121,54 @@
     "fields": []
   },
   {
+    "toaq": "joq",
+    "type": "predicate",
+    "english": "▯ is main/chief among ▯.",
+    "gloss": "main",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "joqdōaq",
+    "type": "predicate",
+    "english": "▯ is a capital city of ▯.",
+    "gloss": "capital",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "joqhūa",
+    "type": "predicate",
+    "english": "▯ is a head (body part).",
+    "gloss": "head",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "joqshāq",
+    "type": "predicate",
+    "english": "▯ is a face.",
+    "gloss": "face",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "joa",
     "type": "predicate",
     "english": "▯ is a week.",
@@ -6128,6 +6176,18 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "joaq",
+    "type": "predicate",
+    "english": "▯ is a leader of ▯.",
+    "gloss": "leader",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6193,18 +6253,6 @@
     "fields": []
   },
   {
-    "toaq": "joaq",
-    "type": "predicate",
-    "english": "▯ is a leader of ▯.",
-    "gloss": "leader",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "joı",
     "type": "predicate",
     "english": "▯ is case the case along with ▯; ▯ happens together with ▯.",
@@ -6236,54 +6284,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "joq",
-    "type": "predicate",
-    "english": "▯ is main/chief among ▯.",
-    "gloss": "main",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "joqdōaq",
-    "type": "predicate",
-    "english": "▯ is a capital city of ▯.",
-    "gloss": "capital",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "joqhūa",
-    "type": "predicate",
-    "english": "▯ is a head (body part).",
-    "gloss": "head",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "joqshāq",
-    "type": "predicate",
-    "english": "▯ is a face.",
-    "gloss": "face",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6322,6 +6322,43 @@
     "examples": []
   },
   {
+    "toaq": "jeq",
+    "type": "predicate",
+    "english": "▯ is the same as ▯ in property ▯.",
+    "gloss": "same",
+    "keywords": [],
+    "frame": "c c 2",
+    "distribution": "d d d",
+    "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jeqshūaq",
+    "type": "predicate",
+    "english": "▯ copies ▯; ▯ produces an object identical to ▯.",
+    "gloss": "copy",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jeqtū",
+    "type": "predicate",
+    "english": "▯ is identical to ▯.",
+    "gloss": "identical",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "jea",
     "type": "predicate",
     "english": "▯ makes a purchase; ▯ buys property ▯; ▯ buys property ▯ from ▯.",
@@ -6329,18 +6366,6 @@
     "keywords": [],
     "frame": "c 1 c",
     "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jeajīo",
-    "type": "predicate",
-    "english": "▯ is a mall.",
-    "gloss": "mall",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6406,6 +6431,18 @@
     "fields": []
   },
   {
+    "toaq": "jeajīo",
+    "type": "predicate",
+    "english": "▯ is a mall.",
+    "gloss": "mall",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "jearīaq",
     "type": "predicate",
     "english": "▯ is a market.",
@@ -6438,6 +6475,18 @@
     "frame": "0; c 1",
     "distribution": "d; d d",
     "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jeoq",
+    "type": "predicate",
+    "english": "▯ is a concave shape; ▯ is a cavity/hollow/cavern.",
+    "gloss": "concave",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6479,55 +6528,6 @@
     "fields": []
   },
   {
-    "toaq": "jeoq",
-    "type": "predicate",
-    "english": "▯ is a concave shape; ▯ is a cavity/hollow/cavern.",
-    "gloss": "concave",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jeq",
-    "type": "predicate",
-    "english": "▯ is the same as ▯ in property ▯.",
-    "gloss": "same",
-    "keywords": [],
-    "frame": "c c 2",
-    "distribution": "d d d",
-    "namesake": true,
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jeqshūaq",
-    "type": "predicate",
-    "english": "▯ copies ▯; ▯ produces an object identical to ▯.",
-    "gloss": "copy",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jeqtū",
-    "type": "predicate",
-    "english": "▯ is identical to ▯.",
-    "gloss": "identical",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "ka",
     "type": "illocution",
     "english": "performative illocution",
@@ -6535,95 +6535,6 @@
     "keywords": [],
     "notes": [],
     "examples": []
-  },
-  {
-    "toaq": "kafē",
-    "type": "predicate",
-    "english": "▯ is coffee.",
-    "gloss": "coffee",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kahā",
-    "type": "predicate",
-    "english": "▯ coughs.",
-    "gloss": "cough",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kaı",
-    "type": "predicate",
-    "english": "▯ writes ▯ on ▯.",
-    "gloss": "write",
-    "keywords": [],
-    "frame": "c c c",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kaıfūa",
-    "type": "predicate",
-    "english": "▯ is a desk.",
-    "gloss": "desk",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kaıkēa",
-    "type": "predicate",
-    "english": "▯ is a typewriter.",
-    "gloss": "typewriter",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kaısē",
-    "type": "predicate",
-    "english": "▯ is text/writing.",
-    "gloss": "text",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Bủ dẻq nỏa jí ní kảısē da.",
-        "english": "I can't read this writing."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "kao",
-    "type": "predicate",
-    "english": "▯ is a record of information/data ▯.",
-    "gloss": "record",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "kaq",
@@ -6746,6 +6657,95 @@
     "fields": []
   },
   {
+    "toaq": "kafē",
+    "type": "predicate",
+    "english": "▯ is coffee.",
+    "gloss": "coffee",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kahā",
+    "type": "predicate",
+    "english": "▯ coughs.",
+    "gloss": "cough",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaı",
+    "type": "predicate",
+    "english": "▯ writes ▯ on ▯.",
+    "gloss": "write",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaıfūa",
+    "type": "predicate",
+    "english": "▯ is a desk.",
+    "gloss": "desk",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaıkēa",
+    "type": "predicate",
+    "english": "▯ is a typewriter.",
+    "gloss": "typewriter",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaısē",
+    "type": "predicate",
+    "english": "▯ is text/writing.",
+    "gloss": "text",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Bủ dẻq nỏa jí ní kảısē da.",
+        "english": "I can't read this writing."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "kao",
+    "type": "predicate",
+    "english": "▯ is a record of information/data ▯.",
+    "gloss": "record",
+    "keywords": [],
+    "frame": "",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ku",
     "type": "prefix",
     "english": "marks focus",
@@ -6753,6 +6753,42 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "kuq",
+    "type": "predicate",
+    "english": "▯ says ▯ to ▯.",
+    "gloss": "say",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kuqsē",
+    "type": "predicate",
+    "english": "▯ is text (spoken or written).",
+    "gloss": "text",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kuqtōaı",
+    "type": "predicate",
+    "english": "▯ is a sentence.",
+    "gloss": "sentence",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "kua",
@@ -6771,6 +6807,52 @@
       {
         "toaq": "Kủa túq lủ hõqrāo bı bủa hó hóa da.",
         "english": "A room was all where they lived at the time."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "kuaq",
+    "type": "predicate",
+    "english": "▯ expresses property ▯.",
+    "gloss": "express",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kuaq kỉe",
+    "type": "predicate",
+    "english": "▯ thanks ▯.",
+    "gloss": "thank",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Kủaq kỉe jí ka.",
+        "english": "Thank you (I hereby express my gratitude)"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "kuaq shẻo",
+    "type": "predicate",
+    "english": "▯ apologizes to ▯.",
+    "gloss": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Kủaq shẻo jí ka.",
+        "english": "I apologize (I hereby express that I'm sorry)"
       }
     ],
     "fields": []
@@ -6841,52 +6923,6 @@
     "fields": []
   },
   {
-    "toaq": "kuaq",
-    "type": "predicate",
-    "english": "▯ expresses property ▯.",
-    "gloss": "express",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kuaq kỉe",
-    "type": "predicate",
-    "english": "▯ thanks ▯.",
-    "gloss": "thank",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Kủaq kỉe jí ka.",
-        "english": "Thank you (I hereby express my gratitude)"
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "kuaq shẻo",
-    "type": "predicate",
-    "english": "▯ apologizes to ▯.",
-    "gloss": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Kủaq shẻo jí ka.",
-        "english": "I apologize (I hereby express that I'm sorry)"
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "kuı",
     "type": "predicate",
     "english": "▯ is the case because ▯.",
@@ -6953,18 +6989,6 @@
     "fields": []
   },
   {
-    "toaq": "kuoı",
-    "type": "predicate",
-    "english": "▯ is less the case than ▯; ▯ is less than ▯ in property ▯.",
-    "gloss": "less",
-    "keywords": [],
-    "frame": "c c 1",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "kuoq",
     "type": "predicate",
     "english": "▯ is a bone.",
@@ -6972,6 +6996,18 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kuoı",
+    "type": "predicate",
+    "english": "▯ is less the case than ▯; ▯ is less than ▯ in property ▯.",
+    "gloss": "less",
+    "keywords": [],
+    "frame": "c c 1",
+    "distribution": "d d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6989,42 +7025,6 @@
     "fields": []
   },
   {
-    "toaq": "kuq",
-    "type": "predicate",
-    "english": "▯ says ▯ to ▯.",
-    "gloss": "say",
-    "keywords": [],
-    "frame": "c c c",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kuqsē",
-    "type": "predicate",
-    "english": "▯ is text (spoken or written).",
-    "gloss": "text",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kuqtōaı",
-    "type": "predicate",
-    "english": "▯ is a sentence.",
-    "gloss": "sentence",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "kue",
     "type": "predicate",
     "english": "▯ is a book.",
@@ -7034,39 +7034,6 @@
     "distribution": "d",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kuejīo",
-    "type": "predicate",
-    "english": "▯ is a library.",
-    "gloss": "library",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kuepāq",
-    "type": "predicate",
-    "english": "▯ is a chapter.",
-    "gloss": "chapter",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Dẻq jí lî kảıfīeq rào sa shí dỉofāo go sa shí sảo kủepāq da.",
-        "english": "I can write a large chapter in an evening."
-      },
-      {
-        "toaq": "Kỏ rảıhī kúepāq moq.",
-        "english": "Which chapter is it?"
-      }
-    ],
     "fields": []
   },
   {
@@ -7103,6 +7070,39 @@
     "fields": []
   },
   {
+    "toaq": "kuejīo",
+    "type": "predicate",
+    "english": "▯ is a library.",
+    "gloss": "library",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kuepāq",
+    "type": "predicate",
+    "english": "▯ is a chapter.",
+    "gloss": "chapter",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Dẻq jí lî kảıfīeq rào sa shí dỉofāo go sa shí sảo kủepāq da.",
+        "english": "I can write a large chapter in an evening."
+      },
+      {
+        "toaq": "Kỏ rảıhī kúepāq moq.",
+        "english": "Which chapter is it?"
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "kueshūo",
     "type": "predicate",
     "english": "▯ is a library.",
@@ -7124,10 +7124,58 @@
     "examples": []
   },
   {
+    "toaq": "kıq",
+    "type": "predicate",
+    "english": "▯ is a movie/film.",
+    "gloss": "movie",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kıqjīo",
+    "type": "predicate",
+    "english": "▯ is a cinema / movie theater.",
+    "gloss": "cinema",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kıqkēa",
+    "type": "predicate",
+    "english": "▯ is a film camera.",
+    "gloss": "camera",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kıa",
     "type": "predicate",
     "english": "▯ is the colour red.",
     "gloss": "red",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kıaq",
+    "type": "predicate",
+    "english": "▯ is a hair.",
+    "gloss": "hair",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -7184,18 +7232,6 @@
     "fields": []
   },
   {
-    "toaq": "kıaq",
-    "type": "predicate",
-    "english": "▯ is a hair.",
-    "gloss": "hair",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "kıarēo",
     "type": "predicate",
     "english": "▯ is of red colour.",
@@ -7241,42 +7277,6 @@
     "fields": []
   },
   {
-    "toaq": "kıq",
-    "type": "predicate",
-    "english": "▯ is a movie/film.",
-    "gloss": "movie",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kıqjīo",
-    "type": "predicate",
-    "english": "▯ is a cinema / movie theater.",
-    "gloss": "cinema",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kıqkēa",
-    "type": "predicate",
-    "english": "▯ is a film camera.",
-    "gloss": "camera",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "kıe",
     "type": "predicate",
     "english": "▯ is thankful/grateful to ▯ for satisfying property ▯.",
@@ -7284,18 +7284,6 @@
     "keywords": [],
     "frame": "c c 1",
     "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kıekūq",
-    "type": "predicate",
-    "english": "▯ says thanks to ▯.",
-    "gloss": "thank",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7315,6 +7303,18 @@
         "english": "I'm disgusted because of a cockroach being here."
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "kıekūq",
+    "type": "predicate",
+    "english": "▯ says thanks to ▯.",
+    "gloss": "thank",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -7380,51 +7380,34 @@
     "fields": []
   },
   {
+    "toaq": "koq",
+    "type": "predicate",
+    "english": "▯ is rough/uneven.",
+    "gloss": "rough",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "koqpīutā",
+    "type": "predicate",
+    "english": "▯ is a computer.",
+    "gloss": "computer",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "koa",
     "type": "predicate",
     "english": "▯ is cold/cool.",
     "gloss": "cold",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "koacāo",
-    "type": "predicate",
-    "english": "▯ is winter.",
-    "gloss": "winter",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "koaı",
-    "type": "predicate",
-    "english": "▯ is a net/web/sieve/filter.",
-    "gloss": "net",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Tỉdūaı múq kóaı da.",
-        "english": "The hand is stuck in the web."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "koakēa",
-    "type": "predicate",
-    "english": "▯ is a refrigerator.",
-    "gloss": "refrigerator",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -7490,6 +7473,47 @@
     "fields": []
   },
   {
+    "toaq": "koacāo",
+    "type": "predicate",
+    "english": "▯ is winter.",
+    "gloss": "winter",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "koaı",
+    "type": "predicate",
+    "english": "▯ is a net/web/sieve/filter.",
+    "gloss": "net",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Tỉdūaı múq kóaı da.",
+        "english": "The hand is stuck in the web."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "koakēa",
+    "type": "predicate",
+    "english": "▯ is a refrigerator.",
+    "gloss": "refrigerator",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "koı",
     "type": "predicate",
     "english": "▯ ambulates (walks/runs/crawls).",
@@ -7538,30 +7562,6 @@
     "fields": []
   },
   {
-    "toaq": "koq",
-    "type": "predicate",
-    "english": "▯ is rough/uneven.",
-    "gloss": "rough",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "koqpīutā",
-    "type": "predicate",
-    "english": "▯ is a computer.",
-    "gloss": "computer",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "koe",
     "type": "predicate",
     "english": "▯ chooses ▯ out of ▯ for ▯.",
@@ -7594,6 +7594,30 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "keq",
+    "type": "predicate",
+    "english": "▯ are feces; ▯ is excrement/shit/poo.",
+    "gloss": "feces",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "keqcīu",
+    "type": "predicate",
+    "english": "▯ defecates/shits.",
+    "gloss": "defecate",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "kea",
@@ -7650,30 +7674,6 @@
     ]
   },
   {
-    "toaq": "keq",
-    "type": "predicate",
-    "english": "▯ are feces; ▯ is excrement/shit/poo.",
-    "gloss": "feces",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "keqcīu",
-    "type": "predicate",
-    "english": "▯ defecates/shits.",
-    "gloss": "defecate",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "la",
     "type": "incidental",
     "english": "begin meta clause; makes a comment about the containing sentence (text not content).",
@@ -7681,39 +7681,6 @@
     "keywords": [],
     "notes": [],
     "examples": []
-  },
-  {
-    "toaq": "laı",
-    "type": "predicate",
-    "english": "▯ is a letter/glyph/sign/character/symbol/graphical component signifying ▯.",
-    "gloss": "letter",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lao",
-    "type": "predicate",
-    "english": "▯ waits for ▯ to be the case.",
-    "gloss": "wait",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Lảo jí cûakūq hó da.",
-        "english": "I'm waiting for him to respond."
-      },
-      {
-        "toaq": "Bủ shủe lảo súq ba.",
-        "english": "Don't be waiting."
-      }
-    ],
-    "fields": []
   },
   {
     "toaq": "laq",
@@ -7776,6 +7743,39 @@
     "fields": []
   },
   {
+    "toaq": "laı",
+    "type": "predicate",
+    "english": "▯ is a letter/glyph/sign/character/symbol/graphical component signifying ▯.",
+    "gloss": "letter",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lao",
+    "type": "predicate",
+    "english": "▯ waits for ▯ to be the case.",
+    "gloss": "wait",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Lảo jí cûakūq hó da.",
+        "english": "I'm waiting for him to respond."
+      },
+      {
+        "toaq": "Bủ shủe lảo súq ba.",
+        "english": "Don't be waiting."
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "lu",
     "type": "statement prefix",
     "english": "statement prefix: turn statement into predicate",
@@ -7785,6 +7785,30 @@
     "examples": []
   },
   {
+    "toaq": "luq",
+    "type": "predicate",
+    "english": "▯ is calm/silent.",
+    "gloss": "calm",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "luqmōe",
+    "type": "predicate",
+    "english": "▯ is calm (emotionally).",
+    "gloss": "calm",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "lua",
     "type": "predicate",
     "english": "▯ is a story.",
@@ -7792,6 +7816,18 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "luaq",
+    "type": "predicate",
+    "english": "▯ plays / has fun with / uses for entertainment ▯.",
+    "gloss": "play",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7835,18 +7871,6 @@
         "english": "I like it how cola cans tend to have rims."
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "luaq",
-    "type": "predicate",
-    "english": "▯ plays / has fun with / uses for entertainment ▯.",
-    "gloss": "play",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
@@ -7898,46 +7922,10 @@
     "fields": []
   },
   {
-    "toaq": "luq",
-    "type": "predicate",
-    "english": "▯ is calm/silent.",
-    "gloss": "calm",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "luqmōe",
-    "type": "predicate",
-    "english": "▯ is calm (emotionally).",
-    "gloss": "calm",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "lue",
     "type": "predicate",
     "english": "▯ is the colour yellow.",
     "gloss": "yellow",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "luechāq",
-    "type": "predicate",
-    "english": "▯ is a Wednesday.",
-    "gloss": "wednesday",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -7970,6 +7958,18 @@
     "fields": []
   },
   {
+    "toaq": "luechāq",
+    "type": "predicate",
+    "english": "▯ is a Wednesday.",
+    "gloss": "wednesday",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "luerēo",
     "type": "predicate",
     "english": "▯ is of yellow colour.",
@@ -7989,102 +7989,6 @@
     "keywords": [],
     "notes": [],
     "examples": []
-  },
-  {
-    "toaq": "lıa",
-    "type": "predicate",
-    "english": "▯ is beside ▯; ▯ is to the side of ▯; ▯ is next to ▯.",
-    "gloss": "beside",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıaı",
-    "type": "predicate",
-    "english": "▯ swims.",
-    "gloss": "swim",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıao",
-    "type": "predicate",
-    "english": "▯ is a fungus/mushroom/mold.",
-    "gloss": "fungus",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıaq",
-    "type": "predicate",
-    "english": "▯ is a ▯-tuple.",
-    "gloss": "tuple",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıu",
-    "type": "predicate",
-    "english": "▯ is light in weight.",
-    "gloss": "light",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıo",
-    "type": "predicate",
-    "english": "▯ is to the left of ▯.",
-    "gloss": "left",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıodūo",
-    "type": "predicate",
-    "english": "▯ moves leftwards.",
-    "gloss": "move.left",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lıopāq",
-    "type": "predicate",
-    "english": "▯ is the left part of ▯.",
-    "gloss": "left.part",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "lıq",
@@ -8183,6 +8087,102 @@
     "fields": []
   },
   {
+    "toaq": "lıa",
+    "type": "predicate",
+    "english": "▯ is beside ▯; ▯ is to the side of ▯; ▯ is next to ▯.",
+    "gloss": "beside",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıaq",
+    "type": "predicate",
+    "english": "▯ is a ▯-tuple.",
+    "gloss": "tuple",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıaı",
+    "type": "predicate",
+    "english": "▯ swims.",
+    "gloss": "swim",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıao",
+    "type": "predicate",
+    "english": "▯ is a fungus/mushroom/mold.",
+    "gloss": "fungus",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıu",
+    "type": "predicate",
+    "english": "▯ is light in weight.",
+    "gloss": "light",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıo",
+    "type": "predicate",
+    "english": "▯ is to the left of ▯.",
+    "gloss": "left",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıodūo",
+    "type": "predicate",
+    "english": "▯ moves leftwards.",
+    "gloss": "move.left",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıopāq",
+    "type": "predicate",
+    "english": "▯ is the left part of ▯.",
+    "gloss": "left.part",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "lıe",
     "type": "predicate",
     "english": "▯ experiences satisfying property ▯.",
@@ -8199,99 +8199,6 @@
     "type": "predicate",
     "english": "▯ is a wedge.",
     "gloss": "wedge",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "loa",
-    "type": "predicate",
-    "english": "▯ is the colour purple.",
-    "gloss": "purple",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "loachāq",
-    "type": "predicate",
-    "english": "▯ is a Sunday.",
-    "gloss": "sunday",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "loaı",
-    "type": "predicate",
-    "english": "▯ flows.",
-    "gloss": "flow",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Lỏaı híu.",
-        "english": "The river flows."
-      },
-      {
-        "toaq": "Gảısī súq chûfāq lỏaı náo ba.",
-        "english": "Look at the water flowing."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "loaq",
-    "type": "predicate",
-    "english": "▯ is a buttocks/ass/behind.",
-    "gloss": "buttocks",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "loarēo",
-    "type": "predicate",
-    "english": "▯ is of purple colour.",
-    "gloss": "purple",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "loı",
-    "type": "predicate",
-    "english": "▯ hates ▯.",
-    "gloss": "hate",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Lojībāq",
-    "type": "predicate",
-    "english": "▯ is the Lojban language.",
-    "gloss": "Lojban",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -8336,6 +8243,99 @@
     "fields": []
   },
   {
+    "toaq": "loa",
+    "type": "predicate",
+    "english": "▯ is the colour purple.",
+    "gloss": "purple",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "loaq",
+    "type": "predicate",
+    "english": "▯ is a buttocks/ass/behind.",
+    "gloss": "buttocks",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "loachāq",
+    "type": "predicate",
+    "english": "▯ is a Sunday.",
+    "gloss": "sunday",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "loaı",
+    "type": "predicate",
+    "english": "▯ flows.",
+    "gloss": "flow",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Lỏaı híu.",
+        "english": "The river flows."
+      },
+      {
+        "toaq": "Gảısī súq chûfāq lỏaı náo ba.",
+        "english": "Look at the water flowing."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "loarēo",
+    "type": "predicate",
+    "english": "▯ is of purple colour.",
+    "gloss": "purple",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "loı",
+    "type": "predicate",
+    "english": "▯ hates ▯.",
+    "gloss": "hate",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Lojībāq",
+    "type": "predicate",
+    "english": "▯ is the Lojban language.",
+    "gloss": "Lojban",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "loe",
     "type": "predicate",
     "english": "▯ is a flame/fire.",
@@ -8365,22 +8365,35 @@
     "fields": []
   },
   {
-    "toaq": "lea",
+    "toaq": "leq",
     "type": "predicate",
-    "english": "▯ is art.",
-    "gloss": "art",
+    "english": "▯ is a tongue.",
+    "gloss": "tongue",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Tủa bủı súq léq ba!",
+        "english": "Stick out your tongue!"
+      },
+      {
+        "toaq": "Jí bı hủaq bủaı léq pésō da.",
+        "english": "As for me, the tongue is longer than the penis."
+      },
+      {
+        "toaq": "Lẻq lú tẻ rỉoqhīao pó káıchūo hó hóa da.",
+        "english": "The tongue was where the pen damaged him."
+      }
+    ],
     "fields": []
   },
   {
-    "toaq": "leachē",
+    "toaq": "lea",
     "type": "predicate",
-    "english": "▯ is an artist.",
-    "gloss": "artist",
+    "english": "▯ is art.",
+    "gloss": "art",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -8446,6 +8459,18 @@
     "fields": []
   },
   {
+    "toaq": "leachē",
+    "type": "predicate",
+    "english": "▯ is an artist.",
+    "gloss": "artist",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "leı",
     "type": "predicate",
     "english": "▯ is rare in property ▯.",
@@ -8495,31 +8520,6 @@
     "fields": []
   },
   {
-    "toaq": "leq",
-    "type": "predicate",
-    "english": "▯ is a tongue.",
-    "gloss": "tongue",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Tủa bủı súq léq ba!",
-        "english": "Stick out your tongue!"
-      },
-      {
-        "toaq": "Jí bı hủaq bủaı léq pésō da.",
-        "english": "As for me, the tongue is longer than the penis."
-      },
-      {
-        "toaq": "Lẻq lú tẻ rỉoqhīao pó káıchūo hó hóa da.",
-        "english": "The tongue was where the pen damaged him."
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "ma",
     "type": "statement prefix",
     "english": "statement prefix: whether",
@@ -8527,6 +8527,18 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "maq",
+    "type": "predicate",
+    "english": "▯ is it (non-personal concrete).",
+    "gloss": "it",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "maı",
@@ -8601,18 +8613,6 @@
     "fields": []
   },
   {
-    "toaq": "maq",
-    "type": "predicate",
-    "english": "▯ is it (non-personal concrete).",
-    "gloss": "it",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mu",
     "type": "predicate",
     "english": "▯ satisfies property ▯ with the first and second places swapped.",
@@ -8631,191 +8631,6 @@
         "english": "That skill is useful."
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "mua",
-    "type": "predicate",
-    "english": "▯ is an example of ▯.",
-    "gloss": "example",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muaı",
-    "type": "predicate",
-    "english": "▯ has an umami taste.",
-    "gloss": "umami",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muao",
-    "type": "predicate",
-    "english": "▯ is a tree.",
-    "gloss": "tree",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muaogūaq",
-    "type": "predicate",
-    "english": "▯ is a forest.",
-    "gloss": "forest",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muaomē",
-    "type": "predicate",
-    "english": "▯ is a forest.",
-    "gloss": "forest",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muaq",
-    "type": "predicate",
-    "english": "▯ is dead.",
-    "gloss": "dead",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muaqshō",
-    "type": "predicate",
-    "english": "▯ dies.",
-    "gloss": "die",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muaqtūa",
-    "type": "predicate",
-    "english": "▯ kills ▯.",
-    "gloss": "kill",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muı",
-    "type": "predicate",
-    "english": "▯ is a meaning of ▯.",
-    "gloss": "meaning",
-    "keywords": [],
-    "frame": "0 c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muıdūa",
-    "type": "predicate",
-    "english": "▯ understands the meaning of ▯.",
-    "gloss": "understand",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muo",
-    "type": "predicate",
-    "english": "▯ is whole/complete in aspect ▯.",
-    "gloss": "whole",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muo gỉ",
-    "type": "predicate",
-    "english": "▯ is perfect.",
-    "gloss": "perfect",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muoı",
-    "type": "predicate",
-    "english": "▯ rotates/spins/turns.",
-    "gloss": "rotate",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Cả bỉafōı mûoı da.",
-        "english": "Spinning causes dizziness."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "muoq",
-    "type": "predicate",
-    "english": "▯ is made of ▯.",
-    "gloss": "made.of",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muotūa",
-    "type": "predicate",
-    "english": "▯ mends ▯; ▯ makes ▯ whole; ▯ completes ▯.",
-    "gloss": "mend",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
@@ -8896,6 +8711,191 @@
     "fields": []
   },
   {
+    "toaq": "mua",
+    "type": "predicate",
+    "english": "▯ is an example of ▯.",
+    "gloss": "example",
+    "keywords": [],
+    "frame": "",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muaq",
+    "type": "predicate",
+    "english": "▯ is dead.",
+    "gloss": "dead",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muaqshō",
+    "type": "predicate",
+    "english": "▯ dies.",
+    "gloss": "die",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muaqtūa",
+    "type": "predicate",
+    "english": "▯ kills ▯.",
+    "gloss": "kill",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muaı",
+    "type": "predicate",
+    "english": "▯ has an umami taste.",
+    "gloss": "umami",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muao",
+    "type": "predicate",
+    "english": "▯ is a tree.",
+    "gloss": "tree",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muaogūaq",
+    "type": "predicate",
+    "english": "▯ is a forest.",
+    "gloss": "forest",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muaomē",
+    "type": "predicate",
+    "english": "▯ is a forest.",
+    "gloss": "forest",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muı",
+    "type": "predicate",
+    "english": "▯ is a meaning of ▯.",
+    "gloss": "meaning",
+    "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muıdūa",
+    "type": "predicate",
+    "english": "▯ understands the meaning of ▯.",
+    "gloss": "understand",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muo",
+    "type": "predicate",
+    "english": "▯ is whole/complete in aspect ▯.",
+    "gloss": "whole",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muo gỉ",
+    "type": "predicate",
+    "english": "▯ is perfect.",
+    "gloss": "perfect",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muoq",
+    "type": "predicate",
+    "english": "▯ is made of ▯.",
+    "gloss": "made.of",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muoı",
+    "type": "predicate",
+    "english": "▯ rotates/spins/turns.",
+    "gloss": "rotate",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Cả bỉafōı mûoı da.",
+        "english": "Spinning causes dizziness."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "muotūa",
+    "type": "predicate",
+    "english": "▯ mends ▯; ▯ makes ▯ whole; ▯ completes ▯.",
+    "gloss": "mend",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "mı",
     "type": "predicatizer",
     "english": "turns following phrase X into predicate: ▯ is/are the one(s) called X.",
@@ -8903,6 +8903,18 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıq",
+    "type": "predicate",
+    "english": "▯ is infinite in property ▯.",
+    "gloss": "infinite",
+    "keywords": [],
+    "frame": "c 2",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8916,42 +8928,6 @@
     "frame": "c 2",
     "distribution": "d d",
     "namesake": true,
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "mıaı",
-    "type": "predicate",
-    "english": "▯ rhymes with ▯.",
-    "gloss": "rhyme",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "mıaısē",
-    "type": "predicate",
-    "english": "▯ is a rhyme.",
-    "gloss": "rhyme",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "mıao",
-    "type": "predicate",
-    "english": "▯ is a moon.",
-    "gloss": "moon",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8997,6 +8973,42 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıaı",
+    "type": "predicate",
+    "english": "▯ rhymes with ▯.",
+    "gloss": "rhyme",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıaısē",
+    "type": "predicate",
+    "english": "▯ is a rhyme.",
+    "gloss": "rhyme",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıao",
+    "type": "predicate",
+    "english": "▯ is a moon.",
+    "gloss": "moon",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9075,18 +9087,6 @@
     "fields": []
   },
   {
-    "toaq": "mıq",
-    "type": "predicate",
-    "english": "▯ is infinite in property ▯.",
-    "gloss": "infinite",
-    "keywords": [],
-    "frame": "c 2",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mıe",
     "type": "predicate",
     "english": "▯ lives / is alive.",
@@ -9094,6 +9094,18 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıeq",
+    "type": "predicate",
+    "english": "▯ measures/evaluates/determines what satisfies property ▯.",
+    "gloss": "measure",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9123,18 +9135,6 @@
     "fields": []
   },
   {
-    "toaq": "mıeq",
-    "type": "predicate",
-    "english": "▯ measures/evaluates/determines what satisfies property ▯.",
-    "gloss": "measure",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mo",
     "type": "text-quote",
     "english": "begin full-text quote.",
@@ -9153,6 +9153,15 @@
     ]
   },
   {
+    "toaq": "moq",
+    "type": "illocution",
+    "english": "interrogative illocution",
+    "gloss": "?",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "moa",
     "type": "predicate",
     "english": "▯ is a point in ▯.",
@@ -9160,18 +9169,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "moaı",
-    "type": "predicate",
-    "english": "▯ is thick.",
-    "gloss": "thick",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9217,6 +9214,18 @@
     "type": "predicate",
     "english": "▯ is a memory.",
     "gloss": "memory",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "moaı",
+    "type": "predicate",
+    "english": "▯ is thick.",
+    "gloss": "thick",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -9309,15 +9318,6 @@
     "fields": []
   },
   {
-    "toaq": "moq",
-    "type": "illocution",
-    "english": "interrogative illocution",
-    "gloss": "?",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "moe",
     "type": "predicate",
     "english": "▯ feels ▯; ▯ has emotion ▯.",
@@ -9378,6 +9378,30 @@
     "fields": []
   },
   {
+    "toaq": "meaq",
+    "type": "predicate",
+    "english": "▯ is a ship/boat/vessel.",
+    "gloss": "ship",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "meaqcē",
+    "type": "predicate",
+    "english": "▯ is a harbour/haven.",
+    "gloss": "harbour",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "meahēo",
     "type": "predicate",
     "english": "▯ is different from ▯; ▯ is not the same thing as ▯; ▯ is something else than ▯.",
@@ -9409,30 +9433,6 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "meaq",
-    "type": "predicate",
-    "english": "▯ is a ship/boat/vessel.",
-    "gloss": "ship",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "meaqcē",
-    "type": "predicate",
-    "english": "▯ is a harbour/haven.",
-    "gloss": "harbour",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9531,67 +9531,6 @@
     "examples": []
   },
   {
-    "toaq": "naı",
-    "type": "predicate",
-    "english": "▯ happens now.",
-    "gloss": "is",
-    "keywords": [],
-    "frame": "0",
-    "distribution": "d",
-    "namesake": true,
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "nao",
-    "type": "predicate",
-    "english": "▯ is water.",
-    "gloss": "water",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "naogūaq",
-    "type": "predicate",
-    "english": "▯ is an island.",
-    "gloss": "island",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "naokūa",
-    "type": "predicate",
-    "english": "▯ is a bathroom.",
-    "gloss": "bathroom",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "naonīaı",
-    "type": "predicate",
-    "english": "▯ is an aquatic life form.",
-    "gloss": "aquatic.life",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "naq",
     "type": "predicate",
     "english": "▯ is male.",
@@ -9688,6 +9627,67 @@
     "fields": []
   },
   {
+    "toaq": "naı",
+    "type": "predicate",
+    "english": "▯ happens now.",
+    "gloss": "is",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nao",
+    "type": "predicate",
+    "english": "▯ is water.",
+    "gloss": "water",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "naogūaq",
+    "type": "predicate",
+    "english": "▯ is an island.",
+    "gloss": "island",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "naokūa",
+    "type": "predicate",
+    "english": "▯ is a bathroom.",
+    "gloss": "bathroom",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "naonīaı",
+    "type": "predicate",
+    "english": "▯ is an aquatic life form.",
+    "gloss": "aquatic.life",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "narāq",
     "type": "predicate",
     "english": "▯ is the colour orange.",
@@ -9741,6 +9741,27 @@
     "fields": []
   },
   {
+    "toaq": "nuq",
+    "type": "predicate",
+    "english": "▯ is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification).",
+    "gloss": "worm-like",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Dủ mủısīa híqlī mủıjūoıkūqsē go shủ nủq ju mả bủ hóq da!",
+        "english": "The English definition for ‘nuq’ is bonkers, isn't it!"
+      },
+      {
+        "toaq": "Lỏıjīe jí tîtūa súq cu pójī kủe sa núq da.",
+        "english": "I hate it when you put snakes in my room."
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "nua",
     "type": "predicate",
     "english": "▯ takes/removes property ▯ from ▯.",
@@ -9748,6 +9769,30 @@
     "keywords": [],
     "frame": "c 1 c",
     "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nuaq",
+    "type": "predicate",
+    "english": "▯ is a night.",
+    "gloss": "night",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nuaqchū",
+    "type": "predicate",
+    "english": "▯ is midnight.",
+    "gloss": "midnight",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9801,30 +9846,6 @@
     "fields": []
   },
   {
-    "toaq": "nuaq",
-    "type": "predicate",
-    "english": "▯ is a night.",
-    "gloss": "night",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "nuaqchū",
-    "type": "predicate",
-    "english": "▯ is midnight.",
-    "gloss": "midnight",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "nuı",
     "type": "predicate",
     "english": "▯ is small/little.",
@@ -9861,10 +9882,27 @@
     "fields": []
   },
   {
-    "toaq": "nuofūa",
+    "toaq": "nuoq",
     "type": "predicate",
-    "english": "▯ is a bed.",
-    "gloss": "bed",
+    "english": "▯ reflects/mirrors/echoes ▯.",
+    "gloss": "reflect",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Chỏqgī báq chủo tǔa nủoq da.",
+        "english": "Mirrors are useful."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "nuofūq",
+    "type": "predicate",
+    "english": "▯ is a pyjama.",
+    "gloss": "pyjama",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -9873,10 +9911,10 @@
     "fields": []
   },
   {
-    "toaq": "nuofūq",
+    "toaq": "nuofūa",
     "type": "predicate",
-    "english": "▯ is a pyjama.",
-    "gloss": "pyjama",
+    "english": "▯ is a bed.",
+    "gloss": "bed",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -9926,44 +9964,6 @@
     "fields": []
   },
   {
-    "toaq": "nuoq",
-    "type": "predicate",
-    "english": "▯ reflects/mirrors/echoes ▯.",
-    "gloss": "reflect",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Chỏqgī báq chủo tǔa nủoq da.",
-        "english": "Mirrors are useful."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "nuq",
-    "type": "predicate",
-    "english": "▯ is a worm-like animal (animal with long cylindrical tube-like body and no limbs or with short limbs but crawling) (form classification).",
-    "gloss": "worm-like",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Dủ mủısīa híqlī mủıjūoıkūqsē go shủ nủq ju mả bủ hóq da!",
-        "english": "The English definition for ‘nuq’ is bonkers, isn't it!"
-      },
-      {
-        "toaq": "Lỏıjīe jí tîtūa súq cu pójī kủe sa núq da.",
-        "english": "I hate it when you put snakes in my room."
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "nue",
     "type": "predicate",
     "english": "▯ promises/threatens to ▯ to satisfy property ▯.",
@@ -10000,12 +10000,114 @@
     "fields": []
   },
   {
+    "toaq": "nıq",
+    "type": "predicate",
+    "english": "▯ is new; ▯ is new to ▯.",
+    "gloss": "new",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Nỉq hóq jí da.",
+        "english": "That's new to me."
+      },
+      {
+        "toaq": "Tủa gảıkīu súq sa níq ba.",
+        "english": "Show something new."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "nıqdāo",
+    "type": "predicate",
+    "english": "▯ are news.",
+    "gloss": "news",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Nîqdāo sıa ráı pa gỉ nỉqdāo da.",
+        "english": "No news is good news."
+      },
+      {
+        "toaq": "Rảıhī pósūq nỉqdāo moq.",
+        "english": "What's your news?"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "nıqdūa",
+    "type": "predicate",
+    "english": "▯ discovers / finds out ▯.",
+    "gloss": "discover",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nıqgūo",
+    "type": "predicate",
+    "english": "▯ happens again.",
+    "gloss": "again",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nıqgūokūaı",
+    "type": "predicate",
+    "english": "▯ misses ▯; ▯ hungers for ▯ to happen again.",
+    "gloss": "miss",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "nıa",
     "type": "predicate",
     "english": "▯ is low.",
     "gloss": "low",
     "keywords": [],
     "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nıaq",
+    "type": "predicate",
+    "english": "▯ is a year.",
+    "gloss": "year",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nıaqdīaq",
+    "type": "predicate",
+    "english": "▯ is annual.",
+    "gloss": "annual",
+    "keywords": [],
+    "frame": "0",
     "distribution": "d",
     "notes": [],
     "examples": [],
@@ -10059,30 +10161,6 @@
         "english": "It's snowing."
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "nıaq",
-    "type": "predicate",
-    "english": "▯ is a year.",
-    "gloss": "year",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "nıaqdīaq",
-    "type": "predicate",
-    "english": "▯ is annual.",
-    "gloss": "annual",
-    "keywords": [],
-    "frame": "0",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
@@ -10182,18 +10260,6 @@
     "fields": []
   },
   {
-    "toaq": "nıodē",
-    "type": "predicate",
-    "english": "▯ is cute.",
-    "gloss": "cute",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "nıoq",
     "type": "predicate",
     "english": "▯ is a tooth.",
@@ -10206,79 +10272,13 @@
     "fields": []
   },
   {
-    "toaq": "nıq",
+    "toaq": "nıodē",
     "type": "predicate",
-    "english": "▯ is new; ▯ is new to ▯.",
-    "gloss": "new",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Nỉq hóq jí da.",
-        "english": "That's new to me."
-      },
-      {
-        "toaq": "Tủa gảıkīu súq sa níq ba.",
-        "english": "Show something new."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "nıqdāo",
-    "type": "predicate",
-    "english": "▯ are news.",
-    "gloss": "news",
+    "english": "▯ is cute.",
+    "gloss": "cute",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Nîqdāo sıa ráı pa gỉ nỉqdāo da.",
-        "english": "No news is good news."
-      },
-      {
-        "toaq": "Rảıhī pósūq nỉqdāo moq.",
-        "english": "What's your news?"
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "nıqdūa",
-    "type": "predicate",
-    "english": "▯ discovers / finds out ▯.",
-    "gloss": "discover",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "nıqgūo",
-    "type": "predicate",
-    "english": "▯ happens again.",
-    "gloss": "again",
-    "keywords": [],
-    "frame": "0",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "nıqgūokūaı",
-    "type": "predicate",
-    "english": "▯ misses ▯; ▯ hungers for ▯ to happen again.",
-    "gloss": "miss",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -10296,24 +10296,24 @@
     "fields": []
   },
   {
-    "toaq": "nıefā",
-    "type": "predicate",
-    "english": "▯ enters / goes inside ▯.",
-    "gloss": "enter",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "nıeq",
     "type": "predicate",
     "english": "▯ is unskilled at satisfying property ▯.",
     "gloss": "unskilled",
     "keywords": [],
     "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nıefā",
+    "type": "predicate",
+    "english": "▯ enters / goes inside ▯.",
+    "gloss": "enter",
+    "keywords": [],
+    "frame": "c c",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -10362,75 +10362,6 @@
         "english": "in French"
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "noa",
-    "type": "predicate",
-    "english": "Satisfying property ▯ is difficult for ▯.",
-    "gloss": "difficult",
-    "keywords": [],
-    "frame": "1 c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "noaı",
-    "type": "predicate",
-    "english": "▯ is milk.",
-    "gloss": "milk",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Hủıcūa jí pó báq nỏaı da.",
-        "english": "I'm allergic to milk."
-      },
-      {
-        "toaq": "Nỏaı sé pỏ báq gủosō.",
-        "english": "Milk is what cows produce."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "noaq",
-    "type": "predicate",
-    "english": "▯ reads ▯ from ▯.",
-    "gloss": "read",
-    "keywords": [],
-    "frame": "c c c",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "noı",
-    "type": "predicate",
-    "english": "▯ is pain.",
-    "gloss": "pain",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "noılīe",
-    "type": "predicate",
-    "english": "▯ suffers / has pain.",
-    "gloss": "suffer",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
@@ -10494,12 +10425,93 @@
     "fields": []
   },
   {
+    "toaq": "noa",
+    "type": "predicate",
+    "english": "Satisfying property ▯ is difficult for ▯.",
+    "gloss": "difficult",
+    "keywords": [],
+    "frame": "1 c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "noaq",
+    "type": "predicate",
+    "english": "▯ reads ▯ from ▯.",
+    "gloss": "read",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "noaı",
+    "type": "predicate",
+    "english": "▯ is milk.",
+    "gloss": "milk",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Hủıcūa jí pó báq nỏaı da.",
+        "english": "I'm allergic to milk."
+      },
+      {
+        "toaq": "Nỏaı sé pỏ báq gủosō.",
+        "english": "Milk is what cows produce."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "noı",
+    "type": "predicate",
+    "english": "▯ is pain.",
+    "gloss": "pain",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "noılīe",
+    "type": "predicate",
+    "english": "▯ suffers / has pain.",
+    "gloss": "suffer",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ne",
     "type": "predicate",
     "english": "▯ is how much ▯ is the case; ▯ is the amount that ▯ is the case.",
     "gloss": "amount",
     "keywords": [],
     "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "neq",
+    "type": "predicate",
+    "english": "▯ is determined by the luck/fortunate of ▯.",
+    "gloss": "luck",
+    "keywords": [],
+    "frame": "0 c",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -10595,18 +10607,6 @@
     "fields": []
   },
   {
-    "toaq": "neq",
-    "type": "predicate",
-    "english": "▯ is determined by the luck/fortunate of ▯.",
-    "gloss": "luck",
-    "keywords": [],
-    "frame": "0 c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "pa",
     "type": "terminator",
     "english": "terminate prenex and apply prenex arguments to predicate in order",
@@ -10619,80 +10619,6 @@
         "english": "Me you loves = Me loves you = Loves me you."
       }
     ]
-  },
-  {
-    "toaq": "paı",
-    "type": "predicate",
-    "english": "▯ is a friend; ▯ is a friend of ▯.",
-    "gloss": "friend",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "namesake": true,
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Pảı jí súq da.",
-        "english": "I'm your friend."
-      },
-      {
-        "toaq": "Chẻo pảı hó da.",
-        "english": "They're friends (for each other)."
-      },
-      {
-        "toaq": "Rủo chã pảı ba!",
-        "english": "Act like friends do!"
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "paıgī",
-    "type": "predicate",
-    "english": "▯ is friendly towards ▯.",
-    "gloss": "friendly",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "paırūo",
-    "type": "predicate",
-    "english": "▯ acts friendly/kindly towards ▯.",
-    "gloss": "friendly",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "pao",
-    "type": "predicate",
-    "english": "▯ is a parent of ▯; ▯ acts parental towards ▯; ▯ raises ▯.",
-    "gloss": "parent",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "papā",
-    "type": "predicate",
-    "english": "▯ is papa (Dad, daddy, father).",
-    "gloss": "papa",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "paq",
@@ -10772,6 +10698,80 @@
     "fields": []
   },
   {
+    "toaq": "paı",
+    "type": "predicate",
+    "english": "▯ is a friend; ▯ is a friend of ▯.",
+    "gloss": "friend",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "namesake": true,
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Pảı jí súq da.",
+        "english": "I'm your friend."
+      },
+      {
+        "toaq": "Chẻo pảı hó da.",
+        "english": "They're friends (for each other)."
+      },
+      {
+        "toaq": "Rủo chã pảı ba!",
+        "english": "Act like friends do!"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "paıgī",
+    "type": "predicate",
+    "english": "▯ is friendly towards ▯.",
+    "gloss": "friendly",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "paırūo",
+    "type": "predicate",
+    "english": "▯ acts friendly/kindly towards ▯.",
+    "gloss": "friendly",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "pao",
+    "type": "predicate",
+    "english": "▯ is a parent of ▯; ▯ acts parental towards ▯; ▯ raises ▯.",
+    "gloss": "parent",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "papā",
+    "type": "predicate",
+    "english": "▯ is papa (Dad, daddy, father).",
+    "gloss": "papa",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "patī",
     "type": "predicate",
     "english": "▯ is a party (gathering for entertainment, fun and socializing).",
@@ -10796,6 +10796,30 @@
     "fields": []
   },
   {
+    "toaq": "puq",
+    "type": "predicate",
+    "english": "▯ are more than one / multiple things.",
+    "gloss": "multiple",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "puqhō",
+    "type": "predicate",
+    "english": "▯ are them.",
+    "gloss": "they",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "pua",
     "type": "predicate",
     "english": "▯ enjoys satisfying property ▯.",
@@ -10803,30 +10827,6 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "puaı",
-    "type": "predicate",
-    "english": "▯ is wild/untamed.",
-    "gloss": "wild",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "puao",
-    "type": "predicate",
-    "english": "▯ is a cloud.",
-    "gloss": "cloud",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -10875,6 +10875,30 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "puaı",
+    "type": "predicate",
+    "english": "▯ is wild/untamed.",
+    "gloss": "wild",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "puao",
+    "type": "predicate",
+    "english": "▯ is a cloud.",
+    "gloss": "cloud",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -11034,30 +11058,6 @@
     "fields": []
   },
   {
-    "toaq": "puq",
-    "type": "predicate",
-    "english": "▯ are more than one / multiple things.",
-    "gloss": "multiple",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "puqhō",
-    "type": "predicate",
-    "english": "▯ are them.",
-    "gloss": "they",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "pue",
     "type": "predicate",
     "english": "▯ is a foot.",
@@ -11070,6 +11070,23 @@
       {
         "toaq": "Lủı pủeq jí sa légō cà hôaı bủ shảı nỏılīe jí da.",
         "english": "I have stepped on a Lego, which is why I still can't stop hurting."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "pueq",
+    "type": "predicate",
+    "english": "▯ steps/treads on ▯.",
+    "gloss": "tread",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Pủeq jí pósūq pủe hìao súq.",
+        "english": "I treaded on your foot, which hurt you."
       }
     ],
     "fields": []
@@ -11132,23 +11149,6 @@
     "distribution": "d",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "pueq",
-    "type": "predicate",
-    "english": "▯ steps/treads on ▯.",
-    "gloss": "tread",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Pủeq jí pósūq pủe hìao súq.",
-        "english": "I treaded on your foot, which hurt you."
-      }
-    ],
     "fields": []
   },
   {
@@ -11318,10 +11318,23 @@
     "fields": []
   },
   {
-    "toaq": "poa",
+    "toaq": "poq",
     "type": "predicate",
-    "english": "▯ is closed/shut.",
-    "gloss": "closed",
+    "english": "▯ is a person.",
+    "gloss": "person",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "namesake": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "poqmē",
+    "type": "predicate",
+    "english": "▯ is a group of people.",
+    "gloss": "group.of.people",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -11330,10 +11343,10 @@
     "fields": []
   },
   {
-    "toaq": "poaı",
+    "toaq": "poa",
     "type": "predicate",
-    "english": "▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.",
-    "gloss": "seed",
+    "english": "▯ is closed/shut.",
+    "gloss": "closed",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -11363,6 +11376,18 @@
     "type": "predicate",
     "english": "▯ is a shard/cullet.",
     "gloss": "shard",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "poaı",
+    "type": "predicate",
+    "english": "▯ is a seed/spore/egg/gamete/ovum/sperm/pollen.",
+    "gloss": "seed",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -11452,31 +11477,6 @@
     "fields": []
   },
   {
-    "toaq": "poq",
-    "type": "predicate",
-    "english": "▯ is a person.",
-    "gloss": "person",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "namesake": true,
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "poqmē",
-    "type": "predicate",
-    "english": "▯ is a group of people.",
-    "gloss": "group.of.people",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "posūq",
     "type": "predicate",
     "english": "▯ is yours.",
@@ -11531,6 +11531,30 @@
     "fields": []
   },
   {
+    "toaq": "peq",
+    "type": "predicate",
+    "english": "▯ is paper.",
+    "gloss": "paper",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "peqbōe",
+    "type": "predicate",
+    "english": "▯ is a sheet of paper.",
+    "gloss": "sheet",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "pea",
     "type": "predicate",
     "english": "▯ happened ▯ (amount of time) ago.",
@@ -11555,30 +11579,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "peq",
-    "type": "predicate",
-    "english": "▯ is paper.",
-    "gloss": "paper",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "peqbōe",
-    "type": "predicate",
-    "english": "▯ is a sheet of paper.",
-    "gloss": "sheet",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -11620,6 +11620,56 @@
         "english": "Is it either good or pleasuring?"
       }
     ]
+  },
+  {
+    "toaq": "raq",
+    "type": "predicate",
+    "english": "▯ pertains to / is about ▯.",
+    "gloss": "about",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Mả rảq cúaq sẻu cúaq nẻ moq.",
+        "english": "Are numbers related to quantities?"
+      },
+      {
+        "toaq": "Dẻoqchēo hó ràq díofāo da.",
+        "english": "They were talking about the evening."
+      },
+      {
+        "toaq": "Bủ rảq hóq.",
+        "english": "That's unrelated."
+      },
+      {
+        "toaq": "Rảq ba.",
+        "english": "Stay on topic."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "raqmōı",
+    "type": "predicate",
+    "english": "▯ thinks about ▯.",
+    "gloss": "think.about",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Rảqmōı jí cúaq sẻaq da.",
+        "english": "I think about sex."
+      },
+      {
+        "toaq": "Bủ rảqmōı jí máq ba!",
+        "english": "I should stop thinking about it!"
+      }
+    ],
+    "fields": []
   },
   {
     "toaq": "radīo",
@@ -11687,56 +11737,6 @@
     "fields": []
   },
   {
-    "toaq": "raq",
-    "type": "predicate",
-    "english": "▯ pertains to / is about ▯.",
-    "gloss": "about",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Mả rảq cúaq sẻu cúaq nẻ moq.",
-        "english": "Are numbers related to quantities?"
-      },
-      {
-        "toaq": "Dẻoqchēo hó ràq díofāo da.",
-        "english": "They were talking about the evening."
-      },
-      {
-        "toaq": "Bủ rảq hóq.",
-        "english": "That's unrelated."
-      },
-      {
-        "toaq": "Rảq ba.",
-        "english": "Stay on topic."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "raqmōı",
-    "type": "predicate",
-    "english": "▯ thinks about ▯.",
-    "gloss": "think.about",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Rảqmōı jí cúaq sẻaq da.",
-        "english": "I think about sex."
-      },
-      {
-        "toaq": "Bủ rảqmōı jí máq ba!",
-        "english": "I should stop thinking about it!"
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "ru",
     "type": "conjunction",
     "english": "and",
@@ -11744,6 +11744,59 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "ruq",
+    "type": "predicate",
+    "english": "▯ is rain.",
+    "gloss": "rain",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ruqdīao",
+    "type": "predicate",
+    "english": "▯ is a raindrop.",
+    "gloss": "raindrop",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ruqnūao",
+    "type": "predicate",
+    "english": "▯ is a rainbow.",
+    "gloss": "rainbow",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ruqshūa",
+    "type": "predicate",
+    "english": "It rains; ▯ rains; ▯ rains onto ▯.",
+    "gloss": "rain",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Rủqshūa.",
+        "english": "It's raining."
+      }
+    ],
+    "fields": []
   },
   {
     "toaq": "rua",
@@ -11755,6 +11808,31 @@
     "distribution": "d",
     "notes": [],
     "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ruaq",
+    "type": "predicate",
+    "english": "▯ asserts/claims ▯ to be the case.",
+    "gloss": "assert",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Lũ rủaq hó bı jủqgī nûaıchōq cu pó téqmē pẻsōtīe da.",
+        "english": "As he said, we had better invest in the condom industry."
+      },
+      {
+        "toaq": "Lú rủaq hóa bû hóq bı chỉaı da.",
+        "english": "Those who think otherwise are wrong. (As for those who think that it's false, there is wrongness.)"
+      },
+      {
+        "toaq": "Kủaq rủaq jí ka.",
+        "english": "I hereby assert."
+      }
+    ],
     "fields": []
   },
   {
@@ -11830,31 +11908,6 @@
     "fields": []
   },
   {
-    "toaq": "ruaq",
-    "type": "predicate",
-    "english": "▯ asserts/claims ▯ to be the case.",
-    "gloss": "assert",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Lũ rủaq hó bı jủqgī nûaıchōq cu pó téqmē pẻsōtīe da.",
-        "english": "As he said, we had better invest in the condom industry."
-      },
-      {
-        "toaq": "Lú rủaq hóa bû hóq bı chỉaı da.",
-        "english": "Those who think otherwise are wrong. (As for those who think that it's false, there is wrongness.)"
-      },
-      {
-        "toaq": "Kủaq rủaq jí ka.",
-        "english": "I hereby assert."
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "ruı",
     "type": "predicate",
     "english": "▯ is the colour gray.",
@@ -11900,6 +11953,18 @@
     "fields": []
   },
   {
+    "toaq": "ruoq",
+    "type": "predicate",
+    "english": "▯ is straight/linear.",
+    "gloss": "straight",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ruogī",
     "type": "predicate",
     "english": "▯ is well-behaved/good/nice.",
@@ -11921,71 +11986,6 @@
     "distribution": "d",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "ruoq",
-    "type": "predicate",
-    "english": "▯ is straight/linear.",
-    "gloss": "straight",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "ruq",
-    "type": "predicate",
-    "english": "▯ is rain.",
-    "gloss": "rain",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "ruqdīao",
-    "type": "predicate",
-    "english": "▯ is a raindrop.",
-    "gloss": "raindrop",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "ruqnūao",
-    "type": "predicate",
-    "english": "▯ is a rainbow.",
-    "gloss": "rainbow",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "ruqshūa",
-    "type": "predicate",
-    "english": "It rains; ▯ rains; ▯ rains onto ▯.",
-    "gloss": "rain",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Rủqshūa.",
-        "english": "It's raining."
-      }
-    ],
     "fields": []
   },
   {
@@ -12013,6 +12013,42 @@
     "fields": []
   },
   {
+    "toaq": "rıq",
+    "type": "predicate",
+    "english": "▯ is the colour green.",
+    "gloss": "green",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "rıqchāq",
+    "type": "predicate",
+    "english": "▯ is a Thursday.",
+    "gloss": "thursday",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "rıqrēo",
+    "type": "predicate",
+    "english": "▯ is of green colour.",
+    "gloss": "green",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "rıa",
     "type": "predicate",
     "english": "▯ is open.",
@@ -12020,6 +12056,18 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "rıaq",
+    "type": "predicate",
+    "english": "▯ is a place/site; ▯ is the place/site of ▯.",
+    "gloss": "place",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12044,18 +12092,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "rıaq",
-    "type": "predicate",
-    "english": "▯ is a place/site; ▯ is the place/site of ▯.",
-    "gloss": "place",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12133,6 +12169,18 @@
     "fields": []
   },
   {
+    "toaq": "rıoq",
+    "type": "predicate",
+    "english": "▯ is a type/kind of ▯",
+    "gloss": "type",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "rıochāo",
     "type": "predicate",
     "english": "▯ is an aircraft/plane.",
@@ -12152,54 +12200,6 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "rıoq",
-    "type": "predicate",
-    "english": "▯ is a type/kind of ▯",
-    "gloss": "type",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "rıq",
-    "type": "predicate",
-    "english": "▯ is the colour green.",
-    "gloss": "green",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "rıqchāq",
-    "type": "predicate",
-    "english": "▯ is a Thursday.",
-    "gloss": "thursday",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "rıqrēo",
-    "type": "predicate",
-    "english": "▯ is of green colour.",
-    "gloss": "green",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12247,6 +12247,30 @@
     "examples": []
   },
   {
+    "toaq": "roq",
+    "type": "predicate",
+    "english": "▯ cries/weeps; ▯ cries tears ▯.",
+    "gloss": "weep",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "roqdīao",
+    "type": "predicate",
+    "english": "▯ is a tear/teardrop.",
+    "gloss": "tear",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "roa",
     "type": "predicate",
     "english": "▯ is natural.",
@@ -12261,6 +12285,18 @@
         "english": "naturally"
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "roaq",
+    "type": "predicate",
+    "english": "▯ is a biological parent of ▯.",
+    "gloss": "parent",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -12300,18 +12336,6 @@
     "fields": []
   },
   {
-    "toaq": "roaq",
-    "type": "predicate",
-    "english": "▯ is a biological parent of ▯.",
-    "gloss": "parent",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "roı",
     "type": "conjunction",
     "english": "plural and",
@@ -12319,30 +12343,6 @@
     "keywords": [],
     "notes": [],
     "examples": []
-  },
-  {
-    "toaq": "roq",
-    "type": "predicate",
-    "english": "▯ cries/weeps; ▯ cries tears ▯.",
-    "gloss": "weep",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "roqdīao",
-    "type": "predicate",
-    "english": "▯ is a tear/teardrop.",
-    "gloss": "tear",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "roe",
@@ -12361,6 +12361,30 @@
     "type": "predicate",
     "english": "▯ recovers; ▯ becomes healthy.",
     "gloss": "recover",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "req",
+    "type": "predicate",
+    "english": "▯ is a human.",
+    "gloss": "human",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "reqsīu",
+    "type": "predicate",
+    "english": "▯ is humanoid/human-like.",
+    "gloss": "humanoid",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -12474,30 +12498,6 @@
     "fields": []
   },
   {
-    "toaq": "req",
-    "type": "predicate",
-    "english": "▯ is a human.",
-    "gloss": "human",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "reqsīu",
-    "type": "predicate",
-    "english": "▯ is humanoid/human-like.",
-    "gloss": "humanoid",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "sa",
     "type": "quantifier",
     "english": "existential quantifier",
@@ -12518,75 +12518,6 @@
         "english": "all things (together)"
       }
     ]
-  },
-  {
-    "toaq": "sabāq",
-    "type": "predicate",
-    "english": "▯ is soap.",
-    "gloss": "soap",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "saı",
-    "type": "predicate",
-    "english": "▯ is matter/material/substance.",
-    "gloss": "matter",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sao",
-    "type": "predicate",
-    "english": "▯ is big/large.",
-    "gloss": "big",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Sảo pójī da.",
-        "english": "Mine is big."
-      },
-      {
-        "toaq": "Bủ nủı sáo da.",
-        "english": "The big thing isn't small."
-      }
-    ],
-    "fields": []
-  },
-  {
-    "toaq": "saodōaq",
-    "type": "predicate",
-    "english": "▯ is a city.",
-    "gloss": "city",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "saojēaq",
-    "type": "predicate",
-    "english": "▯ grows / gets bigger.",
-    "gloss": "grow",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "saq",
@@ -12658,6 +12589,75 @@
     "fields": []
   },
   {
+    "toaq": "sabāq",
+    "type": "predicate",
+    "english": "▯ is soap.",
+    "gloss": "soap",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "saı",
+    "type": "predicate",
+    "english": "▯ is matter/material/substance.",
+    "gloss": "matter",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sao",
+    "type": "predicate",
+    "english": "▯ is big/large.",
+    "gloss": "big",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Sảo pójī da.",
+        "english": "Mine is big."
+      },
+      {
+        "toaq": "Bủ nủı sáo da.",
+        "english": "The big thing isn't small."
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "saodōaq",
+    "type": "predicate",
+    "english": "▯ is a city.",
+    "gloss": "city",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "saojēaq",
+    "type": "predicate",
+    "english": "▯ grows / gets bigger.",
+    "gloss": "grow",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sarālīa",
     "type": "predicate",
     "english": "▯ is Australia.",
@@ -12682,6 +12682,30 @@
     "fields": []
   },
   {
+    "toaq": "suq",
+    "type": "predicate",
+    "english": "▯ is you / the listener.",
+    "gloss": "you",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "suqjī",
+    "type": "predicate",
+    "english": "▯ is us (we, the speaker and the listener(s)).",
+    "gloss": "we",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sua",
     "type": "predicate",
     "english": "▯ is necessary for ▯ to happen.",
@@ -12689,6 +12713,18 @@
     "keywords": [],
     "frame": "0 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "suaq",
+    "type": "predicate",
+    "english": "▯ sings.",
+    "gloss": "sing",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12775,18 +12811,6 @@
     "fields": []
   },
   {
-    "toaq": "suaq",
-    "type": "predicate",
-    "english": "▯ sings.",
-    "gloss": "sing",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "suhū",
     "type": "predicate",
     "english": "▯ is a pig.",
@@ -12818,30 +12842,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "suq",
-    "type": "predicate",
-    "english": "▯ is you / the listener.",
-    "gloss": "you",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "suqjī",
-    "type": "predicate",
-    "english": "▯ is us (we, the speaker and the listener(s)).",
-    "gloss": "we",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12885,6 +12885,27 @@
     "distribution": "d d",
     "notes": [],
     "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shaq",
+    "type": "predicate",
+    "english": "▯ is in front of ▯.",
+    "gloss": "in.front",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Rỉofā sa sáo bỏsē chũfāq shàq pójī shỉqhūa da.",
+        "english": "A large wasp is flying in front of my nose."
+      },
+      {
+        "toaq": "Shảq fẻo ba.",
+        "english": "To the front."
+      }
+    ],
     "fields": []
   },
   {
@@ -12960,27 +12981,6 @@
     "fields": []
   },
   {
-    "toaq": "shaq",
-    "type": "predicate",
-    "english": "▯ is in front of ▯.",
-    "gloss": "in.front",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Rỉofā sa sáo bỏsē chũfāq shàq pójī shỉqhūa da.",
-        "english": "A large wasp is flying in front of my nose."
-      },
-      {
-        "toaq": "Shảq fẻo ba.",
-        "english": "To the front."
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "shu",
     "type": "predicatizer",
     "english": "turn next phrase into quote predicate",
@@ -13000,42 +13000,6 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shuacāo",
-    "type": "predicate",
-    "english": "▯ is autumn/fall.",
-    "gloss": "autumn",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shuaı",
-    "type": "predicate",
-    "english": "▯ is simple.",
-    "gloss": "simple",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shuao",
-    "type": "predicate",
-    "english": "▯ is a bird.",
-    "gloss": "bird",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13069,6 +13033,42 @@
     "type": "predicate",
     "english": "▯ is a product.",
     "gloss": "product",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shuacāo",
+    "type": "predicate",
+    "english": "▯ is autumn/fall.",
+    "gloss": "autumn",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shuaı",
+    "type": "predicate",
+    "english": "▯ is simple.",
+    "gloss": "simple",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shuao",
+    "type": "predicate",
+    "english": "▯ is a bird.",
+    "gloss": "bird",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -13137,10 +13137,67 @@
     "fields": []
   },
   {
+    "toaq": "shıq",
+    "type": "predicate",
+    "english": "▯ is olfactory; ▯ pertains to the sense of smell/olfaction.",
+    "gloss": "smell",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shıqgāı",
+    "type": "predicate",
+    "english": "▯ smells state of affairs ▯.",
+    "gloss": "smell",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shıqhūa",
+    "type": "predicate",
+    "english": "▯ is a nose.",
+    "gloss": "nose",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Tỉ shíqhūa hı ráı moq.",
+        "english": "Where's the nose?"
+      },
+      {
+        "toaq": "Bủ dẻq shỉqgāı jí kùı cîa mủ pảq jí shíqhūa da!",
+        "english": "I can't smell because I'm missing my nose!"
+      }
+    ],
+    "fields": []
+  },
+  {
     "toaq": "shıa",
     "type": "predicate",
     "english": "▯ is glass.",
     "gloss": "glass",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shıaq",
+    "type": "predicate",
+    "english": "▯ is a leg.",
+    "gloss": "leg",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -13165,18 +13222,6 @@
     "type": "predicate",
     "english": "▯ is a glass shard; ▯ is a piece of broken glass.",
     "gloss": "glass.shard",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shıaq",
-    "type": "predicate",
-    "english": "▯ is a leg.",
-    "gloss": "leg",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -13295,51 +13340,6 @@
     "distribution": "d",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shıq",
-    "type": "predicate",
-    "english": "▯ is olfactory; ▯ pertains to the sense of smell/olfaction.",
-    "gloss": "smell",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shıqgāı",
-    "type": "predicate",
-    "english": "▯ smells state of affairs ▯.",
-    "gloss": "smell",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shıqhūa",
-    "type": "predicate",
-    "english": "▯ is a nose.",
-    "gloss": "nose",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Tỉ shíqhūa hı ráı moq.",
-        "english": "Where's the nose?"
-      },
-      {
-        "toaq": "Bủ dẻq shỉqgāı jí kùı cîa mủ pảq jí shíqhūa da!",
-        "english": "I can't smell because I'm missing my nose!"
-      }
-    ],
     "fields": []
   },
   {
@@ -13511,6 +13511,30 @@
     "fields": []
   },
   {
+    "toaq": "sıq",
+    "type": "predicate",
+    "english": "▯ is clean/pure.",
+    "gloss": "clean",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sıqkēa",
+    "type": "predicate",
+    "english": "▯ is a washing machine.",
+    "gloss": "washing.machine",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sıa",
     "type": "quantifier",
     "english": "zero quantifier.",
@@ -13527,42 +13551,6 @@
         "english": "nothing"
       }
     ]
-  },
-  {
-    "toaq": "sıachōa",
-    "type": "predicate",
-    "english": "▯ says nothing / is silent.",
-    "gloss": "say.nothing",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sıaı",
-    "type": "predicate",
-    "english": "▯ is blood.",
-    "gloss": "blood",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sıao",
-    "type": "predicate",
-    "english": "▯ is a beginning/start; ▯ is a beginning/start of ▯.",
-    "gloss": "beginning",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "sıaq",
@@ -13595,6 +13583,42 @@
     "gloss": "right",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sıachōa",
+    "type": "predicate",
+    "english": "▯ says nothing / is silent.",
+    "gloss": "say.nothing",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sıaı",
+    "type": "predicate",
+    "english": "▯ is blood.",
+    "gloss": "blood",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sıao",
+    "type": "predicate",
+    "english": "▯ is a beginning/start; ▯ is a beginning/start of ▯.",
+    "gloss": "beginning",
+    "keywords": [],
+    "frame": "c 0",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -13687,30 +13711,6 @@
     "fields": []
   },
   {
-    "toaq": "sıq",
-    "type": "predicate",
-    "english": "▯ is clean/pure.",
-    "gloss": "clean",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sıqkēa",
-    "type": "predicate",
-    "english": "▯ is a washing machine.",
-    "gloss": "washing.machine",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "sıe",
     "type": "predicate",
     "english": "▯ is following to ▯ in sequence ▯.",
@@ -13718,18 +13718,6 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sıefā",
-    "type": "predicate",
-    "english": "▯ follows/goes after ▯.",
-    "gloss": "follow",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13759,61 +13747,13 @@
     "fields": []
   },
   {
-    "toaq": "soa",
+    "toaq": "sıefā",
     "type": "predicate",
-    "english": "▯ helps ▯ to satisfy property ▯.",
-    "gloss": "help",
-    "keywords": [],
-    "frame": "c c 1",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "soaı",
-    "type": "predicate",
-    "english": "▯ is a beam/ray/line extending outwards from a point.",
-    "gloss": "beam",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "soaq",
-    "type": "predicate",
-    "english": "▯ is a garden.",
-    "gloss": "garden",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "soı",
-    "type": "predicate",
-    "english": "▯ fights with ▯; ▯ fights against ▯.",
-    "gloss": "fight",
+    "english": "▯ follows/goes after ▯.",
+    "gloss": "follow",
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sokā",
-    "type": "predicate",
-    "english": "▯ is soccer/football.",
-    "gloss": "soccer",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13892,6 +13832,66 @@
     "fields": []
   },
   {
+    "toaq": "soa",
+    "type": "predicate",
+    "english": "▯ helps ▯ to satisfy property ▯.",
+    "gloss": "help",
+    "keywords": [],
+    "frame": "c c 1",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "soaq",
+    "type": "predicate",
+    "english": "▯ is a garden.",
+    "gloss": "garden",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "soaı",
+    "type": "predicate",
+    "english": "▯ is a beam/ray/line extending outwards from a point.",
+    "gloss": "beam",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "soı",
+    "type": "predicate",
+    "english": "▯ fights with ▯; ▯ fights against ▯.",
+    "gloss": "fight",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sokā",
+    "type": "predicate",
+    "english": "▯ is soccer/football.",
+    "gloss": "soccer",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "soe",
     "type": "predicate",
     "english": "▯ is sour.",
@@ -13937,27 +13937,6 @@
     "fields": []
   },
   {
-    "toaq": "seakūaı",
-    "type": "predicate",
-    "english": "▯ is exhausted.",
-    "gloss": "exhausted",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Sẻakūaı hó kùı lû rào páqmūo nỉchāq bı hỉe hó da.",
-        "english": "He's exhausted because he's been carrying things all day."
-      },
-      {
-        "toaq": "Bìe dáqbūaı tủe kỏı bı sẻakūaı da.",
-        "english": "After the long run, there is exhaustion."
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "seaq",
     "type": "predicate",
     "english": "▯ has sex with ▯; ▯ has sexual intercourse with ▯.",
@@ -13978,6 +13957,27 @@
       {
         "toaq": "Mả shảogī gúosīa sẻaq moq.",
         "english": "Are those who have never had sex benevolent?"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "seakūaı",
+    "type": "predicate",
+    "english": "▯ is exhausted.",
+    "gloss": "exhausted",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Sẻakūaı hó kùı lû rào páqmūo nỉchāq bı hỉe hó da.",
+        "english": "He's exhausted because he's been carrying things all day."
+      },
+      {
+        "toaq": "Bìe dáqbūaı tủe kỏı bı sẻakūaı da.",
+        "english": "After the long run, there is exhaustion."
       }
     ],
     "fields": []
@@ -14083,6 +14083,42 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "taq",
+    "type": "predicate",
+    "english": "▯ is related to itself by property ▯.",
+    "gloss": "self",
+    "keywords": [],
+    "frame": "c 2",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "taq tủa mủaq",
+    "type": "predicate",
+    "english": "▯ commits suicide / kills themselves.",
+    "gloss": "commit.suicide",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "taqchāo",
+    "type": "predicate",
+    "english": "▯ is a car; ▯ is an automobile.",
+    "gloss": "car",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "taı",
@@ -14191,42 +14227,6 @@
     "fields": []
   },
   {
-    "toaq": "taq",
-    "type": "predicate",
-    "english": "▯ is related to itself by property ▯.",
-    "gloss": "self",
-    "keywords": [],
-    "frame": "c 2",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "taq tủa mủaq",
-    "type": "predicate",
-    "english": "▯ commits suicide / kills themselves.",
-    "gloss": "commit.suicide",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "taqchāo",
-    "type": "predicate",
-    "english": "▯ is a car; ▯ is an automobile.",
-    "gloss": "car",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "tu",
     "type": "quantifier",
     "english": "quantifier: universal quantifier",
@@ -14243,6 +14243,42 @@
         "english": "everything; anything"
       }
     ]
+  },
+  {
+    "toaq": "tuq",
+    "type": "predicate",
+    "english": "▯ are all things that satisfy property ▯.",
+    "gloss": "all",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "n d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tuqfīa",
+    "type": "predicate",
+    "english": "▯ is first in sequence ▯.",
+    "gloss": "first",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tuqsīe",
+    "type": "predicate",
+    "english": "▯ is last in sequence ▯.",
+    "gloss": "last",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "tua",
@@ -14604,6 +14640,18 @@
     "fields": []
   },
   {
+    "toaq": "tuoq",
+    "type": "predicate",
+    "english": "▯ is heavy.",
+    "gloss": "heavy",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "tuoı",
     "type": "predicate",
     "english": "▯ is a flaw/fault/defect in ▯.",
@@ -14623,54 +14671,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "tuoq",
-    "type": "predicate",
-    "english": "▯ is heavy.",
-    "gloss": "heavy",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "tuq",
-    "type": "predicate",
-    "english": "▯ are all things that satisfy property ▯.",
-    "gloss": "all",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "n d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "tuqfīa",
-    "type": "predicate",
-    "english": "▯ is first in sequence ▯.",
-    "gloss": "first",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "tuqsīe",
-    "type": "predicate",
-    "english": "▯ is last in sequence ▯.",
-    "gloss": "last",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14700,22 +14700,10 @@
     "fields": []
   },
   {
-    "toaq": "tıa",
+    "toaq": "tıq",
     "type": "predicate",
-    "english": "▯ is behind ▯.",
-    "gloss": "behind",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "tıaı",
-    "type": "predicate",
-    "english": "▯ is a box.",
-    "gloss": "box",
+    "english": "▯ is a tile.",
+    "gloss": "tile",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -14724,13 +14712,25 @@
     "fields": []
   },
   {
-    "toaq": "tıao",
+    "toaq": "tıqshōaı",
     "type": "predicate",
-    "english": "▯ matches/fits/suits ▯ in relation ▯.",
-    "gloss": "match",
+    "english": "▯ is a butterfly.",
+    "gloss": "butterfly",
     "keywords": [],
-    "frame": "c c 2",
-    "distribution": "d d d",
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıa",
+    "type": "predicate",
+    "english": "▯ is behind ▯.",
+    "gloss": "behind",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14755,6 +14755,30 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıaı",
+    "type": "predicate",
+    "english": "▯ is a box.",
+    "gloss": "box",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıao",
+    "type": "predicate",
+    "english": "▯ matches/fits/suits ▯ in relation ▯.",
+    "gloss": "match",
+    "keywords": [],
+    "frame": "c c 2",
+    "distribution": "d d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14829,18 +14853,6 @@
     "examples": []
   },
   {
-    "toaq": "tıopūı",
-    "type": "predicate",
-    "english": "▯ are how many.",
-    "gloss": "how.many",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "tıoq",
     "type": "predicate",
     "english": "▯ is a lock.",
@@ -14865,25 +14877,13 @@
     "fields": []
   },
   {
-    "toaq": "tıq",
+    "toaq": "tıopūı",
     "type": "predicate",
-    "english": "▯ is a tile.",
-    "gloss": "tile",
+    "english": "▯ are how many.",
+    "gloss": "how.many",
     "keywords": [],
     "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "tıqshōaı",
-    "type": "predicate",
-    "english": "▯ is a butterfly.",
-    "gloss": "butterfly",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14937,10 +14937,10 @@
     "fields": []
   },
   {
-    "toaq": "tıechūo",
+    "toaq": "tıeq",
     "type": "predicate",
-    "english": "▯ is a lid/cover.",
-    "gloss": "lid",
+    "english": "▯ is a way/path.",
+    "gloss": "path",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -14949,10 +14949,10 @@
     "fields": []
   },
   {
-    "toaq": "tıeq",
+    "toaq": "tıechūo",
     "type": "predicate",
-    "english": "▯ is a way/path.",
-    "gloss": "path",
+    "english": "▯ is a lid/cover.",
+    "gloss": "lid",
     "keywords": [],
     "frame": "c",
     "distribution": "d",
@@ -14968,6 +14968,30 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "toq",
+    "type": "predicate",
+    "english": "▯ is a board.",
+    "gloss": "board",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "toqfūa",
+    "type": "predicate",
+    "english": "▯ is a table.",
+    "gloss": "table",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "toa",
@@ -14988,6 +15012,18 @@
         "english": "I don't understand the word."
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "toaq",
+    "type": "predicate",
+    "english": "▯ is a language.",
+    "gloss": "language",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -15021,42 +15057,6 @@
         "english": "Give me another piece of cake."
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "toaq",
-    "type": "predicate",
-    "english": "▯ is a language.",
-    "gloss": "language",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "toq",
-    "type": "predicate",
-    "english": "▯ is a board.",
-    "gloss": "board",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "toqfūa",
-    "type": "predicate",
-    "english": "▯ is a table.",
-    "gloss": "table",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
@@ -15100,6 +15100,39 @@
       {
         "toaq": "Mả pủ sỏa súq hóı hỉaotē kủne moq.",
         "english": "Did you help that injured dog?"
+      }
+    ],
+    "fields": []
+  },
+  {
+    "toaq": "teq",
+    "type": "predicate",
+    "english": "▯ pays ▯ to ▯ for satisfying property ▯.",
+    "gloss": "pay",
+    "keywords": [],
+    "frame": "c c c 1",
+    "distribution": "d d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "teqgūaı",
+    "type": "predicate",
+    "english": "▯ does paid work ▯; ▯ does ▯ as a job.",
+    "gloss": "pay.work",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Sẻo sıa há sa téqgūaı dỏekāı ba.",
+        "english": "May nobody be a spouse to anybody who has a programming job."
+      },
+      {
+        "toaq": "Tẻqgūaı jí lî dỏekāı da.",
+        "english": "I have a job of programming."
       }
     ],
     "fields": []
@@ -15221,39 +15254,6 @@
     "distribution": "d d",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "teq",
-    "type": "predicate",
-    "english": "▯ pays ▯ to ▯ for satisfying property ▯.",
-    "gloss": "pay",
-    "keywords": [],
-    "frame": "c c c 1",
-    "distribution": "d d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "teqgūaı",
-    "type": "predicate",
-    "english": "▯ does paid work ▯; ▯ does ▯ as a job.",
-    "gloss": "pay.work",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Sẻo sıa há sa téqgūaı dỏekāı ba.",
-        "english": "May nobody be a spouse to anybody who has a programming job."
-      },
-      {
-        "toaq": "Tẻqgūaı jí lî dỏekāı da.",
-        "english": "I have a job of programming."
-      }
-    ],
     "fields": []
   },
   {
