@@ -323,12 +323,15 @@
   {
     "toaq": "burūaq",
     "type": "predicate",
-    "english": "▯ lies / asserts untruth ▯.",
-    "gloss": "lie",
-    "keywords": [],
+    "english": "▯ denies that ▯ is the case.",
+    "gloss": "deny",
+    "keywords": [
+      "refute",
+      "contradict"
+    ],
     "frame": "c 0",
     "distribution": "d d",
-    "notes": [],
+    "notes": ["▯ asserts that ▯ is not the case."],
     "examples": [],
     "fields": []
   },
