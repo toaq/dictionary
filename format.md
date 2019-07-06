@@ -66,7 +66,7 @@ At the moment, oblique words (prepositions and adverbs) should be entered as exa
       }
     ],
     "fields": [
-      ["poq"],
+      ["lıe"],
       ["raı"]
     ]
 }
