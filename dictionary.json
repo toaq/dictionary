@@ -8776,14 +8776,19 @@
   {
     "toaq": "moe",
     "type": "predicate",
-    "english": "▯ feels ▯; ▯ has emotion ▯.",
+    "english": "▯ experiences emotion ▯.",
     "gloss": "feel",
-    "keywords": [],
-    "frame": "",
+    "keywords": [
+      "emotion",
+      "feel"
+    ],
+    "frame": "c 1",
     "distribution": "d d",
-    "notes": [],
+    "notes": ["The emotion is expressed as a property."],
     "examples": [],
-    "fields": []
+    "fields": [
+      "lıe"
+    ]
   },
   {
     "toaq": "moehūa",
