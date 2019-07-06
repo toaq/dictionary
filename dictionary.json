@@ -3171,13 +3171,25 @@
   {
     "toaq": "fea",
     "type": "predicate",
-    "english": "▯ endures ▯.",
+    "english": "▯ endures satisfying property ▯ keeping up property ▯.",
     "gloss": "endure",
-    "keywords": [],
-    "frame": "c 1",
+    "keywords": [
+      "survive",
+      "endure",
+      "undergo",
+      "abide",
+      "last",
+      "persist"
+    ],
+    "frame": "c 1 1",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
+    "notes": ["The third place property is maintained for as long as the second place property is being satisfied."],
+    "examples": [
+      {
+        "toaq": "Fẻa mỉe dùoı hórā dỉaıhēıgū hó lî bủ chủq da.",
+        "english": "They survived for 72 hours eating nothing."
+      }
+    ],
     "fields": []
   },
   {
