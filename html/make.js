@@ -58,8 +58,13 @@ for([k, v] of dict
     frame_names[k] = v;
   else throw new Error(`frame ‘${k}’ has two conflicting names: «${frame_names[k]}» and «${v}»`);
 
+let commit = require('child_process').spawnSync('git', ['rev-parse', 'HEAD']);
+
 fs.writeFileSync('dictionary.html',
-  template.replace(/\ *%%%/, (_) =>
-    dict.map(render_entry)
-      .join('\n')
-      .replace(/▯/g, '___')));
+  template
+    .replace(/\ *%%%/, (_) =>
+      dict.map(render_entry)
+        .join('\n')
+        .replace(/▯/g, '___'))
+    .replace(/%%date%%/g, () => new Date().toISOString().split('T')[0])
+    .replace(/%%commit%%/g, () => commit.stdout.toString().substring(0, 7)));

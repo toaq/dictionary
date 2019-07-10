@@ -90,6 +90,14 @@
         line-height: 16px;
         font-size: 14px;
       }
+      sup, sub {
+        vertical-align: baseline;
+        position: relative;
+        top: -0.4em;
+      }
+      sub {
+        top: 0.4em;
+      }
       @media(max-width: 500px) {
         body, html {
           width: 100%;
@@ -108,7 +116,7 @@
   <body>
     <h1><span class="suoi">Toaq</span> Dictionary</h1>
     <input type="checkbox" id="compact"> <label for="compact">Compact</label>
-    <p>You may also view this dictionary <a href="./dictionary.json">as a JSON file</a>.</p>
+    <p>Generated on %%date%% from commit %%commit%%. You may also view <a href="./dictionary.json">the JSON file</a>.</p>
     <div class="entries">
       %%%
     </div>
