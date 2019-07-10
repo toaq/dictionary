@@ -331,7 +331,9 @@
     ],
     "frame": "c 0",
     "distribution": "d d",
-    "notes": ["▯ asserts that ▯ is not the case."],
+    "notes": [
+      "▯ asserts that ▯ is not the case."
+    ],
     "examples": [],
     "fields": []
   },
@@ -3183,7 +3185,9 @@
     ],
     "frame": "c 1 1",
     "distribution": "d d",
-    "notes": ["The third place property is maintained for as long as the second place property is being satisfied."],
+    "notes": [
+      "The third place property is maintained for as long as the second place property is being satisfied."
+    ],
     "examples": [
       {
         "toaq": "Fẻa mỉe dùoı hórā dỉaıhēıgū hó lî bủ chủq da.",
@@ -8796,10 +8800,14 @@
     ],
     "frame": "c 1",
     "distribution": "d d",
-    "notes": ["The emotion is expressed as a property."],
+    "notes": [
+      "The emotion is expressed as a property."
+    ],
     "examples": [],
     "fields": [
-      "lıe"
+      [
+        "lıe"
+      ]
     ]
   },
   {
