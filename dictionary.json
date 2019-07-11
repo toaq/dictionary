@@ -13828,12 +13828,18 @@
   {
     "toaq": "tıqshōaı",
     "type": "predicate",
-    "english": "▯ is a butterfly.",
+    "english": "▯ is a butterfly/moth.",
     "gloss": "butterfly",
-    "keywords": [],
+    "keywords": [
+      "butterfly",
+      "moth",
+      "skipper"
+    ],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
+    "notes": [
+      "Refers to any member of the taxonomic order Lepidoptera."
+    ],
     "examples": [],
     "fields": []
   },
