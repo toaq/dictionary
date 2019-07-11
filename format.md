@@ -22,6 +22,7 @@ Please insert your fields as you need them (not too much, though) – the format
   ]
   ```
   describes «chıaq»: x₁ must mỉe and x₂ must to ra sảı to lủfē.
+* `etymology` – etymological information; "root" for roots, "compound" for Toaq compounds; for borrowings this field contains the actual etymology itself (which language and which word(s) it is based on)
 
 `tools/normalize.js` is for normalizing the dictionary file.
 
@@ -68,6 +69,7 @@ At the moment, oblique words (prepositions and adverbs) should be entered as exa
     "fields": [
       ["lıe"],
       ["raı"]
-    ]
+    ],
+    "etymology": "root"
 }
 ```
