@@ -7,6 +7,7 @@ Please insert your fields as you need them (not too much, though) – the format
   - `"root"` (not necessarily monosyllabic);
   - `"compound"` for genuine compounds rather than borrowings;
   - `"borrowing"`;
+  - `"serial predicate"`;
   - for particles, a descriptive name such as `"predicatizer"`, `"text-quote"`…
 * `english` – definition in English
 * `gloss` – linguistic gloss in English; use periods instead of spaces
