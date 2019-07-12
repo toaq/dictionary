@@ -3,7 +3,11 @@
 Please insert your fields as you need them (not too much, though) – the format is still up for consideration. Please note that the order shown here should be followed.
 
 * `toaq` – the Toaq word or phrase in question
-* `type` – part of speech
+* `type` – part of speech – one of the following:
+  - `"root"` (not necessarily monosyllabic);
+  - `"compound"` for genuine compounds rather than borrowings;
+  - `"borrowing"`;
+  - for particles, a descriptive name such as `"predicatizer"`, `"text-quote"`…
 * `english` – definition in English
 * `gloss` – linguistic gloss in English; use periods instead of spaces
 * `keywords` - a list of English words that one might search for when trying to find the headword; synonyms of the gloss or of the main words found in the sentential definition
@@ -14,6 +18,7 @@ Please insert your fields as you need them (not too much, though) – the format
 * `examples` – array of objects:
   - `toaq`
   - `english`
+* `etymology` – etymological information; only present in borrowings
 * `fields` – array of arrays of strings: each element describes one slot; each string is a valid Toaq predicate; those together, when ORed (or rather: «ra»-ed), represent the constraint on that slot. For example:
   ```json
   [
@@ -22,7 +27,6 @@ Please insert your fields as you need them (not too much, though) – the format
   ]
   ```
   describes «chıaq»: x₁ must mỉe and x₂ must to ra sảı to lủfē.
-* `etymology` – etymological information; "root" for roots, "compound" for Toaq compounds; for borrowings this field contains the actual etymology itself (which language and which word(s) it is based on)
 
 `tools/normalize.js` is for normalizing the dictionary file.
 
@@ -32,7 +36,7 @@ At the moment, oblique words (prepositions and adverbs) should be entered as exa
 ```
 {
     "toaq": "cho",
-    "type": "predicate",
+    "type": "root",
     "english": "▯ likes ▯.",
     "gloss": "like",
     "keywords": [
@@ -69,7 +73,6 @@ At the moment, oblique words (prepositions and adverbs) should be entered as exa
     "fields": [
       ["lıe"],
       ["raı"]
-    ],
-    "etymology": "root"
+    ]
 }
 ```
