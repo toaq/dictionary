@@ -2544,7 +2544,7 @@
   {
     "toaq": "dıaı",
     "type": "predicate",
-    "english": "▯ are seven in number.",
+    "english": "▯ are seven in number; ▯ are seven things satisfying property ▯.",
     "gloss": "seven",
     "keywords": [],
     "frame": "c",
@@ -3161,7 +3161,7 @@
   {
     "toaq": "fe",
     "type": "predicate",
-    "english": "▯ are five in number.",
+    "english": "▯ are five in number; ▯ are five things satisfying property ▯.",
     "gloss": "five",
     "keywords": [],
     "frame": "c",
@@ -3328,7 +3328,7 @@
   {
     "toaq": "gu",
     "type": "predicate",
-    "english": "▯ are two in number.",
+    "english": "▯ are two in number; ▯ are two things satisfying property ▯.",
     "gloss": "two",
     "keywords": [],
     "frame": "c",
@@ -5018,7 +5018,7 @@
   {
     "toaq": "heı",
     "type": "predicate",
-    "english": "▯ are ten in number.",
+    "english": "▯ are ten in number; ▯ are ten thing satisfying property ▯.",
     "gloss": "ten",
     "keywords": [],
     "frame": "c",
@@ -5759,7 +5759,7 @@
   {
     "toaq": "jo",
     "type": "predicate",
-    "english": "▯ are four in number.",
+    "english": "▯ are four in number; ▯ are four things satisfying property ▯.",
     "gloss": "four",
     "keywords": [],
     "frame": "c",
@@ -9982,7 +9982,7 @@
   {
     "toaq": "neı",
     "type": "predicate",
-    "english": "▯ are nine in number.",
+    "english": "▯ are nine in number; ▯ are nine things satisfying property ▯.",
     "gloss": "nine",
     "keywords": [],
     "frame": "c",
@@ -11570,7 +11570,7 @@
   {
     "toaq": "roaı",
     "type": "predicate",
-    "english": "▯ are eight in number.",
+    "english": "▯ are eight in number; ▯ are eight things satisfying property ▯.",
     "gloss": "eight",
     "keywords": [],
     "frame": "c",
@@ -11790,7 +11790,7 @@
   {
     "toaq": "saq",
     "type": "predicate",
-    "english": "▯ are three in number.",
+    "english": "▯ are three in number; ▯ are three things satisfying property ▯.",
     "gloss": "three",
     "keywords": [],
     "frame": "c",
@@ -12354,7 +12354,7 @@
   {
     "toaq": "shı",
     "type": "predicate",
-    "english": "▯ are one in number.",
+    "english": "▯ is one in number; ▯ is one thing satisfying property ▯.",
     "gloss": "one",
     "keywords": [],
     "frame": "c",
