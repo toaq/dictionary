@@ -2698,6 +2698,52 @@
     "fields": []
   },
   {
+    "toaq": "doı",
+    "type": "predicate",
+    "english": "▯ respects/venerates/esteems ▯.",
+    "gloss": "respect",
+    "keywords": [
+      "esteem",
+      "respect",
+      "venerate",
+      "highly regard",
+      "value"
+    ],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Dỏı da.",
+        "english": "There is respect."
+      },
+      {
+        "toaq": "Dỏı jí da.",
+        "english": "I am experiencing veneration."
+      },
+      {
+        "toaq": "Dỏı há ke pỏq tüa jẻaq gỉ jíaq ba.",
+        "english": "One should highly regard the people who make the world better."
+      },
+      {
+        "toaq": "Hẻ dỏı súq hı pỏq moq.",
+        "english": "Which people do you generally have respect for?"
+      },
+      {
+        "toaq": "dóı",
+        "english": "those who have respect"
+      }
+    ],
+    "fields": [
+      [
+        "lıe"
+      ],
+      [
+        "raı"
+      ]
+    ]
+  },
+  {
     "toaq": "doa",
     "type": "predicate",
     "english": "▯ gives property ▯ to ▯.",
@@ -2804,6 +2850,42 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "deaı",
+    "type": "predicate",
+    "english": "▯ is worth/deserving of satisfying property ▯.",
+    "gloss": "worth",
+    "keywords": [
+      "worth",
+      "deserve",
+      "deserving"
+    ],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Dẻaı ní lî kảqgāı da.",
+        "english": "This is worth seeing."
+      },
+      {
+        "toaq": "Hẻ dỏı súq hı pỏq moq.",
+        "english": "Which people do you generally have respect for?"
+      },
+      {
+        "toaq": "déaı",
+        "english": "those who are deserving of something"
+      }
+    ],
+    "fields": [
+      [
+        "raı"
+      ],
+      [
+        "ta"
+      ]
+    ]
   },
   {
     "toaq": "deaqkōı",
@@ -7184,6 +7266,46 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "keaı",
+    "type": "predicate",
+    "english": "▯ has the right to satisfy property ▯.",
+    "gloss": "have.right",
+    "keywords": [
+      "right",
+      "entitled",
+      "entitlement",
+    ],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Kẻaı tu rẻq da.",
+        "english": "Every human has rights."
+      },
+      {
+        "toaq": "Kẻaı súq lî bủ kủq da.",
+        "english": "You have the right to remain silent."
+      },
+      {
+        "toaq": "Mả kẻaı tỉ hó ní moq.",
+        "english": "Do they have the right to be here?"
+      },
+      {
+        "toaq": "kéaı",
+        "english": "those who have rights"
+      }
+    ],
+    "fields": [
+      [
+        "raı"
+      ],
+      [
+        "ta"
+      ]
+    ]
   },
   {
     "toaq": "keaq",
@@ -14112,6 +14234,45 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "toı",
+    "type": "predicate",
+    "english": "▯ does to ▯ relation ▯.",
+    "gloss": "act.towards",
+    "keywords": [
+      "act towards",
+      "treat",
+      "do something to someone"
+    ],
+    "frame": "c c 1",
+    "distribution": "d d d",
+    "notes": ["This word expresses the generic agent-patient relationship."],
+    "examples": [
+      {
+        "toaq": "Pủ tỏı hó jí da.",
+        "english": "They did something to me."
+      },
+      {
+        "toaq": "Tỏı súq hó lî pảırūo ba.",
+        "english": "Act towards them in a friendly way."
+      },
+      {
+        "toaq": "tóı",
+        "english": "those who do something to someone"
+      }
+    ],
+    "fields": [
+      [
+        "tao"
+      ],
+      [
+        "raı"
+      ],
+      [
+        "ta"
+      ]
+    ]
   },
   {
     "toaq": "toa",
