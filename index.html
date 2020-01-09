@@ -1,0 +1,32 @@
+<!DOCTYPE html5>
+<html>
+  <head>
+    <title>Toaq Dictionary</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Trade+Winds:400|Merriweather:400?display=swap|Merriweather+Sans:300" rel="stylesheet">
+    <link href="./html/sheets.js" rel="stylesheet">
+    <script>
+      window.onload = function() {
+        var compact = document.getElementById('compact');
+        compact.onchange = function() {
+          document.querySelector('html').className = compact.checked ? "compact" : "";
+        };
+      };
+    </script>
+  </head>
+  <body>
+    <div id="loading">
+      <p>Please wait, downloading the dictionary file…</p>
+    </div>
+    <main id="generated" style="display: none;">
+      <h1><span class="suoi">Toaq</span> Dictionary</h1>
+      <input type="checkbox" id="compact"> <label for="compact">Compact</label>
+      <p>You may also view <a href="./dictionary.json">the JSON file</a>.</p>
+      <div class="entries">
+        %%%
+      </div>
+    </main>
+    <script src="./html/load.js"></script>
+  </body>
+</html>
