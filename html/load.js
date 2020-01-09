@@ -20,7 +20,7 @@ function render_entry(entry) {
     let last_english = english.pop().split('▯')
       .map((part, i) => {
         if(i == e.length) return part;
-        return part + `▯<sub class="distribution">${e[i]}</sub>`;
+        return part + `▯<sub class="distribution">${e[i].toUpperCase()}</sub>`;
       }).join('');
     english.push(last_english);
     english = english.join('; ');
