@@ -24,16 +24,13 @@
   },
   {
     "toaq": "baq",
-    "type": "predicate",
-    "english": "▯ is the generic collective entity composed of the things that share property ▯; ▯ are the things that ▯, in general.",
-    "gloss": "generic",
+    "type": "quantifier",
+    "english": "quantifier: the typical…",
+    "gloss": "the.typical",
     "short": "",
     "keywords": [],
-    "frame": "c 1",
-    "distribution": "d n",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "baı",
