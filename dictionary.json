@@ -6538,7 +6538,7 @@
   {
     "toaq": "jeq",
     "type": "predicate",
-    "english": "▯ is the same as ▯ in property ▯.",
+    "english": "▯ is identical to ▯; ▯ is the same as ▯ in property ▯.",
     "gloss": "same",
     "short": "",
     "keywords": [],
@@ -9740,7 +9740,9 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "n n",
-    "notes": [],
+    "notes": [
+      "Equivalent to binary heo."
+    ],
     "examples": [],
     "fields": []
   },
@@ -9753,7 +9755,9 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "n n",
-    "notes": [],
+    "notes": [
+      "Same as binary jeq."
+    ],
     "examples": [],
     "fields": []
   },
