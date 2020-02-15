@@ -2360,12 +2360,12 @@
   {
     "toaq": "daı",
     "type": "predicate",
-    "english": "▯ is possible; ▯ has the potential to satisfy property ▯.",
+    "english": "▯ is possible; ▯ is possible if ▯ is so.",
     "gloss": "possible",
     "short": "",
     "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
     "examples": [
       {
