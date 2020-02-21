@@ -841,6 +841,19 @@
     "fields": []
   },
   {
+    "toaq": "cajōı",
+    "type": "predicate",
+    "english": "▯ happens for purpose ▯.",
+    "gloss": "happen.for",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ca pỏaq",
     "type": "predicate",
     "english": "▯ breaks/splits/separates ▯.",
@@ -3638,6 +3651,19 @@
     "type": "predicate",
     "english": "▯ enjoys sensing/observing ▯.",
     "gloss": "enjoy",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "gaıshō",
+    "type": "predicate",
+    "english": "▯ notices ▯.",
+    "gloss": "notice",
     "short": "",
     "keywords": [],
     "frame": "c c",
@@ -15179,6 +15205,32 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıshēa",
+    "type": "predicate",
+    "english": "▯ is empty.",
+    "gloss": "empty",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıtūa",
+    "type": "predicate",
+    "english": "▯ makes ▯ be at ▯.",
+    "gloss": "put.at",
+    "short": "",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
     "notes": [],
     "examples": [],
     "fields": []
