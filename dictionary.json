@@ -826,6 +826,19 @@
     "fields": []
   },
   {
+    "toaq": "cajōı",
+    "type": "predicate",
+    "english": "▯ happens for purpose ▯.",
+    "gloss": "happen.for",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ca pỏaq",
     "type": "predicate",
     "english": "▯ breaks/splits/separates ▯.",
@@ -3622,6 +3635,19 @@
     "fields": []
   },
   {
+    "toaq": "gaıshō",
+    "type": "predicate",
+    "english": "▯ notices ▯.",
+    "gloss": "notice",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "gao",
     "type": "predicate",
     "english": "▯ is above ▯.",
@@ -5412,45 +5438,6 @@
     "fields": []
   },
   {
-    "toaq": "ekū",
-    "type": "predicate",
-    "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
-    "gloss": "equine",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "elū",
-    "type": "predicate",
-    "english": "▯ is an elephant.",
-    "gloss": "elephant",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "esā",
-    "type": "predicate",
-    "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
-    "gloss": "exa",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "heq",
     "type": "predicate",
     "english": "▯ contains ▯.",
@@ -5524,19 +5511,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "zeo",
-    "type": "predicate",
-    "english": "▯ is a fruit.",
-    "gloss": "fruit",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13190,19 +13164,6 @@
     "fields": []
   },
   {
-    "toaq": "zuy",
-    "type": "predicate",
-    "english": "▯ is broken/inoperable.",
-    "gloss": "broken",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "sue",
     "type": "predicate",
     "english": "▯ asks ▯ to satisfy property ▯.",
@@ -15176,6 +15137,32 @@
     "fields": []
   },
   {
+    "toaq": "tıshēa",
+    "type": "predicate",
+    "english": "▯ is empty.",
+    "gloss": "empty",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıtūa",
+    "type": "predicate",
+    "english": "▯ makes ▯ be at ▯.",
+    "gloss": "put.at",
+    "short": "",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "tıq",
     "type": "predicate",
     "english": "▯ is a tile.",
@@ -15702,6 +15689,71 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ekū",
+    "type": "predicate",
+    "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
+    "gloss": "equine",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "elū",
+    "type": "predicate",
+    "english": "▯ is an elephant.",
+    "gloss": "elephant",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "esā",
+    "type": "predicate",
+    "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
+    "gloss": "exa",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zuy",
+    "type": "predicate",
+    "english": "▯ is broken/inoperable.",
+    "gloss": "broken",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zeo",
+    "type": "predicate",
+    "english": "▯ is a fruit.",
+    "gloss": "fruit",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
