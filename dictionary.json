@@ -9720,13 +9720,13 @@
   },
   {
     "toaq": "mea",
-    "type": "predicate",
-    "english": "▯ is among ▯.",
+    "type": "predicatizer",
+    "english": "turns following phrase X into predicate: ▯ is among X.",
     "gloss": "among",
     "short": "",
     "keywords": [],
-    "frame": "c c",
-    "distribution": "d n",
+    "frame": "c",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
