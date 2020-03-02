@@ -25,12 +25,27 @@
   {
     "toaq": "baq",
     "type": "quantifier",
-    "english": "quantifier: the typical…",
-    "gloss": "the.typical",
+    "english": "quantifier: X-kind; X in general",
+    "gloss": "X.kind",
     "short": "",
     "keywords": [],
-    "notes": [],
-    "examples": []
+    "notes": [
+      "Generic reference."
+    ],
+    "examples": [
+      {
+        "toaq": "Tỉfāı baq kủnē da.",
+        "english": "Dogs are widespread."
+      },
+      {
+        "toaq": "Mả hẻ chỏ súq baq rủa moq?",
+        "english": "Are you fond of flowers?"
+      },
+      {
+        "toaq": "Rào púchāq bı kảqgāı jí baq tỉqshōaı da.",
+        "english": "Yesterday, I saw butterflies."
+      }
+    ],
   },
   {
     "toaq": "baı",
