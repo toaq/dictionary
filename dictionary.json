@@ -3193,7 +3193,7 @@
   {
     "toaq": "faı",
     "type": "predicate",
-    "english": "▯ is frequent/common in property ▯.",
+    "english": "▯ is frequent/common in property ▯; ▯ satisfies frequent/common property ▯.",
     "gloss": "frequent",
     "short": "",
     "keywords": [],
@@ -8747,11 +8747,11 @@
   {
     "toaq": "leı",
     "type": "predicate",
-    "english": "▯ is rare in property ▯.",
+    "english": "▯ is rare in property ▯; ▯ satisfies rare/infrequent property ▯.",
     "gloss": "rare",
     "short": "",
     "keywords": [],
-    "frame": "c 2",
+    "frame": "c 1",
     "distribution": "d d",
     "notes": [],
     "examples": [],
