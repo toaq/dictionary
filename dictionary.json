@@ -152,45 +152,6 @@
     "fields": []
   },
   {
-    "toaq": "bubōqkīu",
-    "type": "predicate",
-    "english": "▯ is inevitable.",
-    "gloss": "inevitable",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "buhūokīu",
-    "type": "predicate",
-    "english": "▯ is inaudible.",
-    "gloss": "inaudible",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "bukāqkīu",
-    "type": "predicate",
-    "english": "▯ is invisible.",
-    "gloss": "invisible",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "bumērāq",
     "type": "predicate",
     "english": "▯ is a boomerang.",
@@ -218,19 +179,6 @@
     "notes": [
       "▯ asserts that ▯ is not the case."
     ],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "butīmēo",
-    "type": "predicate",
-    "english": "▯ misses ▯; ▯ is sad that ▯ is not there.",
-    "gloss": "miss",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
     "examples": [],
     "fields": []
   },
@@ -734,6 +682,19 @@
     "keywords": [],
     "frame": "0 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "boqkīubū",
+    "type": "predicate",
+    "english": "▯ is inevitable.",
+    "gloss": "inevitable",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5103,6 +5064,19 @@
     "fields": []
   },
   {
+    "toaq": "huokīubū",
+    "type": "predicate",
+    "english": "▯ is inaudible.",
+    "gloss": "inaudible",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "huosī",
     "type": "predicate",
     "english": "▯ listens to ▯.",
@@ -6866,6 +6840,19 @@
     "type": "predicate",
     "english": "▯ is visible.",
     "gloss": "visible",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaqkīubū",
+    "type": "predicate",
+    "english": "▯ is invisible.",
+    "gloss": "invisible",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -15052,6 +15039,19 @@
     "type": "predicate",
     "english": "▯ is at ▯.",
     "gloss": "at",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıbūmēo",
+    "type": "predicate",
+    "english": "▯ misses ▯; ▯ is sad that ▯ is not there.",
+    "gloss": "miss",
     "short": "",
     "keywords": [],
     "frame": "c c",
