@@ -14410,14 +14410,23 @@
   {
     "toaq": "seoqtūe",
     "type": "predicate",
-    "english": "▯ is weather.",
+    "english": "▯ is weather; ▯ is the state of the weather.",
     "gloss": "weather",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "0",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sẻoqtūe rủqshūa da.",
+        "english": "The weather is rainy."
+      },
+      {
+        "toaq": "Sẻoqtūe rûqshūa da.",
+        "english": "The weather is rainy. [The weather is, it rains.]"
+      }
+    ],
     "fields": []
   },
   {
