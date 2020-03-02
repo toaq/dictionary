@@ -3135,7 +3135,7 @@
         "raı"
       ],
       [
-        "ta"
+        "cuaq"
       ]
     ]
   },
@@ -7914,7 +7914,7 @@
         "raı"
       ],
       [
-        "ta"
+        "cuaq"
       ]
     ]
   },
@@ -14441,35 +14441,13 @@
   },
   {
     "toaq": "ta",
-    "type": "predicate",
-    "english": "▯ is a property; ▯ is the property ▯.",
-    "gloss": "property",
+    "type": "linking word",
+    "english": "linking word: 4th argument place",
+    "gloss": "4th.place",
     "short": "",
     "keywords": [],
-    "frame": "1 1",
-    "distribution": "n n",
-    "namesake": true,
-    "notes": [
-      "Also used as a suffix."
-    ],
-    "examples": [
-      {
-        "toaq": "tá rỏe",
-        "english": "the property of being healthy; wellbeing"
-      },
-      {
-        "toaq": "róetā",
-        "english": "the property of being healthy; wellbeing"
-      }
-    ],
-    "fields": [
-      [
-        "ta"
-      ],
-      [
-        "ta"
-      ]
-    ]
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "tamā",
@@ -15516,7 +15494,7 @@
         "raı"
       ],
       [
-        "ta"
+        "cuaq"
       ]
     ]
   },
