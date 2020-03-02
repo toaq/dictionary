@@ -24,8 +24,8 @@ function sortify(s) {
 d = d.sort((a_, b_) => {
   let a = sortify(a_.toaq);
   let b = sortify(b_.toaq);
-  if(a_ != b_ && a == b) throw new Error(
-    `duplicate entries: «${a_.toaq}» and «${b_.toaq}»!`);
+  if(a_ != b_ && a == b) console.log(
+    `note: duplicate entries «${a_.toaq}» and «${b_.toaq}»`);
   let a_parts = a.split(/(?<=[aeiouy`])(?=[^aeiouy`])/);
   let b_parts = b.split(/(?<=[aeiouy`])(?=[^aeiouy`])/);
   for(let i = 0;; i++) {

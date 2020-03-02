@@ -11857,6 +11857,26 @@
     "fields": []
   },
   {
+    "toaq": "põı",
+    "type": "adverbial prefix",
+    "english": "asserts that the first slot participant of the proposition also satisfies the following predicate",
+    "gloss": "while",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "pòı",
+    "type": "prepositional prefix",
+    "english": "asserts that the first slot participant of the proposition also satisfies the following predicate with the following term",
+    "gloss": "while",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "poe",
     "type": "predicate",
     "english": "▯ is apart/separate from ▯ in property ▯.",
@@ -11870,23 +11890,19 @@
     "fields": []
   },
   {
-    "toaq": "pe",
-    "type": "predicate",
-    "english": "▯ is the case for/by the standard of ▯.",
+    "toaq": "pè",
+    "type": "preposition",
+    "english": "for/by the standard of",
     "gloss": "for",
     "short": "",
     "keywords": [],
-    "frame": "0 1",
-    "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [
       {
         "toaq": "Nủı ní pè báq hẻlū da.",
         "english": "This one is small for an elephant."
       }
-    ],
-    "fields": []
+    ]
   },
   {
     "toaq": "petā",
