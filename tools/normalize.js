@@ -17,7 +17,9 @@ function sortify(s) {
     // (~ comes last codepoint-wise).
     .replace(/ /g, '~')
     // Toaq-like vowel ordering (auioe).
-    .replace(/[ue]/g, s => s == 'e' ? 'u' : 'e');
+    .replace(/[ue]/g, s => s == 'e' ? 'u' : 'e')
+    // Handle the empty onset.
+    .replace(/(?<= |^)(?=[aeiouy])/, '\'');
 }
 d = d.sort((a_, b_) => {
   let a = sortify(a_.toaq);

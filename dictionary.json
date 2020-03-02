@@ -1,5 +1,44 @@
 [
   {
+    "toaq": "ekū",
+    "type": "predicate",
+    "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
+    "gloss": "equine",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "elū",
+    "type": "predicate",
+    "english": "▯ is an elephant.",
+    "gloss": "elephant",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "esā",
+    "type": "predicate",
+    "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
+    "gloss": "exa",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ba",
     "type": "illocution",
     "english": "imperative",
@@ -45,7 +84,7 @@
         "toaq": "Rào púchāq bı kảqgāı jí baq tỉqshōaı da.",
         "english": "Yesterday, I saw butterflies."
       }
-    ],
+    ]
   },
   {
     "toaq": "baı",
@@ -5427,45 +5466,6 @@
     "fields": []
   },
   {
-    "toaq": "ekū",
-    "type": "predicate",
-    "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
-    "gloss": "equine",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "elū",
-    "type": "predicate",
-    "english": "▯ is an elephant.",
-    "gloss": "elephant",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "esā",
-    "type": "predicate",
-    "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
-    "gloss": "exa",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "heq",
     "type": "predicate",
     "english": "▯ contains ▯.",
@@ -5539,19 +5539,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "zeo",
-    "type": "predicate",
-    "english": "▯ is a fruit.",
-    "gloss": "fruit",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13205,19 +13192,6 @@
     "fields": []
   },
   {
-    "toaq": "zuy",
-    "type": "predicate",
-    "english": "▯ is broken/inoperable.",
-    "gloss": "broken",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "sue",
     "type": "predicate",
     "english": "▯ asks ▯ to satisfy property ▯.",
@@ -15717,6 +15691,32 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zuy",
+    "type": "predicate",
+    "english": "▯ is broken/inoperable.",
+    "gloss": "broken",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zeo",
+    "type": "predicate",
+    "english": "▯ is a fruit.",
+    "gloss": "fruit",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
