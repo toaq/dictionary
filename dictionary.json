@@ -1,5 +1,44 @@
 [
   {
+    "toaq": "ekū",
+    "type": "predicate",
+    "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
+    "gloss": "equine",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "elū",
+    "type": "predicate",
+    "english": "▯ is an elephant.",
+    "gloss": "elephant",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "esā",
+    "type": "predicate",
+    "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
+    "gloss": "exa",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ba",
     "type": "illocution",
     "english": "imperative",
@@ -25,12 +64,27 @@
   {
     "toaq": "baq",
     "type": "quantifier",
-    "english": "quantifier: the typical…",
-    "gloss": "the.typical",
+    "english": "quantifier: X-kind; X in general",
+    "gloss": "X.kind",
     "short": "",
     "keywords": [],
-    "notes": [],
-    "examples": []
+    "notes": [
+      "Generic reference."
+    ],
+    "examples": [
+      {
+        "toaq": "Tỉfāı baq kủnē da.",
+        "english": "Dogs are widespread."
+      },
+      {
+        "toaq": "Mả hẻ chỏ súq baq rủa moq?",
+        "english": "Are you fond of flowers?"
+      },
+      {
+        "toaq": "Rào púchāq bı kảqgāı jí baq tỉqshōaı da.",
+        "english": "Yesterday, I saw butterflies."
+      }
+    ]
   },
   {
     "toaq": "baı",
@@ -98,45 +152,6 @@
     "fields": []
   },
   {
-    "toaq": "bubōqkīu",
-    "type": "predicate",
-    "english": "▯ is inevitable.",
-    "gloss": "inevitable",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "buhūokīu",
-    "type": "predicate",
-    "english": "▯ is inaudible.",
-    "gloss": "inaudible",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "bukāqkīu",
-    "type": "predicate",
-    "english": "▯ is invisible.",
-    "gloss": "invisible",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "bumērāq",
     "type": "predicate",
     "english": "▯ is a boomerang.",
@@ -164,19 +179,6 @@
     "notes": [
       "▯ asserts that ▯ is not the case."
     ],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "butīmēo",
-    "type": "predicate",
-    "english": "▯ misses ▯; ▯ is sad that ▯ is not there.",
-    "gloss": "miss",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
     "examples": [],
     "fields": []
   },
@@ -680,6 +682,19 @@
     "keywords": [],
     "frame": "0 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "boqkīubū",
+    "type": "predicate",
+    "english": "▯ is inevitable.",
+    "gloss": "inevitable",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2360,12 +2375,12 @@
   {
     "toaq": "daı",
     "type": "predicate",
-    "english": "▯ is possible; ▯ has the potential to satisfy property ▯.",
+    "english": "▯ is possible; ▯ is possible if ▯ is so.",
     "gloss": "possible",
     "short": "",
     "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
     "examples": [
       {
@@ -3120,7 +3135,7 @@
         "raı"
       ],
       [
-        "ta"
+        "cuaq"
       ]
     ]
   },
@@ -3193,7 +3208,7 @@
   {
     "toaq": "faı",
     "type": "predicate",
-    "english": "▯ is frequent/common in property ▯.",
+    "english": "▯ is frequent/common in property ▯; ▯ satisfies frequent/common property ▯.",
     "gloss": "frequent",
     "short": "",
     "keywords": [],
@@ -3348,6 +3363,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "fı",
+    "type": "linking word",
+    "english": "linking word, indicates that the following argument fills the first argument place of the predicate.",
+    "gloss": "1st.place",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "fıa",
@@ -5049,6 +5074,19 @@
     "fields": []
   },
   {
+    "toaq": "huokīubū",
+    "type": "predicate",
+    "english": "▯ is inaudible.",
+    "gloss": "inaudible",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "huosī",
     "type": "predicate",
     "english": "▯ listens to ▯.",
@@ -5412,45 +5450,6 @@
     "fields": []
   },
   {
-    "toaq": "ekū",
-    "type": "predicate",
-    "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
-    "gloss": "equine",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "elū",
-    "type": "predicate",
-    "english": "▯ is an elephant.",
-    "gloss": "elephant",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "esā",
-    "type": "predicate",
-    "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
-    "gloss": "exa",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "heq",
     "type": "predicate",
     "english": "▯ contains ▯.",
@@ -5524,19 +5523,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "zeo",
-    "type": "predicate",
-    "english": "▯ is a fruit.",
-    "gloss": "fruit",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6873,6 +6859,19 @@
     "fields": []
   },
   {
+    "toaq": "kaqkīubū",
+    "type": "predicate",
+    "english": "▯ is invisible.",
+    "gloss": "invisible",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kaqnūo",
     "type": "predicate",
     "english": "▯ dreams ▯.",
@@ -7915,7 +7914,7 @@
         "raı"
       ],
       [
-        "ta"
+        "cuaq"
       ]
     ]
   },
@@ -8747,11 +8746,11 @@
   {
     "toaq": "leı",
     "type": "predicate",
-    "english": "▯ is rare in property ▯.",
+    "english": "▯ is rare in property ▯; ▯ satisfies rare/infrequent property ▯.",
     "gloss": "rare",
     "short": "",
     "keywords": [],
-    "frame": "c 2",
+    "frame": "c 1",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -9720,13 +9719,13 @@
   },
   {
     "toaq": "mea",
-    "type": "predicate",
-    "english": "▯ is among ▯.",
+    "type": "predicatizer",
+    "english": "turns following phrase X into predicate: ▯ is among X.",
     "gloss": "among",
     "short": "",
     "keywords": [],
-    "frame": "c c",
-    "distribution": "d n",
+    "frame": "c",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
@@ -11652,7 +11651,7 @@
     "toaq": "pıekūaı",
     "type": "predicate",
     "english": "▯ is thirsty.",
-    "gloss": "drink",
+    "gloss": "thirsty",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -13190,19 +13189,6 @@
     "fields": []
   },
   {
-    "toaq": "zuy",
-    "type": "predicate",
-    "english": "▯ is broken/inoperable.",
-    "gloss": "broken",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "sue",
     "type": "predicate",
     "english": "▯ asks ▯ to satisfy property ▯.",
@@ -14434,14 +14420,23 @@
   {
     "toaq": "seoqtūe",
     "type": "predicate",
-    "english": "▯ is weather.",
+    "english": "▯ is weather; ▯ is the state of the weather.",
     "gloss": "weather",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "0",
     "distribution": "d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Sẻoqtūe rủqshūa da.",
+        "english": "The weather is rainy."
+      },
+      {
+        "toaq": "Sẻoqtūe rûqshūa da.",
+        "english": "The weather is rainy. [The weather is, it rains.]"
+      }
+    ],
     "fields": []
   },
   {
@@ -15072,6 +15067,19 @@
     "fields": []
   },
   {
+    "toaq": "tıbūmēo",
+    "type": "predicate",
+    "english": "▯ misses ▯; ▯ is sad that ▯ is not there.",
+    "gloss": "miss",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "tıbī",
     "type": "predicate",
     "english": "▯ pertains to television.",
@@ -15486,7 +15494,7 @@
         "raı"
       ],
       [
-        "ta"
+        "cuaq"
       ]
     ]
   },
@@ -15702,6 +15710,32 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zuy",
+    "type": "predicate",
+    "english": "▯ is broken/inoperable.",
+    "gloss": "broken",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zeo",
+    "type": "predicate",
+    "english": "▯ is a fruit.",
+    "gloss": "fruit",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
