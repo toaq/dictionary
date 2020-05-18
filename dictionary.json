@@ -14833,19 +14833,6 @@
     "fields": []
   },
   {
-    "toaq": "tua zủy",
-    "type": "predicate",
-    "english": "▯ breaks/destroys ▯; ▯ makes ▯ broken/inoperable.",
-    "gloss": "break",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "tua shỉe",
     "type": "predicate",
     "english": "▯ wakes ▯ up; ▯ awakens ▯.",
@@ -14880,6 +14867,19 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tua zủy",
+    "type": "predicate",
+    "english": "▯ breaks/destroys ▯; ▯ makes ▯ broken/inoperable.",
+    "gloss": "break",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15568,6 +15568,7 @@
     "keywords": [],
     "frame": "c c c 1",
     "distribution": "d d d d",
+    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
