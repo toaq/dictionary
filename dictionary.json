@@ -5412,16 +5412,13 @@
   },
   {
     "toaq": "hoı",
-    "type": "predicate",
-    "english": "▯ are the aforementioned things; ▯ is/are the aforementioned things that satisfy property ▯.",
-    "gloss": "aforementioned",
+    "type": "quantifier",
+    "english": "quantifier: the aforementioned",
+    "gloss": "the.aforementioned",
     "short": "",
     "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "hoe",
