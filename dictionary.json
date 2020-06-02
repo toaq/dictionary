@@ -3600,7 +3600,7 @@
   {
     "toaq": "ga",
     "type": "end-conversion",
-    "english": "terminates conversion via predicalizer.",
+    "english": "terminates conversion via predicatizer.",
     "gloss": "END",
     "short": "",
     "keywords": [],
