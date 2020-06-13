@@ -13318,8 +13318,8 @@
   {
     "toaq": "shu",
     "type": "predicatizer",
-    "english": "turn next phrase into quote predicate",
-    "gloss": "the.phrase",
+    "english": "turn next word into quote predicate",
+    "gloss": "the.word",
     "short": "",
     "keywords": [],
     "frame": "c",
