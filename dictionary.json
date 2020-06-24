@@ -6613,7 +6613,7 @@
   {
     "toaq": "jeaqcāo",
     "type": "predicate",
-    "english": "▯ is spring (season).",
+    "english": "▯ is a spring (season).",
     "gloss": "spring",
     "short": "",
     "keywords": [],
@@ -7658,7 +7658,7 @@
   {
     "toaq": "koacāo",
     "type": "predicate",
-    "english": "▯ is winter.",
+    "english": "▯ is a winter.",
     "gloss": "winter",
     "short": "",
     "keywords": [],
@@ -8517,7 +8517,7 @@
   {
     "toaq": "loqcāo",
     "type": "predicate",
-    "english": "▯ is summer.",
+    "english": "▯ is a summer.",
     "gloss": "summer",
     "short": "",
     "keywords": [],
@@ -13344,7 +13344,7 @@
   {
     "toaq": "shuacāo",
     "type": "predicate",
-    "english": "▯ is autumn/fall.",
+    "english": "▯ is an autumn/fall.",
     "gloss": "autumn",
     "short": "",
     "keywords": [],
