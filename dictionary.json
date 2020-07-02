@@ -841,6 +841,19 @@
     "fields": []
   },
   {
+    "toaq": "cajōı",
+    "type": "predicate",
+    "english": "▯ happens for purpose ▯.",
+    "gloss": "happen.for",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ca pỏaq",
     "type": "predicate",
     "english": "▯ breaks/splits/separates ▯.",
@@ -3647,6 +3660,19 @@
     "fields": []
   },
   {
+    "toaq": "gaıshō",
+    "type": "predicate",
+    "english": "▯ notices ▯.",
+    "gloss": "notice",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "gao",
     "type": "predicate",
     "english": "▯ is above ▯.",
@@ -3961,7 +3987,7 @@
   {
     "toaq": "guosīa",
     "type": "predicate",
-    "english": "▯ happens never.",
+    "english": "▯ never happens.",
     "gloss": "never",
     "short": "",
     "keywords": [],
@@ -15176,6 +15202,32 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıshēa",
+    "type": "predicate",
+    "english": "▯ is empty.",
+    "gloss": "empty",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tıtūa",
+    "type": "predicate",
+    "english": "▯ makes ▯ be at ▯.",
+    "gloss": "put.at",
+    "short": "",
+    "keywords": [],
+    "frame": "c c c",
+    "distribution": "d d d",
     "notes": [],
     "examples": [],
     "fields": []
