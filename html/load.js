@@ -26,6 +26,7 @@ function render_entry(entry) {
     english.push(last_english);
     english = english.join('; ');
   }
+  let gl;
   if(entry.gloss) gl = ` <span class="gloss">‘${entry.gloss}’</span>`;
   if(entry.fields && entry.fields.length)
     entry.fields = entry.fields.map((_, i) =>
