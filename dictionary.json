@@ -5400,12 +5400,12 @@
   {
     "toaq": "hoaı",
     "type": "predicate",
-    "english": "▯ is still the case.",
+    "english": "▯ is still the case; ▯ still satisfies property ▯.",
     "gloss": "still",
     "short": "",
     "keywords": [],
-    "frame": "0",
-    "distribution": "d",
+    "frame": "0; c 1",
+    "distribution": "d; d d",
     "notes": [],
     "examples": [],
     "fields": []
