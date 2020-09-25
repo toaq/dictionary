@@ -2724,12 +2724,12 @@
   {
     "toaq": "dıa",
     "type": "predicate",
-    "english": "▯ decreases in how much it satisfies property ▯.",
+    "english": "▯ is decreasingly the case; ▯ decreases in how much it satisfies property ▯.",
     "gloss": "decrease",
     "short": "",
     "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
+    "frame": "0; c 1",
+    "distribution": "d; d d",
     "notes": [],
     "examples": [],
     "fields": []
