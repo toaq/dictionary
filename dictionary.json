@@ -9810,7 +9810,7 @@
     "fields": []
   },
   {
-    "toaq": "meırıe",
+    "toaq": "meırīe",
     "type": "predicate",
     "english": "▯ is a valley.",
     "gloss": "valley",
@@ -15443,6 +15443,19 @@
     "fields": []
   },
   {
+    "toaq": "Toaqzū",
+    "type": "predicate",
+    "english": "▯ is the Toaq language.",
+    "gloss": "language",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "toaı",
     "type": "predicate",
     "english": "▯ is a quantum / smallest possible unit of quantity or quantifiable phenomenon ▯.",
@@ -15715,6 +15728,19 @@
     "fields": []
   },
   {
+    "toaq": "zu",
+    "type": "predicate",
+    "english": "▯ is a language.",
+    "gloss": "language",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "zuy",
     "type": "predicate",
     "english": "▯ is broken/inoperable.",
@@ -15732,32 +15758,6 @@
     "type": "predicate",
     "english": "▯ is a fruit.",
     "gloss": "fruit",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "zu",
-    "type": "predicate",
-    "english": "▯ is a language.",
-    "gloss": "language",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Toaqzu",
-    "type": "predicate",
-    "english": "▯ is the Toaq language.",
-    "gloss": "language",
     "short": "",
     "keywords": [],
     "frame": "c",
