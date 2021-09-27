@@ -6459,14 +6459,23 @@
   {
     "toaq": "joaı",
     "type": "predicate",
-    "english": "▯ looks for property ▯; ▯ searches for something which satisfies property ▯ among ▯.",
+    "english": "▯ looks for ▯",
     "gloss": "seek",
     "short": "",
     "keywords": [],
-    "frame": "c 1 c",
-    "distribution": "d d n",
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Jỏaı nháo baq nảo.",
+        "english": "They are looking for water."
+      },
+      {
+        "toaq": "Jỏaı jí tóakue.",
+        "english": "I'm looking for the dictionary."
+      }
+    ],
     "fields": []
   },
   {
