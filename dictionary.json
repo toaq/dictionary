@@ -13561,6 +13561,19 @@
     "fields": []
   },
   {
+    "toaq": "suy",
+    "type": "predicate",
+    "english": "▯ is a wave.",
+    "gloss": "wave",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sha",
     "type": "predicate",
     "english": "▯ arrives at satisfying property ▯.",
