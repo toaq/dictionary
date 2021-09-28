@@ -1062,19 +1062,6 @@
     "fields": []
   },
   {
-    "toaq": "caıdua",
-    "type": "predicate",
-    "english": "▯ is certain that ▯ is the case.",
-    "gloss": "certain",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "cao",
     "type": "predicate",
     "english": "▯ is a season.",
@@ -16114,19 +16101,6 @@
     "fields": []
   },
   {
-    "toaq": "teoqmoı",
-    "type": "predicate",
-    "english": "▯ doubts that ▯ is the case.",
-    "gloss": "doubt",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "zu",
     "type": "predicate",
     "english": "▯ is a language.",
@@ -16161,6 +16135,32 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zoaı",
+    "type": "predicate",
+    "english": "▯ doubts that ▯ is the case.",
+    "gloss": "doubt",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zoaıcıa",
+    "type": "predicate",
+    "english": "▯ is certain that ▯ is the case.",
+    "gloss": "certain",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
