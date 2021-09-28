@@ -2904,19 +2904,6 @@
     "fields": []
   },
   {
-    "toaq": "do",
-    "type": "predicate",
-    "english": "variable X",
-    "gloss": "variable.X",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "doq",
     "type": "predicate",
     "english": "▯ is short.",
