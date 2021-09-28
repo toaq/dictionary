@@ -13,6 +13,58 @@
     "fields": []
   },
   {
+    "toaq": "aq'anı",
+    "type": "predicate",
+    "english": "▯ is the letter A.",
+    "gloss": "A",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "aq'aq",
+    "type": "predicate",
+    "english": "▯ is the letter Q.",
+    "gloss": "Q",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "oq'oguı",
+    "type": "predicate",
+    "english": "▯ is the letter O.",
+    "gloss": "O",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "o'aomo",
+    "type": "predicate",
+    "english": "▯ is the letter '.",
+    "gloss": "'",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "eku",
     "type": "predicate",
     "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
@@ -47,6 +99,32 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "eq'elu",
+    "type": "predicate",
+    "english": "▯ is the letter E.",
+    "gloss": "E",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "yzy",
+    "type": "predicate",
+    "english": "▯ is the letter Y.",
+    "gloss": "Y",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -160,6 +238,19 @@
     "keywords": [],
     "frame": "0; c 1",
     "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "bubue",
+    "type": "predicate",
+    "english": "▯ is the letter B.",
+    "gloss": "B",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1494,6 +1585,19 @@
     "fields": []
   },
   {
+    "toaq": "chıchao",
+    "type": "predicate",
+    "english": "▯ is the letter Ch.",
+    "gloss": "Ch",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "chıjıo",
     "type": "predicate",
     "english": "▯ is a temple/church/sanctuary/synagogue/shrine.",
@@ -2226,6 +2330,19 @@
     "fields": []
   },
   {
+    "toaq": "cecoa",
+    "type": "predicate",
+    "english": "▯ is the letter C.",
+    "gloss": "C",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "cea",
     "type": "predicate",
     "english": "▯ is a sack/bag/pocket.",
@@ -2500,6 +2617,19 @@
     "keywords": [],
     "frame": "0; c 1",
     "distribution": "d; d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "dudeo",
+    "type": "predicate",
+    "english": "▯ is the letter D.",
+    "gloss": "D",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3466,6 +3596,19 @@
     "fields": []
   },
   {
+    "toaq": "fofuaq",
+    "type": "predicate",
+    "english": "▯ is the letter F.",
+    "gloss": "F",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "foto",
     "type": "predicate",
     "english": "▯ is a photograph.",
@@ -3758,6 +3901,19 @@
     "short": "",
     "keywords": [],
     "frame": "0",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "guguı",
+    "type": "predicate",
+    "english": "▯ is the letter G.",
+    "gloss": "G",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
     "notes": [],
     "examples": [],
@@ -5486,6 +5642,19 @@
     "fields": []
   },
   {
+    "toaq": "hehaq",
+    "type": "predicate",
+    "english": "▯ is the letter H.",
+    "gloss": "H",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "heq",
     "type": "predicate",
     "english": "▯ contains ▯.",
@@ -5842,6 +6011,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "jujuo",
+    "type": "predicate",
+    "english": "▯ is the letter J.",
+    "gloss": "J",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "juq",
@@ -7394,6 +7576,19 @@
     "examples": []
   },
   {
+    "toaq": "kıkue",
+    "type": "predicate",
+    "english": "▯ is the letter K.",
+    "gloss": "K",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kıq",
     "type": "predicate",
     "english": "▯ is a movie/film.",
@@ -8093,6 +8288,19 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "laolıq",
+    "type": "predicate",
+    "english": "▯ is the letter L.",
+    "gloss": "L",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8869,6 +9077,19 @@
     "type": "predicate",
     "english": "▯ is mama (Mom, mommy, mum, mother).",
     "gloss": "mama",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mameı",
+    "type": "predicate",
+    "english": "▯ is the letter M.",
+    "gloss": "M",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -9998,6 +10219,19 @@
     "examples": []
   },
   {
+    "toaq": "nanaq",
+    "type": "predicate",
+    "english": "▯ is the letter N.",
+    "gloss": "N",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "naraq",
     "type": "predicate",
     "english": "▯ is the colour orange.",
@@ -10480,6 +10714,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "nhanhoq",
+    "type": "predicate",
+    "english": "▯ is the letter Nh.",
+    "gloss": "Nh",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "nháo",
@@ -11695,6 +11942,19 @@
     "fields": []
   },
   {
+    "toaq": "pıpoq",
+    "type": "predicate",
+    "english": "▯ is the letter P.",
+    "gloss": "P",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "pıso",
     "type": "predicate",
     "english": "▯ is a pear.",
@@ -12167,6 +12427,19 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "n n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "raırua",
+    "type": "predicate",
+    "english": "▯ is the letter R.",
+    "gloss": "R",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13119,6 +13392,19 @@
     "fields": []
   },
   {
+    "toaq": "saqseoq",
+    "type": "predicate",
+    "english": "▯ is the letter S.",
+    "gloss": "S",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "saı",
     "type": "predicate",
     "english": "▯ is matter/material/substance.",
@@ -13894,6 +14180,19 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shoshıa",
+    "type": "predicate",
+    "english": "▯ is the letter Sh.",
+    "gloss": "Sh",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15361,6 +15660,19 @@
     "fields": []
   },
   {
+    "toaq": "tıtıeq",
+    "type": "predicate",
+    "english": "▯ is the letter T.",
+    "gloss": "T",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "tıq",
     "type": "predicate",
     "english": "▯ is a tile.",
@@ -15923,6 +16235,19 @@
     "type": "predicate",
     "english": "▯ is broken/inoperable.",
     "gloss": "broken",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zozeo",
+    "type": "predicate",
+    "english": "▯ is the letter Z.",
+    "gloss": "Z",
     "short": "",
     "keywords": [],
     "frame": "c",
