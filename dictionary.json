@@ -3135,19 +3135,6 @@
     "fields": []
   },
   {
-    "toaq": "doaı",
-    "type": "predicate",
-    "english": "▯ is bread.",
-    "gloss": "bread",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "doı",
     "type": "predicate",
     "english": "▯ respects/venerates/esteems ▯.",
@@ -10217,6 +10204,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "naby",
+    "type": "predicate",
+    "english": "▯ is bread.",
+    "gloss": "bread",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "nanaq",
