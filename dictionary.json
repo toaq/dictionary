@@ -932,16 +932,6 @@
     "fields": []
   },
   {
-    "toaq": "cu",
-    "type": "linking word",
-    "english": "linking word: 3rd argument place",
-    "gloss": "3rd.place",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "cutao",
     "type": "predicate",
     "english": "▯ spits.",
@@ -3365,16 +3355,6 @@
     "fields": []
   },
   {
-    "toaq": "fı",
-    "type": "linking word",
-    "english": "linking word, indicates that the following argument fills the first argument place of the predicate.",
-    "gloss": "1st.place",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "fıa",
     "type": "predicate",
     "english": "▯ is previous to ▯ in sequence ▯; ▯ precedes ▯ in sequence ▯.",
@@ -4347,16 +4327,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "go",
-    "type": "linking word",
-    "english": "linking word, indicates that the following argument fills the second argument place of the predicate.",
-    "gloss": "2nd.place",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "goa",
@@ -14446,16 +14416,6 @@
       }
     ],
     "fields": []
-  },
-  {
-    "toaq": "ta",
-    "type": "linking word",
-    "english": "linking word: 4th argument place",
-    "gloss": "4th.place",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "tama",
