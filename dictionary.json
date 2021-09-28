@@ -1,6 +1,6 @@
 [
   {
-    "toaq": "ekū",
+    "toaq": "eku",
     "type": "predicate",
     "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
     "gloss": "equine",
@@ -13,7 +13,7 @@
     "fields": []
   },
   {
-    "toaq": "elū",
+    "toaq": "elu",
     "type": "predicate",
     "english": "▯ is an elephant.",
     "gloss": "elephant",
@@ -26,7 +26,7 @@
     "fields": []
   },
   {
-    "toaq": "esā",
+    "toaq": "esa",
     "type": "predicate",
     "english": "▯ are 10<sup>18</sup> (1,000,000,000,000,000,000) in number; ▯ are a quintillion.",
     "gloss": "exa",
@@ -49,7 +49,7 @@
     "examples": []
   },
   {
-    "toaq": "batātā",
+    "toaq": "batata",
     "type": "predicate",
     "english": "▯ is a potato.",
     "gloss": "potato",
@@ -73,7 +73,7 @@
     ],
     "examples": [
       {
-        "toaq": "Tỉfāı baq kủnē da.",
+        "toaq": "Tỉfaı baq kủne da.",
         "english": "Dogs are widespread."
       },
       {
@@ -81,7 +81,7 @@
         "english": "Are you fond of flowers?"
       },
       {
-        "toaq": "Rào púchāq bı kảqgāı jí baq tỉqshōaı da.",
+        "toaq": "Rào púchaq bı kảqgaı jí baq tỉqshoaı da.",
         "english": "Yesterday, I saw butterflies."
       }
     ]
@@ -113,7 +113,7 @@
     "fields": []
   },
   {
-    "toaq": "baogūı",
+    "toaq": "baoguı",
     "type": "predicate",
     "english": "▯ is rice.",
     "gloss": "rice",
@@ -126,7 +126,7 @@
     "fields": []
   },
   {
-    "toaq": "baorēo",
+    "toaq": "baoreo",
     "type": "predicate",
     "english": "▯ is of white colour.",
     "gloss": "white",
@@ -152,7 +152,7 @@
     "fields": []
   },
   {
-    "toaq": "bumērāq",
+    "toaq": "bumeraq",
     "type": "predicate",
     "english": "▯ is a boomerang.",
     "gloss": "boomerang",
@@ -165,7 +165,7 @@
     "fields": []
   },
   {
-    "toaq": "burūaq",
+    "toaq": "buruaq",
     "type": "predicate",
     "english": "▯ denies that ▯ is the case.",
     "gloss": "deny",
@@ -222,7 +222,7 @@
     "fields": []
   },
   {
-    "toaq": "buqlūao",
+    "toaq": "buqluao",
     "type": "predicate",
     "english": "▯ is a lip.",
     "gloss": "lip",
@@ -248,7 +248,7 @@
     "fields": []
   },
   {
-    "toaq": "buajīo",
+    "toaq": "buajıo",
     "type": "predicate",
     "english": "▯ is a house (building for living in).",
     "gloss": "house",
@@ -300,7 +300,7 @@
     "fields": []
   },
   {
-    "toaq": "buaıtōq",
+    "toaq": "buaıtoq",
     "type": "predicate",
     "english": "▯ is a plank.",
     "gloss": "plank",
@@ -326,7 +326,7 @@
     "fields": []
   },
   {
-    "toaq": "buıdūo",
+    "toaq": "buıduo",
     "type": "predicate",
     "english": "▯ moves out of ▯.",
     "gloss": "move.outside",
@@ -339,7 +339,7 @@
     "fields": []
   },
   {
-    "toaq": "buıfā",
+    "toaq": "buıfa",
     "type": "predicate",
     "english": "▯ goes out of / exits ▯.",
     "gloss": "exit",
@@ -401,7 +401,7 @@
     "examples": []
   },
   {
-    "toaq": "bıdēo",
+    "toaq": "bıdeo",
     "type": "predicate",
     "english": "▯ is a video.",
     "gloss": "video",
@@ -414,7 +414,7 @@
     "fields": []
   },
   {
-    "toaq": "bıkīnī",
+    "toaq": "bıkını",
     "type": "predicate",
     "english": "▯ is a bikini.",
     "gloss": "bikini",
@@ -427,7 +427,7 @@
     "fields": []
   },
   {
-    "toaq": "bırā",
+    "toaq": "bıra",
     "type": "predicate",
     "english": "▯ is beer.",
     "gloss": "beer",
@@ -466,7 +466,7 @@
     "fields": []
   },
   {
-    "toaq": "bıajīo",
+    "toaq": "bıajıo",
     "type": "predicate",
     "english": "▯ is a hospital.",
     "gloss": "hospital",
@@ -518,7 +518,7 @@
     "fields": []
   },
   {
-    "toaq": "bıushōaıcīa",
+    "toaq": "bıushoaıcıa",
     "type": "predicate",
     "english": "▯ is a flea.",
     "gloss": "flea",
@@ -557,7 +557,7 @@
     "fields": []
   },
   {
-    "toaq": "bıejāo",
+    "toaq": "bıejao",
     "type": "predicate",
     "english": "▯ takes place long after ▯.",
     "gloss": "long.after",
@@ -570,7 +570,7 @@
     "fields": []
   },
   {
-    "toaq": "bıejūı",
+    "toaq": "bıejuı",
     "type": "predicate",
     "english": "▯ takes place shortly after ▯.",
     "gloss": "shortly.after",
@@ -596,7 +596,7 @@
     "fields": []
   },
   {
-    "toaq": "bodōa",
+    "toaq": "bodoa",
     "type": "predicate",
     "english": "▯ gives possession of ▯ to ▯.",
     "gloss": "give",
@@ -609,7 +609,7 @@
     "fields": []
   },
   {
-    "toaq": "bohīaq",
+    "toaq": "bohıaq",
     "type": "predicate",
     "english": "▯ is poor/unwealthy.",
     "gloss": "poor",
@@ -622,7 +622,7 @@
     "fields": []
   },
   {
-    "toaq": "bomīa",
+    "toaq": "bomıa",
     "type": "predicate",
     "english": "▯ is rich/wealthy.",
     "gloss": "rich",
@@ -635,7 +635,7 @@
     "fields": []
   },
   {
-    "toaq": "bonūa",
+    "toaq": "bonua",
     "type": "predicate",
     "english": "▯ takes possession of ▯ from ▯.",
     "gloss": "take",
@@ -648,7 +648,7 @@
     "fields": []
   },
   {
-    "toaq": "bonē",
+    "toaq": "bone",
     "type": "predicate",
     "english": "▯ is the amount of ▯'s wealth.",
     "gloss": "wealth",
@@ -661,7 +661,7 @@
     "fields": []
   },
   {
-    "toaq": "bosē",
+    "toaq": "bose",
     "type": "predicate",
     "english": "▯ is a wasp.",
     "gloss": "wasp",
@@ -687,7 +687,7 @@
     "fields": []
   },
   {
-    "toaq": "boqkīubū",
+    "toaq": "boqkıubu",
     "type": "predicate",
     "english": "▯ is inevitable.",
     "gloss": "inevitable",
@@ -752,7 +752,7 @@
     "fields": []
   },
   {
-    "toaq": "bebē",
+    "toaq": "bebe",
     "type": "predicate",
     "english": "▯ is a baby.",
     "gloss": "baby",
@@ -867,7 +867,7 @@
     "fields": []
   },
   {
-    "toaq": "caqchūo",
+    "toaq": "caqchuo",
     "type": "predicate",
     "english": "▯ is a controller (instrument for controlling) for ▯.",
     "gloss": "controller",
@@ -880,7 +880,7 @@
     "fields": []
   },
   {
-    "toaq": "caqgīo",
+    "toaq": "caqgıo",
     "type": "predicate",
     "english": "▯ is a traffic light.",
     "gloss": "traffic.light",
@@ -906,7 +906,7 @@
     "fields": []
   },
   {
-    "toaq": "caıdūa",
+    "toaq": "caıdua",
     "type": "predicate",
     "english": "▯ is certain that ▯ is the case.",
     "gloss": "certain",
@@ -942,7 +942,7 @@
     "examples": []
   },
   {
-    "toaq": "cutāo",
+    "toaq": "cutao",
     "type": "predicate",
     "english": "▯ spits.",
     "gloss": "spit",
@@ -969,7 +969,7 @@
     "fields": []
   },
   {
-    "toaq": "cuakūq",
+    "toaq": "cuakuq",
     "type": "predicate",
     "english": "▯ responds ▯ to ▯.",
     "gloss": "respond",
@@ -1039,7 +1039,7 @@
     "fields": []
   },
   {
-    "toaq": "cuırēo",
+    "toaq": "cuıreo",
     "type": "predicate",
     "english": "▯ is magenta-coloured.",
     "gloss": "magenta",
@@ -1078,7 +1078,7 @@
     "fields": []
   },
   {
-    "toaq": "cuefūaı",
+    "toaq": "cuefuaı",
     "type": "predicate",
     "english": "▯ is a government; ▯ is a government of ▯.",
     "gloss": "government",
@@ -1117,7 +1117,7 @@
     "fields": []
   },
   {
-    "toaq": "chaqtū",
+    "toaq": "chaqtu",
     "type": "predicate",
     "english": "▯ happens every day; ▯ is daily.",
     "gloss": "daily",
@@ -1156,7 +1156,7 @@
     "fields": []
   },
   {
-    "toaq": "chaotīeq",
+    "toaq": "chaotıeq",
     "type": "predicate",
     "english": "▯ is a road/street.",
     "gloss": "road",
@@ -1182,7 +1182,7 @@
     "fields": []
   },
   {
-    "toaq": "chufāq",
+    "toaq": "chufaq",
     "type": "predicate",
     "english": "▯ is ongoing; ▯ is in the middle of taking place; ▯ is ▯-ing.",
     "gloss": "-ing",
@@ -1208,7 +1208,7 @@
     "fields": []
   },
   {
-    "toaq": "chuqgūao",
+    "toaq": "chuqguao",
     "type": "predicate",
     "english": "▯ is a fork.",
     "gloss": "fork",
@@ -1221,7 +1221,7 @@
     "fields": []
   },
   {
-    "toaq": "chuqkūaı",
+    "toaq": "chuqkuaı",
     "type": "predicate",
     "english": "▯ is hungry.",
     "gloss": "hungry",
@@ -1234,7 +1234,7 @@
     "fields": []
   },
   {
-    "toaq": "chuqtīao",
+    "toaq": "chuqtıao",
     "type": "predicate",
     "english": "▯ is edible.",
     "gloss": "edible",
@@ -1260,7 +1260,7 @@
     "fields": []
   },
   {
-    "toaq": "chuadōa",
+    "toaq": "chuadoa",
     "type": "predicate",
     "english": "▯ names/calls ▯ name ▯.",
     "gloss": "name",
@@ -1299,7 +1299,7 @@
     "fields": []
   },
   {
-    "toaq": "chuaıkēa",
+    "toaq": "chuaıkea",
     "type": "predicate",
     "english": "▯ is a freezer.",
     "gloss": "freezer",
@@ -1312,7 +1312,7 @@
     "fields": []
   },
   {
-    "toaq": "chuaınāo",
+    "toaq": "chuaınao",
     "type": "predicate",
     "english": "▯ is ice (frozen water).",
     "gloss": "ice",
@@ -1325,7 +1325,7 @@
     "fields": []
   },
   {
-    "toaq": "chuaırūq",
+    "toaq": "chuaıruq",
     "type": "predicate",
     "english": "▯ is hail.",
     "gloss": "hail",
@@ -1336,14 +1336,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Shủa chúaırūq.",
+        "toaq": "Shủa chúaıruq.",
         "english": "Hail is falling."
       }
     ],
     "fields": []
   },
   {
-    "toaq": "chuaırūqshūa",
+    "toaq": "chuaıruqshua",
     "type": "predicate",
     "english": "It hails; ▯ hails; ▯ hails onto ▯.",
     "gloss": "hail",
@@ -1354,7 +1354,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Chủaırūqshūa.",
+        "toaq": "Chủaıruqshua.",
         "english": "It's hailing."
       }
     ],
@@ -1374,7 +1374,7 @@
     "fields": []
   },
   {
-    "toaq": "chuaotīe",
+    "toaq": "chuaotıe",
     "type": "predicate",
     "english": "▯ is a window cover.",
     "gloss": "window cover",
@@ -1400,7 +1400,7 @@
     "fields": []
   },
   {
-    "toaq": "chuıhāq",
+    "toaq": "chuıhaq",
     "type": "predicate",
     "english": "▯ is breakfast.",
     "gloss": "breakfast",
@@ -1413,7 +1413,7 @@
     "fields": []
   },
   {
-    "toaq": "chuırīao",
+    "toaq": "chuırıao",
     "type": "predicate",
     "english": "▯ is dawn.",
     "gloss": "dawn",
@@ -1452,7 +1452,7 @@
     "fields": []
   },
   {
-    "toaq": "chuecē",
+    "toaq": "chuece",
     "type": "predicate",
     "english": "▯ is a train station.",
     "gloss": "train.station",
@@ -1478,7 +1478,7 @@
     "fields": []
   },
   {
-    "toaq": "chıjīo",
+    "toaq": "chıjıo",
     "type": "predicate",
     "english": "▯ is a temple/church/sanctuary/synagogue/shrine.",
     "gloss": "temple",
@@ -1543,7 +1543,7 @@
     "fields": []
   },
   {
-    "toaq": "chıaıtāo",
+    "toaq": "chıaıtao",
     "type": "predicate",
     "english": "▯ errs; ▯ makes mistake ▯.",
     "gloss": "err",
@@ -1595,7 +1595,7 @@
     "fields": []
   },
   {
-    "toaq": "chıejīo",
+    "toaq": "chıejıo",
     "type": "predicate",
     "english": "▯ is a school.",
     "gloss": "school",
@@ -1608,7 +1608,7 @@
     "fields": []
   },
   {
-    "toaq": "chıetūa",
+    "toaq": "chıetua",
     "type": "predicate",
     "english": "▯ teaches ▯ property ▯.",
     "gloss": "teach",
@@ -1634,7 +1634,7 @@
     "fields": []
   },
   {
-    "toaq": "chıeqfā",
+    "toaq": "chıeqfa",
     "type": "predicate",
     "english": "▯ crosses ▯; ▯ goes across ▯.",
     "gloss": "cross",
@@ -1693,7 +1693,7 @@
     ]
   },
   {
-    "toaq": "chosōq",
+    "toaq": "chosoq",
     "type": "predicate",
     "english": "▯ is the favourite of ▯ among ▯.",
     "gloss": "favourite",
@@ -1719,7 +1719,7 @@
     "fields": []
   },
   {
-    "toaq": "choqgī",
+    "toaq": "choqgı",
     "type": "predicate",
     "english": "▯ is useful for doing ▯.",
     "gloss": "useful",
@@ -1732,7 +1732,7 @@
     "fields": []
   },
   {
-    "toaq": "choqhūı",
+    "toaq": "choqhuı",
     "type": "predicate",
     "english": "▯ is useless/inconvenient for doing ▯.",
     "gloss": "useless",
@@ -1745,7 +1745,7 @@
     "fields": []
   },
   {
-    "toaq": "choqkīu",
+    "toaq": "choqkıu",
     "type": "predicate",
     "english": "▯ is usable (possible to use).",
     "gloss": "usable",
@@ -1758,7 +1758,7 @@
     "fields": []
   },
   {
-    "toaq": "choqtīao",
+    "toaq": "choqtıao",
     "type": "predicate",
     "english": "▯ is usable (fit for use).",
     "gloss": "usable",
@@ -1784,7 +1784,7 @@
     "fields": []
   },
   {
-    "toaq": "choadēoq",
+    "toaq": "choadeoq",
     "type": "predicate",
     "english": "▯ talks to ▯.",
     "gloss": "talk",
@@ -1797,7 +1797,7 @@
     "fields": []
   },
   {
-    "toaq": "choalāq",
+    "toaq": "choalaq",
     "type": "predicate",
     "english": "▯ is a voice.",
     "gloss": "voice",
@@ -1823,7 +1823,7 @@
     "fields": []
   },
   {
-    "toaq": "choaqjīo",
+    "toaq": "choaqjıo",
     "type": "predicate",
     "english": "▯ is a hotel/guesthouse.",
     "gloss": "hotel",
@@ -1862,7 +1862,7 @@
     "fields": []
   },
   {
-    "toaq": "choıbēq",
+    "toaq": "choıbeq",
     "type": "predicate",
     "english": "▯ is a thorn.",
     "gloss": "thorn",
@@ -1875,7 +1875,7 @@
     "fields": []
   },
   {
-    "toaq": "choıhūa",
+    "toaq": "choıhua",
     "type": "predicate",
     "english": "▯ is a thorn.",
     "gloss": "thorn",
@@ -1914,7 +1914,7 @@
     "fields": []
   },
   {
-    "toaq": "che chỉetūa",
+    "toaq": "che chỉetua",
     "type": "predicate",
     "english": "▯ is a teacher.",
     "gloss": "teacher",
@@ -1927,7 +1927,7 @@
     "fields": []
   },
   {
-    "toaq": "che gỉaqtāo",
+    "toaq": "che gỉaqtao",
     "type": "predicate",
     "english": "▯ is a musician.",
     "gloss": "musician",
@@ -1953,7 +1953,7 @@
     "fields": []
   },
   {
-    "toaq": "chealīao",
+    "toaq": "chealıao",
     "type": "predicate",
     "english": "▯ is a mushroom.",
     "gloss": "mushroom",
@@ -2031,7 +2031,7 @@
     "fields": []
   },
   {
-    "toaq": "cıkō",
+    "toaq": "cıko",
     "type": "predicate",
     "english": "▯ is sixth among ▯.",
     "gloss": "sixth",
@@ -2070,7 +2070,7 @@
     "fields": []
   },
   {
-    "toaq": "cıurīaq",
+    "toaq": "cıurıaq",
     "type": "predicate",
     "english": "▯ is a toilet.",
     "gloss": "toilet",
@@ -2083,7 +2083,7 @@
     "fields": []
   },
   {
-    "toaq": "cıusē",
+    "toaq": "cıuse",
     "type": "predicate",
     "english": "▯ is an excretion.",
     "gloss": "excretion",
@@ -2171,7 +2171,7 @@
     "fields": []
   },
   {
-    "toaq": "coetūa",
+    "toaq": "coetua",
     "type": "predicate",
     "english": "▯ joins ▯ with ▯.",
     "gloss": "join",
@@ -2246,7 +2246,7 @@
     "fields": []
   },
   {
-    "toaq": "daqfāı",
+    "toaq": "daqfaı",
     "type": "predicate",
     "english": "▯ occurs frequently/often.",
     "gloss": "frequent",
@@ -2257,14 +2257,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "dãqfāı",
+        "toaq": "dãqfaı",
         "english": "often"
       }
     ],
     "fields": []
   },
   {
-    "toaq": "daqfāo",
+    "toaq": "daqfao",
     "type": "predicate",
     "english": "▯ is the end of ▯; ▯ is the point at which ▯ ceases to be.",
     "gloss": "temporal.end",
@@ -2277,7 +2277,7 @@
     "fields": []
   },
   {
-    "toaq": "daqfīa",
+    "toaq": "daqfıa",
     "type": "predicate",
     "english": "▯ is previous to ▯ in time.",
     "gloss": "previous",
@@ -2290,7 +2290,7 @@
     "fields": []
   },
   {
-    "toaq": "daqkēa",
+    "toaq": "daqkea",
     "type": "predicate",
     "english": "▯ is a clock.",
     "gloss": "clock",
@@ -2303,7 +2303,7 @@
     "fields": []
   },
   {
-    "toaq": "daqlēı",
+    "toaq": "daqleı",
     "type": "predicate",
     "english": "▯ is seldom/infrequent.",
     "gloss": "seldom",
@@ -2314,14 +2314,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "dãqlēı",
+        "toaq": "dãqleı",
         "english": "seldom"
       }
     ],
     "fields": []
   },
   {
-    "toaq": "daqmīq",
+    "toaq": "daqmıq",
     "type": "predicate",
     "english": "▯ is eternal/forever.",
     "gloss": "eternal",
@@ -2334,7 +2334,7 @@
     "fields": []
   },
   {
-    "toaq": "daqmōa",
+    "toaq": "daqmoa",
     "type": "predicate",
     "english": "▯ is a moment.",
     "gloss": "moment",
@@ -2347,7 +2347,7 @@
     "fields": []
   },
   {
-    "toaq": "daqsīao",
+    "toaq": "daqsıao",
     "type": "predicate",
     "english": "▯ is the beginning of ▯; ▯ is the point at which ▯ begins to be.",
     "gloss": "temporal.beginning",
@@ -2360,7 +2360,7 @@
     "fields": []
   },
   {
-    "toaq": "daqsīe",
+    "toaq": "daqsıe",
     "type": "predicate",
     "english": "▯ is following to ▯ in time.",
     "gloss": "following",
@@ -2391,7 +2391,7 @@
     "fields": []
   },
   {
-    "toaq": "daıchī",
+    "toaq": "daıchı",
     "type": "predicate",
     "english": "▯ has hope that ▯ is the case; ▯ believes ▯ can happen.",
     "gloss": "hope",
@@ -2404,7 +2404,7 @@
     "fields": []
   },
   {
-    "toaq": "daısīo",
+    "toaq": "daısıo",
     "type": "predicate",
     "english": "▯ is an idea.",
     "gloss": "idea",
@@ -2430,7 +2430,7 @@
     "fields": []
   },
   {
-    "toaq": "daosī",
+    "toaq": "daosı",
     "type": "predicate",
     "english": "▯ is interested in ▯; ▯ is curious about ▯.",
     "gloss": "interested",
@@ -2483,7 +2483,7 @@
     "fields": []
   },
   {
-    "toaq": "duachīe",
+    "toaq": "duachıe",
     "type": "predicate",
     "english": "▯ learns that ▯ is the case.",
     "gloss": "learn",
@@ -2496,7 +2496,7 @@
     "fields": []
   },
   {
-    "toaq": "duafūı",
+    "toaq": "duafuı",
     "type": "predicate",
     "english": "▯ is obvious; ▯ is obvious to ▯.",
     "gloss": "obvious",
@@ -2507,14 +2507,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "dũafūı",
+        "toaq": "dũafuı",
         "english": "obviously; clearly; of course"
       }
     ],
     "fields": []
   },
   {
-    "toaq": "duagī",
+    "toaq": "duagı",
     "type": "predicate",
     "english": "▯ is wise.",
     "gloss": "wise",
@@ -2527,7 +2527,7 @@
     "fields": []
   },
   {
-    "toaq": "duahūı",
+    "toaq": "duahuı",
     "type": "predicate",
     "english": "▯ is foolish.",
     "gloss": "foolish",
@@ -2540,7 +2540,7 @@
     "fields": []
   },
   {
-    "toaq": "duasūe",
+    "toaq": "duasue",
     "type": "predicate",
     "english": "▯ wants to know from ▯ fact ▯; ▯ asks ▯ fact ▯.",
     "gloss": "ask",
@@ -2553,7 +2553,7 @@
     "fields": []
   },
   {
-    "toaq": "duashāo",
+    "toaq": "duashao",
     "type": "predicate",
     "english": "▯ wonders about ▯.",
     "gloss": "wonder",
@@ -2566,7 +2566,7 @@
     "fields": []
   },
   {
-    "toaq": "duashō",
+    "toaq": "duasho",
     "type": "predicate",
     "english": "▯ discovers / finds out ▯.",
     "gloss": "find.out",
@@ -2618,7 +2618,7 @@
     "fields": []
   },
   {
-    "toaq": "duaohēa",
+    "toaq": "duaohea",
     "type": "predicate",
     "english": "▯ is a piece of candy.",
     "gloss": "candy",
@@ -2657,7 +2657,7 @@
     "fields": []
   },
   {
-    "toaq": "duofūaq",
+    "toaq": "duofuaq",
     "type": "predicate",
     "english": "▯ is a movie.",
     "gloss": "movie",
@@ -2748,7 +2748,7 @@
     "fields": []
   },
   {
-    "toaq": "dıaqkūe",
+    "toaq": "dıaqkue",
     "type": "predicate",
     "english": "▯ is a journal/periodical/newspaper.",
     "gloss": "journal",
@@ -2774,7 +2774,7 @@
     "fields": []
   },
   {
-    "toaq": "dıaıkō",
+    "toaq": "dıaıko",
     "type": "predicate",
     "english": "▯ is seventh among ▯.",
     "gloss": "seventh",
@@ -2826,7 +2826,7 @@
     "fields": []
   },
   {
-    "toaq": "dıochū",
+    "toaq": "dıochu",
     "type": "predicate",
     "english": "▯ is a noon.",
     "gloss": "noon",
@@ -2839,7 +2839,7 @@
     "fields": []
   },
   {
-    "toaq": "dıochūhāq",
+    "toaq": "dıochuhaq",
     "type": "predicate",
     "english": "▯ is a lunch.",
     "gloss": "lunch",
@@ -2852,7 +2852,7 @@
     "fields": []
   },
   {
-    "toaq": "dıofāo",
+    "toaq": "dıofao",
     "type": "predicate",
     "english": "▯ is an evening.",
     "gloss": "evening",
@@ -2865,7 +2865,7 @@
     "fields": []
   },
   {
-    "toaq": "dıosīao",
+    "toaq": "dıosıao",
     "type": "predicate",
     "english": "▯ is a morning.",
     "gloss": "morning",
@@ -2956,7 +2956,7 @@
     "fields": []
   },
   {
-    "toaq": "doaqpāq",
+    "toaq": "doaqpaq",
     "type": "predicate",
     "english": "▯ is a district.",
     "gloss": "district",
@@ -3094,7 +3094,7 @@
     "fields": []
   },
   {
-    "toaq": "deaqkōı",
+    "toaq": "deaqkoı",
     "type": "predicate",
     "english": "▯ crawls.",
     "gloss": "crawl",
@@ -3122,7 +3122,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Dẻaı ní lî kảqgāı da.",
+        "toaq": "Dẻaı ní lî kảqgaı da.",
         "english": "This is worth seeing."
       },
       {
@@ -3180,7 +3180,7 @@
     "fields": []
   },
   {
-    "toaq": "farīkā",
+    "toaq": "farıka",
     "type": "predicate",
     "english": "▯ is Africa.",
     "gloss": "Africa",
@@ -3284,7 +3284,7 @@
     "fields": []
   },
   {
-    "toaq": "fuaqkāı",
+    "toaq": "fuaqkaı",
     "type": "predicate",
     "english": "▯ draws image ▯ on ▯.",
     "gloss": "draw",
@@ -3297,7 +3297,7 @@
     "fields": []
   },
   {
-    "toaq": "fuaqkēa",
+    "toaq": "fuaqkea",
     "type": "predicate",
     "english": "▯ is a photo-camera.",
     "gloss": "camera",
@@ -3427,7 +3427,7 @@
     "fields": []
   },
   {
-    "toaq": "fotō",
+    "toaq": "foto",
     "type": "predicate",
     "english": "▯ is a photograph.",
     "gloss": "photo",
@@ -3453,7 +3453,7 @@
     "fields": []
   },
   {
-    "toaq": "foqdēoq",
+    "toaq": "foqdeoq",
     "type": "predicate",
     "english": "▯ talks on the phone with ▯.",
     "gloss": "talk.on.the.phone",
@@ -3492,7 +3492,7 @@
     "fields": []
   },
   {
-    "toaq": "foaqfūı",
+    "toaq": "foaqfuı",
     "type": "predicate",
     "english": "▯ is convenient; ▯ is comfortably easy.",
     "gloss": "convenient",
@@ -3532,7 +3532,7 @@
     "fields": []
   },
   {
-    "toaq": "fekō",
+    "toaq": "feko",
     "type": "predicate",
     "english": "▯ is fifth among ▯.",
     "gloss": "fifth",
@@ -3565,7 +3565,7 @@
     ],
     "examples": [
       {
-        "toaq": "Fẻa mỉe dùoı hórā dỉaıhēıgū hó lî bủ chủq da.",
+        "toaq": "Fẻa mỉe dùoı hóra dỉaıheıgu hó lî bủ chủq da.",
         "english": "They survived for 72 hours eating nothing."
       }
     ],
@@ -3634,7 +3634,7 @@
     "fields": []
   },
   {
-    "toaq": "gaıpūa",
+    "toaq": "gaıpua",
     "type": "predicate",
     "english": "▯ enjoys sensing/observing ▯.",
     "gloss": "enjoy",
@@ -3660,7 +3660,7 @@
     "fields": []
   },
   {
-    "toaq": "gaodūo",
+    "toaq": "gaoduo",
     "type": "predicate",
     "english": "▯ moves upwards.",
     "gloss": "move.upwards",
@@ -3673,7 +3673,7 @@
     "fields": []
   },
   {
-    "toaq": "gaokōı",
+    "toaq": "gaokoı",
     "type": "predicate",
     "english": "▯ climbs.",
     "gloss": "climb",
@@ -3686,7 +3686,7 @@
     "fields": []
   },
   {
-    "toaq": "gaopāq",
+    "toaq": "gaopaq",
     "type": "predicate",
     "english": "▯ is the top of ▯.",
     "gloss": "top",
@@ -3712,7 +3712,7 @@
     "fields": []
   },
   {
-    "toaq": "guchīo",
+    "toaq": "guchıo",
     "type": "predicate",
     "english": "▯ happens twice / two times.",
     "gloss": "twice",
@@ -3725,7 +3725,7 @@
     "fields": []
   },
   {
-    "toaq": "gukō",
+    "toaq": "guko",
     "type": "predicate",
     "english": "▯ is second among ▯.",
     "gloss": "second",
@@ -3738,7 +3738,7 @@
     "fields": []
   },
   {
-    "toaq": "gulīaq",
+    "toaq": "gulıaq",
     "type": "predicate",
     "english": "▯ is a pair/couple.",
     "gloss": "pair",
@@ -3751,7 +3751,7 @@
     "fields": []
   },
   {
-    "toaq": "gupāq",
+    "toaq": "gupaq",
     "type": "predicate",
     "english": "▯ is a half.",
     "gloss": "half",
@@ -3764,7 +3764,7 @@
     "fields": []
   },
   {
-    "toaq": "gushōaı",
+    "toaq": "gushoaı",
     "type": "predicate",
     "english": "▯ is a fly.",
     "gloss": "fly",
@@ -3777,7 +3777,7 @@
     "fields": []
   },
   {
-    "toaq": "gusīoq",
+    "toaq": "gusıoq",
     "type": "predicate",
     "english": "▯ is a bicycle/bike.",
     "gloss": "bicycle",
@@ -3803,7 +3803,7 @@
     "fields": []
   },
   {
-    "toaq": "guqdūo",
+    "toaq": "guqduo",
     "type": "predicate",
     "english": "▯ moves downwards.",
     "gloss": "move.downwards",
@@ -3816,7 +3816,7 @@
     "fields": []
   },
   {
-    "toaq": "guqpāq",
+    "toaq": "guqpaq",
     "type": "predicate",
     "english": "▯ is the bottom of ▯.",
     "gloss": "bottom",
@@ -3855,7 +3855,7 @@
     "fields": []
   },
   {
-    "toaq": "guaqnāo",
+    "toaq": "guaqnao",
     "type": "predicate",
     "english": "▯ is a lake.",
     "gloss": "lake",
@@ -3881,7 +3881,7 @@
     "fields": []
   },
   {
-    "toaq": "guaırīaq",
+    "toaq": "guaırıaq",
     "type": "predicate",
     "english": "▯ is a workplace / office.",
     "gloss": "workplace",
@@ -3920,7 +3920,7 @@
     "fields": []
   },
   {
-    "toaq": "guıpūo",
+    "toaq": "guıpuo",
     "type": "predicate",
     "english": "▯ is flour.",
     "gloss": "flour",
@@ -3946,7 +3946,7 @@
     "fields": []
   },
   {
-    "toaq": "guosā",
+    "toaq": "guosa",
     "type": "predicate",
     "english": "▯ happens sometimes.",
     "gloss": "sometimes",
@@ -3959,7 +3959,7 @@
     "fields": []
   },
   {
-    "toaq": "guosīa",
+    "toaq": "guosıa",
     "type": "predicate",
     "english": "▯ happens never.",
     "gloss": "never",
@@ -4013,7 +4013,7 @@
         "english": "Good day!"
       },
       {
-        "toaq": "Gỉ dỉosīao ba.",
+        "toaq": "Gỉ dỉosıao ba.",
         "english": "Good morning!"
       },
       {
@@ -4024,7 +4024,7 @@
     "fields": []
   },
   {
-    "toaq": "gıcīa",
+    "toaq": "gıcıa",
     "type": "predicate",
     "english": "▯ is free of property ▯; ▯ not having property ▯ is good.",
     "gloss": "free.of",
@@ -4037,7 +4037,7 @@
     "fields": []
   },
   {
-    "toaq": "gıdāıtūe",
+    "toaq": "gıdaıtue",
     "type": "predicate",
     "english": "▯ is an opportunity.",
     "gloss": "opportunity",
@@ -4050,7 +4050,7 @@
     "fields": []
   },
   {
-    "toaq": "gıgā",
+    "toaq": "gıga",
     "type": "predicate",
     "english": "▯ are 10<sup>9</sup> (1,000,000,000) in number; ▯ are a billion.",
     "gloss": "giga",
@@ -4063,7 +4063,7 @@
     "fields": []
   },
   {
-    "toaq": "gınūe",
+    "toaq": "gınue",
     "type": "predicate",
     "english": "▯ promises to ▯ to satisfy property ▯, which is good for the latter.",
     "gloss": "promise",
@@ -4076,7 +4076,7 @@
     "fields": []
   },
   {
-    "toaq": "gınēq",
+    "toaq": "gıneq",
     "type": "predicate",
     "english": "▯ is fortunate for ▯.",
     "gloss": "fortunate",
@@ -4089,7 +4089,7 @@
     "fields": []
   },
   {
-    "toaq": "gıtā",
+    "toaq": "gıta",
     "type": "predicate",
     "english": "▯ is a guitar.",
     "gloss": "guitar",
@@ -4154,7 +4154,7 @@
     "fields": []
   },
   {
-    "toaq": "gıaqchūo",
+    "toaq": "gıaqchuo",
     "type": "predicate",
     "english": "▯ is a musical instrument.",
     "gloss": "musical.instrument",
@@ -4219,7 +4219,7 @@
     "fields": []
   },
   {
-    "toaq": "gıocīa",
+    "toaq": "gıocıa",
     "type": "predicate",
     "english": "▯ is dark (without light).",
     "gloss": "dark",
@@ -4232,7 +4232,7 @@
     "fields": []
   },
   {
-    "toaq": "gıofūaq",
+    "toaq": "gıofuaq",
     "type": "predicate",
     "english": "▯ is a photograph.",
     "gloss": "photograph",
@@ -4245,7 +4245,7 @@
     "fields": []
   },
   {
-    "toaq": "gıohīaq",
+    "toaq": "gıohıaq",
     "type": "predicate",
     "english": "▯ is dark (poorly illuminated).",
     "gloss": "dark",
@@ -4258,7 +4258,7 @@
     "fields": []
   },
   {
-    "toaq": "gıokēa",
+    "toaq": "gıokea",
     "type": "predicate",
     "english": "▯ is a lamp.",
     "gloss": "lamp",
@@ -4271,7 +4271,7 @@
     "fields": []
   },
   {
-    "toaq": "gıomīa",
+    "toaq": "gıomıa",
     "type": "predicate",
     "english": "▯ is bright.",
     "gloss": "light",
@@ -4297,7 +4297,7 @@
     "fields": []
   },
   {
-    "toaq": "gıebēa",
+    "toaq": "gıebea",
     "type": "predicate",
     "english": "▯ is an elbow.",
     "gloss": "elbow",
@@ -4310,7 +4310,7 @@
     "fields": []
   },
   {
-    "toaq": "gıejēoq",
+    "toaq": "gıejeoq",
     "type": "predicate",
     "english": "▯ is an armpit.",
     "gloss": "armpit",
@@ -4323,7 +4323,7 @@
     "fields": []
   },
   {
-    "toaq": "gıeshīo",
+    "toaq": "gıeshıo",
     "type": "predicate",
     "english": "▯ is a shoulder.",
     "gloss": "shoulder",
@@ -4372,7 +4372,7 @@
     "fields": []
   },
   {
-    "toaq": "goafāı",
+    "toaq": "goafaı",
     "type": "predicate",
     "english": "▯ is widespread/common.",
     "gloss": "widespread",
@@ -4385,7 +4385,7 @@
     "fields": []
   },
   {
-    "toaq": "goajāo",
+    "toaq": "goajao",
     "type": "predicate",
     "english": "▯ is spatially far away from ▯.",
     "gloss": "far",
@@ -4424,7 +4424,7 @@
     "fields": []
   },
   {
-    "toaq": "goaıcā",
+    "toaq": "goaıca",
     "type": "predicate",
     "english": "▯ causes ▯ to rub against ▯.",
     "gloss": "rub",
@@ -4438,7 +4438,7 @@
     "fields": []
   },
   {
-    "toaq": "goaıchēo",
+    "toaq": "goaıcheo",
     "type": "predicate",
     "english": "▯ rub against each other.",
     "gloss": "rub.against.each.other",
@@ -4451,7 +4451,7 @@
     "fields": []
   },
   {
-    "toaq": "goaıtūa",
+    "toaq": "goaıtua",
     "type": "predicate",
     "english": "▯ makes ▯ rub against ▯.",
     "gloss": "rub",
@@ -4516,7 +4516,7 @@
     "fields": []
   },
   {
-    "toaq": "geqkūaı",
+    "toaq": "geqkuaı",
     "type": "predicate",
     "english": "▯ misses ▯; ▯ hungers to meet ▯ (again).",
     "gloss": "miss",
@@ -4529,7 +4529,7 @@
     "fields": []
   },
   {
-    "toaq": "geqsīa",
+    "toaq": "geqsıa",
     "type": "predicate",
     "english": "▯ is alone.",
     "gloss": "alone",
@@ -4555,7 +4555,7 @@
     "fields": []
   },
   {
-    "toaq": "geajēaqkēa",
+    "toaq": "geajeaqkea",
     "type": "predicate",
     "english": "▯ is a lift.",
     "gloss": "lift",
@@ -4568,7 +4568,7 @@
     "fields": []
   },
   {
-    "toaq": "geanūa",
+    "toaq": "geanua",
     "type": "predicate",
     "english": "▯ lifts up ▯.",
     "gloss": "lift",
@@ -4620,7 +4620,7 @@
     "fields": []
   },
   {
-    "toaq": "geonē",
+    "toaq": "geone",
     "type": "predicate",
     "english": "▯ is the age of ▯.",
     "gloss": "age",
@@ -4646,7 +4646,7 @@
     "fields": []
   },
   {
-    "toaq": "harānē",
+    "toaq": "harane",
     "type": "predicate",
     "english": "▯ is a spider.",
     "gloss": "spider",
@@ -4659,7 +4659,7 @@
     "fields": []
   },
   {
-    "toaq": "hasīa",
+    "toaq": "hasıa",
     "type": "predicate",
     "english": "▯ is Asia.",
     "gloss": "Asia",
@@ -4685,7 +4685,7 @@
     "fields": []
   },
   {
-    "toaq": "haqbāı",
+    "toaq": "haqbaı",
     "type": "predicate",
     "english": "▯ prepares food / cooks ▯.",
     "gloss": "prepare.food",
@@ -4698,7 +4698,7 @@
     "fields": []
   },
   {
-    "toaq": "haqbāısē",
+    "toaq": "haqbaıse",
     "type": "predicate",
     "english": "▯ is a meal; ▯ is prepared food.",
     "gloss": "meal",
@@ -4711,7 +4711,7 @@
     "fields": []
   },
   {
-    "toaq": "haqdōa",
+    "toaq": "haqdoa",
     "type": "predicate",
     "english": "▯ feeds ▯ to ▯.",
     "gloss": "feed",
@@ -4724,7 +4724,7 @@
     "fields": []
   },
   {
-    "toaq": "haqhūa",
+    "toaq": "haqhua",
     "type": "predicate",
     "english": "▯ is a stomach.",
     "gloss": "stomach",
@@ -4737,7 +4737,7 @@
     "fields": []
   },
   {
-    "toaq": "haqrīaı",
+    "toaq": "haqrıaı",
     "type": "predicate",
     "english": "▯ is a plate/dish.",
     "gloss": "plate",
@@ -4787,7 +4787,7 @@
     "examples": []
   },
   {
-    "toaq": "hushō",
+    "toaq": "husho",
     "type": "predicate",
     "english": "▯ becomes quiet/silent; ▯ hushes.",
     "gloss": "hush",
@@ -4800,7 +4800,7 @@
     "fields": []
   },
   {
-    "toaq": "Husōnā",
+    "toaq": "Husona",
     "type": "predicate",
     "english": "▯ is US-American/pertains to the USA.",
     "gloss": "American",
@@ -4813,7 +4813,7 @@
     "fields": []
   },
   {
-    "toaq": "Husōnāgūa",
+    "toaq": "Husonagua",
     "type": "predicate",
     "english": "▯ are the USA.",
     "gloss": "USA",
@@ -4853,7 +4853,7 @@
     "fields": []
   },
   {
-    "toaq": "huaqchō",
+    "toaq": "huaqcho",
     "type": "predicate",
     "english": "▯ prefers ▯ over ▯.",
     "gloss": "prefer",
@@ -4918,7 +4918,7 @@
     "fields": []
   },
   {
-    "toaq": "huaıchūo",
+    "toaq": "huaıchuo",
     "type": "predicate",
     "english": "▯ is a spoon.",
     "gloss": "spoon",
@@ -4957,7 +4957,7 @@
     "fields": []
   },
   {
-    "toaq": "huıcīa",
+    "toaq": "huıcıa",
     "type": "predicate",
     "english": "▯ is lacking in that does not satisfy property ▯; ▯ lacking property ▯ is bad.",
     "gloss": "lack",
@@ -4970,7 +4970,7 @@
     "fields": []
   },
   {
-    "toaq": "huılīe",
+    "toaq": "huılıe",
     "type": "predicate",
     "english": "▯ suffers from experiencing property ▯.",
     "gloss": "suffer",
@@ -4983,7 +4983,7 @@
     "fields": []
   },
   {
-    "toaq": "huınūe",
+    "toaq": "huınue",
     "type": "predicate",
     "english": "▯ threatens ▯ with satisfying property ▯.",
     "gloss": "threaten",
@@ -4996,7 +4996,7 @@
     "fields": []
   },
   {
-    "toaq": "huınēq",
+    "toaq": "huıneq",
     "type": "predicate",
     "english": "▯ is unfortunate for ▯.",
     "gloss": "unfortunate",
@@ -5022,7 +5022,7 @@
     "fields": []
   },
   {
-    "toaq": "huogāı",
+    "toaq": "huogaı",
     "type": "predicate",
     "english": "▯ hears ▯.",
     "gloss": "hear",
@@ -5035,7 +5035,7 @@
     "fields": []
   },
   {
-    "toaq": "huogī",
+    "toaq": "huogı",
     "type": "predicate",
     "english": "▯ sounds good; ▯ sounds good to ▯.",
     "gloss": "sound.good",
@@ -5048,7 +5048,7 @@
     "fields": []
   },
   {
-    "toaq": "huohūa",
+    "toaq": "huohua",
     "type": "predicate",
     "english": "▯ is an ear.",
     "gloss": "ear",
@@ -5061,7 +5061,7 @@
     "fields": []
   },
   {
-    "toaq": "huokīu",
+    "toaq": "huokıu",
     "type": "predicate",
     "english": "▯ is audible.",
     "gloss": "audible",
@@ -5074,7 +5074,7 @@
     "fields": []
   },
   {
-    "toaq": "huokīubū",
+    "toaq": "huokıubu",
     "type": "predicate",
     "english": "▯ is inaudible.",
     "gloss": "inaudible",
@@ -5087,7 +5087,7 @@
     "fields": []
   },
   {
-    "toaq": "huosī",
+    "toaq": "huosı",
     "type": "predicate",
     "english": "▯ listens to ▯.",
     "gloss": "listen",
@@ -5162,7 +5162,7 @@
     "fields": []
   },
   {
-    "toaq": "hıaısē",
+    "toaq": "hıaıse",
     "type": "predicate",
     "english": "▯ is laughter.",
     "gloss": "laughter",
@@ -5188,7 +5188,7 @@
     "fields": []
   },
   {
-    "toaq": "hıaodāı",
+    "toaq": "hıaodaı",
     "type": "predicate",
     "english": "▯ is dangerous.",
     "gloss": "dangerous",
@@ -5201,7 +5201,7 @@
     "fields": []
   },
   {
-    "toaq": "hıaorīeq",
+    "toaq": "hıaorıeq",
     "type": "predicate",
     "english": "▯ escapes from ▯.",
     "gloss": "escape",
@@ -5245,7 +5245,7 @@
     "fields": []
   },
   {
-    "toaq": "hıotā",
+    "toaq": "hıota",
     "type": "predicate",
     "english": "▯ are 10<sup>24</sup> (1,000,000,000,000,000,000,000,000) in number; ▯ are a septillion.",
     "gloss": "yotta",
@@ -5297,7 +5297,7 @@
     "fields": []
   },
   {
-    "toaq": "horā",
+    "toaq": "hora",
     "type": "predicate",
     "english": "▯ is an hour.",
     "gloss": "hour",
@@ -5323,7 +5323,7 @@
     "fields": []
   },
   {
-    "toaq": "hoqbīe",
+    "toaq": "hoqbıe",
     "type": "predicate",
     "english": "▯ is afterwards.",
     "gloss": "afterwards",
@@ -5334,14 +5334,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "hõqbīe",
+        "toaq": "hõqbıe",
         "english": "afterwards; after that"
       }
     ],
     "fields": []
   },
   {
-    "toaq": "hoqkūı",
+    "toaq": "hoqkuı",
     "type": "predicate",
     "english": "▯ is therefore the case.",
     "gloss": "therefore",
@@ -5352,7 +5352,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "hõqkūı",
+        "toaq": "hõqkuı",
         "english": "therefore; because of that"
       }
     ],
@@ -5385,7 +5385,7 @@
     "fields": []
   },
   {
-    "toaq": "hoaqkēa",
+    "toaq": "hoaqkea",
     "type": "predicate",
     "english": "▯ is a lighter.",
     "gloss": "lighter",
@@ -5460,7 +5460,7 @@
     "fields": []
   },
   {
-    "toaq": "heqchūo",
+    "toaq": "heqchuo",
     "type": "predicate",
     "english": "▯ is a container.",
     "gloss": "container",
@@ -5473,7 +5473,7 @@
     "fields": []
   },
   {
-    "toaq": "heqmūo",
+    "toaq": "heqmuo",
     "type": "predicate",
     "english": "▯ is full; ▯ is filled with ▯.",
     "gloss": "full",
@@ -5486,7 +5486,7 @@
     "fields": []
   },
   {
-    "toaq": "heqshēa",
+    "toaq": "heqshea",
     "type": "predicate",
     "english": "▯ is empty.",
     "gloss": "empty",
@@ -5538,7 +5538,7 @@
     "fields": []
   },
   {
-    "toaq": "heıgā",
+    "toaq": "heıga",
     "type": "predicate",
     "english": "▯ is an oak.",
     "gloss": "oak",
@@ -5551,7 +5551,7 @@
     "fields": []
   },
   {
-    "toaq": "heıkō",
+    "toaq": "heıko",
     "type": "predicate",
     "english": "▯ is tenth among ▯.",
     "gloss": "tenth",
@@ -5577,7 +5577,7 @@
     "fields": []
   },
   {
-    "toaq": "heorōpā",
+    "toaq": "heoropa",
     "type": "predicate",
     "english": "▯ is Europe.",
     "gloss": "Europe",
@@ -5603,7 +5603,7 @@
     "fields": []
   },
   {
-    "toaq": "heoqgīa",
+    "toaq": "heoqgıa",
     "type": "predicate",
     "english": "▯ is a belt.",
     "gloss": "belt",
@@ -5626,7 +5626,7 @@
     "examples": []
   },
   {
-    "toaq": "jakē",
+    "toaq": "jake",
     "type": "predicate",
     "english": "▯ is a jacket.",
     "gloss": "jacket",
@@ -5639,7 +5639,7 @@
     "fields": []
   },
   {
-    "toaq": "jarāfā",
+    "toaq": "jarafa",
     "type": "predicate",
     "english": "▯ is a giraffe.",
     "gloss": "giraffe",
@@ -5665,7 +5665,7 @@
     "fields": []
   },
   {
-    "toaq": "jaqbīaq",
+    "toaq": "jaqbıaq",
     "type": "predicate",
     "english": "▯ is sufficiently the case for ▯ to be the case; ▯ is so much so that ▯ is the case.",
     "gloss": "enough.to",
@@ -5678,7 +5678,7 @@
     "fields": []
   },
   {
-    "toaq": "jaqgālā",
+    "toaq": "jaqgala",
     "type": "predicate",
     "english": "▯ is a jungle.",
     "gloss": "jungle",
@@ -5691,7 +5691,7 @@
     "fields": []
   },
   {
-    "toaq": "jaqhēo",
+    "toaq": "jaqheo",
     "type": "predicate",
     "english": "▯ is not the same amount as ▯ in property ▯.",
     "gloss": "to.different.degree",
@@ -5704,7 +5704,7 @@
     "fields": []
   },
   {
-    "toaq": "jaqjēq",
+    "toaq": "jaqjeq",
     "type": "predicate",
     "english": "▯ is as much as ▯ in property ▯.",
     "gloss": "to.same.degree",
@@ -5717,7 +5717,7 @@
     "fields": []
   },
   {
-    "toaq": "jaqnūı",
+    "toaq": "jaqnuı",
     "type": "predicate",
     "english": "▯ is tiny.",
     "gloss": "tiny",
@@ -5730,7 +5730,7 @@
     "fields": []
   },
   {
-    "toaq": "jaqsāo",
+    "toaq": "jaqsao",
     "type": "predicate",
     "english": "▯ is huge.",
     "gloss": "huge",
@@ -5782,7 +5782,7 @@
     "fields": []
   },
   {
-    "toaq": "jaokūq",
+    "toaq": "jaokuq",
     "type": "predicate",
     "english": "▯ is a telephone / walkie talkie.",
     "gloss": "telephone",
@@ -5818,7 +5818,7 @@
     "fields": []
   },
   {
-    "toaq": "juqgī",
+    "toaq": "juqgı",
     "type": "predicate",
     "english": "▯ benefits ▯.",
     "gloss": "benefit",
@@ -5883,7 +5883,7 @@
     "fields": []
   },
   {
-    "toaq": "juaochīaı",
+    "toaq": "juaochıaı",
     "type": "predicate",
     "english": "▯ is illegal; ▯ breaks rule ▯; ▯ is against law ▯.",
     "gloss": "illegal",
@@ -5896,7 +5896,7 @@
     "fields": []
   },
   {
-    "toaq": "juaodūe",
+    "toaq": "juaodue",
     "type": "predicate",
     "english": "▯ is legal; ▯ is according to rule/law ▯.",
     "gloss": "legal",
@@ -5963,7 +5963,7 @@
         "english": "They described this building as big."
       },
       {
-        "toaq": "Hẻ jủoı hó jí lî mỏıjōe da. ",
+        "toaq": "Hẻ jủoı hó jí lî mỏıjoe da. ",
         "english": "They describe me as smart."
       }
     ],
@@ -5983,7 +5983,7 @@
     "fields": []
   },
   {
-    "toaq": "juedīaq",
+    "toaq": "juedıaq",
     "type": "predicate",
     "english": "▯ occurs monthly.",
     "gloss": "monthly",
@@ -6022,7 +6022,7 @@
     "fields": []
   },
   {
-    "toaq": "jıqdūa",
+    "toaq": "jıqdua",
     "type": "predicate",
     "english": "▯ knows that ▯ exists.",
     "gloss": "know",
@@ -6048,7 +6048,7 @@
     "fields": []
   },
   {
-    "toaq": "jıachāq",
+    "toaq": "jıachaq",
     "type": "predicate",
     "english": "▯ is tomorrow; ▯ is the day after today.",
     "gloss": "tomorrow",
@@ -6061,7 +6061,7 @@
     "fields": []
   },
   {
-    "toaq": "jıajāo",
+    "toaq": "jıajao",
     "type": "predicate",
     "english": "▯ will happen a long time from now.",
     "gloss": "a.long.time.from.now",
@@ -6074,7 +6074,7 @@
     "fields": []
   },
   {
-    "toaq": "jıajūı",
+    "toaq": "jıajuı",
     "type": "predicate",
     "english": "▯ will happen in a short time from now.",
     "gloss": "a.short.time.from.now",
@@ -6087,7 +6087,7 @@
     "fields": []
   },
   {
-    "toaq": "jıashāo",
+    "toaq": "jıashao",
     "type": "predicate",
     "english": "▯ hopes that ▯ will be the case.",
     "gloss": "hope",
@@ -6113,7 +6113,7 @@
     "fields": []
   },
   {
-    "toaq": "jıaqtū",
+    "toaq": "jıaqtu",
     "type": "predicate",
     "english": "▯ is the universe.",
     "gloss": "universe",
@@ -6139,7 +6139,7 @@
     "fields": []
   },
   {
-    "toaq": "jıaıkōı",
+    "toaq": "jıaıkoı",
     "type": "predicate",
     "english": "▯ climbs.",
     "gloss": "climb",
@@ -6152,7 +6152,7 @@
     "fields": []
   },
   {
-    "toaq": "jıaınūa",
+    "toaq": "jıaınua",
     "type": "predicate",
     "english": "▯ takes/removes ▯ from ▯.",
     "gloss": "remove",
@@ -6178,7 +6178,7 @@
     "fields": []
   },
   {
-    "toaq": "jıaojīo",
+    "toaq": "jıaojıo",
     "type": "predicate",
     "english": "▯ is a temple/church/sanctuary/synagogue/shrine.",
     "gloss": "temple",
@@ -6204,7 +6204,7 @@
     "fields": []
   },
   {
-    "toaq": "jıuchāq",
+    "toaq": "jıuchaq",
     "type": "predicate",
     "english": "▯ is a birthday of ▯.",
     "gloss": "birthday",
@@ -6243,7 +6243,7 @@
     "fields": []
   },
   {
-    "toaq": "jıoqkēa",
+    "toaq": "jıoqkea",
     "type": "predicate",
     "english": "▯ is a computer.",
     "gloss": "computer",
@@ -6301,7 +6301,7 @@
     "fields": []
   },
   {
-    "toaq": "jokō",
+    "toaq": "joko",
     "type": "predicate",
     "english": "▯ is fourth among ▯.",
     "gloss": "fourth",
@@ -6314,7 +6314,7 @@
     "fields": []
   },
   {
-    "toaq": "jolīaq",
+    "toaq": "jolıaq",
     "type": "predicate",
     "english": "▯ is a quartet.",
     "gloss": "quartet",
@@ -6340,7 +6340,7 @@
     "fields": []
   },
   {
-    "toaq": "joqdōaq",
+    "toaq": "joqdoaq",
     "type": "predicate",
     "english": "▯ is a capital city of ▯.",
     "gloss": "capital",
@@ -6353,7 +6353,7 @@
     "fields": []
   },
   {
-    "toaq": "joqhūa",
+    "toaq": "joqhua",
     "type": "predicate",
     "english": "▯ is a head (body part).",
     "gloss": "head",
@@ -6366,7 +6366,7 @@
     "fields": []
   },
   {
-    "toaq": "joqshāq",
+    "toaq": "joqshaq",
     "type": "predicate",
     "english": "▯ is a face.",
     "gloss": "face",
@@ -6392,7 +6392,7 @@
     "fields": []
   },
   {
-    "toaq": "joachāq",
+    "toaq": "joachaq",
     "type": "predicate",
     "english": "▯ is a weekday (day of the week).",
     "gloss": "weekday",
@@ -6405,7 +6405,7 @@
     "fields": []
   },
   {
-    "toaq": "joachū",
+    "toaq": "joachu",
     "type": "predicate",
     "english": "▯ is during the week (not during a weekend).",
     "gloss": "during.the.week",
@@ -6418,7 +6418,7 @@
     "fields": []
   },
   {
-    "toaq": "joadīaq",
+    "toaq": "joadıaq",
     "type": "predicate",
     "english": "▯ occurs weekly.",
     "gloss": "weekly",
@@ -6431,7 +6431,7 @@
     "fields": []
   },
   {
-    "toaq": "joafāo",
+    "toaq": "joafao",
     "type": "predicate",
     "english": "▯ is a weekend.",
     "gloss": "weekend",
@@ -6505,7 +6505,7 @@
     "fields": []
   },
   {
-    "toaq": "joetāo",
+    "toaq": "joetao",
     "type": "predicate",
     "english": "▯ practices skill ▯.",
     "gloss": "practice",
@@ -6542,7 +6542,7 @@
     "fields": []
   },
   {
-    "toaq": "jeqshūaq",
+    "toaq": "jeqshuaq",
     "type": "predicate",
     "english": "▯ copies ▯; ▯ produces an object identical to ▯.",
     "gloss": "copy",
@@ -6555,7 +6555,7 @@
     "fields": []
   },
   {
-    "toaq": "jeqtū",
+    "toaq": "jeqtu",
     "type": "predicate",
     "english": "▯ is identical to ▯.",
     "gloss": "identical",
@@ -6581,7 +6581,7 @@
     "fields": []
   },
   {
-    "toaq": "jeajīo",
+    "toaq": "jeajıo",
     "type": "predicate",
     "english": "▯ is a mall.",
     "gloss": "mall",
@@ -6594,7 +6594,7 @@
     "fields": []
   },
   {
-    "toaq": "jearīaq",
+    "toaq": "jearıaq",
     "type": "predicate",
     "english": "▯ is a market.",
     "gloss": "market",
@@ -6620,7 +6620,7 @@
     "fields": []
   },
   {
-    "toaq": "jeaqcāo",
+    "toaq": "jeaqcao",
     "type": "predicate",
     "english": "▯ is a spring (season).",
     "gloss": "spring",
@@ -6633,7 +6633,7 @@
     "fields": []
   },
   {
-    "toaq": "jeaqdōa",
+    "toaq": "jeaqdoa",
     "type": "predicate",
     "english": "▯ adds ▯ to ▯.",
     "gloss": "add",
@@ -6659,7 +6659,7 @@
     "fields": []
   },
   {
-    "toaq": "jeaq tỉjūı",
+    "toaq": "jeaq tỉjuı",
     "type": "predicate",
     "english": "▯ increases in its proximity to ▯.",
     "gloss": "approach",
@@ -6699,7 +6699,7 @@
     "fields": []
   },
   {
-    "toaq": "jeojūı",
+    "toaq": "jeojuı",
     "type": "predicate",
     "english": "▯ is almost the case; ▯ almost satisfies property ▯.",
     "gloss": "almost",
@@ -6712,7 +6712,7 @@
     "fields": []
   },
   {
-    "toaq": "jeonūe",
+    "toaq": "jeonue",
     "type": "predicate",
     "english": "▯ promises to ▯ that ▯ is the case.",
     "gloss": "promise",
@@ -6748,7 +6748,7 @@
     "examples": []
   },
   {
-    "toaq": "kafē",
+    "toaq": "kafe",
     "type": "predicate",
     "english": "▯ is coffee.",
     "gloss": "coffee",
@@ -6761,7 +6761,7 @@
     "fields": []
   },
   {
-    "toaq": "kahā",
+    "toaq": "kaha",
     "type": "predicate",
     "english": "▯ coughs.",
     "gloss": "cough",
@@ -6787,7 +6787,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqchūo",
+    "toaq": "kaqchuo",
     "type": "predicate",
     "english": "▯ is an optical tool.",
     "gloss": "optical.tool",
@@ -6800,7 +6800,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqgāı",
+    "toaq": "kaqgaı",
     "type": "predicate",
     "english": "▯ sees ▯.",
     "gloss": "see",
@@ -6813,7 +6813,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqgī",
+    "toaq": "kaqgı",
     "type": "predicate",
     "english": "▯ looks good; ▯ looks good to ▯.",
     "gloss": "look.good",
@@ -6826,7 +6826,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqhūa",
+    "toaq": "kaqhua",
     "type": "predicate",
     "english": "▯ is an eye.",
     "gloss": "eye",
@@ -6839,7 +6839,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqhūatīe",
+    "toaq": "kaqhuatıe",
     "type": "predicate",
     "english": "▯ is an eyelid.",
     "gloss": "eyelid",
@@ -6852,7 +6852,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqkīu",
+    "toaq": "kaqkıu",
     "type": "predicate",
     "english": "▯ is visible.",
     "gloss": "visible",
@@ -6865,7 +6865,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqkīubū",
+    "toaq": "kaqkıubu",
     "type": "predicate",
     "english": "▯ is invisible.",
     "gloss": "invisible",
@@ -6878,7 +6878,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqnūo",
+    "toaq": "kaqnuo",
     "type": "predicate",
     "english": "▯ dreams ▯.",
     "gloss": "dream",
@@ -6891,7 +6891,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqshīa",
+    "toaq": "kaqshıa",
     "type": "predicate",
     "english": "▯ are glasses.",
     "gloss": "glasses",
@@ -6904,7 +6904,7 @@
     "fields": []
   },
   {
-    "toaq": "kaqsī",
+    "toaq": "kaqsı",
     "type": "predicate",
     "english": "▯ looks at ▯.",
     "gloss": "look.at",
@@ -6930,7 +6930,7 @@
     "fields": []
   },
   {
-    "toaq": "kaıfūa",
+    "toaq": "kaıfua",
     "type": "predicate",
     "english": "▯ is a desk.",
     "gloss": "desk",
@@ -6943,7 +6943,7 @@
     "fields": []
   },
   {
-    "toaq": "kaıkēa",
+    "toaq": "kaıkea",
     "type": "predicate",
     "english": "▯ is a typewriter.",
     "gloss": "typewriter",
@@ -6956,7 +6956,7 @@
     "fields": []
   },
   {
-    "toaq": "kaısē",
+    "toaq": "kaıse",
     "type": "predicate",
     "english": "▯ is text/writing.",
     "gloss": "text",
@@ -6992,7 +6992,7 @@
     "examples": []
   },
   {
-    "toaq": "kunē",
+    "toaq": "kune",
     "type": "predicate",
     "english": "▯ is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).",
     "gloss": "dog",
@@ -7018,7 +7018,7 @@
     "fields": []
   },
   {
-    "toaq": "kuqsē",
+    "toaq": "kuqse",
     "type": "predicate",
     "english": "▯ is text (spoken or written).",
     "gloss": "text",
@@ -7031,7 +7031,7 @@
     "fields": []
   },
   {
-    "toaq": "kuqtōaı",
+    "toaq": "kuqtoaı",
     "type": "predicate",
     "english": "▯ is a sentence.",
     "gloss": "sentence",
@@ -7057,7 +7057,7 @@
     "fields": []
   },
   {
-    "toaq": "kuabūe",
+    "toaq": "kuabue",
     "type": "predicate",
     "english": "▯ is an apartment/flat.",
     "gloss": "appartment",
@@ -7145,7 +7145,7 @@
     "fields": []
   },
   {
-    "toaq": "kuaochāq",
+    "toaq": "kuaochaq",
     "type": "predicate",
     "english": "▯ is a Friday.",
     "gloss": "Friday",
@@ -7158,7 +7158,7 @@
     "fields": []
   },
   {
-    "toaq": "kuaorēo",
+    "toaq": "kuaoreo",
     "type": "predicate",
     "english": "▯ is of cyan colour.",
     "gloss": "cyan",
@@ -7189,7 +7189,7 @@
     "fields": []
   },
   {
-    "toaq": "kuıtūe",
+    "toaq": "kuıtue",
     "type": "predicate",
     "english": "▯ is a reason why ▯ is the case.",
     "gloss": "reason",
@@ -7215,7 +7215,7 @@
     "fields": []
   },
   {
-    "toaq": "kuorēo",
+    "toaq": "kuoreo",
     "type": "predicate",
     "english": "▯ is of black colour.",
     "gloss": "black",
@@ -7267,7 +7267,7 @@
     "fields": []
   },
   {
-    "toaq": "kuejīo",
+    "toaq": "kuejıo",
     "type": "predicate",
     "english": "▯ is a library.",
     "gloss": "library",
@@ -7280,7 +7280,7 @@
     "fields": []
   },
   {
-    "toaq": "kuepāq",
+    "toaq": "kuepaq",
     "type": "predicate",
     "english": "▯ is a chapter.",
     "gloss": "chapter",
@@ -7293,7 +7293,7 @@
     "fields": []
   },
   {
-    "toaq": "kueshūo",
+    "toaq": "kueshuo",
     "type": "predicate",
     "english": "▯ is a library.",
     "gloss": "library",
@@ -7319,7 +7319,7 @@
     "fields": []
   },
   {
-    "toaq": "kueqtūa",
+    "toaq": "kueqtua",
     "type": "predicate",
     "english": "▯ collects/gathers ▯ (plural) at locus ▯.",
     "gloss": "collect",
@@ -7355,7 +7355,7 @@
     "fields": []
   },
   {
-    "toaq": "kıqjīo",
+    "toaq": "kıqjıo",
     "type": "predicate",
     "english": "▯ is a cinema / movie theater.",
     "gloss": "cinema",
@@ -7368,7 +7368,7 @@
     "fields": []
   },
   {
-    "toaq": "kıqkēa",
+    "toaq": "kıqkea",
     "type": "predicate",
     "english": "▯ is a film camera.",
     "gloss": "camera",
@@ -7394,7 +7394,7 @@
     "fields": []
   },
   {
-    "toaq": "kıachāq",
+    "toaq": "kıachaq",
     "type": "predicate",
     "english": "▯ is a Monday.",
     "gloss": "Monday",
@@ -7407,7 +7407,7 @@
     "fields": []
   },
   {
-    "toaq": "kıarēo",
+    "toaq": "kıareo",
     "type": "predicate",
     "english": "▯ is of red colour.",
     "gloss": "red",
@@ -7459,7 +7459,7 @@
     "fields": []
   },
   {
-    "toaq": "kıaotōq",
+    "toaq": "kıaotoq",
     "type": "predicate",
     "english": "▯ is a door.",
     "gloss": "door",
@@ -7521,7 +7521,7 @@
     "fields": []
   },
   {
-    "toaq": "kıekūq",
+    "toaq": "kıekuq",
     "type": "predicate",
     "english": "▯ says thanks to ▯.",
     "gloss": "thank",
@@ -7561,7 +7561,7 @@
     "fields": []
   },
   {
-    "toaq": "kopī",
+    "toaq": "kopı",
     "type": "predicate",
     "english": "▯ is a copy of ▯.",
     "gloss": "copy",
@@ -7574,7 +7574,7 @@
     "fields": []
   },
   {
-    "toaq": "kopīshūaq",
+    "toaq": "kopıshuaq",
     "type": "predicate",
     "english": "▯ copies ▯.",
     "gloss": "copy",
@@ -7639,7 +7639,7 @@
     "fields": []
   },
   {
-    "toaq": "koqpīutā",
+    "toaq": "koqpıuta",
     "type": "predicate",
     "english": "▯ is a computer.",
     "gloss": "computer",
@@ -7665,7 +7665,7 @@
     "fields": []
   },
   {
-    "toaq": "koacāo",
+    "toaq": "koacao",
     "type": "predicate",
     "english": "▯ is a winter.",
     "gloss": "winter",
@@ -7678,7 +7678,7 @@
     "fields": []
   },
   {
-    "toaq": "koakēa",
+    "toaq": "koakea",
     "type": "predicate",
     "english": "▯ is a refrigerator.",
     "gloss": "refrigerator",
@@ -7704,7 +7704,7 @@
     "fields": []
   },
   {
-    "toaq": "koaqlīq",
+    "toaq": "koaqlıq",
     "type": "predicate",
     "english": "▯ is a woman (adult female).",
     "gloss": "woman",
@@ -7717,7 +7717,7 @@
     "fields": []
   },
   {
-    "toaq": "koaqnāq",
+    "toaq": "koaqnaq",
     "type": "predicate",
     "english": "▯ is a man (adult male).",
     "gloss": "man",
@@ -7730,7 +7730,7 @@
     "fields": []
   },
   {
-    "toaq": "koaqrēq",
+    "toaq": "koaqreq",
     "type": "predicate",
     "english": "▯ is an adult human.",
     "gloss": "adult",
@@ -7769,7 +7769,7 @@
     "fields": []
   },
   {
-    "toaq": "koıtīeq",
+    "toaq": "koıtıeq",
     "type": "predicate",
     "english": "▯ is a walking path.",
     "gloss": "path",
@@ -7796,7 +7796,7 @@
     "fields": []
   },
   {
-    "toaq": "koemēa",
+    "toaq": "koemea",
     "type": "predicate",
     "english": "▯ is an option.",
     "gloss": "option",
@@ -7819,7 +7819,7 @@
     "examples": []
   },
   {
-    "toaq": "kebō",
+    "toaq": "kebo",
     "type": "predicate",
     "english": "▯ is a horse (member of species Equus ferus caballus).",
     "gloss": "horse",
@@ -7845,7 +7845,7 @@
     "fields": []
   },
   {
-    "toaq": "keqcīu",
+    "toaq": "keqcıu",
     "type": "predicate",
     "english": "▯ defecates/shits.",
     "gloss": "defecate",
@@ -7958,7 +7958,7 @@
     "fields": []
   },
   {
-    "toaq": "laqcāı",
+    "toaq": "laqcaı",
     "type": "predicate",
     "english": "▯ is loud.",
     "gloss": "loud",
@@ -7971,7 +7971,7 @@
     "fields": []
   },
   {
-    "toaq": "laqgīa",
+    "toaq": "laqgıa",
     "type": "predicate",
     "english": "▯ is an audio tape.",
     "gloss": "tape",
@@ -7984,7 +7984,7 @@
     "fields": []
   },
   {
-    "toaq": "laqkūe",
+    "toaq": "laqkue",
     "type": "predicate",
     "english": "▯ is an audiobook.",
     "gloss": "audiobook",
@@ -7997,7 +7997,7 @@
     "fields": []
   },
   {
-    "toaq": "laqrūe",
+    "toaq": "laqrue",
     "type": "predicate",
     "english": "▯ is a weak/low sound.",
     "gloss": "low",
@@ -8059,7 +8059,7 @@
     "fields": []
   },
   {
-    "toaq": "luqmōe",
+    "toaq": "luqmoe",
     "type": "predicate",
     "english": "▯ is calm (emotionally).",
     "gloss": "calm",
@@ -8111,7 +8111,7 @@
     "fields": []
   },
   {
-    "toaq": "luaılūa",
+    "toaq": "luaılua",
     "type": "predicate",
     "english": "▯ is a joke.",
     "gloss": "joke",
@@ -8150,7 +8150,7 @@
     "fields": []
   },
   {
-    "toaq": "luınē",
+    "toaq": "luıne",
     "type": "predicate",
     "english": "▯ is the age of ▯; ▯ is the time since ▯ has taken place.",
     "gloss": "age",
@@ -8202,7 +8202,7 @@
     "fields": []
   },
   {
-    "toaq": "luechāq",
+    "toaq": "luechaq",
     "type": "predicate",
     "english": "▯ is a Wednesday.",
     "gloss": "wednesday",
@@ -8215,7 +8215,7 @@
     "fields": []
   },
   {
-    "toaq": "luerēo",
+    "toaq": "luereo",
     "type": "predicate",
     "english": "▯ is of yellow colour.",
     "gloss": "yellow",
@@ -8241,7 +8241,7 @@
     "fields": []
   },
   {
-    "toaq": "lueqchē",
+    "toaq": "lueqche",
     "type": "predicate",
     "english": "▯ is a servant of ▯ with property ▯.",
     "gloss": "servant",
@@ -8277,7 +8277,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqdēo",
+    "toaq": "lıqdeo",
     "type": "predicate",
     "english": "▯ is a girl.",
     "gloss": "girl",
@@ -8290,7 +8290,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqfū",
+    "toaq": "lıqfu",
     "type": "predicate",
     "english": "▯ is a daughter (female biological offspring) of ▯.",
     "gloss": "daughter",
@@ -8303,7 +8303,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqpāo",
+    "toaq": "lıqpao",
     "type": "predicate",
     "english": "▯ is a mother of ▯; ▯ acts as a mother towards ▯.",
     "gloss": "mother",
@@ -8316,7 +8316,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqpīa",
+    "toaq": "lıqpıa",
     "type": "predicate",
     "english": "▯ is a sister of ▯.",
     "gloss": "sister",
@@ -8329,7 +8329,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqrōaq",
+    "toaq": "lıqroaq",
     "type": "predicate",
     "english": "▯ is a biological mother of ▯.",
     "gloss": "mother",
@@ -8342,7 +8342,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqrēq",
+    "toaq": "lıqreq",
     "type": "predicate",
     "english": "▯ is a female human; ▯ is a woman.",
     "gloss": "woman",
@@ -8355,7 +8355,7 @@
     "fields": []
   },
   {
-    "toaq": "lıqsēo",
+    "toaq": "lıqseo",
     "type": "predicate",
     "english": "▯ is a wife of ▯.",
     "gloss": "wife",
@@ -8446,7 +8446,7 @@
     "fields": []
   },
   {
-    "toaq": "lıodūo",
+    "toaq": "lıoduo",
     "type": "predicate",
     "english": "▯ moves leftwards.",
     "gloss": "move.left",
@@ -8459,7 +8459,7 @@
     "fields": []
   },
   {
-    "toaq": "lıopāq",
+    "toaq": "lıopaq",
     "type": "predicate",
     "english": "▯ is the left part of ▯.",
     "gloss": "left.part",
@@ -8498,7 +8498,7 @@
     "fields": []
   },
   {
-    "toaq": "Lojībāq",
+    "toaq": "Lojıbaq",
     "type": "predicate",
     "english": "▯ is the Lojban language.",
     "gloss": "Lojban",
@@ -8524,7 +8524,7 @@
     "fields": []
   },
   {
-    "toaq": "loqcāo",
+    "toaq": "loqcao",
     "type": "predicate",
     "english": "▯ is a summer.",
     "gloss": "summer",
@@ -8537,7 +8537,7 @@
     "fields": []
   },
   {
-    "toaq": "loqkēa",
+    "toaq": "loqkea",
     "type": "predicate",
     "english": "▯ is a heater.",
     "gloss": "heater",
@@ -8563,7 +8563,7 @@
     "fields": []
   },
   {
-    "toaq": "loachāq",
+    "toaq": "loachaq",
     "type": "predicate",
     "english": "▯ is a Sunday.",
     "gloss": "sunday",
@@ -8576,7 +8576,7 @@
     "fields": []
   },
   {
-    "toaq": "loarēo",
+    "toaq": "loareo",
     "type": "predicate",
     "english": "▯ is of purple colour.",
     "gloss": "purple",
@@ -8685,7 +8685,7 @@
     "fields": []
   },
   {
-    "toaq": "leachē",
+    "toaq": "leache",
     "type": "predicate",
     "english": "▯ is an artist.",
     "gloss": "artist",
@@ -8711,7 +8711,7 @@
     "fields": []
   },
   {
-    "toaq": "leaqbūa",
+    "toaq": "leaqbua",
     "type": "predicate",
     "english": "▯ is a neighbour of ▯.",
     "gloss": "neighbour",
@@ -8724,7 +8724,7 @@
     "fields": []
   },
   {
-    "toaq": "leaqfīa",
+    "toaq": "leaqfıa",
     "type": "predicate",
     "english": "▯ immediately precedes ▯ in sequence ▯.",
     "gloss": "precede",
@@ -8737,7 +8737,7 @@
     "fields": []
   },
   {
-    "toaq": "leaqsīe",
+    "toaq": "leaqsıe",
     "type": "predicate",
     "english": "▯ immediately follows ▯ in sequence ▯; ▯ is next after ▯ in sequence ▯.",
     "gloss": "next",
@@ -8790,7 +8790,7 @@
     "fields": []
   },
   {
-    "toaq": "leoqchūo",
+    "toaq": "leoqchuo",
     "type": "predicate",
     "english": "▯ is a shield.",
     "gloss": "shield",
@@ -8813,7 +8813,7 @@
     "examples": []
   },
   {
-    "toaq": "mamā",
+    "toaq": "mama",
     "type": "predicate",
     "english": "▯ is mama (Mom, mommy, mum, mother).",
     "gloss": "mama",
@@ -8852,7 +8852,7 @@
     "fields": []
   },
   {
-    "toaq": "maıgāq",
+    "toaq": "maıgaq",
     "type": "predicate",
     "english": "▯ is a boyfriend/girlfriend/SO of ▯.",
     "gloss": "SO",
@@ -8865,7 +8865,7 @@
     "fields": []
   },
   {
-    "toaq": "maıjūo",
+    "toaq": "maıjuo",
     "type": "predicate",
     "english": "▯ is a love letter.",
     "gloss": "love.letter",
@@ -8891,7 +8891,7 @@
     "fields": []
   },
   {
-    "toaq": "maojā",
+    "toaq": "maoja",
     "type": "predicate",
     "english": "▯ is a banana.",
     "gloss": "banana",
@@ -8915,11 +8915,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Mủ kảqgāı hó.",
+        "toaq": "Mủ kảqgaı hó.",
         "english": "They are being seen."
       },
       {
-        "toaq": "Chỏqgī hóı jỏemū da.",
+        "toaq": "Chỏqgı hóı jỏemu da.",
         "english": "That skill is useful."
       }
     ],
@@ -8939,7 +8939,7 @@
     "fields": []
   },
   {
-    "toaq": "muqchēı",
+    "toaq": "muqcheı",
     "type": "predicate",
     "english": "▯ is a finger.",
     "gloss": "finger",
@@ -8952,7 +8952,7 @@
     "fields": []
   },
   {
-    "toaq": "muqcēa",
+    "toaq": "muqcea",
     "type": "predicate",
     "english": "▯ is a handbag.",
     "gloss": "handbag",
@@ -8965,7 +8965,7 @@
     "fields": []
   },
   {
-    "toaq": "muqdēa",
+    "toaq": "muqdea",
     "type": "predicate",
     "english": "▯ punches ▯.",
     "gloss": "punch",
@@ -8978,7 +8978,7 @@
     "fields": []
   },
   {
-    "toaq": "muqfūq",
+    "toaq": "muqfuq",
     "type": "predicate",
     "english": "▯ is a glove.",
     "gloss": "glove",
@@ -8991,7 +8991,7 @@
     "fields": []
   },
   {
-    "toaq": "muqjēıbēa",
+    "toaq": "muqjeıbea",
     "type": "predicate",
     "english": "▯ is a knuckle.",
     "gloss": "knuckle",
@@ -9030,7 +9030,7 @@
     "fields": []
   },
   {
-    "toaq": "muaqshō",
+    "toaq": "muaqsho",
     "type": "predicate",
     "english": "▯ dies.",
     "gloss": "die",
@@ -9043,7 +9043,7 @@
     "fields": []
   },
   {
-    "toaq": "muaqtūa",
+    "toaq": "muaqtua",
     "type": "predicate",
     "english": "▯ kills ▯.",
     "gloss": "kill",
@@ -9082,7 +9082,7 @@
     "fields": []
   },
   {
-    "toaq": "muaogūaq",
+    "toaq": "muaoguaq",
     "type": "predicate",
     "english": "▯ is a forest.",
     "gloss": "forest",
@@ -9095,7 +9095,7 @@
     "fields": []
   },
   {
-    "toaq": "muaomē",
+    "toaq": "muaome",
     "type": "predicate",
     "english": "▯ is a forest.",
     "gloss": "forest",
@@ -9121,7 +9121,7 @@
     "fields": []
   },
   {
-    "toaq": "muıdūa",
+    "toaq": "muıdua",
     "type": "predicate",
     "english": "▯ understands the meaning of ▯.",
     "gloss": "understand",
@@ -9147,7 +9147,7 @@
     "fields": []
   },
   {
-    "toaq": "muotūa",
+    "toaq": "muotua",
     "type": "predicate",
     "english": "▯ mends ▯; ▯ makes ▯ whole; ▯ completes ▯.",
     "gloss": "mend",
@@ -9212,7 +9212,7 @@
     "fields": []
   },
   {
-    "toaq": "mınū",
+    "toaq": "mınu",
     "type": "predicate",
     "english": "▯ is a minute.",
     "gloss": "minute",
@@ -9265,7 +9265,7 @@
     "fields": []
   },
   {
-    "toaq": "mıaqgāı",
+    "toaq": "mıaqgaı",
     "type": "predicate",
     "english": "▯ appreciates/esteems ▯.",
     "gloss": "esteem",
@@ -9278,7 +9278,7 @@
     "fields": []
   },
   {
-    "toaq": "mıaqjīe",
+    "toaq": "mıaqjıe",
     "type": "predicate",
     "english": "▯ appreciates ▯.",
     "gloss": "appreciate",
@@ -9304,7 +9304,7 @@
     "fields": []
   },
   {
-    "toaq": "mıaısē",
+    "toaq": "mıaıse",
     "type": "predicate",
     "english": "▯ is a rhyme.",
     "gloss": "rhyme",
@@ -9343,7 +9343,7 @@
     "fields": []
   },
   {
-    "toaq": "mıujēq",
+    "toaq": "mıujeq",
     "type": "predicate",
     "english": "▯ agrees with ▯ that ▯ is the case.",
     "gloss": "agree",
@@ -9370,7 +9370,7 @@
     "fields": []
   },
   {
-    "toaq": "mıochāq",
+    "toaq": "mıochaq",
     "type": "predicate",
     "english": "▯ is a Saturday.",
     "gloss": "saturday",
@@ -9383,7 +9383,7 @@
     "fields": []
   },
   {
-    "toaq": "mıorēo",
+    "toaq": "mıoreo",
     "type": "predicate",
     "english": "▯ is of blue colour.",
     "gloss": "blue",
@@ -9409,7 +9409,7 @@
     "fields": []
   },
   {
-    "toaq": "mıefēa",
+    "toaq": "mıefea",
     "type": "predicate",
     "english": "▯ survives ▯.",
     "gloss": "survive",
@@ -9422,7 +9422,7 @@
     "fields": []
   },
   {
-    "toaq": "mıehūa",
+    "toaq": "mıehua",
     "type": "predicate",
     "english": "▯ is a heart.",
     "gloss": "heart",
@@ -9494,7 +9494,7 @@
     "fields": []
   },
   {
-    "toaq": "moaqchūo",
+    "toaq": "moaqchuo",
     "type": "predicate",
     "english": "▯ is a mnemonic for remembering ▯.",
     "gloss": "mnemonic",
@@ -9507,7 +9507,7 @@
     "fields": []
   },
   {
-    "toaq": "moaqshāı",
+    "toaq": "moaqshaı",
     "type": "predicate",
     "english": "▯ forgets ▯.",
     "gloss": "forget",
@@ -9520,7 +9520,7 @@
     "fields": []
   },
   {
-    "toaq": "moaqsīo",
+    "toaq": "moaqsıo",
     "type": "predicate",
     "english": "▯ is a memory.",
     "gloss": "memory",
@@ -9559,7 +9559,7 @@
     "fields": []
   },
   {
-    "toaq": "moıhūa",
+    "toaq": "moıhua",
     "type": "predicate",
     "english": "▯ is a brain.",
     "gloss": "brain",
@@ -9572,7 +9572,7 @@
     "fields": []
   },
   {
-    "toaq": "moıjōe",
+    "toaq": "moıjoe",
     "type": "predicate",
     "english": "▯ is clever/smart/witty/intelligent.",
     "gloss": "clever",
@@ -9585,7 +9585,7 @@
     "fields": []
   },
   {
-    "toaq": "moılāo",
+    "toaq": "moılao",
     "type": "predicate",
     "english": "▯ hesitates.",
     "gloss": "hesitate",
@@ -9598,7 +9598,7 @@
     "fields": []
   },
   {
-    "toaq": "moınīeq",
+    "toaq": "moınıeq",
     "type": "predicate",
     "english": "▯ is dumb/stupid/unintelligent.",
     "gloss": "stupid",
@@ -9611,7 +9611,7 @@
     "fields": []
   },
   {
-    "toaq": "moısī",
+    "toaq": "moısı",
     "type": "predicate",
     "english": "▯ ponders / concentrates mentally on ▯.",
     "gloss": "ponder",
@@ -9624,7 +9624,7 @@
     "fields": []
   },
   {
-    "toaq": "moısē",
+    "toaq": "moıse",
     "type": "predicate",
     "english": "▯ is a thought.",
     "gloss": "thought",
@@ -9659,7 +9659,7 @@
     ]
   },
   {
-    "toaq": "moehūa",
+    "toaq": "moehua",
     "type": "predicate",
     "english": "▯ is an organ of feeling/emotion (“heart”).",
     "gloss": "organ.of.feeling",
@@ -9672,7 +9672,7 @@
     "fields": []
   },
   {
-    "toaq": "moerīaq",
+    "toaq": "moerıaq",
     "type": "predicate",
     "english": "▯ is a heart/emotional/spiritual center/core.",
     "gloss": "center.of.emotion",
@@ -9698,7 +9698,7 @@
     "fields": []
   },
   {
-    "toaq": "megā",
+    "toaq": "mega",
     "type": "predicate",
     "english": "▯ are 10<sup>6</sup> (1,000,000) in number; ▯ are a million.",
     "gloss": "mega",
@@ -9711,7 +9711,7 @@
     "fields": []
   },
   {
-    "toaq": "merīkā",
+    "toaq": "merıka",
     "type": "predicate",
     "english": "▯ is America (continent).",
     "gloss": "America",
@@ -9737,7 +9737,7 @@
     "fields": []
   },
   {
-    "toaq": "meahēo",
+    "toaq": "meaheo",
     "type": "predicate",
     "english": "▯ is different from ▯; ▯ is not the same thing as ▯; ▯ is something else than ▯.",
     "gloss": "other",
@@ -9752,7 +9752,7 @@
     "fields": []
   },
   {
-    "toaq": "meajēq",
+    "toaq": "meajeq",
     "type": "predicate",
     "english": "▯ is the same thing as ▯.",
     "gloss": "same",
@@ -9767,7 +9767,7 @@
     "fields": []
   },
   {
-    "toaq": "meakūq",
+    "toaq": "meakuq",
     "type": "predicate",
     "english": "▯ mentions ▯ to ▯.",
     "gloss": "mention",
@@ -9793,7 +9793,7 @@
     "fields": []
   },
   {
-    "toaq": "meaqcē",
+    "toaq": "meaqce",
     "type": "predicate",
     "english": "▯ is a harbour/haven.",
     "gloss": "harbour",
@@ -9858,7 +9858,7 @@
     "fields": []
   },
   {
-    "toaq": "meoqkōı",
+    "toaq": "meoqkoı",
     "type": "predicate",
     "english": "▯ walks.",
     "gloss": "walk",
@@ -9881,7 +9881,7 @@
     "examples": []
   },
   {
-    "toaq": "narāq",
+    "toaq": "naraq",
     "type": "predicate",
     "english": "▯ is the colour orange.",
     "gloss": "orange",
@@ -9894,7 +9894,7 @@
     "fields": []
   },
   {
-    "toaq": "narāqchāq",
+    "toaq": "naraqchaq",
     "type": "predicate",
     "english": "▯ is a Tuesday.",
     "gloss": "tuesday",
@@ -9907,7 +9907,7 @@
     "fields": []
   },
   {
-    "toaq": "narāqrēo",
+    "toaq": "naraqreo",
     "type": "predicate",
     "english": "▯ is of orange colour.",
     "gloss": "orange",
@@ -9933,7 +9933,7 @@
     "fields": []
   },
   {
-    "toaq": "naqdēo",
+    "toaq": "naqdeo",
     "type": "predicate",
     "english": "▯ is a boy.",
     "gloss": "boy",
@@ -9946,7 +9946,7 @@
     "fields": []
   },
   {
-    "toaq": "naqfū",
+    "toaq": "naqfu",
     "type": "predicate",
     "english": "▯ is a son (male biological offspring) of ▯.",
     "gloss": "son",
@@ -9959,7 +9959,7 @@
     "fields": []
   },
   {
-    "toaq": "naqpāo",
+    "toaq": "naqpao",
     "type": "predicate",
     "english": "▯ is a father of ▯; acts as a father towards ▯.",
     "gloss": "father",
@@ -9972,7 +9972,7 @@
     "fields": []
   },
   {
-    "toaq": "naqpīa",
+    "toaq": "naqpıa",
     "type": "predicate",
     "english": "▯ is a brother of ▯.",
     "gloss": "brother",
@@ -9985,7 +9985,7 @@
     "fields": []
   },
   {
-    "toaq": "naqrōaq",
+    "toaq": "naqroaq",
     "type": "predicate",
     "english": "▯ is a biological father of ▯.",
     "gloss": "father",
@@ -9998,7 +9998,7 @@
     "fields": []
   },
   {
-    "toaq": "naqrēq",
+    "toaq": "naqreq",
     "type": "predicate",
     "english": "▯ is a male human; ▯ is a man.",
     "gloss": "man",
@@ -10011,7 +10011,7 @@
     "fields": []
   },
   {
-    "toaq": "naqsēo",
+    "toaq": "naqseo",
     "type": "predicate",
     "english": "▯ is a husband of ▯.",
     "gloss": "husband",
@@ -10051,7 +10051,7 @@
     "fields": []
   },
   {
-    "toaq": "naogūaq",
+    "toaq": "naoguaq",
     "type": "predicate",
     "english": "▯ is an island.",
     "gloss": "island",
@@ -10064,7 +10064,7 @@
     "fields": []
   },
   {
-    "toaq": "naokūa",
+    "toaq": "naokua",
     "type": "predicate",
     "english": "▯ is a bathroom.",
     "gloss": "bathroom",
@@ -10077,7 +10077,7 @@
     "fields": []
   },
   {
-    "toaq": "naonīaı",
+    "toaq": "naonıaı",
     "type": "predicate",
     "english": "▯ is an aquatic life form.",
     "gloss": "aquatic.life",
@@ -10134,7 +10134,7 @@
     "fields": []
   },
   {
-    "toaq": "nuakōe",
+    "toaq": "nuakoe",
     "type": "predicate",
     "english": "▯ picks ▯; ▯ chooses and takes ▯.",
     "gloss": "pick",
@@ -10160,7 +10160,7 @@
     "fields": []
   },
   {
-    "toaq": "nuaqchū",
+    "toaq": "nuaqchu",
     "type": "predicate",
     "english": "▯ is midnight.",
     "gloss": "midnight",
@@ -10186,7 +10186,7 @@
     "fields": []
   },
   {
-    "toaq": "nuaıjīo",
+    "toaq": "nuaıjıo",
     "type": "predicate",
     "english": "▯ is a bank.",
     "gloss": "bank",
@@ -10225,7 +10225,7 @@
     "fields": []
   },
   {
-    "toaq": "nuıdōaq",
+    "toaq": "nuıdoaq",
     "type": "predicate",
     "english": "▯ is a town.",
     "gloss": "town",
@@ -10251,7 +10251,7 @@
     "fields": []
   },
   {
-    "toaq": "nuofūq",
+    "toaq": "nuofuq",
     "type": "predicate",
     "english": "▯ is a pyjama.",
     "gloss": "pyjama",
@@ -10264,7 +10264,7 @@
     "fields": []
   },
   {
-    "toaq": "nuofūa",
+    "toaq": "nuofua",
     "type": "predicate",
     "english": "▯ is a bed.",
     "gloss": "bed",
@@ -10277,7 +10277,7 @@
     "fields": []
   },
   {
-    "toaq": "nuokūa",
+    "toaq": "nuokua",
     "type": "predicate",
     "english": "▯ is a bedroom.",
     "gloss": "bedroom",
@@ -10290,7 +10290,7 @@
     "fields": []
   },
   {
-    "toaq": "nuokūaı",
+    "toaq": "nuokuaı",
     "type": "predicate",
     "english": "▯ is tired.",
     "gloss": "tired",
@@ -10368,7 +10368,7 @@
     "fields": []
   },
   {
-    "toaq": "nıchāq",
+    "toaq": "nıchaq",
     "type": "predicate",
     "english": "▯ is today.",
     "gloss": "today",
@@ -10381,7 +10381,7 @@
     "fields": []
   },
   {
-    "toaq": "nıdāq",
+    "toaq": "nıdaq",
     "type": "predicate",
     "english": "▯ is the now.",
     "gloss": "now",
@@ -10394,7 +10394,7 @@
     "fields": []
   },
   {
-    "toaq": "nıjāo",
+    "toaq": "nıjao",
     "type": "predicate",
     "english": "▯ is that far away thing.",
     "gloss": "far.away",
@@ -10407,7 +10407,7 @@
     "fields": []
   },
   {
-    "toaq": "nıjūı",
+    "toaq": "nıjuı",
     "type": "predicate",
     "english": "▯ is this nearby thing.",
     "gloss": "nearby",
@@ -10420,7 +10420,7 @@
     "fields": []
   },
   {
-    "toaq": "nınūaq",
+    "toaq": "nınuaq",
     "type": "predicate",
     "english": "▯ is tonight.",
     "gloss": "tonight",
@@ -10446,7 +10446,7 @@
     "fields": []
   },
   {
-    "toaq": "nıqdāo",
+    "toaq": "nıqdao",
     "type": "predicate",
     "english": "▯ are news.",
     "gloss": "news",
@@ -10459,7 +10459,7 @@
     "fields": []
   },
   {
-    "toaq": "nıqdūa",
+    "toaq": "nıqdua",
     "type": "predicate",
     "english": "▯ discovers / finds out ▯.",
     "gloss": "discover",
@@ -10472,7 +10472,7 @@
     "fields": []
   },
   {
-    "toaq": "nıqgūo",
+    "toaq": "nıqguo",
     "type": "predicate",
     "english": "▯ happens again.",
     "gloss": "again",
@@ -10485,7 +10485,7 @@
     "fields": []
   },
   {
-    "toaq": "nıqgūokūaı",
+    "toaq": "nıqguokuaı",
     "type": "predicate",
     "english": "▯ misses ▯; ▯ hungers for ▯ to happen again.",
     "gloss": "miss",
@@ -10524,7 +10524,7 @@
     "fields": []
   },
   {
-    "toaq": "nıaqdīaq",
+    "toaq": "nıaqdıaq",
     "type": "predicate",
     "english": "▯ is annual.",
     "gloss": "annual",
@@ -10563,7 +10563,7 @@
     "fields": []
   },
   {
-    "toaq": "nıaoshūa",
+    "toaq": "nıaoshua",
     "type": "predicate",
     "english": "It snows; ▯ snows; ▯ snows onto ▯.",
     "gloss": "snow",
@@ -10574,7 +10574,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Nỉaoshūa.",
+        "toaq": "Nỉaoshua.",
         "english": "It's snowing."
       }
     ],
@@ -10594,7 +10594,7 @@
     "fields": []
   },
   {
-    "toaq": "nıubōe",
+    "toaq": "nıuboe",
     "type": "predicate",
     "english": "▯ is a leaf (of a plant).",
     "gloss": "leaf",
@@ -10620,7 +10620,7 @@
     "fields": []
   },
   {
-    "toaq": "nıodē",
+    "toaq": "nıode",
     "type": "predicate",
     "english": "▯ is cute.",
     "gloss": "cute",
@@ -10659,7 +10659,7 @@
     "fields": []
   },
   {
-    "toaq": "nıefā",
+    "toaq": "nıefa",
     "type": "predicate",
     "english": "▯ enters / goes inside ▯.",
     "gloss": "enter",
@@ -10672,7 +10672,7 @@
     "fields": []
   },
   {
-    "toaq": "nıeshūa",
+    "toaq": "nıeshua",
     "type": "predicate",
     "english": "▯ falls into ▯.",
     "gloss": "fall.in",
@@ -10685,7 +10685,7 @@
     "fields": []
   },
   {
-    "toaq": "nıetūa",
+    "toaq": "nıetua",
     "type": "predicate",
     "english": "▯ puts ▯ inside ▯.",
     "gloss": "insert",
@@ -10726,7 +10726,7 @@
         "english": "In what language are you communicating?"
       },
       {
-        "toaq": "nò Fárāqsē",
+        "toaq": "nò Fáraqse",
         "english": "in French"
       }
     ],
@@ -10746,7 +10746,7 @@
     "fields": []
   },
   {
-    "toaq": "noqgāı",
+    "toaq": "noqgaı",
     "type": "predicate",
     "english": "▯ tastes state of affairs ▯.",
     "gloss": "taste",
@@ -10759,7 +10759,7 @@
     "fields": []
   },
   {
-    "toaq": "noqgī",
+    "toaq": "noqgı",
     "type": "predicate",
     "english": "▯ tastes good / is delicious; ▯ tastes good / is delicious to ▯.",
     "gloss": "delicious",
@@ -10772,7 +10772,7 @@
     "fields": []
   },
   {
-    "toaq": "noqhūı",
+    "toaq": "noqhuı",
     "type": "predicate",
     "english": "▯ tastes bad; ▯ tastes bad to ▯.",
     "gloss": "taste.bad",
@@ -10785,7 +10785,7 @@
     "fields": []
   },
   {
-    "toaq": "noqsī",
+    "toaq": "noqsı",
     "type": "predicate",
     "english": "▯ listens to the taste of ▯.",
     "gloss": "taste-listen",
@@ -10850,7 +10850,7 @@
     "fields": []
   },
   {
-    "toaq": "noılīe",
+    "toaq": "noılıe",
     "type": "predicate",
     "english": "▯ suffers / has pain.",
     "gloss": "suffer",
@@ -10885,7 +10885,7 @@
     "frame": "0 c",
     "distribution": "d d",
     "notes": [
-      "This word does not imply good luck by itself. See **gınēq** and **huınēq** for good and bad luck respectively."
+      "This word does not imply good luck by itself. See **gıneq** and **huıneq** for good and bad luck respectively."
     ],
     "examples": [],
     "fields": []
@@ -10917,7 +10917,7 @@
     "fields": []
   },
   {
-    "toaq": "neaqgūaq",
+    "toaq": "neaqguaq",
     "type": "predicate",
     "english": "▯ is a desert.",
     "gloss": "desert",
@@ -10943,7 +10943,7 @@
     "fields": []
   },
   {
-    "toaq": "neıkō",
+    "toaq": "neıko",
     "type": "predicate",
     "english": "▯ is ninth among ▯.",
     "gloss": "ninth",
@@ -10992,7 +10992,7 @@
     "examples": []
   },
   {
-    "toaq": "papā",
+    "toaq": "papa",
     "type": "predicate",
     "english": "▯ is papa (Dad, daddy, father).",
     "gloss": "papa",
@@ -11005,7 +11005,7 @@
     "fields": []
   },
   {
-    "toaq": "patī",
+    "toaq": "patı",
     "type": "predicate",
     "english": "▯ is a party (gathering for entertainment, fun and socializing).",
     "gloss": "party",
@@ -11031,7 +11031,7 @@
     "fields": []
   },
   {
-    "toaq": "paqcīa",
+    "toaq": "paqcıa",
     "type": "predicate",
     "english": "▯ lacks part ▯; ▯ is missing part ▯.",
     "gloss": "lack",
@@ -11044,7 +11044,7 @@
     "fields": []
   },
   {
-    "toaq": "paqmūo",
+    "toaq": "paqmuo",
     "type": "predicate",
     "english": "▯ is whole/complete.",
     "gloss": "whole",
@@ -11057,7 +11057,7 @@
     "fields": []
   },
   {
-    "toaq": "paqnūa",
+    "toaq": "paqnua",
     "type": "predicate",
     "english": "▯ removes part ▯ from ▯.",
     "gloss": "remove",
@@ -11070,7 +11070,7 @@
     "fields": []
   },
   {
-    "toaq": "paqshāı",
+    "toaq": "paqshaı",
     "type": "predicate",
     "english": "▯ loses part ▯.",
     "gloss": "lose",
@@ -11083,7 +11083,7 @@
     "fields": []
   },
   {
-    "toaq": "paqtāo",
+    "toaq": "paqtao",
     "type": "predicate",
     "english": "▯ takes part in ▯; ▯ participates in ▯.",
     "gloss": "participate",
@@ -11110,7 +11110,7 @@
     "fields": []
   },
   {
-    "toaq": "paıgī",
+    "toaq": "paıgı",
     "type": "predicate",
     "english": "▯ is friendly towards ▯.",
     "gloss": "friendly",
@@ -11123,7 +11123,7 @@
     "fields": []
   },
   {
-    "toaq": "paırūo",
+    "toaq": "paıruo",
     "type": "predicate",
     "english": "▯ acts friendly/kindly towards ▯.",
     "gloss": "friendly",
@@ -11162,7 +11162,7 @@
     "fields": []
   },
   {
-    "toaq": "puchāq",
+    "toaq": "puchaq",
     "type": "predicate",
     "english": "▯ is yesterday.",
     "gloss": "yesterday",
@@ -11175,7 +11175,7 @@
     "fields": []
   },
   {
-    "toaq": "pujāo",
+    "toaq": "pujao",
     "type": "predicate",
     "english": "▯ happened a long time ago.",
     "gloss": "long.ago",
@@ -11188,7 +11188,7 @@
     "fields": []
   },
   {
-    "toaq": "pujūı",
+    "toaq": "pujuı",
     "type": "predicate",
     "english": "▯ happened a short time ago.",
     "gloss": "shortly.ago",
@@ -11214,7 +11214,7 @@
     "fields": []
   },
   {
-    "toaq": "puqhō",
+    "toaq": "puqho",
     "type": "predicate",
     "english": "▯ are them.",
     "gloss": "they",
@@ -11253,7 +11253,7 @@
     "fields": []
   },
   {
-    "toaq": "puaqgāı",
+    "toaq": "puaqgaı",
     "type": "predicate",
     "english": "▯ touch feels ▯.",
     "gloss": "touch.feel",
@@ -11266,7 +11266,7 @@
     "fields": []
   },
   {
-    "toaq": "puaqgī",
+    "toaq": "puaqgı",
     "type": "predicate",
     "english": "▯ is nice to the touch; ▯ is nice to the touch of ▯.",
     "gloss": "feel.good",
@@ -11279,7 +11279,7 @@
     "fields": []
   },
   {
-    "toaq": "puaqsī",
+    "toaq": "puaqsı",
     "type": "predicate",
     "english": "▯ focuses on touch feeling ▯.",
     "gloss": "touch.feel",
@@ -11331,7 +11331,7 @@
     "fields": []
   },
   {
-    "toaq": "puıjēq",
+    "toaq": "puıjeq",
     "type": "predicate",
     "english": "▯ are equal in number to ▯; ▯ and ▯ are equinumerous.",
     "gloss": "same.number",
@@ -11344,7 +11344,7 @@
     "fields": []
   },
   {
-    "toaq": "puıpōqchāo",
+    "toaq": "puıpoqchao",
     "type": "predicate",
     "english": "▯ is a bus/omnibus.",
     "gloss": "bus",
@@ -11357,7 +11357,7 @@
     "fields": []
   },
   {
-    "toaq": "puıshō",
+    "toaq": "puısho",
     "type": "predicate",
     "english": "▯ multiplies.",
     "gloss": "multiply",
@@ -11370,7 +11370,7 @@
     "fields": []
   },
   {
-    "toaq": "puısīa",
+    "toaq": "puısıa",
     "type": "predicate",
     "english": "▯ are zero in number; ▯ are none.",
     "gloss": "zero",
@@ -11383,7 +11383,7 @@
     "fields": []
   },
   {
-    "toaq": "puıtūa",
+    "toaq": "puıtua",
     "type": "predicate",
     "english": "▯ multiplies ▯.",
     "gloss": "multiply",
@@ -11396,7 +11396,7 @@
     "fields": []
   },
   {
-    "toaq": "puıtūao",
+    "toaq": "puıtuao",
     "type": "predicate",
     "english": "▯ are few in number.",
     "gloss": "few",
@@ -11435,7 +11435,7 @@
     "fields": []
   },
   {
-    "toaq": "puebēa",
+    "toaq": "puebea",
     "type": "predicate",
     "english": "▯ is a knee.",
     "gloss": "knee",
@@ -11448,7 +11448,7 @@
     "fields": []
   },
   {
-    "toaq": "puedēa",
+    "toaq": "puedea",
     "type": "predicate",
     "english": "▯ kicks ▯.",
     "gloss": "kick",
@@ -11461,7 +11461,7 @@
     "fields": []
   },
   {
-    "toaq": "puefūq",
+    "toaq": "puefuq",
     "type": "predicate",
     "english": "▯ is a shoe.",
     "gloss": "shoe",
@@ -11474,7 +11474,7 @@
     "fields": []
   },
   {
-    "toaq": "puegāo",
+    "toaq": "puegao",
     "type": "predicate",
     "english": "▯ is a sock.",
     "gloss": "sock",
@@ -11487,7 +11487,7 @@
     "fields": []
   },
   {
-    "toaq": "puejēı",
+    "toaq": "puejeı",
     "type": "predicate",
     "english": "▯ is a toe.",
     "gloss": "toe",
@@ -11500,7 +11500,7 @@
     "fields": []
   },
   {
-    "toaq": "pueshīo",
+    "toaq": "pueshıo",
     "type": "predicate",
     "english": "▯ is a hip.",
     "gloss": "hip",
@@ -11539,7 +11539,7 @@
     "fields": []
   },
   {
-    "toaq": "pıcīu",
+    "toaq": "pıcıu",
     "type": "predicate",
     "english": "▯ urinates/pees/pisses.",
     "gloss": "urinate",
@@ -11552,7 +11552,7 @@
     "fields": []
   },
   {
-    "toaq": "pıjāmā",
+    "toaq": "pıjama",
     "type": "predicate",
     "english": "▯ is a pyjama.",
     "gloss": "pyjama",
@@ -11565,7 +11565,7 @@
     "fields": []
   },
   {
-    "toaq": "pısō",
+    "toaq": "pıso",
     "type": "predicate",
     "english": "▯ is a pear.",
     "gloss": "pear",
@@ -11591,7 +11591,7 @@
     "fields": []
   },
   {
-    "toaq": "pıanō",
+    "toaq": "pıano",
     "type": "predicate",
     "english": "▯ is a piano.",
     "gloss": "piano",
@@ -11656,7 +11656,7 @@
     "fields": []
   },
   {
-    "toaq": "pıekūaı",
+    "toaq": "pıekuaı",
     "type": "predicate",
     "english": "▯ is thirsty.",
     "gloss": "thirsty",
@@ -11682,7 +11682,7 @@
     "fields": []
   },
   {
-    "toaq": "pohō",
+    "toaq": "poho",
     "type": "predicate",
     "english": "▯ is his/hers/theirs.",
     "gloss": "his/her",
@@ -11695,7 +11695,7 @@
     "fields": []
   },
   {
-    "toaq": "pojī",
+    "toaq": "pojı",
     "type": "predicate",
     "english": "▯ is mine.",
     "gloss": "my",
@@ -11708,7 +11708,7 @@
     "fields": []
   },
   {
-    "toaq": "pomāq",
+    "toaq": "pomaq",
     "type": "predicate",
     "english": "▯ is its.",
     "gloss": "its",
@@ -11721,7 +11721,7 @@
     "fields": []
   },
   {
-    "toaq": "popūqhō",
+    "toaq": "popuqho",
     "type": "predicate",
     "english": "▯ is theirs.",
     "gloss": "their",
@@ -11734,7 +11734,7 @@
     "fields": []
   },
   {
-    "toaq": "popūqjī",
+    "toaq": "popuqjı",
     "type": "predicate",
     "english": "▯ is ours.",
     "gloss": "our",
@@ -11747,7 +11747,7 @@
     "fields": []
   },
   {
-    "toaq": "popūqsūq",
+    "toaq": "popuqsuq",
     "type": "predicate",
     "english": "▯ is yours.",
     "gloss": "your",
@@ -11760,7 +11760,7 @@
     "fields": []
   },
   {
-    "toaq": "posūq",
+    "toaq": "posuq",
     "type": "predicate",
     "english": "▯ is yours.",
     "gloss": "your",
@@ -11773,7 +11773,7 @@
     "fields": []
   },
   {
-    "toaq": "posūqjī",
+    "toaq": "posuqjı",
     "type": "predicate",
     "english": "▯ is ours.",
     "gloss": "our",
@@ -11800,7 +11800,7 @@
     "fields": []
   },
   {
-    "toaq": "poqmē",
+    "toaq": "poqme",
     "type": "predicate",
     "english": "▯ is a group of people.",
     "gloss": "group.of.people",
@@ -11839,7 +11839,7 @@
     "fields": []
   },
   {
-    "toaq": "poaqsē",
+    "toaq": "poaqse",
     "type": "predicate",
     "english": "▯ is a shard/cullet.",
     "gloss": "shard",
@@ -11890,14 +11890,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Nủı ní pè báq hẻlū da.",
+        "toaq": "Nủı ní pè báq hẻlu da.",
         "english": "This one is small for an elephant."
       }
     ],
     "fields": []
   },
   {
-    "toaq": "petā",
+    "toaq": "peta",
     "type": "predicate",
     "english": "▯ are 10<sup>15</sup> (1,000,000,000,000,000) in number; ▯ are a quadrillion.",
     "gloss": "peta",
@@ -11923,7 +11923,7 @@
     "fields": []
   },
   {
-    "toaq": "peqbōe",
+    "toaq": "peqboe",
     "type": "predicate",
     "english": "▯ is a sheet of paper.",
     "gloss": "sheet",
@@ -11947,7 +11947,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "pèa sa dáqnē",
+        "toaq": "pèa sa dáqne",
         "english": "some time ago"
       }
     ],
@@ -11977,7 +11977,7 @@
     "examples": []
   },
   {
-    "toaq": "radīo",
+    "toaq": "radıo",
     "type": "predicate",
     "english": "▯ pertains to radio transmission.",
     "gloss": "radio",
@@ -12003,7 +12003,7 @@
     "fields": []
   },
   {
-    "toaq": "raqmōı",
+    "toaq": "raqmoı",
     "type": "predicate",
     "english": "▯ thinks about ▯.",
     "gloss": "think.about",
@@ -12029,7 +12029,7 @@
     "fields": []
   },
   {
-    "toaq": "raıjēq",
+    "toaq": "raıjeq",
     "type": "predicate",
     "english": "▯ is the same thing as ▯.",
     "gloss": "same",
@@ -12057,7 +12057,7 @@
         "english": "some time; at some point"
       },
       {
-        "toaq": "rào sıa dáqmōa",
+        "toaq": "rào sıa dáqmoa",
         "english": "never, at no moment"
       },
       {
@@ -12065,7 +12065,7 @@
         "english": "every day"
       },
       {
-        "toaq": "rào tu dáqmōa",
+        "toaq": "rào tu dáqmoa",
         "english": "always, at every moment"
       }
     ],
@@ -12095,7 +12095,7 @@
     "fields": []
   },
   {
-    "toaq": "ruqdīao",
+    "toaq": "ruqdıao",
     "type": "predicate",
     "english": "▯ is a raindrop.",
     "gloss": "raindrop",
@@ -12108,7 +12108,7 @@
     "fields": []
   },
   {
-    "toaq": "ruqnūao",
+    "toaq": "ruqnuao",
     "type": "predicate",
     "english": "▯ is a rainbow.",
     "gloss": "rainbow",
@@ -12121,7 +12121,7 @@
     "fields": []
   },
   {
-    "toaq": "ruqshūa",
+    "toaq": "ruqshua",
     "type": "predicate",
     "english": "It rains; ▯ rains; ▯ rains onto ▯.",
     "gloss": "rain",
@@ -12132,7 +12132,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Rủqshūa.",
+        "toaq": "Rủqshua.",
         "english": "It's raining."
       }
     ],
@@ -12178,7 +12178,7 @@
     "fields": []
   },
   {
-    "toaq": "ruaıchēa",
+    "toaq": "ruaıchea",
     "type": "predicate",
     "english": "▯ is a crown.",
     "gloss": "crown",
@@ -12191,7 +12191,7 @@
     "fields": []
   },
   {
-    "toaq": "ruaıjōaq",
+    "toaq": "ruaıjoaq",
     "type": "predicate",
     "english": "▯ is a king/queen.",
     "gloss": "king/queen",
@@ -12204,7 +12204,7 @@
     "fields": []
   },
   {
-    "toaq": "ruaılīqfū",
+    "toaq": "ruaılıqfu",
     "type": "predicate",
     "english": "▯ is a princess.",
     "gloss": "princess",
@@ -12217,7 +12217,7 @@
     "fields": []
   },
   {
-    "toaq": "ruaınāqfū",
+    "toaq": "ruaınaqfu",
     "type": "predicate",
     "english": "▯ is a prince.",
     "gloss": "prince",
@@ -12256,7 +12256,7 @@
     "fields": []
   },
   {
-    "toaq": "ruırēo",
+    "toaq": "ruıreo",
     "type": "predicate",
     "english": "▯ is of gray colour.",
     "gloss": "gray",
@@ -12282,7 +12282,7 @@
     "fields": []
   },
   {
-    "toaq": "ruogī",
+    "toaq": "ruogı",
     "type": "predicate",
     "english": "▯ is well-behaved/good/nice.",
     "gloss": "kind",
@@ -12360,7 +12360,7 @@
     "fields": []
   },
   {
-    "toaq": "rıqchāq",
+    "toaq": "rıqchaq",
     "type": "predicate",
     "english": "▯ is a Thursday.",
     "gloss": "thursday",
@@ -12373,7 +12373,7 @@
     "fields": []
   },
   {
-    "toaq": "rıqrēo",
+    "toaq": "rıqreo",
     "type": "predicate",
     "english": "▯ is of green colour.",
     "gloss": "green",
@@ -12451,7 +12451,7 @@
     "fields": []
   },
   {
-    "toaq": "rıubēaq",
+    "toaq": "rıubeaq",
     "type": "predicate",
     "english": "▯ is a boomerang.",
     "gloss": "boomerang",
@@ -12464,7 +12464,7 @@
     "fields": []
   },
   {
-    "toaq": "rıudūo",
+    "toaq": "rıuduo",
     "type": "predicate",
     "english": "▯ returns to ▯; ▯ moves back to ▯.",
     "gloss": "return",
@@ -12477,7 +12477,7 @@
     "fields": []
   },
   {
-    "toaq": "rıudōa",
+    "toaq": "rıudoa",
     "type": "predicate",
     "english": "▯ returns ▯ to ▯; ▯ gives property ▯ back to ▯.",
     "gloss": "give.back",
@@ -12490,7 +12490,7 @@
     "fields": []
   },
   {
-    "toaq": "rıufā",
+    "toaq": "rıufa",
     "type": "predicate",
     "english": "▯ returns to ▯; ▯ goes back to ▯.",
     "gloss": "return",
@@ -12516,7 +12516,7 @@
     "fields": []
   },
   {
-    "toaq": "rıochāo",
+    "toaq": "rıochao",
     "type": "predicate",
     "english": "▯ is an aircraft/plane.",
     "gloss": "aircraft",
@@ -12529,7 +12529,7 @@
     "fields": []
   },
   {
-    "toaq": "rıofā",
+    "toaq": "rıofa",
     "type": "predicate",
     "english": "▯ flies; ▯ flies to ▯ from ▯.",
     "gloss": "fly",
@@ -12604,7 +12604,7 @@
     "fields": []
   },
   {
-    "toaq": "roqdīao",
+    "toaq": "roqdıao",
     "type": "predicate",
     "english": "▯ is a tear/teardrop.",
     "gloss": "tear",
@@ -12635,7 +12635,7 @@
     "fields": []
   },
   {
-    "toaq": "roajīaq",
+    "toaq": "roajıaq",
     "type": "predicate",
     "english": "▯ is nature.",
     "gloss": "nature",
@@ -12674,7 +12674,7 @@
     "fields": []
   },
   {
-    "toaq": "roaıkō",
+    "toaq": "roaıko",
     "type": "predicate",
     "english": "▯ is eighth among ▯.",
     "gloss": "eighth",
@@ -12710,7 +12710,7 @@
     "fields": []
   },
   {
-    "toaq": "roeshō",
+    "toaq": "roesho",
     "type": "predicate",
     "english": "▯ recovers; ▯ becomes healthy.",
     "gloss": "recover",
@@ -12736,7 +12736,7 @@
     "fields": []
   },
   {
-    "toaq": "reqsīu",
+    "toaq": "reqsıu",
     "type": "predicate",
     "english": "▯ is humanoid/human-like.",
     "gloss": "humanoid",
@@ -12810,7 +12810,7 @@
     "fields": []
   },
   {
-    "toaq": "reosīa",
+    "toaq": "reosıa",
     "type": "predicate",
     "english": "▯ is colourless.",
     "gloss": "colourless",
@@ -12836,7 +12836,7 @@
     "fields": []
   },
   {
-    "toaq": "reoqhāq",
+    "toaq": "reoqhaq",
     "type": "predicate",
     "english": "▯ is dinner (late/evening meal).",
     "gloss": "dinner",
@@ -12849,7 +12849,7 @@
     "fields": []
   },
   {
-    "toaq": "reoqrīao",
+    "toaq": "reoqrıao",
     "type": "predicate",
     "english": "▯ is dusk.",
     "gloss": "dusk",
@@ -12885,7 +12885,7 @@
     ]
   },
   {
-    "toaq": "sabāq",
+    "toaq": "sabaq",
     "type": "predicate",
     "english": "▯ is soap.",
     "gloss": "soap",
@@ -12898,7 +12898,7 @@
     "fields": []
   },
   {
-    "toaq": "sarālīa",
+    "toaq": "saralıa",
     "type": "predicate",
     "english": "▯ is Australia.",
     "gloss": "Australia",
@@ -12924,7 +12924,7 @@
     "fields": []
   },
   {
-    "toaq": "saqchīo",
+    "toaq": "saqchıo",
     "type": "predicate",
     "english": "▯ happens thrice / three times.",
     "gloss": "thrice",
@@ -12937,7 +12937,7 @@
     "fields": []
   },
   {
-    "toaq": "saqkō",
+    "toaq": "saqko",
     "type": "predicate",
     "english": "▯ is third among ▯.",
     "gloss": "third",
@@ -12950,7 +12950,7 @@
     "fields": []
   },
   {
-    "toaq": "saqlīaq",
+    "toaq": "saqlıaq",
     "type": "predicate",
     "english": "▯ is a triplet.",
     "gloss": "triplet",
@@ -12963,7 +12963,7 @@
     "fields": []
   },
   {
-    "toaq": "saqsīoq",
+    "toaq": "saqsıoq",
     "type": "predicate",
     "english": "▯ is a tricycle.",
     "gloss": "tricycle",
@@ -13002,7 +13002,7 @@
     "fields": []
   },
   {
-    "toaq": "saodōaq",
+    "toaq": "saodoaq",
     "type": "predicate",
     "english": "▯ is a city.",
     "gloss": "city",
@@ -13015,7 +13015,7 @@
     "fields": []
   },
   {
-    "toaq": "saojēaq",
+    "toaq": "saojeaq",
     "type": "predicate",
     "english": "▯ grows / gets bigger.",
     "gloss": "grow",
@@ -13041,7 +13041,7 @@
     "fields": []
   },
   {
-    "toaq": "suhū",
+    "toaq": "suhu",
     "type": "predicate",
     "english": "▯ is a pig.",
     "gloss": "pig",
@@ -13067,7 +13067,7 @@
     "fields": []
   },
   {
-    "toaq": "suqjī",
+    "toaq": "suqjı",
     "type": "predicate",
     "english": "▯ is us (we, the speaker and the listener(s)).",
     "gloss": "we",
@@ -13093,7 +13093,7 @@
     "fields": []
   },
   {
-    "toaq": "suahūaq",
+    "toaq": "suahuaq",
     "type": "predicate",
     "english": "▯ is superfluous / more than is necessary for ▯ to happen.",
     "gloss": "superfluous",
@@ -13132,7 +13132,7 @@
     "fields": []
   },
   {
-    "toaq": "suaıkūaı",
+    "toaq": "suaıkuaı",
     "type": "predicate",
     "english": "▯ is in a hurry; ▯ feels the urge to quickly satisfy property ▯.",
     "gloss": "in.a.hurry",
@@ -13145,7 +13145,7 @@
     "fields": []
   },
   {
-    "toaq": "suaıkōı",
+    "toaq": "suaıkoı",
     "type": "predicate",
     "english": "▯ runs.",
     "gloss": "run",
@@ -13171,7 +13171,7 @@
     "fields": []
   },
   {
-    "toaq": "suaojīe",
+    "toaq": "suaojıe",
     "type": "predicate",
     "english": "▯ cares about ▯; ▯ considers ▯ important.",
     "gloss": "care",
@@ -13210,7 +13210,7 @@
     "fields": []
   },
   {
-    "toaq": "suetā",
+    "toaq": "sueta",
     "type": "predicate",
     "english": "▯ is a sweater.",
     "gloss": "sweater",
@@ -13236,7 +13236,7 @@
     "fields": []
   },
   {
-    "toaq": "shahā",
+    "toaq": "shaha",
     "type": "predicate",
     "english": "▯ is chess.",
     "gloss": "chess",
@@ -13249,7 +13249,7 @@
     "fields": []
   },
   {
-    "toaq": "shamū",
+    "toaq": "shamu",
     "type": "predicate",
     "english": "▯ is an apple.",
     "gloss": "apple",
@@ -13301,7 +13301,7 @@
     "fields": []
   },
   {
-    "toaq": "shaogī",
+    "toaq": "shaogı",
     "type": "predicate",
     "english": "▯ is good/virtuous.",
     "gloss": "good",
@@ -13314,7 +13314,7 @@
     "fields": []
   },
   {
-    "toaq": "shaohūı",
+    "toaq": "shaohuı",
     "type": "predicate",
     "english": "▯ is bad/evil/wicked.",
     "gloss": "bad",
@@ -13353,7 +13353,7 @@
     "fields": []
   },
   {
-    "toaq": "shuacāo",
+    "toaq": "shuacao",
     "type": "predicate",
     "english": "▯ is an autumn/fall.",
     "gloss": "autumn",
@@ -13379,7 +13379,7 @@
     "fields": []
   },
   {
-    "toaq": "shuaqjīo",
+    "toaq": "shuaqjıo",
     "type": "predicate",
     "english": "▯ is a factory.",
     "gloss": "factory",
@@ -13392,7 +13392,7 @@
     "fields": []
   },
   {
-    "toaq": "shuaqsē",
+    "toaq": "shuaqse",
     "type": "predicate",
     "english": "▯ is a product.",
     "gloss": "product",
@@ -13496,7 +13496,7 @@
     "fields": []
   },
   {
-    "toaq": "shıchīo",
+    "toaq": "shıchıo",
     "type": "predicate",
     "english": "▯ happens once / one time.",
     "gloss": "once",
@@ -13509,7 +13509,7 @@
     "fields": []
   },
   {
-    "toaq": "shıhō",
+    "toaq": "shıho",
     "type": "predicate",
     "english": "▯ is him/her (singular).",
     "gloss": "he/she",
@@ -13522,7 +13522,7 @@
     "fields": []
   },
   {
-    "toaq": "shıkō",
+    "toaq": "shıko",
     "type": "predicate",
     "english": "▯ is first among ▯.",
     "gloss": "first",
@@ -13535,7 +13535,7 @@
     "fields": []
   },
   {
-    "toaq": "shırāı",
+    "toaq": "shıraı",
     "type": "predicate",
     "english": "▯ is an individual.",
     "gloss": "individual",
@@ -13561,7 +13561,7 @@
     "fields": []
   },
   {
-    "toaq": "shıqgāı",
+    "toaq": "shıqgaı",
     "type": "predicate",
     "english": "▯ smells state of affairs ▯.",
     "gloss": "smell",
@@ -13574,7 +13574,7 @@
     "fields": []
   },
   {
-    "toaq": "shıqhūa",
+    "toaq": "shıqhua",
     "type": "predicate",
     "english": "▯ is a nose.",
     "gloss": "nose",
@@ -13600,7 +13600,7 @@
     "fields": []
   },
   {
-    "toaq": "shıabīo",
+    "toaq": "shıabıo",
     "type": "predicate",
     "english": "▯ is a glass (container).",
     "gloss": "glass",
@@ -13613,7 +13613,7 @@
     "fields": []
   },
   {
-    "toaq": "shıapōaqsē",
+    "toaq": "shıapoaqse",
     "type": "predicate",
     "english": "▯ is a glass shard; ▯ is a piece of broken glass.",
     "gloss": "glass.shard",
@@ -13652,7 +13652,7 @@
     "fields": []
   },
   {
-    "toaq": "shıujāı",
+    "toaq": "shıujaı",
     "type": "predicate",
     "english": "▯ looks forward to ▯; ▯ is in joyful anticipation of ▯.",
     "gloss": "look.forward",
@@ -13665,7 +13665,7 @@
     "fields": []
   },
   {
-    "toaq": "shıukūnē",
+    "toaq": "shıukune",
     "type": "predicate",
     "english": "▯ is a racoon; ▯ is a member of genus Procyon.",
     "gloss": "raccoon",
@@ -13678,7 +13678,7 @@
     "fields": []
   },
   {
-    "toaq": "shıumē",
+    "toaq": "shıume",
     "type": "predicate",
     "english": "▯ is a/the past.",
     "gloss": "past",
@@ -13691,7 +13691,7 @@
     "fields": []
   },
   {
-    "toaq": "shıumējīo",
+    "toaq": "shıumejıo",
     "type": "predicate",
     "english": "▯ is a museum.",
     "gloss": "museum",
@@ -13860,7 +13860,7 @@
     "fields": []
   },
   {
-    "toaq": "sheokūq",
+    "toaq": "sheokuq",
     "type": "predicate",
     "english": "▯ says sorry to ▯.",
     "gloss": "apologize",
@@ -13886,7 +13886,7 @@
     "fields": []
   },
   {
-    "toaq": "sıdī",
+    "toaq": "sıdı",
     "type": "predicate",
     "english": "▯ is a CD.",
     "gloss": "CD",
@@ -13899,7 +13899,7 @@
     "fields": []
   },
   {
-    "toaq": "sıgā",
+    "toaq": "sıga",
     "type": "predicate",
     "english": "▯ is a cigarette.",
     "gloss": "cigarette",
@@ -13912,7 +13912,7 @@
     "fields": []
   },
   {
-    "toaq": "sımī",
+    "toaq": "sımı",
     "type": "predicate",
     "english": "▯ is a monkey.",
     "gloss": "monkey",
@@ -13938,7 +13938,7 @@
     "fields": []
   },
   {
-    "toaq": "sıqkēa",
+    "toaq": "sıqkea",
     "type": "predicate",
     "english": "▯ is a washing machine.",
     "gloss": "washing.machine",
@@ -13970,7 +13970,7 @@
     ]
   },
   {
-    "toaq": "sıachōa",
+    "toaq": "sıachoa",
     "type": "predicate",
     "english": "▯ says nothing / is silent.",
     "gloss": "say.nothing",
@@ -13996,7 +13996,7 @@
     "fields": []
   },
   {
-    "toaq": "sıaqcū",
+    "toaq": "sıaqcu",
     "type": "predicate",
     "english": "▯ moves rightwards.",
     "gloss": "rightwards",
@@ -14009,7 +14009,7 @@
     "fields": []
   },
   {
-    "toaq": "sıaqpāq",
+    "toaq": "sıaqpaq",
     "type": "predicate",
     "english": "▯ is the right part of ▯.",
     "gloss": "right",
@@ -14100,7 +14100,7 @@
     "fields": []
   },
   {
-    "toaq": "sıefā",
+    "toaq": "sıefa",
     "type": "predicate",
     "english": "▯ follows/goes after ▯.",
     "gloss": "follow",
@@ -14126,7 +14126,7 @@
     "fields": []
   },
   {
-    "toaq": "sıeqcā",
+    "toaq": "sıeqca",
     "type": "predicate",
     "english": "▯ is amazing.",
     "gloss": "amazing",
@@ -14139,7 +14139,7 @@
     "fields": []
   },
   {
-    "toaq": "sokā",
+    "toaq": "soka",
     "type": "predicate",
     "english": "▯ is soccer/football.",
     "gloss": "soccer",
@@ -14309,7 +14309,7 @@
     "fields": []
   },
   {
-    "toaq": "sekūq",
+    "toaq": "sekuq",
     "type": "predicate",
     "english": "▯ is a second.",
     "gloss": "second",
@@ -14322,7 +14322,7 @@
     "fields": []
   },
   {
-    "toaq": "setā",
+    "toaq": "seta",
     "type": "predicate",
     "english": "▯ are 10<sup>21</sup> (1,000,000,000,000,000,000,000) in number; ▯ are a sextillion.",
     "gloss": "zetta",
@@ -14348,7 +14348,7 @@
     "fields": []
   },
   {
-    "toaq": "seakūaı",
+    "toaq": "seakuaı",
     "type": "predicate",
     "english": "▯ is exhausted.",
     "gloss": "exhausted",
@@ -14413,7 +14413,7 @@
     "fields": []
   },
   {
-    "toaq": "seoqrēa",
+    "toaq": "seoqrea",
     "type": "predicate",
     "english": "▯ is a horizon.",
     "gloss": "horizon",
@@ -14426,7 +14426,7 @@
     "fields": []
   },
   {
-    "toaq": "seoqtūe",
+    "toaq": "seoqtue",
     "type": "predicate",
     "english": "▯ is weather; ▯ is the state of the weather.",
     "gloss": "weather",
@@ -14437,11 +14437,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Sẻoqtūe rủqshūa da.",
+        "toaq": "Sẻoqtue rủqshua da.",
         "english": "The weather is rainy."
       },
       {
-        "toaq": "Sẻoqtūe rûqshūa da.",
+        "toaq": "Sẻoqtue rûqshua da.",
         "english": "The weather is rainy. [The weather is, it rains.]"
       }
     ],
@@ -14458,7 +14458,7 @@
     "examples": []
   },
   {
-    "toaq": "tamā",
+    "toaq": "tama",
     "type": "predicate",
     "english": "▯ is a tomato.",
     "gloss": "tomato",
@@ -14484,7 +14484,7 @@
     "fields": []
   },
   {
-    "toaq": "taqchāo",
+    "toaq": "taqchao",
     "type": "predicate",
     "english": "▯ is a car; ▯ is an automobile.",
     "gloss": "car",
@@ -14536,7 +14536,7 @@
     "fields": []
   },
   {
-    "toaq": "taodīe",
+    "toaq": "taodıe",
     "type": "predicate",
     "english": "▯ advises ▯ to do ▯.",
     "gloss": "advise",
@@ -14549,7 +14549,7 @@
     "fields": []
   },
   {
-    "toaq": "taokōe",
+    "toaq": "taokoe",
     "type": "predicate",
     "english": "▯ chooses to do ▯.",
     "gloss": "choose.to",
@@ -14562,7 +14562,7 @@
     "fields": []
   },
   {
-    "toaq": "taomōı",
+    "toaq": "taomoı",
     "type": "predicate",
     "english": "▯ considers doing ▯.",
     "gloss": "consider.doing",
@@ -14575,7 +14575,7 @@
     "fields": []
   },
   {
-    "toaq": "taosīo",
+    "toaq": "taosıo",
     "type": "predicate",
     "english": "▯ is an idea / a plan.",
     "gloss": "plan",
@@ -14607,7 +14607,7 @@
     ]
   },
   {
-    "toaq": "tuchāo",
+    "toaq": "tuchao",
     "type": "predicate",
     "english": "▯ is a bus/omnibus.",
     "gloss": "bus",
@@ -14620,7 +14620,7 @@
     "fields": []
   },
   {
-    "toaq": "tuchāocē",
+    "toaq": "tuchaoce",
     "type": "predicate",
     "english": "▯ is a bus stop.",
     "gloss": "bus.stop",
@@ -14646,7 +14646,7 @@
     "fields": []
   },
   {
-    "toaq": "tuqfīa",
+    "toaq": "tuqfıa",
     "type": "predicate",
     "english": "▯ is first in sequence ▯.",
     "gloss": "first",
@@ -14659,7 +14659,7 @@
     "fields": []
   },
   {
-    "toaq": "tuqsīe",
+    "toaq": "tuqsıe",
     "type": "predicate",
     "english": "▯ is last in sequence ▯.",
     "gloss": "last",
@@ -14789,7 +14789,7 @@
     "fields": []
   },
   {
-    "toaq": "tua kảqgāı",
+    "toaq": "tua kảqgaı",
     "type": "predicate",
     "english": "▯ shows ▯ state of affairs ▯; ▯ makes ▯ see ▯.",
     "gloss": "show",
@@ -14867,7 +14867,7 @@
     "fields": []
   },
   {
-    "toaq": "tua tỉrīu",
+    "toaq": "tua tỉrıu",
     "type": "predicate",
     "english": "▯ puts ▯ back at ▯.",
     "gloss": "put.back",
@@ -14906,7 +14906,7 @@
     "fields": []
   },
   {
-    "toaq": "tuaıbō",
+    "toaq": "tuaıbo",
     "type": "predicate",
     "english": "▯ is physical/corporal.",
     "gloss": "physical",
@@ -14919,7 +14919,7 @@
     "fields": []
   },
   {
-    "toaq": "tuaıcīa",
+    "toaq": "tuaıcıa",
     "type": "predicate",
     "english": "▯ is non-physical.",
     "gloss": "non-physical",
@@ -14945,7 +14945,7 @@
     "fields": []
   },
   {
-    "toaq": "tuaobū",
+    "toaq": "tuaobu",
     "type": "predicate",
     "english": "▯ is quite ▯.",
     "gloss": "quite",
@@ -14971,7 +14971,7 @@
     "fields": []
   },
   {
-    "toaq": "tuıfūa",
+    "toaq": "tuıfua",
     "type": "predicate",
     "english": "▯ is a chair/stool/seat/bench.",
     "gloss": "chair",
@@ -14984,7 +14984,7 @@
     "fields": []
   },
   {
-    "toaq": "tuıtōq",
+    "toaq": "tuıtoq",
     "type": "predicate",
     "english": "▯ is a bench.",
     "gloss": "bench",
@@ -15036,7 +15036,7 @@
     "fields": []
   },
   {
-    "toaq": "tuoıcīa",
+    "toaq": "tuoıcıa",
     "type": "predicate",
     "english": "▯ is flawless/perfect.",
     "gloss": "flawless",
@@ -15075,7 +15075,7 @@
     "fields": []
   },
   {
-    "toaq": "tıbūmēo",
+    "toaq": "tıbumeo",
     "type": "predicate",
     "english": "▯ misses ▯; ▯ is sad that ▯ is not there.",
     "gloss": "miss",
@@ -15088,7 +15088,7 @@
     "fields": []
   },
   {
-    "toaq": "tıbī",
+    "toaq": "tıbı",
     "type": "predicate",
     "english": "▯ pertains to television.",
     "gloss": "TV",
@@ -15101,7 +15101,7 @@
     "fields": []
   },
   {
-    "toaq": "tıdūashō",
+    "toaq": "tıduasho",
     "type": "predicate",
     "english": "▯ finds ▯; ▯ discovers that ▯ is at ▯.",
     "gloss": "find",
@@ -15114,7 +15114,7 @@
     "fields": []
   },
   {
-    "toaq": "tıjāo",
+    "toaq": "tıjao",
     "type": "predicate",
     "english": "▯ is far away from ▯.",
     "gloss": "far",
@@ -15127,7 +15127,7 @@
     "fields": []
   },
   {
-    "toaq": "tıjūı",
+    "toaq": "tıjuı",
     "type": "predicate",
     "english": "▯ is near / in the vicinity of ▯.",
     "gloss": "near",
@@ -15140,7 +15140,7 @@
     "fields": []
   },
   {
-    "toaq": "tınīqdūa",
+    "toaq": "tınıqdua",
     "type": "predicate",
     "english": "▯ finds ▯; ▯ discovers that ▯ is at ▯.",
     "gloss": "find",
@@ -15153,7 +15153,7 @@
     "fields": []
   },
   {
-    "toaq": "tırīu",
+    "toaq": "tırıu",
     "type": "predicate",
     "english": "▯ returns to location ▯.",
     "gloss": "return",
@@ -15166,7 +15166,7 @@
     "fields": []
   },
   {
-    "toaq": "tıshā",
+    "toaq": "tısha",
     "type": "predicate",
     "english": "▯ arrives at ▯.",
     "gloss": "arrive",
@@ -15179,7 +15179,7 @@
     "fields": []
   },
   {
-    "toaq": "tıshūe",
+    "toaq": "tıshue",
     "type": "predicate",
     "english": "▯ stays at ▯.",
     "gloss": "stay",
@@ -15205,7 +15205,7 @@
     "fields": []
   },
   {
-    "toaq": "tıqshōaı",
+    "toaq": "tıqshoaı",
     "type": "predicate",
     "english": "▯ is a butterfly/moth.",
     "gloss": "butterfly",
@@ -15250,7 +15250,7 @@
     "fields": []
   },
   {
-    "toaq": "tıaqrēo",
+    "toaq": "tıaqreo",
     "type": "predicate",
     "english": "▯ is of brown colour.",
     "gloss": "brown",
@@ -15299,7 +15299,7 @@
     "examples": []
   },
   {
-    "toaq": "tıopūı",
+    "toaq": "tıopuı",
     "type": "predicate",
     "english": "▯ are how many.",
     "gloss": "how.many",
@@ -15325,7 +15325,7 @@
     "fields": []
   },
   {
-    "toaq": "tıoqpōa",
+    "toaq": "tıoqpoa",
     "type": "predicate",
     "english": "▯ is locked.",
     "gloss": "locked",
@@ -15351,7 +15351,7 @@
     "fields": []
   },
   {
-    "toaq": "tıechūo",
+    "toaq": "tıechuo",
     "type": "predicate",
     "english": "▯ is a lid/cover.",
     "gloss": "lid",
@@ -15400,7 +15400,7 @@
     "fields": []
   },
   {
-    "toaq": "toqfūa",
+    "toaq": "toqfua",
     "type": "predicate",
     "english": "▯ is a table.",
     "gloss": "table",
@@ -15426,7 +15426,7 @@
     "fields": []
   },
   {
-    "toaq": "toagīu",
+    "toaq": "toagıu",
     "type": "predicate",
     "english": "▯ is a line (of text).",
     "gloss": "line",
@@ -15499,7 +15499,7 @@
         "english": "They did something to me."
       },
       {
-        "toaq": "Tỏı súq hó lî pảırūo ba.",
+        "toaq": "Tỏı súq hó lî pảıruo ba.",
         "english": "Act towards them in a friendly way."
       },
       {
@@ -15533,7 +15533,7 @@
     "fields": []
   },
   {
-    "toaq": "toechūo",
+    "toaq": "toechuo",
     "type": "predicate",
     "english": "▯ is a knife.",
     "gloss": "knife",
@@ -15557,18 +15557,18 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Tẻ hỉao ní kủnē da.",
+        "toaq": "Tẻ hỉao ní kủne da.",
         "english": "This dog is injured."
       },
       {
-        "toaq": "Mả pủ sỏa súq hóı hỉaotē kủne moq.",
+        "toaq": "Mả pủ sỏa súq hóı hỉaote kủne moq.",
         "english": "Did you help that injured dog?"
       }
     ],
     "fields": []
   },
   {
-    "toaq": "terā",
+    "toaq": "tera",
     "type": "predicate",
     "english": "▯ are 10<sup>12</sup> (1,000,000,000,000) in number; ▯ are a trillion.",
     "gloss": "tera",
@@ -15595,7 +15595,7 @@
     "fields": []
   },
   {
-    "toaq": "teqgūaı",
+    "toaq": "teqguaı",
     "type": "predicate",
     "english": "▯ does paid work ▯; ▯ does ▯ as a job.",
     "gloss": "pay.work",
@@ -15634,7 +15634,7 @@
     "fields": []
   },
   {
-    "toaq": "teaqjīeq",
+    "toaq": "teaqjıeq",
     "type": "predicate",
     "english": "▯ is a nipple.",
     "gloss": "nipple",
@@ -15647,7 +15647,7 @@
     "fields": []
   },
   {
-    "toaq": "teaqnīaı",
+    "toaq": "teaqnıaı",
     "type": "predicate",
     "english": "▯ is a mammal.",
     "gloss": "mammal",
@@ -15660,7 +15660,7 @@
     "fields": []
   },
   {
-    "toaq": "teaqrīaı",
+    "toaq": "teaqrıaı",
     "type": "predicate",
     "english": "▯ is a bra.",
     "gloss": "bra",
@@ -15711,7 +15711,7 @@
     "fields": []
   },
   {
-    "toaq": "teoqkūq",
+    "toaq": "teoqkuq",
     "type": "predicate",
     "english": "▯ asks question ▯ to ▯.",
     "gloss": "ask",
@@ -15724,7 +15724,7 @@
     "fields": []
   },
   {
-    "toaq": "teoqmōı",
+    "toaq": "teoqmoı",
     "type": "predicate",
     "english": "▯ doubts that ▯ is the case.",
     "gloss": "doubt",
