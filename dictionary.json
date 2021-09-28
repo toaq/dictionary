@@ -14068,6 +14068,19 @@
     "fields": []
   },
   {
+    "toaq": "shıy",
+    "type": "predicate",
+    "english": "▯ disappears / leaves perception.",
+    "gloss": "disappear",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sho",
     "type": "predicate",
     "english": "▯ becomes such that they satisfy property ▯.",
@@ -16096,6 +16109,19 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zaq",
+    "type": "predicate",
+    "english": "▯ appears / enters perception.",
+    "gloss": "appear",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
