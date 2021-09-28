@@ -14156,19 +14156,6 @@
     "fields": []
   },
   {
-    "toaq": "shoe",
-    "type": "predicate",
-    "english": "▯ lets ▯ happen; ▯ allows ▯ to happen.",
-    "gloss": "allow",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "she",
     "type": "predicate",
     "english": "▯ is the case if ▯ is the case.",
@@ -14241,6 +14228,19 @@
     "short": "",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "shy",
+    "type": "predicate",
+    "english": "▯ lets ▯ happen; ▯ allows ▯ to happen.",
+    "gloss": "allow",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
     "distribution": "d d",
     "notes": [],
     "examples": [],
