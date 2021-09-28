@@ -43,6 +43,7 @@ d = d.sort((a_, b_) => {
     'name verb',
     'word-quote',
     'text-quote',
+    'pronoun',
   ].includes(obj.type);
   return {
     toaq: obj.toaq, type: obj.type, english: obj.english,

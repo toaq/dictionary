@@ -5983,9 +5983,9 @@
     "fields": []
   },
   {
-    "toaq": "jı",
-    "type": "predicate",
-    "english": "▯ is me / the speaker.",
+    "toaq": "jí",
+    "type": "pronoun",
+    "english": "1st person personal pronoun",
     "gloss": "me",
     "short": "",
     "keywords": [],
@@ -8891,6 +8891,19 @@
     "fields": []
   },
   {
+    "toaq": "máy",
+    "type": "pronoun",
+    "english": "1st + 2nd + 3rd person personal pronoun",
+    "gloss": "us",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "mu",
     "type": "predicate",
     "english": "▯ satisfies property ▯ with the first and second places swapped.",
@@ -9186,6 +9199,19 @@
     "fields": []
   },
   {
+    "toaq": "múy",
+    "type": "pronoun",
+    "english": "1st + 2nd person personal pronoun",
+    "gloss": "us",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "mı",
     "type": "name verb",
     "english": "turns following phrase X into verb: ▯ is called X.",
@@ -9443,6 +9469,19 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "míy",
+    "type": "pronoun",
+    "english": "1st + 3rd person personal pronoun",
+    "gloss": "us",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
@@ -10376,6 +10415,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "nháo",
+    "type": "pronoun",
+    "english": "3rd person personal pronoun",
+    "gloss": "they",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "nı",
@@ -13067,9 +13119,9 @@
     "fields": []
   },
   {
-    "toaq": "suq",
-    "type": "predicate",
-    "english": "▯ is you / the listener.",
+    "toaq": "súq",
+    "type": "pronoun",
+    "english": "2nd person personal pronoun",
     "gloss": "you",
     "short": "",
     "keywords": [],
@@ -13205,6 +13257,19 @@
     "keywords": [],
     "frame": "c 1 c",
     "distribution": "d d n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "súo",
+    "type": "pronoun",
+    "english": "2nd + 3rd person personal pronoun",
+    "gloss": "you.all",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
