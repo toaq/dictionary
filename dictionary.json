@@ -346,8 +346,8 @@
   },
   {
     "toaq": "baq",
-    "type": "quantifier",
-    "english": "quantifier: X-kind; X in general",
+    "type": "determiner",
+    "english": "X-kind; X in general",
     "gloss": "X.kind",
     "short": "",
     "keywords": [],
@@ -2429,16 +2429,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "co",
-    "type": "quantifier",
-    "english": "quantifier: how many",
-    "gloss": "how.many",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "coa",
@@ -5394,7 +5384,7 @@
   },
   {
     "toaq": "hı",
-    "type": "quantifier",
+    "type": "determiner",
     "english": "which?",
     "gloss": "which",
     "short": "",
@@ -5679,8 +5669,8 @@
   },
   {
     "toaq": "hoı",
-    "type": "quantifier",
-    "english": "quantifier: the aforementioned",
+    "type": "determiner",
+    "english": "the aforementioned",
     "gloss": "the.aforementioned",
     "short": "",
     "keywords": [],
@@ -5897,8 +5887,8 @@
   },
   {
     "toaq": "ja",
-    "type": "quantifier",
-    "english": "quantifier: lambda",
+    "type": "determiner",
+    "english": "lambda",
     "gloss": "lambda",
     "short": "",
     "keywords": [],
@@ -8185,8 +8175,8 @@
   },
   {
     "toaq": "ke",
-    "type": "quantifier",
-    "english": "quantifier: the",
+    "type": "determiner",
+    "english": "definite quantifier",
     "gloss": "the",
     "short": "",
     "keywords": [],
@@ -13359,7 +13349,7 @@
   },
   {
     "toaq": "sa",
-    "type": "quantifier",
+    "type": "determiner",
     "english": "existential quantifier",
     "gloss": "some",
     "short": "",
@@ -14523,8 +14513,8 @@
   },
   {
     "toaq": "sıa",
-    "type": "quantifier",
-    "english": "zero quantifier.",
+    "type": "determiner",
+    "english": "zero quantifier",
     "gloss": "no",
     "short": "",
     "keywords": [],
@@ -15163,9 +15153,9 @@
   },
   {
     "toaq": "tu",
-    "type": "quantifier",
-    "english": "quantifier: universal quantifier",
-    "gloss": "any",
+    "type": "determiner",
+    "english": "universal quantifier",
+    "gloss": "every",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -15205,6 +15195,26 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "tushı",
+    "type": "determiner",
+    "english": "singular universal quantifier",
+    "gloss": "each",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "tuq",
+    "type": "determiner",
+    "english": "collective universal quantifier",
+    "gloss": "all",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "tuq",
