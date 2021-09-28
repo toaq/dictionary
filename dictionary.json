@@ -3596,32 +3596,6 @@
     "fields": []
   },
   {
-    "toaq": "foq",
-    "type": "predicate",
-    "english": "▯ is a telephone.",
-    "gloss": "phone",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "foqdeoq",
-    "type": "predicate",
-    "english": "▯ talks on the phone with ▯.",
-    "gloss": "talk.on.the.phone",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "foa",
     "type": "predicate",
     "english": "▯ feels ▯ (good or bad); ▯ is ▯ (ill or well).",
@@ -5946,6 +5920,32 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jaolaq",
+    "type": "predicate",
+    "english": "▯ is a telephone.",
+    "gloss": "phone",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jaolaqtao",
+    "type": "predicate",
+    "english": "▯ talks on the phone with ▯.",
+    "gloss": "talk.on.the.phone",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
