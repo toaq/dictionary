@@ -713,6 +713,19 @@
     "fields": []
   },
   {
+    "toaq": "bóu",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for demonstratives (class IX)",
+    "gloss": "it.IX",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "boı",
     "type": "predicate",
     "english": "▯ takes place from ▯ onwards.",
@@ -3362,6 +3375,19 @@
     "fields": []
   },
   {
+    "toaq": "fúy",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for personal pronouns (class VIII)",
+    "gloss": "it.VIII",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "fıa",
     "type": "predicate",
     "english": "▯ is previous to ▯ in sequence ▯; ▯ precedes ▯ in sequence ▯.",
@@ -5271,10 +5297,10 @@
     "fields": []
   },
   {
-    "toaq": "ho",
-    "type": "predicate",
-    "english": "▯ is him/her/it / are them.",
-    "gloss": "they",
+    "toaq": "hó",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for animate DPs (class I)",
+    "gloss": "it.I",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -5297,10 +5323,10 @@
     "fields": []
   },
   {
-    "toaq": "hoq",
-    "type": "predicate",
-    "english": "▯ is it (abstract).",
-    "gloss": "it",
+    "toaq": "hóq",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for abstract DPs (class III)",
+    "gloss": "it.III",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -7319,6 +7345,19 @@
     "fields": []
   },
   {
+    "toaq": "kúy",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for LU phrases (class VI)",
+    "gloss": "it.VI",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kı",
     "type": "terminator",
     "english": "end parenthetical",
@@ -8813,10 +8852,10 @@
     "fields": []
   },
   {
-    "toaq": "maq",
-    "type": "predicate",
-    "english": "▯ is it (non-personal concrete).",
-    "gloss": "it",
+    "toaq": "máq",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for inanimate DPs (class II)",
+    "gloss": "it.II",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -12752,6 +12791,19 @@
     "fields": []
   },
   {
+    "toaq": "róu",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for fifth-tone clauses (class V)",
+    "gloss": "it.V",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "roı",
     "type": "conjunction",
     "english": "plural and",
@@ -14536,6 +14588,19 @@
     "fields": []
   },
   {
+    "toaq": "tá",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for adjective DPs (class IV)",
+    "gloss": "it.IV",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "tama",
     "type": "predicate",
     "english": "▯ is a tomato.",
@@ -15836,6 +15901,19 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zé",
+    "type": "pronoun",
+    "english": "anaphoric pronoun for PO phrases (class VII)",
+    "gloss": "it.VII",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
