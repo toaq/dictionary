@@ -10992,16 +10992,6 @@
     "fields": []
   },
   {
-    "toaq": "pa",
-    "type": "terminator",
-    "english": "terminate prenex and apply prenex arguments to predicate in order",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "papa",
     "type": "predicate",
     "english": "▯ is papa (Dad, daddy, father).",
