@@ -37,7 +37,13 @@ d = d.sort((a_, b_) => {
     if(a_part > b_part) return 1;
   }
 }).map(obj => {
-  let predlike = ['predicate', 'predicatizer'].includes(obj.type);
+  let predlike = [
+    'predicate',
+    'object incorporating verb',
+    'name verb',
+    'word-quote',
+    'text-quote',
+  ].includes(obj.type);
   return {
     toaq: obj.toaq, type: obj.type, english: obj.english,
     gloss: obj.gloss || '',

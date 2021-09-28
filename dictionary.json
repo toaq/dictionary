@@ -6660,8 +6660,8 @@
   },
   {
     "toaq": "jeı",
-    "type": "predicatizer",
-    "english": "turns following phrase X into predicate: ▯ is X.",
+    "type": "object incorporating verb",
+    "english": "turns following phrase X into verb: ▯ is X.",
     "gloss": "identical",
     "short": "",
     "keywords": [],
@@ -9187,13 +9187,13 @@
   },
   {
     "toaq": "mı",
-    "type": "predicatizer",
-    "english": "turns following phrase X into predicate: ▯ is/are the one(s) called X.",
-    "gloss": "those.named",
+    "type": "name verb",
+    "english": "turns following phrase X into verb: ▯ is called X.",
+    "gloss": "called",
     "short": "",
     "keywords": [],
     "frame": "c",
-    "distribution": "n",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9203,6 +9203,19 @@
     "type": "predicate",
     "english": "▯ is a minute.",
     "gloss": "minute",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "mıru",
+    "type": "name verb",
+    "english": "turns following phrase X into verb: ▯ is a Mr./Ms./Mrs./Mx. X.",
+    "gloss": "Mx.",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -9437,12 +9450,15 @@
   {
     "toaq": "mo",
     "type": "text-quote",
-    "english": "begin full-text quote.",
+    "english": "begin full-text quote",
     "gloss": "«",
     "short": "",
     "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "moq",
@@ -9722,8 +9738,8 @@
   },
   {
     "toaq": "mea",
-    "type": "predicatizer",
-    "english": "turns following phrase X into predicate: ▯ is among X.",
+    "type": "object incorporating verb",
+    "english": "turns following phrase X into verb: ▯ is among X.",
     "gloss": "among",
     "short": "",
     "keywords": [],
@@ -11667,8 +11683,8 @@
   },
   {
     "toaq": "po",
-    "type": "predicatizer",
-    "english": "turns following phrase X into predicate: ▯ is of X; ▯ is associated with X.",
+    "type": "object incorporating verb",
+    "english": "turns following phrase X into verb: ▯ is of X; ▯ is associated with X.",
     "gloss": "of",
     "short": "",
     "keywords": [],
@@ -13325,7 +13341,7 @@
   },
   {
     "toaq": "shu",
-    "type": "predicatizer",
+    "type": "word-quote",
     "english": "turn next word into quote predicate",
     "gloss": "the.word",
     "short": "",
