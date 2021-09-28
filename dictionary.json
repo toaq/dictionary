@@ -6688,9 +6688,9 @@
   },
   {
     "toaq": "je",
-    "type": "sentence prefix",
-    "english": "begin new sentence",
-    "gloss": "new.sentence",
+    "type": "sentence connector",
+    "english": "new topic / taking the floor",
+    "gloss": "new.topic",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -8134,7 +8134,7 @@
   },
   {
     "toaq": "keo",
-    "type": "sentence prefix",
+    "type": "sentence connector",
     "english": "but/however",
     "gloss": "but",
     "short": "",
@@ -10701,6 +10701,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "nhu",
+    "type": "sentence connector",
+    "english": "return to old topic",
+    "gloss": "anyway",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "nı",
@@ -15690,6 +15700,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "tıu",
+    "type": "sentence connector",
+    "english": "so/therefore",
+    "gloss": "therefore",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "tıo",
