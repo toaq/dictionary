@@ -1,5 +1,35 @@
 [
   {
+    "toaq": "ả",
+    "type": "interjection",
+    "english": "discovery",
+    "gloss": "aha",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ahı",
+    "type": "interjection",
+    "english": "pain",
+    "gloss": "ouch",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "aja",
+    "type": "interjection",
+    "english": "happiness",
+    "gloss": "yay",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "anı",
     "type": "predicate",
     "english": "▯ is sand.",
@@ -65,6 +95,86 @@
     "fields": []
   },
   {
+    "toaq": "aıba",
+    "type": "interjection",
+    "english": "encouraging/hurrying",
+    "gloss": "c'mon",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ubaı",
+    "type": "interjection",
+    "english": "alas",
+    "gloss": "alas",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ufu",
+    "type": "interjection",
+    "english": "relief",
+    "gloss": "phew",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ume",
+    "type": "interjection",
+    "english": "pleasure",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "upa",
+    "type": "interjection",
+    "english": "admitting a minor mistake",
+    "gloss": "oops",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ua",
+    "type": "interjection",
+    "english": "amazement",
+    "gloss": "wow",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ıfu",
+    "type": "interjection",
+    "english": "disgust",
+    "gloss": "eww",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "obe",
+    "type": "interjection",
+    "english": "surprise",
+    "gloss": "oh",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ocha",
     "type": "predicate",
     "english": "▯ is a human.",
@@ -104,6 +214,16 @@
     "fields": []
   },
   {
+    "toaq": "oaı",
+    "type": "interjection",
+    "english": "concern or realization of a problem",
+    "gloss": "uh-oh",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "o'aomo",
     "type": "predicate",
     "english": "▯ is the letter '.",
@@ -115,6 +235,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "é",
+    "type": "interjection",
+    "english": "huh? / what? / come again?",
+    "gloss": "huh?",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "eku",
@@ -141,6 +271,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "enı",
+    "type": "interjection",
+    "english": "here / take this / look at this",
+    "gloss": "here",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "esa",
@@ -337,6 +477,16 @@
     ],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "buzy",
+    "type": "interjection",
+    "english": "expressing a lack of knowledge",
+    "gloss": "dunno",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "bu dảı",
@@ -5756,6 +5906,16 @@
     "examples": []
   },
   {
+    "toaq": "jadı",
+    "type": "interjection",
+    "english": "hi/hello",
+    "gloss": "hi",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "jake",
     "type": "predicate",
     "english": "▯ is a jacket.",
@@ -7515,6 +7675,16 @@
     "type": "terminator",
     "english": "end parenthetical",
     "gloss": ")",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "kıjı",
+    "type": "interjection",
+    "english": "thanks",
+    "gloss": "thanks",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -10701,6 +10871,16 @@
     "type": "sentence connector",
     "english": "return to old topic",
     "gloss": "anyway",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "nho",
+    "type": "interjection",
+    "english": "yes",
+    "gloss": "yes",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -16214,6 +16394,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "zı",
+    "type": "interjection",
+    "english": "no",
+    "gloss": "no",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "zozeo",
