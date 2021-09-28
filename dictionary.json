@@ -456,19 +456,6 @@
     "fields": []
   },
   {
-    "toaq": "buıduo",
-    "type": "predicate",
-    "english": "▯ moves out of ▯.",
-    "gloss": "move.outside",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "buıfa",
     "type": "predicate",
     "english": "▯ goes out of / exits ▯.",
@@ -2851,32 +2838,6 @@
   {
     "toaq": "duo",
     "type": "predicate",
-    "english": "▯ moves to ▯ from ▯.",
-    "gloss": "move",
-    "short": "",
-    "keywords": [],
-    "frame": "c c c",
-    "distribution": "d d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "duofuaq",
-    "type": "predicate",
-    "english": "▯ is a movie.",
-    "gloss": "movie",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "duoı",
-    "type": "predicate",
     "english": "▯ lasts/continues; ▯ lasts for time ▯.",
     "gloss": "continue",
     "short": "",
@@ -3855,19 +3816,6 @@
     "fields": []
   },
   {
-    "toaq": "gaoduo",
-    "type": "predicate",
-    "english": "▯ moves upwards.",
-    "gloss": "move.upwards",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "gaokoı",
     "type": "predicate",
     "english": "▯ climbs.",
@@ -4006,19 +3954,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "guqduo",
-    "type": "predicate",
-    "english": "▯ moves downwards.",
-    "gloss": "move.downwards",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8719,19 +8654,6 @@
     "fields": []
   },
   {
-    "toaq": "lıoduo",
-    "type": "predicate",
-    "english": "▯ moves leftwards.",
-    "gloss": "move.left",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "lıopaq",
     "type": "predicate",
     "english": "▯ is the left part of ▯.",
@@ -12888,19 +12810,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "rıuduo",
-    "type": "predicate",
-    "english": "▯ returns to ▯; ▯ moves back to ▯.",
-    "gloss": "return",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
