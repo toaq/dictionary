@@ -7913,9 +7913,9 @@
   },
   {
     "toaq": "la",
-    "type": "incidental",
-    "english": "begin meta clause; makes a comment about the containing sentence (text not content).",
-    "gloss": "meta",
+    "type": "complementizer",
+    "english": "declarative or non-polar interrogative",
+    "gloss": "that",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -8229,16 +8229,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "lı",
-    "type": "statement prefix",
-    "english": "statement prefix: turn statement into property",
-    "gloss": "the.property",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "lıq",
@@ -8781,8 +8771,8 @@
   },
   {
     "toaq": "ma",
-    "type": "statement prefix",
-    "english": "statement prefix: whether",
+    "type": "complementizer",
+    "english": "polar interrogative",
     "gloss": "whether",
     "short": "",
     "keywords": [],
@@ -15277,8 +15267,8 @@
   },
   {
     "toaq": "tıo",
-    "type": "statement prefix",
-    "english": "statement prefix: how much; to what extent",
+    "type": "complementizer",
+    "english": "quantitative interrogative",
     "gloss": "how.much",
     "short": "",
     "keywords": [],
