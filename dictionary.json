@@ -392,8 +392,8 @@
   },
   {
     "toaq": "bı",
-    "type": "particle",
-    "english": "terminates prenex",
+    "type": "terminator",
+    "english": "end prenex",
     "gloss": ":",
     "short": "",
     "keywords": [],
@@ -2213,6 +2213,16 @@
     "fields": []
   },
   {
+    "toaq": "cy",
+    "type": "terminator",
+    "english": "end complementizer phrase",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "da",
     "type": "illocution",
     "english": "assertive illocution",
@@ -3576,8 +3586,8 @@
   },
   {
     "toaq": "ga",
-    "type": "end-conversion",
-    "english": "terminates conversion via predicatizer.",
+    "type": "terminator",
+    "english": "end object incorporating verb or name verb",
     "gloss": "END",
     "short": "",
     "keywords": [],
@@ -7310,8 +7320,8 @@
   },
   {
     "toaq": "kı",
-    "type": "end-parenthetical",
-    "english": "terminates parenthetical",
+    "type": "terminator",
+    "english": "end parenthetical",
     "gloss": ")",
     "short": "",
     "keywords": [],
@@ -7906,6 +7916,16 @@
     "type": "sentence prefix",
     "english": "but/however",
     "gloss": "but",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ky",
+    "type": "terminator",
+    "english": "end free relative",
+    "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -9850,7 +9870,7 @@
   {
     "toaq": "na",
     "type": "terminator",
-    "english": "terminate statement",
+    "english": "end statement",
     "gloss": "END",
     "short": "",
     "keywords": [],
@@ -15664,8 +15684,8 @@
   },
   {
     "toaq": "teo",
-    "type": "end-quote",
-    "english": "terminate full-text quote.",
+    "type": "terminator",
+    "english": "end full-text quote.",
     "gloss": "»",
     "short": "",
     "keywords": [],
