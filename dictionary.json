@@ -39,6 +39,32 @@
     "fields": []
   },
   {
+    "toaq": "ocha",
+    "type": "predicate",
+    "english": "▯ is a human.",
+    "gloss": "human",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ochasıu",
+    "type": "predicate",
+    "english": "▯ is humanoid/human-like.",
+    "gloss": "humanoid",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "oq'oguı",
     "type": "predicate",
     "english": "▯ is the letter O.",
@@ -7964,7 +7990,7 @@
     "fields": []
   },
   {
-    "toaq": "koaqreq",
+    "toaq": "koaq'ocha",
     "type": "predicate",
     "english": "▯ is an adult human.",
     "gloss": "adult",
@@ -8589,19 +8615,6 @@
     "fields": []
   },
   {
-    "toaq": "lıqreq",
-    "type": "predicate",
-    "english": "▯ is a female human; ▯ is a woman.",
-    "gloss": "woman",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "lıqseo",
     "type": "predicate",
     "english": "▯ is a wife of ▯.",
@@ -8609,6 +8622,19 @@
     "short": "",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "lıq'ocha",
+    "type": "predicate",
+    "english": "▯ is a female human; ▯ is a woman.",
+    "gloss": "woman",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -10349,19 +10375,6 @@
     "fields": []
   },
   {
-    "toaq": "naqreq",
-    "type": "predicate",
-    "english": "▯ is a male human; ▯ is a man.",
-    "gloss": "man",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "naqseo",
     "type": "predicate",
     "english": "▯ is a husband of ▯.",
@@ -10370,6 +10383,19 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "naq'ocha",
+    "type": "predicate",
+    "english": "▯ is a male human; ▯ is a man.",
+    "gloss": "man",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13130,32 +13156,6 @@
     "type": "predicate",
     "english": "▯ recovers; ▯ becomes healthy.",
     "gloss": "recover",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "req",
-    "type": "predicate",
-    "english": "▯ is a human.",
-    "gloss": "human",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "reqsıu",
-    "type": "predicate",
-    "english": "▯ is humanoid/human-like.",
-    "gloss": "humanoid",
     "short": "",
     "keywords": [],
     "frame": "c",
