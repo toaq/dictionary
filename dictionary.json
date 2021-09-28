@@ -41,8 +41,8 @@
   {
     "toaq": "ba",
     "type": "illocution",
-    "english": "imperative",
-    "gloss": "imperative",
+    "english": "optative illocution",
+    "gloss": "optative",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -2223,6 +2223,16 @@
     "examples": []
   },
   {
+    "toaq": "dâ",
+    "type": "illocution",
+    "english": "explanatory illocution",
+    "gloss": "explanatory",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "daq",
     "type": "predicate",
     "english": "▯ is time.",
@@ -4327,6 +4337,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "go",
+    "type": "illocution",
+    "english": "question tag illocution",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "goa",
@@ -9438,6 +9458,16 @@
     "examples": []
   },
   {
+    "toaq": "môq",
+    "type": "illocution",
+    "english": "rhetorical interrogative illocution",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "moa",
     "type": "predicate",
     "english": "▯ is a point in ▯.",
@@ -10323,6 +10353,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "nha",
+    "type": "illocution",
+    "english": "promissive illocution",
+    "gloss": "promissive",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "nı",
@@ -13737,6 +13777,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "shou",
+    "type": "illocution",
+    "english": "permissive illocution",
+    "gloss": "permissive",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "shoı",
