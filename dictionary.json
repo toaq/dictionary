@@ -1,5 +1,18 @@
 [
   {
+    "toaq": "áq",
+    "type": "pronoun",
+    "english": "reflexive pronoun",
+    "gloss": "oneself",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "eku",
     "type": "predicate",
     "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
@@ -1938,6 +1951,19 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chéq",
+    "type": "pronoun",
+    "english": "reciprocal pronoun",
+    "gloss": "each.other",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "n",
     "notes": [],
     "examples": [],
     "fields": []
