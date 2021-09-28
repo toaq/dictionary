@@ -8014,9 +8014,9 @@
   },
   {
     "toaq": "lu",
-    "type": "statement prefix",
-    "english": "statement prefix: turn statement into predicate",
-    "gloss": "that",
+    "type": "free relative",
+    "english": "turn clause into predicate",
+    "gloss": "",
     "short": "",
     "keywords": [],
     "notes": [],
