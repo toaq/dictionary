@@ -961,9 +961,9 @@
   },
   {
     "toaq": "beı",
-    "type": "prefix",
-    "english": "puts emphasis on the following word",
-    "gloss": "emphasis",
+    "type": "focus prefix",
+    "english": "contrastive focus",
+    "gloss": "FOC.contrast",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -6014,16 +6014,13 @@
   },
   {
     "toaq": "juaq",
-    "type": "predicate",
-    "english": "Even ▯ is the case; even ▯ satisfies property ▯.",
+    "type": "focus prefix",
+    "english": "even",
     "gloss": "even",
     "short": "",
     "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "juaı",
@@ -7152,8 +7149,8 @@
   },
   {
     "toaq": "ku",
-    "type": "prefix",
-    "english": "marks focus",
+    "type": "focus prefix",
+    "english": "non-contrastive focus",
     "gloss": "FOC",
     "short": "",
     "keywords": [],
@@ -9100,16 +9097,13 @@
   },
   {
     "toaq": "mao",
-    "type": "predicate",
-    "english": "▯ is also the case; ▯ also satisfies property ▯.",
+    "type": "focus prefix",
+    "english": "also",
     "gloss": "also",
     "short": "",
     "keywords": [],
-    "frame": "0; c 1",
-    "distribution": "d; d d",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "maoja",
@@ -15899,6 +15893,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "tou",
+    "type": "focus prefix",
+    "english": "only",
+    "gloss": "only",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "toı",
