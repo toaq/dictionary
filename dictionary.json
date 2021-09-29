@@ -227,6 +227,19 @@
     "examples": []
   },
   {
+    "toaq": "req",
+    "type": "predicate",
+    "english": "▯ is a human.",
+    "gloss": "human",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ocha",
     "type": "predicate",
     "english": "▯ is a human.",
@@ -14785,7 +14798,7 @@
     "fields": []
   },
   {
-    "toaq": "shy",
+    "toaq": "shoe",
     "type": "predicate",
     "english": "▯ lets ▯ happen; ▯ allows ▯ to happen.",
     "gloss": "allow",
