@@ -227,19 +227,6 @@
     "examples": []
   },
   {
-    "toaq": "req",
-    "type": "predicate",
-    "english": "▯ is a human.",
-    "gloss": "human",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "ocha",
     "type": "predicate",
     "english": "▯ is a human.",
@@ -13560,6 +13547,19 @@
     "fields": []
   },
   {
+    "toaq": "req",
+    "type": "predicate",
+    "english": "▯ is a human.",
+    "gloss": "human",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "rea",
     "type": "predicate",
     "english": "▯ is a border/edge of ▯.",
@@ -14720,6 +14720,19 @@
     "fields": []
   },
   {
+    "toaq": "shoe",
+    "type": "predicate",
+    "english": "▯ lets ▯ happen; ▯ allows ▯ to happen.",
+    "gloss": "allow",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "she",
     "type": "predicate",
     "english": "▯ is the case if ▯ is the case.",
@@ -14792,19 +14805,6 @@
     "short": "",
     "keywords": [],
     "frame": "c c",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shoe",
-    "type": "predicate",
-    "english": "▯ lets ▯ happen; ▯ allows ▯ to happen.",
-    "gloss": "allow",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
     "distribution": "d d",
     "notes": [],
     "examples": [],
