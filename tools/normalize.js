@@ -24,8 +24,8 @@ function sortify(s) {
 d = d.sort((a_, b_) => {
   let a = sortify(a_.toaq);
   let b = sortify(b_.toaq);
-  if(a_ != b_ && a == b) throw new Error(
-    `duplicate entries: «${a_.toaq}» and «${b_.toaq}»!`);
+  if(a == b && a_.type === 'predicate' && b_.type === 'predicate')
+    throw new Error(`duplicate entries: «${a_.toaq}» and «${b_.toaq}»!`);
   let a_parts = a.split(/(?<=[aeiouy`])(?=[^aeiouy`])/);
   let b_parts = b.split(/(?<=[aeiouy`])(?=[^aeiouy`])/);
   for(let i = 0;; i++) {
@@ -37,7 +37,14 @@ d = d.sort((a_, b_) => {
     if(a_part > b_part) return 1;
   }
 }).map(obj => {
-  let predlike = ['predicate', 'predicatizer'].includes(obj.type);
+  let predlike = [
+    'predicate',
+    'object incorporating verb',
+    'name verb',
+    'word-quote',
+    'text-quote',
+    'pronoun',
+  ].includes(obj.type);
   return {
     toaq: obj.toaq, type: obj.type, english: obj.english,
     gloss: obj.gloss || '',
