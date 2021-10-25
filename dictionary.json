@@ -11751,12 +11751,12 @@
   {
     "toaq": "noaq",
     "type": "predicate",
-    "english": "▯ reads ▯ from ▯.",
+    "english": "▯ reads ▯.",
     "gloss": "read",
     "short": "",
     "keywords": [],
-    "frame": "c c c",
-    "distribution": "d d d",
+    "frame": "c c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
