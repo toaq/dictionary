@@ -144,6 +144,19 @@
     "fields": []
   },
   {
+    "toaq": "ao",
+    "type": "predicate",
+    "english": "▯ would be the case if ▯ were the case.",
+    "gloss": "would",
+    "short": "",
+    "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "aomo",
     "type": "predicate",
     "english": "▯ is an island.",
@@ -369,6 +382,19 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ea",
+    "type": "predicate",
+    "english": "▯ could be the case if ▯ were the case.",
+    "gloss": "could",
+    "short": "",
+    "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
