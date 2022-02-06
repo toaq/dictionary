@@ -11532,7 +11532,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Dẻoq súq nò hı tóaq moq?",
+        "toaq": "Dẻoq súq nò hı tỏaq moq?",
         "english": "In what language are you communicating?"
       },
       {
@@ -12643,7 +12643,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "pèa sa dáqne",
+        "toaq": "pèa sa dảqne",
         "english": "some time ago"
       }
     ],
@@ -12762,19 +12762,19 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "rào sa ráı",
+        "toaq": "rào sa rảı",
         "english": "some time; at some point"
       },
       {
-        "toaq": "rào sıa dáqmoa",
+        "toaq": "rào sıa dảqmoa",
         "english": "never, at no moment"
       },
       {
-        "toaq": "rào tu cháq",
+        "toaq": "rào tu chảq",
         "english": "every day"
       },
       {
-        "toaq": "rào tu dáqmoa",
+        "toaq": "rào tu dảqmoa",
         "english": "always, at every moment"
       }
     ],
@@ -13473,7 +13473,7 @@
         "english": "I like this colour."
       },
       {
-        "toaq": "Rẻo ní hı ráı moq.",
+        "toaq": "Rẻo ní hı rảı moq.",
         "english": "What colour is this?, What colour does this have?"
       }
     ],
@@ -13541,15 +13541,15 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "sa póq",
+        "toaq": "sa pỏq",
         "english": "someone; somebody"
       },
       {
-        "toaq": "sa ráı",
+        "toaq": "sa rảı",
         "english": "something"
       },
       {
-        "toaq": "sa túq rảı",
+        "toaq": "sa tủq rảı",
         "english": "all things (together)"
       }
     ]
@@ -14770,11 +14770,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "sıa póq",
+        "toaq": "sıa pỏq",
         "english": "no-one"
       },
       {
-        "toaq": "sıa ráı",
+        "toaq": "sıa rảı",
         "english": "nothing"
       }
     ]
@@ -15436,11 +15436,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "tu póq",
+        "toaq": "tu pỏq",
         "english": "everyone"
       },
       {
-        "toaq": "tu ráı",
+        "toaq": "tu rảı",
         "english": "everything; anything"
       }
     ]
