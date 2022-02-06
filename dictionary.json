@@ -43,6 +43,19 @@
     "examples": []
   },
   {
+    "toaq": "Amerıka",
+    "type": "predicate",
+    "english": "▯ is America (continent).",
+    "gloss": "America",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "anı",
     "type": "predicate",
     "english": "▯ is sand.",
@@ -60,6 +73,19 @@
     "type": "predicate",
     "english": "▯ is a desert.",
     "gloss": "desert",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Asıa",
+    "type": "predicate",
+    "english": "▯ is Asia.",
+    "gloss": "Asia",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -195,6 +221,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "Usona",
+    "type": "predicate",
+    "english": "▯ is US-American/pertains to the USA.",
+    "gloss": "American",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ua",
@@ -5072,19 +5111,6 @@
     "fields": []
   },
   {
-    "toaq": "Asıa",
-    "type": "predicate",
-    "english": "▯ is Asia.",
-    "gloss": "Asia",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "haq",
     "type": "predicate",
     "english": "▯ is food.",
@@ -5204,19 +5230,6 @@
     "type": "predicate",
     "english": "▯ becomes quiet/silent; ▯ hushes.",
     "gloss": "hush",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Usona",
-    "type": "predicate",
-    "english": "▯ is US-American/pertains to the USA.",
-    "gloss": "American",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -10369,19 +10382,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Amerıka",
-    "type": "predicate",
-    "english": "▯ is America (continent).",
-    "gloss": "America",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
