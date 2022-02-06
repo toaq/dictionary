@@ -2866,19 +2866,6 @@
     "fields": []
   },
   {
-    "toaq": "daıchı",
-    "type": "predicate",
-    "english": "▯ has hope that ▯ is the case; ▯ believes ▯ can happen.",
-    "gloss": "hope",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "daısıo",
     "type": "predicate",
     "english": "▯ is an idea.",
@@ -6606,19 +6593,6 @@
     "keywords": [],
     "frame": "0",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jıashao",
-    "type": "predicate",
-    "english": "▯ hopes that ▯ will be the case.",
-    "gloss": "hope",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
