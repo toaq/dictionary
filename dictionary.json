@@ -82,6 +82,19 @@
     "fields": []
   },
   {
+    "toaq": "arane",
+    "type": "predicate",
+    "english": "▯ is a spider.",
+    "gloss": "spider",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "Asıa",
     "type": "predicate",
     "english": "▯ is Asia.",
@@ -165,6 +178,19 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ao",
+    "type": "predicate",
+    "english": "▯ would be the case if ▯ were the case.",
+    "gloss": "would",
+    "short": "",
+    "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -408,6 +434,19 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ea",
+    "type": "predicate",
+    "english": "▯ could be the case if ▯ were the case.",
+    "gloss": "could",
+    "short": "",
+    "keywords": [],
+    "frame": "0 c",
+    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2815,7 +2854,7 @@
     "gloss": "free",
     "short": "",
     "keywords": [],
-    "frame": "c; c 1",
+    "frame": "c 1",
     "distribution": "d; d d",
     "notes": [],
     "examples": [],
@@ -5093,19 +5132,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "harane",
-    "type": "predicate",
-    "english": "▯ is a spider.",
-    "gloss": "spider",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
