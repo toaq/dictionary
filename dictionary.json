@@ -69,6 +69,19 @@
     "fields": []
   },
   {
+    "toaq": "arane",
+    "type": "predicate",
+    "english": "▯ is a spider.",
+    "gloss": "spider",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "áq",
     "type": "pronoun",
     "english": "reflexive pronoun",
@@ -5080,19 +5093,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "n",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "arane",
-    "type": "predicate",
-    "english": "▯ is a spider.",
-    "gloss": "spider",
-    "short": "",
-    "keywords": [],
-    "frame": "c c",
-    "distribution": "d",
     "notes": [],
     "examples": [],
     "fields": []
