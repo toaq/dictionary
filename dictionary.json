@@ -1245,7 +1245,6 @@
     "keywords": [],
     "frame": "0 0",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -1363,7 +1362,6 @@
     "keywords": [],
     "frame": "c 1 1",
     "distribution": "d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -2965,7 +2963,6 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -3597,7 +3594,6 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -3743,7 +3739,6 @@
     "keywords": [],
     "frame": "1 c",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -3900,7 +3895,6 @@
     "keywords": [],
     "frame": "1",
     "distribution": "d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -4884,7 +4878,6 @@
     "keywords": [],
     "frame": "0 c c",
     "distribution": "d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -5210,7 +5203,6 @@
     "keywords": [],
     "frame": "variable",
     "distribution": "variable",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -5286,7 +5278,6 @@
     "keywords": [],
     "frame": "c c 1",
     "distribution": "d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -6788,7 +6779,6 @@
     "keywords": [],
     "frame": "0 c",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [
       {
@@ -7073,7 +7063,6 @@
     "keywords": [],
     "frame": "c c 2",
     "distribution": "d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -7230,7 +7219,6 @@
     "keywords": [],
     "frame": "0; c 1",
     "distribution": "d; d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -8115,7 +8103,6 @@
     "keywords": [],
     "frame": "c c 1 1",
     "distribution": "d n d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -8350,7 +8337,6 @@
     "keywords": [],
     "frame": "c c c 2",
     "distribution": "d d n d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -9346,7 +9332,6 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -9909,7 +9894,6 @@
     "keywords": [],
     "frame": "c 2",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -10014,7 +9998,6 @@
     "keywords": [],
     "frame": "c c 0",
     "distribution": "d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -10747,7 +10730,6 @@
     "keywords": [],
     "frame": "0",
     "distribution": "d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -11904,7 +11886,6 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -12503,7 +12484,6 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -12608,7 +12588,6 @@
     "keywords": [],
     "frame": "0 1",
     "distribution": "d d",
-    "namesake": true,
     "notes": [],
     "examples": [
       {
@@ -14996,7 +14975,6 @@
     "keywords": [],
     "frame": "c 1 c",
     "distribution": "d d n",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -16494,7 +16472,6 @@
     "keywords": [],
     "frame": "c c c 1",
     "distribution": "d d d d",
-    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
