@@ -2778,6 +2778,7 @@
     "keywords": [],
     "frame": "c; c 1",
     "distribution": "d; d d",
+    "namesake": true,
     "notes": [],
     "examples": [],
     "fields": []
