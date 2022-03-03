@@ -30,9 +30,9 @@ function render_entry(entry) {
   if(entry.fields && entry.fields.length)
     entry.fields = entry.fields.map((_, i) =>
       '<span class="toaq">' +
-      _.map((s, i) => s.replace(/[auıoe]/,
+      (_ instanceof Array ? _ : [_]).map((s, i) => s.replace(/[auıoe]/,
         m => ((m == 'ı' ? 'i' : m) + '\u0309').normalize('NFC'))).join(' ra ')
-      + ' dó' + ['shī', 'gū', 'sāq', 'jō', 'fē', 'cī'][i] + '</span>');
+      + ' baq jả' + ['shı', 'gu', 'saq', 'jo', 'fe', 'cı'][i] + '</span>');
   for(f of ['notes', 'fields'])
     if(entry[f] && entry[f].length)
       attr(f, `<ul class="notes"><li>` +

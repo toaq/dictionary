@@ -1,0 +1,15 @@
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+name: Normalization check
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: cp dictionary{,-clean}.json
+    - run: node tools/normalize.js
+    - run: diff -U8 dictionary{,-clean}.json

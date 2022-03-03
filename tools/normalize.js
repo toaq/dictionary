@@ -4,8 +4,8 @@
 
 "use strict";
 process.chdir(__dirname);
-const required_fields = ['toaq', 'type', 'english'];
 let d = require('./../dictionary.json');
+
 function sortify(s) {
   return s.normalize('NFD').toLowerCase()
     .replace(/ı/g, 'i')
@@ -21,47 +21,48 @@ function sortify(s) {
     // Handle the empty onset.
     .replace(/(?<= |^)(?=[aeiouy])/, '\'');
 }
-d = d.sort((a_, b_) => {
-  let a = sortify(a_.toaq);
-  let b = sortify(b_.toaq);
-  if(a == b && a_.type === 'predicate' && b_.type === 'predicate')
-    throw new Error(`duplicate entries: «${a_.toaq}» and «${b_.toaq}»!`);
-  let a_parts = a.split(/(?<=[aeiouy`])(?=[^aeiouy`])/);
-  let b_parts = b.split(/(?<=[aeiouy`])(?=[^aeiouy`])/);
-  for(let i = 0;; i++) {
-    let a_part = a_parts[i], b_part = b_parts[i];
-    if(!a_part && !b_part) return 0;
-    if(!a_part) return -1;
-    if(!b_part) return 1;
-    if(a_part < b_part) return -1;
-    if(a_part > b_part) return 1;
+
+d = d.sort((a, b) => {
+  let [aToaq, bToaq] = [a.toaq, b.toaq].map(sortify);
+  if(aToaq == bToaq && a.type === 'predicate' && b_.type === 'predicate')
+    throw new Error(`duplicate entries: «${a.toaq}» and «${b.toaq}»!`);
+
+  let [aParts, bParts] = [aToaq, bToaq].map(
+    _ => _.split(/(?<=[aeiouy`])(?=[^aeiouy`])/));
+  while(aParts.length || bParts.length) {
+    let [aPart, bPart] = [aParts.shift(), bParts.shift()];
+    if(!aPart || !bPart)
+      return +aPart - +bPart;
+    if(aPart < bPart) return -1;
+    if(aPart > bPart) return 1;
   }
-}).map(obj => {
-  let predlike = [
-    'predicate',
-    'object incorporating verb',
-    'name verb',
-    'word-quote',
-    'text-quote',
-    'pronoun',
-  ].includes(obj.type);
-  return {
-    toaq: obj.toaq, type: obj.type, english: obj.english,
-    gloss: obj.gloss || '',
-    short: obj.short || '', keywords: obj.keywords || [],
-    frame: predlike ? obj.frame || '' : undefined,
-    distribution: predlike ? obj.distribution || '' : undefined,
-    namesake: (predlike && obj.namesake) || undefined,
-    notes: obj.notes || [],
-    examples: obj.examples || [],
-    fields: predlike ? obj.fields || [] : undefined };
+  return 0;
 });
-d.forEach(e => {
-  let missing = required_fields.filter(_ => !e[_]);
-  if(missing.length)
-    console.warn(
-      `«${e.toaq}» doesn't have the following obligatory fields: ${
-        missing.join(', ')}`);
+
+d = d.map(obj => {
+  let obj_ = {};
+  let forEachField = (fields, orelse) => fields.forEach(field =>
+    obj_[field] = obj[field] || (typeof orelse === 'function' ? orelse(field) : orelse));
+
+  forEachField(['toaq', 'type', 'english'], field =>
+    { throw new Error(`required field ${field} missing in word «${obj.english}»`); });
+  forEachField(['gloss', 'short'], '');
+  forEachField(['keywords'],       []);
+
+  if([
+    'predicate', 'pronoun',    'object incorporating verb',
+    'name verb', 'word-quote', 'text-quote',
+  ].includes(obj.type)) {
+    forEachField(['frame', 'distribution'], '');
+    forEachField(['namesake'],              undefined);
+    forEachField(['notes', 'examples'],     []);
+    forEachField(['fields'],                []);
+  } else
+    forEachField(['notes', 'examples'],     []);
+
+  return obj_;
 });
+
 require('fs').writeFileSync('../dictionary.json',
   JSON.stringify(d, null, 2) + '\n');
+console.log('Success!');

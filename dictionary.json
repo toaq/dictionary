@@ -2069,12 +2069,8 @@
       }
     ],
     "fields": [
-      [
-        "lıe"
-      ],
-      [
-        "raı"
-      ]
+      "lıe",
+      "raı"
     ]
   },
   {
@@ -3455,12 +3451,8 @@
       }
     ],
     "fields": [
-      [
-        "lıe"
-      ],
-      [
-        "raı"
-      ]
+      "lıe",
+      "raı"
     ]
   },
   {
@@ -3566,12 +3558,8 @@
       }
     ],
     "fields": [
-      [
-        "raı"
-      ],
-      [
-        "cuaq"
-      ]
+      "raı",
+      "cuaq"
     ]
   },
   {
@@ -8480,12 +8468,8 @@
       }
     ],
     "fields": [
-      [
-        "raı"
-      ],
-      [
-        "cuaq"
-      ]
+      "raı",
+      "cuaq"
     ]
   },
   {
@@ -9064,6 +9048,19 @@
     "fields": []
   },
   {
+    "toaq": "lıecho",
+    "type": "predicate",
+    "english": "▯ likes satisfying property ▯.",
+    "gloss": "like",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "lıeq",
     "type": "predicate",
     "english": "▯ is a wedge.",
@@ -9567,6 +9564,19 @@
     "fields": []
   },
   {
+    "toaq": "muqcheıbea",
+    "type": "predicate",
+    "english": "▯ is a knuckle.",
+    "gloss": "knuckle",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "muqcea",
     "type": "predicate",
     "english": "▯ is a handbag.",
@@ -9597,19 +9607,6 @@
     "type": "predicate",
     "english": "▯ is a glove.",
     "gloss": "glove",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muqjeıbea",
-    "type": "predicate",
-    "english": "▯ is a knuckle.",
-    "gloss": "knuckle",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -10332,9 +10329,7 @@
     ],
     "examples": [],
     "fields": [
-      [
-        "lıe"
-      ]
+      "lıe"
     ]
   },
   {
@@ -12236,6 +12231,19 @@
     "fields": []
   },
   {
+    "toaq": "puecheı",
+    "type": "predicate",
+    "english": "▯ is a toe.",
+    "gloss": "toe",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "puedea",
     "type": "predicate",
     "english": "▯ kicks ▯.",
@@ -12266,19 +12274,6 @@
     "type": "predicate",
     "english": "▯ is a sock.",
     "gloss": "sock",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "puejeı",
-    "type": "predicate",
-    "english": "▯ is a toe.",
-    "gloss": "toe",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -16399,15 +16394,9 @@
       }
     ],
     "fields": [
-      [
-        "tao"
-      ],
-      [
-        "raı"
-      ],
-      [
-        "cuaq"
-      ]
+      "tao",
+      "raı",
+      "cuaq"
     ]
   },
   {
