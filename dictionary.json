@@ -9573,6 +9573,19 @@
     "fields": []
   },
   {
+    "toaq": "muqcheıbea",
+    "type": "predicate",
+    "english": "▯ is a knuckle.",
+    "gloss": "knuckle",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "muqcea",
     "type": "predicate",
     "english": "▯ is a handbag.",
@@ -9603,19 +9616,6 @@
     "type": "predicate",
     "english": "▯ is a glove.",
     "gloss": "glove",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muqjeıbea",
-    "type": "predicate",
-    "english": "▯ is a knuckle.",
-    "gloss": "knuckle",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -12243,6 +12243,19 @@
     "fields": []
   },
   {
+    "toaq": "puecheı",
+    "type": "predicate",
+    "english": "▯ is a toe.",
+    "gloss": "toe",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "puedea",
     "type": "predicate",
     "english": "▯ kicks ▯.",
@@ -12273,19 +12286,6 @@
     "type": "predicate",
     "english": "▯ is a sock.",
     "gloss": "sock",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "puejeı",
-    "type": "predicate",
-    "english": "▯ is a toe.",
-    "gloss": "toe",
     "short": "",
     "keywords": [],
     "frame": "c",
