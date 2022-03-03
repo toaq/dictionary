@@ -9057,6 +9057,19 @@
     "fields": []
   },
   {
+    "toaq": "lıecho",
+    "type": "predicate",
+    "english": "▯ likes satisfying property ▯.",
+    "gloss": "like",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "lıeq",
     "type": "predicate",
     "english": "▯ is a wedge.",
