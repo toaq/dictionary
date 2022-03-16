@@ -9,5 +9,5 @@ lot of examples.
 * `html` contains the necessary files and scripts for building the
   HTML dictionary page.
 * `tools` contains helper scripts. In particular:
-  - `normalize.js` is the tool you should run before committing — it
+  - `node tools/normalize.js` is the tool you should run before committing — it
     puts entries and fields in the right places.

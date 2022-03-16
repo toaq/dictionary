@@ -172,9 +172,9 @@
     "gloss": "would",
     "short": "",
     "keywords": [],
-    "frame": "0 c",
+    "frame": "0 0",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -426,9 +426,9 @@
     "gloss": "could",
     "short": "",
     "keywords": [],
-    "frame": "0 c",
+    "frame": "0 0",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -632,7 +632,7 @@
     "keywords": [],
     "frame": "0",
     "distribution": "d",
-    "pronominal_class": "ta",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2266,7 +2266,7 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ta_strong",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2280,7 +2280,7 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ta_strong",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2770,7 +2770,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5244,7 +5244,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8412,7 +8412,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d n d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -10361,7 +10361,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12349,7 +12349,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13061,7 +13061,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d n",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16240,7 +16240,7 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ta_strong",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16666,7 +16666,7 @@
     "keywords": [],
     "frame": "c 0",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16680,7 +16680,7 @@
     "keywords": [],
     "frame": "c c 1",
     "distribution": "d n d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16694,7 +16694,7 @@
     "keywords": [],
     "frame": "c c 0",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16708,7 +16708,7 @@
     "keywords": [],
     "frame": "c c 1",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16722,7 +16722,7 @@
     "keywords": [],
     "frame": "c c 0",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16736,7 +16736,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16750,7 +16750,7 @@
     "keywords": [],
     "frame": "c c 1",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16764,7 +16764,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16778,7 +16778,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16792,7 +16792,7 @@
     "keywords": [],
     "frame": "c c 0",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16806,7 +16806,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16820,7 +16820,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16834,7 +16834,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16848,7 +16848,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16862,7 +16862,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16876,7 +16876,7 @@
     "keywords": [],
     "frame": "c c c",
     "distribution": "d d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16890,7 +16890,7 @@
     "keywords": [],
     "frame": "c c",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16918,7 +16918,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "pronominal_class": "ta",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16932,7 +16932,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "pronominal_class": "ta",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -17631,7 +17631,7 @@
     "keywords": [],
     "frame": "c 2",
     "distribution": "d d",
-    "pronominal_class": "ta",
+    "pronominal_class": "ta_strong",
     "notes": [],
     "examples": [
       {
