@@ -53,7 +53,7 @@ d = d.map(obj => {
     'predicate', 'pronoun',    'object incorporating verb',
     'name verb', 'word-quote', 'text-quote',
   ].includes(obj.type)) {
-    forEachField(['frame', 'distribution', 'animacy'], '');
+    forEachField(['frame', 'distribution', 'pronominal_class'], '');
     forEachField(['namesake'],              undefined);
     forEachField(['notes', 'examples'],     []);
     forEachField(['fields'],                []);
