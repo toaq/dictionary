@@ -3894,6 +3894,16 @@
     "fields": []
   },
   {
+    "toaq": "fou",
+    "type": "sentence connector",
+    "english": "go on tangent",
+    "gloss": "by the way",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "foı",
     "type": "predicate",
     "english": "▯ is bored.",
@@ -16668,6 +16678,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "zay",
+    "type": "illocution",
+    "english": "warning illocution",
+    "gloss": "warning",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "zu",
