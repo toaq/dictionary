@@ -203,6 +203,19 @@
     "examples": []
   },
   {
+    "toaq": "ujoq",
+    "type": "predicate",
+    "english": "▯ is a club/mallet/baton/hammer/pestle.",
+    "gloss": "mallet",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ume",
     "type": "interjection",
     "english": "pleasure",
@@ -223,6 +236,19 @@
     "examples": []
   },
   {
+    "toaq": "uq'ujoq",
+    "type": "predicate",
+    "english": "▯ is the letter U.",
+    "gloss": "U",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ua",
     "type": "interjection",
     "english": "amazement",
@@ -241,6 +267,32 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "ırue",
+    "type": "predicate",
+    "english": "▯ is a wind/breeze.",
+    "gloss": "wind",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ıq'ırue",
+    "type": "predicate",
+    "english": "▯ is the letter I.",
+    "gloss": "I",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "obe",
