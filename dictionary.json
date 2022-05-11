@@ -10,7 +10,7 @@
     "examples": []
   },
   {
-    "toaq": "afarı",
+    "toaq": "Afarı",
     "type": "predicate",
     "english": "▯ is Africa.",
     "gloss": "Africa",
@@ -41,6 +41,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "Amerıka",
+    "type": "predicate",
+    "english": "▯ is America (continent).",
+    "gloss": "America",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anı",
@@ -76,6 +89,19 @@
     "short": "",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Asıa",
+    "type": "predicate",
+    "english": "▯ is Asia.",
+    "gloss": "Asia",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
     "notes": [],
     "examples": [],
@@ -221,6 +247,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "Usona",
+    "type": "predicate",
+    "english": "▯ is US-American/pertains to the USA.",
+    "gloss": "American",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ua",
@@ -413,7 +452,7 @@
     "fields": []
   },
   {
-    "toaq": "eoropa",
+    "toaq": "Eoropa",
     "type": "predicate",
     "english": "▯ is Europe.",
     "gloss": "Europe",
@@ -5083,19 +5122,6 @@
     "fields": []
   },
   {
-    "toaq": "hasıa",
-    "type": "predicate",
-    "english": "▯ is Asia.",
-    "gloss": "Asia",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "haq",
     "type": "predicate",
     "english": "▯ is food.",
@@ -5215,19 +5241,6 @@
     "type": "predicate",
     "english": "▯ becomes quiet/silent; ▯ hushes.",
     "gloss": "hush",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Husona",
-    "type": "predicate",
-    "english": "▯ is US-American/pertains to the USA.",
-    "gloss": "American",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -10379,19 +10392,6 @@
     "fields": []
   },
   {
-    "toaq": "merıka",
-    "type": "predicate",
-    "english": "▯ is America (continent).",
-    "gloss": "America",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mety",
     "type": "predicate",
     "english": "▯ is a meter.",
@@ -13573,7 +13573,7 @@
     "fields": []
   },
   {
-    "toaq": "saralıa",
+    "toaq": "Saralıa",
     "type": "predicate",
     "english": "▯ is Australia.",
     "gloss": "Australia",
