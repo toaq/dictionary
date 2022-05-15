@@ -10,7 +10,7 @@
     "examples": []
   },
   {
-    "toaq": "afarı",
+    "toaq": "Afarı",
     "type": "predicate",
     "english": "▯ is Africa.",
     "gloss": "Africa",
@@ -41,6 +41,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "Amerıka",
+    "type": "predicate",
+    "english": "▯ is America (continent).",
+    "gloss": "America",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anı",
@@ -76,6 +89,19 @@
     "short": "",
     "keywords": [],
     "frame": "c c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Asıa",
+    "type": "predicate",
+    "english": "▯ is Asia.",
+    "gloss": "Asia",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
     "notes": [],
     "examples": [],
@@ -240,6 +266,19 @@
     "type": "predicate",
     "english": "▯ is the letter U.",
     "gloss": "U",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Usona",
+    "type": "predicate",
+    "english": "▯ is US-American/pertains to the USA.",
+    "gloss": "American",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -465,7 +504,7 @@
     "fields": []
   },
   {
-    "toaq": "eoropa",
+    "toaq": "Eoropa",
     "type": "predicate",
     "english": "▯ is Europe.",
     "gloss": "Europe",
@@ -2914,19 +2953,6 @@
     "fields": []
   },
   {
-    "toaq": "daıchı",
-    "type": "predicate",
-    "english": "▯ has hope that ▯ is the case; ▯ believes ▯ can happen.",
-    "gloss": "hope",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "daısıo",
     "type": "predicate",
     "english": "▯ is an idea.",
@@ -5148,19 +5174,6 @@
     "fields": []
   },
   {
-    "toaq": "hasıa",
-    "type": "predicate",
-    "english": "▯ is Asia.",
-    "gloss": "Asia",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "haq",
     "type": "predicate",
     "english": "▯ is food.",
@@ -5280,19 +5293,6 @@
     "type": "predicate",
     "english": "▯ becomes quiet/silent; ▯ hushes.",
     "gloss": "hush",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Husona",
-    "type": "predicate",
-    "english": "▯ is US-American/pertains to the USA.",
-    "gloss": "American",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -6656,19 +6656,6 @@
     "keywords": [],
     "frame": "0",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jıashao",
-    "type": "predicate",
-    "english": "▯ hopes that ▯ will be the case.",
-    "gloss": "hope",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -10457,19 +10444,6 @@
     "fields": []
   },
   {
-    "toaq": "merıka",
-    "type": "predicate",
-    "english": "▯ is America (continent).",
-    "gloss": "America",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mety",
     "type": "predicate",
     "english": "▯ is a meter.",
@@ -13284,11 +13258,11 @@
   {
     "toaq": "rıofa",
     "type": "predicate",
-    "english": "▯ flies; ▯ flies to ▯ from ▯.",
+    "english": "▯ flies; ▯ flies to ▯.",
     "gloss": "fly",
     "short": "",
     "keywords": [],
-    "frame": "c c c",
+    "frame": "c c",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -13651,7 +13625,7 @@
     "fields": []
   },
   {
-    "toaq": "saralıa",
+    "toaq": "Saralıa",
     "type": "predicate",
     "english": "▯ is Australia.",
     "gloss": "Australia",
@@ -14173,11 +14147,11 @@
   {
     "toaq": "shua",
     "type": "predicate",
-    "english": "▯ falls to ▯ from ▯.",
+    "english": "▯ falls to ▯.",
     "gloss": "fall",
     "short": "",
     "keywords": [],
-    "frame": "c c c",
+    "frame": "c c",
     "distribution": "d d d",
     "notes": [],
     "examples": [],
