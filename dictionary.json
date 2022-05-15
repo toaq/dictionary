@@ -262,10 +262,10 @@
     "examples": []
   },
   {
-    "toaq": "uq'ujoq",
+    "toaq": "Usona",
     "type": "predicate",
-    "english": "▯ is the letter U.",
-    "gloss": "U",
+    "english": "▯ is US-American/pertains to the USA.",
+    "gloss": "American",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -275,10 +275,10 @@
     "fields": []
   },
   {
-    "toaq": "Usona",
+    "toaq": "uq'ujoq",
     "type": "predicate",
-    "english": "▯ is US-American/pertains to the USA.",
-    "gloss": "American",
+    "english": "▯ is the letter U.",
+    "gloss": "U",
     "short": "",
     "keywords": [],
     "frame": "c",
