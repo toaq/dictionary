@@ -13100,6 +13100,16 @@
     "fields": []
   },
   {
+    "toaq": "rı",
+    "type": "conjunction",
+    "english": "connective question",
+    "gloss": "or?",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "rıq",
     "type": "predicate",
     "english": "▯ is green.",
