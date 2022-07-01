@@ -7674,11 +7674,11 @@
   {
     "toaq": "jea",
     "type": "predicate",
-    "english": "▯ makes a purchase; ▯ buys property ▯; ▯ buys property ▯ from ▯.",
+    "english": "▯ buys/purchases, from ▯, property ▯.",
     "gloss": "buy",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c c 1",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
