@@ -61,6 +61,8 @@ d = d.map(obj => {
     forEachField(['notes', 'examples'],     []);
   }
 
+  obj_.gloss = obj_.gloss.replaceAll(' ', '.');
+
   return obj_;
 });
 
