@@ -4088,7 +4088,12 @@
     "distribution": "d d",
     "pronominal_class": "ta",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Fủı nỏaq ní kủe da.",
+        "english": "This book is easy to read."
+      }
+    ],
     "fields": []
   },
   {
@@ -12527,7 +12532,12 @@
     "distribution": "d d",
     "pronominal_class": "ta",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nỏa chỏa ní kủqtoaı da.",
+        "english": "This sentence is difficult to pronounce."
+      }
+    ],
     "fields": []
   },
   {
