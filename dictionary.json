@@ -10,7 +10,7 @@
     "examples": []
   },
   {
-    "toaq": "afarı",
+    "toaq": "Afarı",
     "type": "predicate",
     "english": "▯ is Africa.",
     "gloss": "Africa",
@@ -41,6 +41,19 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "Amerıka",
+    "type": "predicate",
+    "english": "▯ is America (continent).",
+    "gloss": "America",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "anı",
@@ -76,6 +89,19 @@
     "short": "",
     "keywords": [],
     "frame": "a",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Asıa",
+    "type": "predicate",
+    "english": "▯ is Asia.",
+    "gloss": "Asia",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
     "notes": [],
     "examples": [],
@@ -203,10 +229,23 @@
     "examples": []
   },
   {
+    "toaq": "ujoq",
+    "type": "predicate",
+    "english": "▯ is a club/mallet/baton/hammer/pestle.",
+    "gloss": "mallet",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ume",
     "type": "interjection",
     "english": "pleasure",
-    "gloss": "",
+    "gloss": "mmm",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -221,6 +260,32 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "Usona",
+    "type": "predicate",
+    "english": "▯ is US-American/pertains to the USA.",
+    "gloss": "American",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "uq'ujoq",
+    "type": "predicate",
+    "english": "▯ is the letter U.",
+    "gloss": "U",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "ua",
@@ -241,6 +306,32 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "ırue",
+    "type": "predicate",
+    "english": "▯ is a wind/breeze.",
+    "gloss": "wind",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ıq'ırue",
+    "type": "predicate",
+    "english": "▯ is the letter I.",
+    "gloss": "I",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "obe",
@@ -413,7 +504,7 @@
     "fields": []
   },
   {
-    "toaq": "eoropa",
+    "toaq": "Eoropa",
     "type": "predicate",
     "english": "▯ is Europe.",
     "gloss": "Europe",
@@ -1762,7 +1853,7 @@
     "toaq": "chuaotıe",
     "type": "predicate",
     "english": "▯ is a window cover.",
-    "gloss": "window cover",
+    "gloss": "window.cover",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -2861,19 +2952,6 @@
     "fields": []
   },
   {
-    "toaq": "daıchı",
-    "type": "predicate",
-    "english": "▯ has hope that ▯ is the case; ▯ believes ▯ can happen.",
-    "gloss": "hope",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "daısıo",
     "type": "predicate",
     "english": "▯ is an idea.",
@@ -3549,7 +3627,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Dẻaı ní lî kảqgaı da.",
+        "toaq": "Dẻaı ní kâqgaı ja da.",
         "english": "This is worth seeing."
       },
       {
@@ -3890,6 +3968,16 @@
     "fields": []
   },
   {
+    "toaq": "fou",
+    "type": "sentence connector",
+    "english": "go on tangent",
+    "gloss": "by.the.way",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "foı",
     "type": "predicate",
     "english": "▯ is bored.",
@@ -3949,7 +4037,7 @@
     ],
     "examples": [
       {
-        "toaq": "Fẻa mỉe dùoı hóra dỉaıheıgu hó lî bủ chủq da.",
+        "toaq": "Fẻa mỉe dùo hóra dỉaıheıgu hó bû chủq ja da.",
         "english": "They survived for 72 hours eating nothing."
       }
     ],
@@ -5082,19 +5170,6 @@
     "fields": []
   },
   {
-    "toaq": "hasıa",
-    "type": "predicate",
-    "english": "▯ is Asia.",
-    "gloss": "Asia",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "haq",
     "type": "predicate",
     "english": "▯ is food.",
@@ -5213,19 +5288,6 @@
     "type": "predicate",
     "english": "▯ becomes quiet/silent; ▯ hushes.",
     "gloss": "hush",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Husona",
-    "type": "predicate",
-    "english": "▯ is US-American/pertains to the USA.",
-    "gloss": "American",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -6457,7 +6519,7 @@
         "english": "They described this building as big."
       },
       {
-        "toaq": "Hẻ jủoı hó jí lî mỏıjoe da. ",
+        "toaq": "Hẻ jủoı hó jí môıjoe ja da.",
         "english": "They describe me as smart."
       }
     ],
@@ -6589,19 +6651,6 @@
     "keywords": [],
     "frame": "",
     "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jıashao",
-    "type": "predicate",
-    "english": "▯ hopes that ▯ will be the case.",
-    "gloss": "hope",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8455,7 +8504,7 @@
         "english": "Every human has rights."
       },
       {
-        "toaq": "Kẻaı súq lî bủ kủq da.",
+        "toaq": "Kẻaı súq bû kủq ja da.",
         "english": "You have the right to remain silent."
       },
       {
@@ -10385,19 +10434,6 @@
     "fields": []
   },
   {
-    "toaq": "merıka",
-    "type": "predicate",
-    "english": "▯ is America (continent).",
-    "gloss": "America",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mety",
     "type": "predicate",
     "english": "▯ is a meter.",
@@ -11542,7 +11578,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Dẻoq súq nò hı tỏaq moq?",
+        "toaq": "Kỏy súq nò hı zủ moq?",
         "english": "In what language are you communicating?"
       },
       {
@@ -13050,6 +13086,16 @@
     "fields": []
   },
   {
+    "toaq": "rı",
+    "type": "conjunction",
+    "english": "connective question",
+    "gloss": "or?",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "rıq",
     "type": "predicate",
     "english": "▯ is green.",
@@ -13208,11 +13254,11 @@
   {
     "toaq": "rıofa",
     "type": "predicate",
-    "english": "▯ flies; ▯ flies to ▯ from ▯.",
+    "english": "▯ flies; ▯ flies to ▯.",
     "gloss": "fly",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c e",
     "distribution": "d d",
     "notes": [],
     "examples": [],
@@ -13575,7 +13621,7 @@
     "fields": []
   },
   {
-    "toaq": "saralıa",
+    "toaq": "Saralıa",
     "type": "predicate",
     "english": "▯ is Australia.",
     "gloss": "Australia",
@@ -14097,11 +14143,11 @@
   {
     "toaq": "shua",
     "type": "predicate",
-    "english": "▯ falls to ▯ from ▯.",
+    "english": "▯ falls to ▯.",
     "gloss": "fall",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c e",
     "distribution": "d d d",
     "notes": [],
     "examples": [],
@@ -16331,7 +16377,7 @@
     "toaq": "Toaqzu",
     "type": "predicate",
     "english": "▯ is the Toaq language.",
-    "gloss": "language",
+    "gloss": "Toaq",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -16385,7 +16431,7 @@
         "english": "They did something to me."
       },
       {
-        "toaq": "Tỏı súq hó lî pảıruo ba.",
+        "toaq": "Tỏı pảıruo súq hó ba.",
         "english": "Act towards them in a friendly way."
       },
       {
@@ -16653,6 +16699,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "zay",
+    "type": "illocution",
+    "english": "warning illocution",
+    "gloss": "warning",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "zu",
