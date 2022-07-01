@@ -4080,13 +4080,13 @@
   {
     "toaq": "fuı",
     "type": "predicate",
-    "english": "Satisfying property ▯ is easy for ▯.",
+    "english": "▯ is easy to be in relation ▯ with.",
     "gloss": "easy",
     "short": "",
     "keywords": [],
-    "frame": "c e",
+    "frame": "c 2",
     "distribution": "d d",
-    "pronominal_class": "hoq",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12519,13 +12519,13 @@
   {
     "toaq": "noa",
     "type": "predicate",
-    "english": "Satisfying property ▯ is difficult for ▯.",
+    "english": "▯ is difficult to be in relation ▯ with.",
     "gloss": "difficult",
     "short": "",
     "keywords": [],
-    "frame": "c e",
+    "frame": "c 2",
     "distribution": "d d",
-    "pronominal_class": "hoq",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
