@@ -52,6 +52,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -93,6 +94,7 @@
     "keywords": [],
     "frame": "a",
     "distribution": "d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -248,6 +250,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -281,6 +284,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -294,6 +298,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -327,6 +332,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -340,6 +346,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
