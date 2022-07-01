@@ -1154,7 +1154,7 @@
   {
     "toaq": "bodoa",
     "type": "predicate",
-    "english": "▯ gives possession of ▯ to ▯.",
+    "english": "▯ gives ▯ possession of ▯.",
     "gloss": "give",
     "short": "",
     "keywords": [],
@@ -1196,7 +1196,7 @@
   {
     "toaq": "bonua",
     "type": "predicate",
-    "english": "▯ takes possession of ▯ from ▯.",
+    "english": "▯ takes away from ▯ possession of ▯.",
     "gloss": "take",
     "short": "",
     "keywords": [],
@@ -3710,11 +3710,11 @@
   {
     "toaq": "doa",
     "type": "predicate",
-    "english": "▯ gives property ▯ to ▯.",
+    "english": "▯ gives ▯ property ▯.",
     "gloss": "give",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c c 1",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
@@ -7215,7 +7215,7 @@
   {
     "toaq": "jıaınua",
     "type": "predicate",
-    "english": "▯ takes/removes ▯ from ▯.",
+    "english": "▯ grasps at ▯ to physically take/remove ▯ from it.",
     "gloss": "remove",
     "short": "",
     "keywords": [],
@@ -7744,7 +7744,7 @@
   {
     "toaq": "jeaqdoa",
     "type": "predicate",
-    "english": "▯ adds ▯ to ▯.",
+    "english": "▯, to ▯, adds ▯.",
     "gloss": "add",
     "short": "",
     "keywords": [],
@@ -11663,7 +11663,7 @@
   {
     "toaq": "nua",
     "type": "predicate",
-    "english": "▯ takes/removes property ▯ from ▯.",
+    "english": "▯, from ▯, takes/removes property ▯.",
     "gloss": "take",
     "short": "",
     "keywords": [],
@@ -12759,7 +12759,7 @@
   {
     "toaq": "paqnua",
     "type": "predicate",
-    "english": "▯ removes part ▯ from ▯.",
+    "english": "▯ removes from ▯ part ▯.",
     "gloss": "remove",
     "short": "",
     "keywords": [],
@@ -14179,7 +14179,7 @@
   {
     "toaq": "rıudoa",
     "type": "predicate",
-    "english": "▯ returns ▯ to ▯; ▯ gives property ▯ back to ▯.",
+    "english": "▯ gives ▯ back property ▯.",
     "gloss": "give.back",
     "short": "",
     "keywords": [],
