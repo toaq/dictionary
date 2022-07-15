@@ -16456,20 +16456,6 @@
     "fields": []
   },
   {
-    "toaq": "sey",
-    "type": "predicate",
-    "english": "▯ is a number.",
-    "gloss": "number",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "tá",
     "type": "pronoun",
     "english": "anaphoric pronoun for adjective DPs (class IV)",
@@ -17990,6 +17976,20 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "zıu",
+    "type": "predicate",
+    "english": "▯ is a number.",
+    "gloss": "number",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "zozeo",
