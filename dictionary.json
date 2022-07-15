@@ -7892,6 +7892,20 @@
     "fields": []
   },
   {
+    "toaq": "kato",
+    "type": "predicate",
+    "english": "▯ is a cat.",
+    "gloss": "cat",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kaq",
     "type": "predicate",
     "english": "▯ is visual/optical; ▯ pertains to the sense of sight/vision.",
