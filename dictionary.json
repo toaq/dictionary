@@ -6437,20 +6437,6 @@
     "fields": []
   },
   {
-    "toaq": "hoeloha",
-    "type": "predicate",
-    "english": "▯ is gold.",
-    "gloss": "gold",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "he",
     "type": "predicate",
     "english": "▯ is generally the case; ▯ is how things generally are. (gnomic aspect)",
@@ -8122,20 +8108,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kaqnuo",
-    "type": "predicate",
-    "english": "▯ dreams ▯.",
-    "gloss": "dream",
-    "short": "",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d",
-    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9928,20 +9900,6 @@
     "type": "predicate",
     "english": "▯ is a wedge.",
     "gloss": "wedge",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "loha",
-    "type": "predicate",
-    "english": "▯ is metal.",
-    "gloss": "metal",
     "short": "",
     "keywords": [],
     "frame": "a",
