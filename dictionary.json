@@ -1154,7 +1154,7 @@
   {
     "toaq": "bodoa",
     "type": "predicate",
-    "english": "▯ gives possession of ▯ to ▯.",
+    "english": "▯ gives ▯ possession of ▯.",
     "gloss": "give",
     "short": "",
     "keywords": [],
@@ -1196,7 +1196,7 @@
   {
     "toaq": "bonua",
     "type": "predicate",
-    "english": "▯ takes possession of ▯ from ▯.",
+    "english": "▯ takes away from ▯ possession of ▯.",
     "gloss": "take",
     "short": "",
     "keywords": [],
@@ -3710,11 +3710,11 @@
   {
     "toaq": "doa",
     "type": "predicate",
-    "english": "▯ gives property ▯ to ▯.",
+    "english": "▯ gives ▯ property ▯.",
     "gloss": "give",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c c 1",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
@@ -4080,15 +4080,20 @@
   {
     "toaq": "fuı",
     "type": "predicate",
-    "english": "Satisfying property ▯ is easy for ▯.",
+    "english": "▯ is easy to be in relation ▯ with.",
     "gloss": "easy",
     "short": "",
     "keywords": [],
-    "frame": "c e",
+    "frame": "c 2",
     "distribution": "d d",
-    "pronominal_class": "hoq",
+    "pronominal_class": "ta",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Fủı nỏaq ní kủe da.",
+        "english": "This book is easy to read."
+      }
+    ],
     "fields": []
   },
   {
@@ -5594,7 +5599,7 @@
   {
     "toaq": "haqdoa",
     "type": "predicate",
-    "english": "▯ feeds ▯ to ▯.",
+    "english": "▯ feeds ▯ food ▯.",
     "gloss": "feed",
     "short": "",
     "keywords": [],
@@ -7215,7 +7220,7 @@
   {
     "toaq": "jıaınua",
     "type": "predicate",
-    "english": "▯ takes/removes ▯ from ▯.",
+    "english": "▯ grasps at ▯ to physically take/remove ▯ from it.",
     "gloss": "remove",
     "short": "",
     "keywords": [],
@@ -7674,11 +7679,11 @@
   {
     "toaq": "jea",
     "type": "predicate",
-    "english": "▯ makes a purchase; ▯ buys property ▯; ▯ buys property ▯ from ▯.",
+    "english": "▯ buys/purchases, from ▯, property ▯.",
     "gloss": "buy",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c c 1",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
@@ -7744,7 +7749,7 @@
   {
     "toaq": "jeaqdoa",
     "type": "predicate",
-    "english": "▯ adds ▯ to ▯.",
+    "english": "▯, to ▯, adds ▯.",
     "gloss": "add",
     "short": "",
     "keywords": [],
@@ -11677,11 +11682,11 @@
   {
     "toaq": "nua",
     "type": "predicate",
-    "english": "▯ takes/removes property ▯ from ▯.",
+    "english": "▯, from ▯, takes/removes property ▯.",
     "gloss": "take",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c c 1",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
@@ -12533,15 +12538,20 @@
   {
     "toaq": "noa",
     "type": "predicate",
-    "english": "Satisfying property ▯ is difficult for ▯.",
+    "english": "▯ is difficult to be in relation ▯ with.",
     "gloss": "difficult",
     "short": "",
     "keywords": [],
-    "frame": "c e",
+    "frame": "c 2",
     "distribution": "d d",
-    "pronominal_class": "hoq",
+    "pronominal_class": "ta",
     "notes": [],
-    "examples": [],
+    "examples": [
+      {
+        "toaq": "Nỏa chỏa ní kủqtoaı da.",
+        "english": "This sentence is difficult to pronounce."
+      }
+    ],
     "fields": []
   },
   {
@@ -12773,7 +12783,7 @@
   {
     "toaq": "paqnua",
     "type": "predicate",
-    "english": "▯ removes part ▯ from ▯.",
+    "english": "▯ removes from ▯ part ▯.",
     "gloss": "remove",
     "short": "",
     "keywords": [],
@@ -14193,11 +14203,11 @@
   {
     "toaq": "rıudoa",
     "type": "predicate",
-    "english": "▯ returns ▯ to ▯; ▯ gives property ▯ back to ▯.",
+    "english": "▯ gives ▯ back property ▯.",
     "gloss": "give.back",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "frame": "c c 1",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
