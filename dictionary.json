@@ -44,16 +44,6 @@
     "examples": []
   },
   {
-    "toaq": "ına",
-    "type": "interjection",
-    "english": "received and understood",
-    "gloss": "roger",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "Amerıka",
     "type": "predicate",
     "english": "▯ is America (continent).",
@@ -328,6 +318,16 @@
     "type": "interjection",
     "english": "disgust",
     "gloss": "eww",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ına",
+    "type": "interjection",
+    "english": "received and understood",
+    "gloss": "roger",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -2195,20 +2195,6 @@
     "fields": []
   },
   {
-    "toaq": "daqchıu",
-    "type": "predicate",
-    "english": "▯ is the time address of ▯.",
-    "gloss": "time.address",
-    "short": "",
-    "keywords": [],
-    "frame": "c e",
-    "distribution": "d d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "chıo",
     "type": "predicate",
     "english": "▯ repeats ▯ times.",
@@ -2997,6 +2983,20 @@
     "fields": []
   },
   {
+    "toaq": "daqchıu",
+    "type": "predicate",
+    "english": "▯ is the time address of ▯.",
+    "gloss": "time.address",
+    "short": "",
+    "keywords": [],
+    "frame": "c e",
+    "distribution": "d d",
+    "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "daq",
     "type": "predicate",
     "english": "▯ is time.",
@@ -3278,20 +3278,6 @@
     "fields": []
   },
   {
-    "toaq": "zue",
-    "type": "predicate",
-    "english": "▯ temporarily/non-permanently satisfies property ▯.",
-    "gloss": "temporarily",
-    "short": "",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "dua",
     "type": "predicate",
     "english": "▯ knows ▯ to be the case / to be true.",
@@ -3489,20 +3475,6 @@
     "frame": "c e",
     "distribution": "d d",
     "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "toıdue",
-    "type": "predicate",
-    "english": "▯ is morally/ethically right/correct.",
-    "gloss": "morally.correct",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3788,20 +3760,6 @@
     "fields": []
   },
   {
-    "toaq": "dedoa",
-    "type": "predicate",
-    "english": "▯ adorns/decorates ▯ with property ▯.",
-    "gloss": "decorate",
-    "short": "",
-    "keywords": [],
-    "frame": "c c 1",
-    "distribution": "d d d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "doaq",
     "type": "predicate",
     "english": "▯ is a settlement/town/village/city.",
@@ -3883,6 +3841,20 @@
     "frame": "c 1",
     "distribution": "d d",
     "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "dedoa",
+    "type": "predicate",
+    "english": "▯ adorns/decorates ▯ with property ▯.",
+    "gloss": "decorate",
+    "short": "",
+    "keywords": [],
+    "frame": "c c 1",
+    "distribution": "d d d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4433,6 +4405,20 @@
     "keywords": [],
     "frame": "a",
     "distribution": "d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "feıluaq",
+    "type": "predicate",
+    "english": "▯ teases/bullies/picks on ▯.",
+    "gloss": "bully",
+    "short": "",
+    "keywords": [],
+    "frame": "c e",
+    "distribution": "d d",
     "pronominal_class": "ho",
     "notes": [],
     "examples": [],
@@ -5757,14 +5743,18 @@
     "examples": []
   },
   {
-    "toaq": "jıy",
-    "type": "vocative",
-    "english": "self-vocative",
-    "gloss": "this.is",
+    "toaq": "hupı",
+    "type": "predicate",
+    "english": "▯ is a fox.",
+    "gloss": "fox",
     "short": "",
     "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ho",
     "notes": [],
-    "examples": []
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "husho",
@@ -6447,20 +6437,6 @@
     "fields": []
   },
   {
-    "toaq": "loha",
-    "type": "predicate",
-    "english": "▯ is metal.",
-    "gloss": "metal",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "hoeloha",
     "type": "predicate",
     "english": "▯ is gold.",
@@ -6741,20 +6717,6 @@
     "keywords": [],
     "frame": "c 1",
     "distribution": "d; d d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "suoı",
-    "type": "predicate",
-    "english": "▯ is greatly/awesomely/impressively ▯.",
-    "gloss": "great",
-    "short": "",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
     "pronominal_class": "ta",
     "notes": [],
     "examples": [],
@@ -7495,6 +7457,16 @@
     "fields": []
   },
   {
+    "toaq": "jıy",
+    "type": "vocative",
+    "english": "self-vocative",
+    "gloss": "this.is",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "jo",
     "type": "predicate",
     "english": "▯ are four in number.",
@@ -8043,20 +8015,6 @@
     "fields": []
   },
   {
-    "toaq": "hupı",
-    "type": "predicate",
-    "english": "▯ is a fox.",
-    "gloss": "fox",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "kaq",
     "type": "predicate",
     "english": "▯ is visual/optical; ▯ pertains to the sense of sight/vision.",
@@ -8066,20 +8024,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kaıchuo",
-    "type": "predicate",
-    "english": "▯ is a writing implement.",
-    "gloss": "writing.implement",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8220,6 +8164,20 @@
     "frame": "c e",
     "distribution": "d d",
     "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaıchuo",
+    "type": "predicate",
+    "english": "▯ is a writing implement.",
+    "gloss": "writing.implement",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8473,20 +8431,6 @@
     "type": "predicate",
     "english": "▯ hungers/urges/longs for property ▯.",
     "gloss": "urge.for",
-    "short": "",
-    "keywords": [],
-    "frame": "c 1",
-    "distribution": "d d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "taoshao",
-    "type": "predicate",
-    "english": "▯ intends to satisfy property ▯.",
-    "gloss": "intend",
     "short": "",
     "keywords": [],
     "frame": "c 1",
@@ -9586,20 +9530,6 @@
     "fields": []
   },
   {
-    "toaq": "feıluaq",
-    "type": "predicate",
-    "english": "▯ teases/bullies/picks on ▯.",
-    "gloss": "bully",
-    "short": "",
-    "keywords": [],
-    "frame": "c e",
-    "distribution": "d d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "luaı",
     "type": "predicate",
     "english": "▯ is funny/comical.",
@@ -10008,6 +9938,20 @@
     "fields": []
   },
   {
+    "toaq": "loha",
+    "type": "predicate",
+    "english": "▯ is metal.",
+    "gloss": "metal",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "Lojıbaq",
     "type": "predicate",
     "english": "▯ is the Lojban language.",
@@ -10164,6 +10108,20 @@
         "english": "probably"
       }
     ],
+    "fields": []
+  },
+  {
+    "toaq": "lemıu",
+    "type": "predicate",
+    "english": "▯ expects ▯ to be the case.",
+    "gloss": "expect",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
     "fields": []
   },
   {
@@ -10977,20 +10935,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "lemıu",
-    "type": "predicate",
-    "english": "▯ expects ▯ to be the case.",
-    "gloss": "expect",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12036,20 +11980,6 @@
     "fields": []
   },
   {
-    "toaq": "nuogaı",
-    "type": "predicate",
-    "english": "▯ dreams state of affairs ▯.",
-    "gloss": "dream",
-    "short": "",
-    "keywords": [],
-    "frame": "c 0",
-    "distribution": "d d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "nuofuq",
     "type": "predicate",
     "english": "▯ is a pyjama.",
@@ -12073,6 +12003,20 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nuogaı",
+    "type": "predicate",
+    "english": "▯ dreams state of affairs ▯.",
+    "gloss": "dream",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15244,6 +15188,20 @@
     "fields": []
   },
   {
+    "toaq": "suoı",
+    "type": "predicate",
+    "english": "▯ is greatly/awesomely/impressively ▯.",
+    "gloss": "great",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sue",
     "type": "predicate",
     "english": "▯ asks ▯ to satisfy property ▯.",
@@ -16108,6 +16066,20 @@
     "fields": []
   },
   {
+    "toaq": "sıgı",
+    "type": "predicate",
+    "english": "▯ is interesting; ▯ is interesting to ▯.",
+    "gloss": "interesting",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sımı",
     "type": "predicate",
     "english": "▯ is a monkey.",
@@ -16360,20 +16332,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "sıgı",
-    "type": "predicate",
-    "english": "▯ is interesting; ▯ is interesting to ▯.",
-    "gloss": "interesting",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16868,6 +16826,20 @@
     "type": "predicate",
     "english": "▯ considers doing ▯.",
     "gloss": "consider.doing",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "taoshao",
+    "type": "predicate",
+    "english": "▯ intends to satisfy property ▯.",
+    "gloss": "intend",
     "short": "",
     "keywords": [],
     "frame": "c 1",
@@ -17888,6 +17860,20 @@
     "examples": []
   },
   {
+    "toaq": "toıdue",
+    "type": "predicate",
+    "english": "▯ is morally/ethically right/correct.",
+    "gloss": "morally.correct",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "toı",
     "type": "predicate",
     "english": "▯ does to ▯ relation ▯.",
@@ -18217,6 +18203,20 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zue",
+    "type": "predicate",
+    "english": "▯ temporarily/non-permanently satisfies property ▯.",
+    "gloss": "temporarily",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1",
+    "distribution": "d d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
