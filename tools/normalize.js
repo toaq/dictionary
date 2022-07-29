@@ -46,7 +46,7 @@ d = d.map(obj => {
 
   forEachField(['toaq', 'type', 'english'], field =>
     { throw new Error(`required field ${field} missing in word «${obj.english}»`); });
-  forEachField(['gloss', 'short'], '');
+  forEachField(['gloss', 'gloss_abbreviation', 'short'], '');
   forEachField(['keywords'],       []);
 
   if([
