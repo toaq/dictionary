@@ -23,14 +23,14 @@ function sortify(s) {
 }
 
 d = d.sort((a, b) => {
-  let [aToaq, bToaq] = [a.toaq, b.toaq].map(sortify);
+  const [aToaq, bToaq] = [a.toaq, b.toaq].map(sortify);
   if(aToaq == bToaq && a.type === 'predicate' && b_.type === 'predicate')
     throw new Error(`duplicate entries: «${a.toaq}» and «${b.toaq}»!`);
 
   let [aParts, bParts] = [aToaq, bToaq].map(
     _ => _.split(/(?<=[aeiouy`])(?=[^aeiouy`])/));
   while(aParts.length || bParts.length) {
-    let [aPart, bPart] = [aParts.shift(), bParts.shift()];
+    const [aPart, bPart] = [aParts.shift(), bParts.shift()];
     if(!aPart || !bPart)
       return +aPart - +bPart;
     if(aPart < bPart) return -1;
@@ -39,10 +39,23 @@ d = d.sort((a, b) => {
   return 0;
 });
 
+const verbyTypes = [
+  'predicate',
+  'pronoun',
+  'object incorporating verb',
+  'name verb',
+  'word-quote',
+  'text-quote'
+];
+
 d = d.map(obj => {
   let obj_ = {};
-  let ensureField = (fields, orelse) => fields.forEach(field =>
-    obj_[field] = obj[field] || (typeof orelse === 'function' ? orelse(field) : orelse));
+  const type = obj.type;
+  const toaq = obj.toaq;
+  const ensureField = (fields, orelse) => fields.forEach(field => {
+    obj_[field] = obj[field] || (typeof orelse === 'function' ? orelse(field) : orelse)
+    delete obj[field];
+  });
 
   ensureField(['toaq', 'type', 'english'], field =>
     { throw new Error(`required field ${field} missing in word «${obj.english}»`); });
@@ -51,10 +64,7 @@ d = d.map(obj => {
   ensureField(['short'], '');
   ensureField(['keywords'], []);
 
-  if([
-    'predicate', 'pronoun',    'object incorporating verb',
-    'name verb', 'word-quote', 'text-quote',
-  ].includes(obj.type)) {
+  if(verbyTypes.includes(obj.type)) {
     ensureField(['frame', 'distribution', 'pronominal_class'], '');
     ensureField(['namesake']);
     ensureField(['notes', 'examples'],     []);
@@ -65,6 +75,9 @@ d = d.map(obj => {
 
   obj_.gloss = obj_.gloss.replaceAll(' ', '.');
 
+  if (Object.keys(obj).length > 0) {
+    throw new Error(`word «${toaq}» has superfluous fields: ${JSON.stringify(Object.keys(obj))}`);
+  }
   return obj_;
 });
 
