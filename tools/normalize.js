@@ -43,11 +43,16 @@ d = d.map(obj => {
   let obj_ = {};
   let forEachField = (fields, orelse) => fields.forEach(field =>
     obj_[field] = obj[field] || (typeof orelse === 'function' ? orelse(field) : orelse));
+  let allowFields = (fields) => fields.forEach(field => {
+    if (obj[field]) obj_[field] = obj[field];
+  });
 
   forEachField(['toaq', 'type', 'english'], field =>
     { throw new Error(`required field ${field} missing in word «${obj.english}»`); });
-  forEachField(['gloss', 'gloss_abbreviation', 'short'], '');
-  forEachField(['keywords'],       []);
+  forEachField(['gloss'], '');
+  allowFields(['gloss_abbreviation']);
+  forEachField(['short'], '');
+  forEachField(['keywords'], []);
 
   if([
     'predicate', 'pronoun',    'object incorporating verb',
