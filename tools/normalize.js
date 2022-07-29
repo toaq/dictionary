@@ -58,13 +58,13 @@ d = d.map(obj => {
   });
 
   ensureField(['toaq', 'type', 'english'], field =>
-    { throw new Error(`required field ${field} missing in word «${obj.english}»`); });
+    { throw new Error(`required field ${field} missing in word «${toaq}»`); });
   ensureField(['gloss'], '');
   ensureField(['gloss_abbreviation']);
   ensureField(['short'], '');
   ensureField(['keywords'], []);
 
-  if(verbyTypes.includes(obj.type)) {
+  if(verbyTypes.includes(type)) {
     ensureField(['frame', 'distribution', 'pronominal_class'], '');
     ensureField(['namesake']);
     ensureField(['notes', 'examples'],     []);
@@ -75,8 +75,9 @@ d = d.map(obj => {
 
   obj_.gloss = obj_.gloss.replaceAll(' ', '.');
 
-  if (Object.keys(obj).length > 0) {
-    throw new Error(`word «${toaq}» has superfluous fields: ${JSON.stringify(Object.keys(obj))}`);
+  const remainingKeys = Object.keys(obj);
+  if (remainingKeys.length > 0) {
+    throw new Error(`word «${toaq}» has superfluous fields: ${JSON.stringify(remainingKeys)}`);
   }
   return obj_;
 });
