@@ -41,29 +41,26 @@ d = d.sort((a, b) => {
 
 d = d.map(obj => {
   let obj_ = {};
-  let forEachField = (fields, orelse) => fields.forEach(field =>
+  let ensureField = (fields, orelse) => fields.forEach(field =>
     obj_[field] = obj[field] || (typeof orelse === 'function' ? orelse(field) : orelse));
-  let allowFields = (fields) => fields.forEach(field => {
-    if (obj[field]) obj_[field] = obj[field];
-  });
 
-  forEachField(['toaq', 'type', 'english'], field =>
+  ensureField(['toaq', 'type', 'english'], field =>
     { throw new Error(`required field ${field} missing in word «${obj.english}»`); });
-  forEachField(['gloss'], '');
-  allowFields(['gloss_abbreviation']);
-  forEachField(['short'], '');
-  forEachField(['keywords'], []);
+  ensureField(['gloss'], '');
+  ensureField(['gloss_abbreviation']);
+  ensureField(['short'], '');
+  ensureField(['keywords'], []);
 
   if([
     'predicate', 'pronoun',    'object incorporating verb',
     'name verb', 'word-quote', 'text-quote',
   ].includes(obj.type)) {
-    forEachField(['frame', 'distribution', 'pronominal_class'], '');
-    forEachField(['namesake'],              undefined);
-    forEachField(['notes', 'examples'],     []);
-    forEachField(['fields'],                []);
+    ensureField(['frame', 'distribution', 'pronominal_class'], '');
+    ensureField(['namesake']);
+    ensureField(['notes', 'examples'],     []);
+    ensureField(['fields'],                []);
   } else {
-    forEachField(['notes', 'examples'],     []);
+    ensureField(['notes', 'examples'],     []);
   }
 
   obj_.gloss = obj_.gloss.replaceAll(' ', '.');
