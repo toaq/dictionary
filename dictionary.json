@@ -203,6 +203,7 @@
     "frame": "",
     "distribution": "d d",
     "pronominal_class": "hoq",
+    "verb_class": "modality",
     "notes": [],
     "examples": [],
     "fields": []
@@ -537,6 +538,7 @@
     "frame": "",
     "distribution": "d d",
     "pronominal_class": "hoq",
+    "verb_class": "modality",
     "notes": [],
     "examples": [],
     "fields": []
@@ -664,13 +666,14 @@
   {
     "toaq": "bu",
     "type": "predicate",
-    "english": "▯ is not the case / is false; ▯ does not satisfy property ▯.",
+    "english": "▯ is not the case / is false.",
     "gloss": "not",
     "short": "",
     "keywords": [],
     "frame": "",
-    "distribution": "d; d d",
-    "pronominal_class": "ta",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "verb_class": "negation",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1791,6 +1794,7 @@
     "frame": "",
     "distribution": "d; d d",
     "pronominal_class": "hoq",
+    "verb_class": "aspect",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3175,6 +3179,7 @@
     "frame": "",
     "distribution": "d d",
     "pronominal_class": "hoq",
+    "verb_class": "modality",
     "notes": [],
     "examples": [
       {
@@ -5720,6 +5725,7 @@
     "frame": "",
     "distribution": "d; d d",
     "pronominal_class": "ta",
+    "verb_class": "aspect",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6414,6 +6420,7 @@
     "frame": "",
     "distribution": "d; d d",
     "pronominal_class": "ta",
+    "verb_class": "aspect",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6453,6 +6460,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "aspect",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7189,6 +7197,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7217,6 +7226,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7231,6 +7241,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7711,7 +7722,7 @@
     "toaq": "je",
     "type": "sentence connector",
     "english": "new topic / taking the floor",
-    "gloss": "new.topic",
+    "gloss": "[new.topic]",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -7903,13 +7914,14 @@
   {
     "toaq": "jeo",
     "type": "predicate",
-    "english": "▯ is true / is the case; ▯ satisfies property ▯.",
+    "english": "▯ is true / is the case.",
     "gloss": "is.true",
     "short": "",
     "keywords": [],
-    "frame": "c 1i",
-    "distribution": "d; d d",
-    "pronominal_class": "ta",
+    "frame": "",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "verb_class": "negation",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9566,6 +9578,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "aspect",
     "notes": [],
     "examples": [],
     "fields": []
@@ -11703,6 +11716,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13020,6 +13034,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13048,6 +13063,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13062,6 +13078,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "tense",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15921,6 +15938,7 @@
     "frame": "",
     "distribution": "d d",
     "pronominal_class": "hoq",
+    "verb_class": "modality",
     "notes": [],
     "examples": [],
     "fields": []
@@ -18110,6 +18128,7 @@
     "frame": "",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "verb_class": "aspect",
     "notes": [],
     "examples": [],
     "fields": []
