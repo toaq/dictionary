@@ -1,18 +1,23 @@
 let dict, frame_names = {};
 
+function strip_frame_indices(frame) {
+  return frame ? frame.replaceAll(/([ce12])[ijx]+/g, '$1') : frame;
+}
+
 function render_entry(entry) {
   let attributes = [];
   function attr(k, v) {
     attributes.push(`<li><span class="attribute">${k}</span> ` +
                         `<span class="value">${v}</span></li>`);
   }
-  let frame_name = frame_names[entry.frame];
+  let frame = strip_frame_indices(entry.frame);
+  let frame_name = frame_names[frame];
   if(!frame_name) {
-    if(entry.frame)
+    if(frame)
       throw new Error(
-        `frame ‘${entry.frame}’ from entry «${entry.toaq}» ` +
+        `frame ‘${frame}’ from entry «${entry.toaq}» ` +
         `does not have a namesake`);
-  } else attr('frame', `${frame_name} (${entry.frame})`);
+  } else attr('frame', `${frame_name} (${frame})`);
   let english = entry.english;
   if(entry.distribution) {
     english = english.split('; ');
@@ -40,7 +45,7 @@ function render_entry(entry) {
   if(entry.keywords && entry.keywords.length)
     attr('keywords', entry.keywords.join('; '));
   if(entry.examples && entry.examples.length) {
-    let maples = entry.examples.map(({toaq, english}) =>
+    const maples = entry.examples.map(({toaq, english}) =>
       `<li><span class="toaq">${toaq}</span> ` +
           `<span class="english">${english}</span></li>`);
     attr('examples', `<ul class="examples">${maples.join(' ')}</ul>`);
@@ -57,13 +62,16 @@ function render_entry(entry) {
 }
 
 function frames() {
-  for([k, v] of dict
-    .filter(_ => _.namesake)
-    .map(_ => [_.frame, _.toaq.toUpperCase()]))
-    if(!frame_names[k])
-      frame_names[k] = v;
-    else throw new Error(`frame ‘${k}’ has two conflicting names: ` +
-                         `«${frame_names[k]}» and «${v}»`);
+  for (const entry of dict) {
+    if (entry.namesake) {
+      const frame = strip_frame_indices(entry.frame);
+      const name = entry.toaq.toUpperCase();
+      if (frame_names[frame]) {
+        throw new Error(`frame ‘${frame}’ has two conflicting names: «${frame_names[frame]}» and «${name}»`);
+      }
+      frame_names[frame] = name;
+    }
+  }
 }
 
 function fail(s) {
