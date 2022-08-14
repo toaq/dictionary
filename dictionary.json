@@ -5314,16 +5314,6 @@
     "fields": []
   },
   {
-    "toaq": "go",
-    "type": "illocution",
-    "english": "question tag illocution",
-    "gloss": "isn't.it?",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "goa",
     "type": "predicate",
     "english": "▯ is space/room.",
