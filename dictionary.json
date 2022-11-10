@@ -349,6 +349,20 @@
     "fields": []
   },
   {
+    "toaq": "ıq",
+    "type": "predicate",
+    "english": "▯ satisfy property ▯.",
+    "gloss": "satisfy.property",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1i",
+    "distribution": "n d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ıq'ırue",
     "type": "predicate",
     "english": "▯ is the letter I.",
@@ -1653,6 +1667,20 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "cuoı",
+    "type": "predicate",
+    "english": "▯ satisfy with ▯ relation ▯.",
+    "gloss": "satisfy.relation",
+    "short": "",
+    "keywords": [],
+    "frame": "c c 2ij",
+    "distribution": "n n d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
