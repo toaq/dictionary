@@ -45,7 +45,6 @@ d = d.sort((a, b) => {
 
 const verbyTypes = [
   "predicate",
-  "pronoun",
   "object incorporating verb",
   "name verb",
   "name quote",
