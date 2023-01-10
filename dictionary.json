@@ -9227,7 +9227,7 @@
   },
   {
     "toaq": "kïo",
-    "type": "start-parenthetical",
+    "type": "start parenthetical",
     "english": "start parenthetical",
     "gloss": "(",
     "short": "",
@@ -11457,7 +11457,7 @@
   },
   {
     "toaq": "mo",
-    "type": "text-quote",
+    "type": "text quote",
     "english": "begin full-text quote",
     "gloss": "QUOTE",
     "short": "",
@@ -15919,7 +15919,7 @@
   },
   {
     "toaq": "shu",
-    "type": "word-quote",
+    "type": "word quote",
     "english": "turn next word X into quote predicate: ▯ is the word X.",
     "gloss": "WORD",
     "short": "",

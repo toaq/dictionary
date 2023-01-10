@@ -48,8 +48,8 @@ const verbyTypes = [
   "object incorporating verb",
   "name verb",
   "name quote",
-  "word-quote",
-  "text-quote",
+  "word quote",
+  "text quote",
 ];
 
 d = d.map((obj) => {
