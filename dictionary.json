@@ -2280,17 +2280,17 @@
   {
     "toaq": "chuaıruqshua",
     "type": "predicate",
-    "english": "It hails; ▯ hails; ▯ hails onto ▯.",
+    "english": "It hails.",
     "gloss": "hail",
     "short": "",
     "keywords": [],
-    "frame": "c e",
-    "distribution": "d d",
-    "pronominal_class": "maq",
+    "frame": "",
+    "distribution": "",
+    "pronominal_class": "",
     "notes": [],
     "examples": [
       {
-        "toaq": "Chủaıruqshua.",
+        "toaq": "Chuaıruqshua.",
         "english": "It's hailing."
       }
     ],
@@ -12940,17 +12940,17 @@
   {
     "toaq": "nıaoshua",
     "type": "predicate",
-    "english": "It snows; ▯ snows; ▯ snows onto ▯.",
+    "english": "It snows.",
     "gloss": "snow",
     "short": "",
     "keywords": [],
-    "frame": "c e",
-    "distribution": "d d",
-    "pronominal_class": "maq",
+    "frame": "",
+    "distribution": "",
+    "pronominal_class": "",
     "notes": [],
     "examples": [
       {
-        "toaq": "Nỉaoshua.",
+        "toaq": "Nıaoshua.",
         "english": "It's snowing."
       }
     ],
@@ -14508,17 +14508,17 @@
   {
     "toaq": "ruqshua",
     "type": "predicate",
-    "english": "It rains; ▯ rains; ▯ rains onto ▯.",
+    "english": "It rains.",
     "gloss": "rain",
     "short": "",
     "keywords": [],
-    "frame": "c e",
-    "distribution": "d d",
-    "pronominal_class": "maq",
+    "frame": "",
+    "distribution": "",
+    "pronominal_class": "",
     "notes": [],
     "examples": [
       {
-        "toaq": "Rủqshua.",
+        "toaq": "Ruqshua.",
         "english": "It's raining."
       }
     ],
