@@ -3348,25 +3348,6 @@
     "fields": []
   },
   {
-    "toaq": "daqfaı",
-    "type": "predicate",
-    "english": "▯ occurs frequently/often.",
-    "gloss": "frequent",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "dãqfaı",
-        "english": "often"
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "daqfao",
     "type": "predicate",
     "english": "▯ is the end of ▯; ▯ is the point at which ▯ ceases to be.",
@@ -3406,25 +3387,6 @@
     "pronominal_class": "maq",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "daqleı",
-    "type": "predicate",
-    "english": "▯ is seldom/infrequent.",
-    "gloss": "seldom",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "dãqleı",
-        "english": "seldom"
-      }
-    ],
     "fields": []
   },
   {
@@ -4422,7 +4384,7 @@
   {
     "toaq": "faı",
     "type": "predicate",
-    "english": "▯ is frequent/common in property ▯; ▯ satisfies frequent/common property ▯.",
+    "english": "▯ frequently/often satisfies property ▯.",
     "gloss": "frequent",
     "short": "",
     "keywords": [],
@@ -10631,8 +10593,8 @@
   {
     "toaq": "leı",
     "type": "predicate",
-    "english": "▯ is rare in property ▯; ▯ satisfies rare/infrequent property ▯.",
-    "gloss": "rare",
+    "english": "▯ seldom/infrequently satisfies property ▯.",
+    "gloss": "seldom",
     "short": "",
     "keywords": [],
     "frame": "c 1i",
