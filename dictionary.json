@@ -9719,7 +9719,7 @@
   },
   {
     "toaq": "kéo",
-    "type": "connective",
+    "type": "conjunction",
     "english": "but, however",
     "gloss": "but",
     "short": "",
@@ -14316,7 +14316,7 @@
   },
   {
     "toaq": "rá",
-    "type": "connective",
+    "type": "conjunction",
     "english": "inclusive or",
     "gloss": "or",
     "short": "",
@@ -14441,7 +14441,7 @@
   },
   {
     "toaq": "rú",
-    "type": "connective",
+    "type": "conjunction",
     "english": "and",
     "gloss": "and",
     "short": "",
@@ -14732,8 +14732,8 @@
   },
   {
     "toaq": "rí",
-    "type": "connective",
-    "english": "connective question",
+    "type": "conjunction",
+    "english": "conjunction question",
     "gloss": "or?",
     "short": "",
     "keywords": [],
@@ -14966,7 +14966,7 @@
   },
   {
     "toaq": "ró",
-    "type": "connective",
+    "type": "conjunction",
     "english": "exclusive or",
     "gloss": "xor",
     "short": "",
@@ -15079,7 +15079,7 @@
   },
   {
     "toaq": "róı",
-    "type": "connective",
+    "type": "plural coordinator",
     "english": "plural and",
     "gloss": "and",
     "short": "",
