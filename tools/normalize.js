@@ -28,7 +28,7 @@ function sortify(s) {
 
 d = d.sort((a, b) => {
   const [aToaq, bToaq] = [a.toaq, b.toaq].map(sortify);
-  if (aToaq == bToaq && a.type === "predicate" && b.type === "predicate")
+  if (a.toaq === b.toaq)
     throw new Error(`duplicate entries: «${a.toaq}» and «${b.toaq}»!`);
 
   let [aParts, bParts] = [aToaq, bToaq].map((_) =>
