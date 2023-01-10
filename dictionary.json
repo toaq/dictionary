@@ -1679,7 +1679,7 @@
   },
   {
     "toaq": "béı",
-    "type": "focus prefix",
+    "type": "focus particle",
     "english": "contrastive focus",
     "gloss": "FOC.CONTR",
     "short": "",
@@ -7366,7 +7366,7 @@
   },
   {
     "toaq": "júaq",
-    "type": "focus prefix",
+    "type": "focus particle",
     "english": "even",
     "gloss": "even",
     "short": "",
@@ -8668,7 +8668,7 @@
   },
   {
     "toaq": "kú",
-    "type": "focus prefix",
+    "type": "focus particle",
     "english": "non-contrastive focus",
     "gloss": "FOC",
     "short": "",
@@ -10825,7 +10825,7 @@
   },
   {
     "toaq": "máo",
-    "type": "focus prefix",
+    "type": "focus particle",
     "english": "also",
     "gloss": "also",
     "short": "",
@@ -18372,7 +18372,7 @@
   },
   {
     "toaq": "tó",
-    "type": "focus prefix",
+    "type": "focus particle",
     "english": "only",
     "gloss": "only",
     "short": "",
