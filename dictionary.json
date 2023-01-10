@@ -250,7 +250,7 @@
   {
     "toaq": "aımu",
     "type": "polarity",
-    "english": "contrastive negation: indeed not (contradicting a salient positive claim)",
+    "english": "contrastive negation: not in fact (contradicting a salient positive claim)",
     "gloss": "NEG.CONTR",
     "short": "",
     "keywords": [],
@@ -8094,7 +8094,7 @@
   {
     "toaq": "jeha",
     "type": "polarity",
-    "english": "contrastive affirmation: indeed (contradicting a salient negative claim)",
+    "english": "contrastive affirmation: in fact (contradicting a salient negative claim)",
     "gloss": "AFF.CONTR",
     "short": "",
     "keywords": [],
@@ -15526,7 +15526,7 @@
   {
     "toaq": "súna",
     "type": "pronoun",
-    "english": "2nd person plural personal pronoun; you (multiple listeners)",
+    "english": "2nd person plural personal pronoun; y'all (multiple listeners)",
     "gloss": "2P",
     "short": "",
     "keywords": [],
@@ -18759,7 +18759,7 @@
   {
     "toaq": "za",
     "type": "aspect",
-    "english": "prospective (have yet to)",
+    "english": "prospective (is going to)",
     "gloss": "PRSP",
     "short": "",
     "keywords": [],
