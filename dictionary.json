@@ -1030,20 +1030,6 @@
     "examples": []
   },
   {
-    "toaq": "bu dảı",
-    "type": "predicate",
-    "english": "▯ is impossible.",
-    "gloss": "impossible",
-    "short": "",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "bu tı",
     "type": "predicate",
     "english": "▯ is away; ▯ is not present at ▯.",
@@ -2826,20 +2812,6 @@
     "frame": "c e",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "chou",
-    "type": "predicate",
-    "english": "▯ is an event with ▯ as its instrument.",
-    "gloss": "using",
-    "short": "",
-    "keywords": [],
-    "frame": "c e",
-    "distribution": "d d",
-    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7214,20 +7186,6 @@
     "fields": []
   },
   {
-    "toaq": "jaq bủ",
-    "type": "predicate",
-    "english": "▯ is not at all the case; ▯ does not satisfy property ▯ at all; ▯ very much does not satisfy property ▯.",
-    "gloss": "not.at.all",
-    "short": "",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d; d d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "jaı",
     "type": "predicate",
     "english": "▯ is happy/glad/joyful.",
@@ -7302,16 +7260,6 @@
     "type": "complementizer",
     "english": "opens incidental relative clause",
     "gloss": "NRST",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "ju",
-    "type": "free modifier",
-    "english": "begin incidental clause",
-    "gloss": "begin.incidental",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -9829,16 +9777,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "lu",
-    "type": "free relative",
-    "english": "turn clause into predicate",
-    "gloss": "that.which",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "luq",
@@ -13549,20 +13487,6 @@
     "fields": []
   },
   {
-    "toaq": "puqho",
-    "type": "predicate",
-    "english": "▯ are them.",
-    "gloss": "they",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "pua",
     "type": "predicate",
     "english": "▯ enjoys satisfying property ▯.",
@@ -15572,20 +15496,6 @@
     "fields": []
   },
   {
-    "toaq": "suqjı",
-    "type": "predicate",
-    "english": "▯ is us (we, the speaker and the listener(s)).",
-    "gloss": "we",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "sua",
     "type": "predicate",
     "english": "▯ is necessary for ▯ to happen.",
@@ -16095,20 +16005,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shıho",
-    "type": "predicate",
-    "english": "▯ is him/her (singular).",
-    "gloss": "he/she",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
