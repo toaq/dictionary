@@ -288,7 +288,7 @@
   {
     "toaq": "ao",
     "type": "modality",
-    "english": "subjunctive, necessary",
+    "english": "subjunctive, necessary; X would happen if ...",
     "gloss": "NEC.SUBJ",
     "short": "",
     "keywords": [],
@@ -798,7 +798,7 @@
   {
     "toaq": "ea",
     "type": "modality",
-    "english": "subjunctive, possible",
+    "english": "subjunctive, possible; X could happen if ...",
     "gloss": "POSB.SUBJ",
     "short": "",
     "keywords": [],
@@ -3472,7 +3472,7 @@
   {
     "toaq": "daı",
     "type": "modality",
-    "english": "indicative, possible",
+    "english": "indicative, possible; X can happen if ...",
     "gloss": "POSB.IND",
     "short": "",
     "keywords": [],
@@ -16480,7 +16480,7 @@
   {
     "toaq": "she",
     "type": "modality",
-    "english": "indicative, necessary",
+    "english": "indicative, necessary; X happens if ...",
     "gloss": "NEC.IND",
     "short": "",
     "keywords": [],
