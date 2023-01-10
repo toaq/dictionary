@@ -1044,7 +1044,7 @@
     "fields": []
   },
   {
-    "toaq": "bu tỉ",
+    "toaq": "bu tı",
     "type": "predicate",
     "english": "▯ is away; ▯ is not present at ▯.",
     "gloss": "away",
@@ -1138,7 +1138,7 @@
     "fields": []
   },
   {
-    "toaq": "buaq gảı",
+    "toaq": "buaq gaı",
     "type": "predicate",
     "english": "▯ misses ▯; ▯ fails to observe ▯.",
     "gloss": "miss",
@@ -1463,7 +1463,12 @@
     "short": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Choqgı hú bọjoe da.",
+        "english": "That skill is useful."
+      }
+    ]
   },
   {
     "toaq": "boju",
@@ -1896,7 +1901,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "cúaq dẻ",
+        "toaq": "cúaq de",
         "english": "the concept of beauty"
       }
     ],
@@ -2271,7 +2276,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Shủa chúaıruq.",
+        "toaq": "Shua chúaıruq.",
         "english": "Hail is falling."
       }
     ],
@@ -2632,19 +2637,19 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Chỏ da.",
+        "toaq": "Cho da.",
         "english": "There is fondness."
       },
       {
-        "toaq": "Chỏ jí da.",
+        "toaq": "Cho jí da.",
         "english": "I am experiencing fondness."
       },
       {
-        "toaq": "Hẻ chỏ déo báq rủa da.",
+        "toaq": "He cho déo báq rua da.",
         "english": "The children are fond of flowers."
       },
       {
-        "toaq": "Chỏ súq hı nỉ fủa moq.",
+        "toaq": "Cho súq hí mea ní fua.",
         "english": "Which of these pieces of furniture do you like?"
       },
       {
@@ -2924,7 +2929,7 @@
     "fields": []
   },
   {
-    "toaq": "che chỉetua",
+    "toaq": "che chıetua",
     "type": "predicate",
     "english": "▯ is a teacher.",
     "gloss": "teacher",
@@ -2938,7 +2943,7 @@
     "fields": []
   },
   {
-    "toaq": "che gỉaqtao",
+    "toaq": "che gıaqtao",
     "type": "predicate",
     "english": "▯ is a musician.",
     "gloss": "musician",
@@ -4106,19 +4111,19 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Dỏı da.",
+        "toaq": "Doı da.",
         "english": "There is respect."
       },
       {
-        "toaq": "Dỏı jí da.",
+        "toaq": "Doı jí da.",
         "english": "I am experiencing veneration."
       },
       {
-        "toaq": "Dỏı há ke pỏq tüa jẻaq gỉ jíaq ba.",
+        "toaq": "Doı há báq poq ꝡë tua jeaq gı hó jíaq ba.",
         "english": "One should highly regard the people who make the world better."
       },
       {
-        "toaq": "Hẻ dỏı súq hı pỏq moq.",
+        "toaq": "He doı súq hí poq moq.",
         "english": "Which people do you generally have respect for?"
       },
       {
@@ -4246,7 +4251,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Dẻaı ní kâqgaı ja da.",
+        "toaq": "Deaı ní lä kaqgaı há já da.",
         "english": "This is worth seeing."
       },
       {
@@ -4522,7 +4527,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Fủı nỏaq ní kủe da.",
+        "toaq": "Fuı noaq ní kue da.",
         "english": "This book is easy to read."
       }
     ],
@@ -4766,7 +4771,7 @@
     ],
     "examples": [
       {
-        "toaq": "Fẻa mỉe dùo hóra dỉaıheıgu hó bû chủq ja da.",
+        "toaq": "Fea mıe dûo hóra dıaıheıgu nháo lä chuq já sía da.",
         "english": "They survived for 72 hours eating nothing."
       }
     ],
@@ -5304,15 +5309,15 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Gỉ chảq ba.",
+        "toaq": "Gı chaq ba.",
         "english": "Good day!"
       },
       {
-        "toaq": "Gỉ dỉosıao ba.",
+        "toaq": "Gı dıosıao ba.",
         "english": "Good morning!"
       },
       {
-        "toaq": "Gỉ nủaq ba.",
+        "toaq": "Gı nuaq ba.",
         "english": "Good night!"
       }
     ],
@@ -5417,7 +5422,7 @@
     "fields": []
   },
   {
-    "toaq": "gıq gỉ",
+    "toaq": "gıq gı",
     "type": "predicate",
     "english": "▯ is ungood.",
     "gloss": "ungood",
@@ -6216,7 +6221,7 @@
     "fields": []
   },
   {
-    "toaq": "huaq gỉ",
+    "toaq": "huaq gı",
     "type": "predicate",
     "english": "▯ is better than ▯.",
     "gloss": "better",
@@ -6230,7 +6235,7 @@
     "fields": []
   },
   {
-    "toaq": "huaq hủı",
+    "toaq": "huaq huı",
     "type": "predicate",
     "english": "▯ is worse than ▯.",
     "gloss": "worse",
@@ -6244,7 +6249,7 @@
     "fields": []
   },
   {
-    "toaq": "huaq pủı",
+    "toaq": "huaq puı",
     "type": "predicate",
     "english": "▯ are more numerous than ▯.",
     "gloss": "more.numerous",
@@ -6626,7 +6631,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Hỉo ka.",
+        "toaq": "Hıo ka.",
         "english": "hello; bye"
       }
     ],
@@ -7517,11 +7522,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Pủ jủoı sảo hó ní jỉo da. ",
+        "toaq": "Pu juoı sao nháo ní jıo.",
         "english": "They described this building as big."
       },
       {
-        "toaq": "Hẻ jủoı hó jí môıjoe ja da.",
+        "toaq": "He juoı há jí lä moıjoe já.",
         "english": "They describe me as smart."
       }
     ],
@@ -7846,7 +7851,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Jảq dẻ báq rủa jìe hó da.",
+        "toaq": "Jaq de báq rua jîe nháo da.",
         "english": "Flowers are very beautiful to them."
       }
     ],
@@ -8071,11 +8076,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Jỏaı nháo baq nảo.",
+        "toaq": "Joaı nháo báq nao.",
         "english": "They are looking for water."
       },
       {
-        "toaq": "Jỏaı jí tóakue.",
+        "toaq": "Joaı jí tóakue.",
         "english": "I'm looking for the dictionary."
       }
     ],
@@ -8295,7 +8300,7 @@
     "fields": []
   },
   {
-    "toaq": "jeaq gỉ",
+    "toaq": "jeaq gı",
     "type": "predicate",
     "english": "▯ improves / gets better.",
     "gloss": "improve",
@@ -8309,7 +8314,7 @@
     "fields": []
   },
   {
-    "toaq": "jeaq tỉjuı",
+    "toaq": "jeaq tıjuı",
     "type": "predicate",
     "english": "▯ increases in its proximity to ▯.",
     "gloss": "approach",
@@ -8835,7 +8840,7 @@
     "fields": []
   },
   {
-    "toaq": "kuaq kỉe",
+    "toaq": "kuaq kıe",
     "type": "predicate",
     "english": "▯ thanks ▯.",
     "gloss": "thank",
@@ -8847,14 +8852,14 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Kủaq kỉe jí ka.",
+        "toaq": "Kuaq kıe jí ka.",
         "english": "Thank you (I hereby express my gratitude)"
       }
     ],
     "fields": []
   },
   {
-    "toaq": "kuaq shẻo",
+    "toaq": "kuaq sheo",
     "type": "predicate",
     "english": "▯ apologizes to ▯.",
     "gloss": "apologize",
@@ -8866,7 +8871,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Kủaq shẻo jí ka.",
+        "toaq": "Kuaq sheo jí ka.",
         "english": "I apologize (I hereby express that I'm sorry)"
       }
     ],
@@ -8927,7 +8932,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "kùı",
+        "toaq": "kûı",
         "english": "because"
       }
     ],
@@ -9338,7 +9343,7 @@
     "fields": []
   },
   {
-    "toaq": "ko gủ",
+    "toaq": "ko gu",
     "type": "predicate",
     "english": "▯ is the second among ▯ sorted by property ▯.",
     "gloss": "second",
@@ -9352,7 +9357,7 @@
     "fields": []
   },
   {
-    "toaq": "ko sảq",
+    "toaq": "ko saq",
     "type": "predicate",
     "english": "▯ is the third among ▯ sorted by property ▯.",
     "gloss": "third",
@@ -9366,7 +9371,7 @@
     "fields": []
   },
   {
-    "toaq": "ko shỉ",
+    "toaq": "ko shı",
     "type": "predicate",
     "english": "▯ is the first among ▯ sorted by property ▯.",
     "gloss": "first",
@@ -9658,15 +9663,15 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Kẻaı tu rẻq da.",
+        "toaq": "Keaı tú req da.",
         "english": "Every human has rights."
       },
       {
-        "toaq": "Kẻaı súq bû kủq ja da.",
+        "toaq": "Keaı súq lä kuq já sía da.",
         "english": "You have the right to remain silent."
       },
       {
-        "toaq": "Mả kẻaı tỉ hó ní moq.",
+        "toaq": "Ma keaı nháo ní moq.",
         "english": "Do they have the right to be here?"
       },
       {
@@ -10470,12 +10475,7 @@
     "distribution": "d",
     "pronominal_class": "hoq",
     "notes": [],
-    "examples": [
-      {
-        "toaq": "lẽ",
-        "english": "probably"
-      }
-    ],
+    "examples": [],
     "fields": []
   },
   {
@@ -10846,12 +10846,8 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Mủ kảqgaı hó.",
+        "toaq": "Mu kaqgaı nháo.",
         "english": "They are being seen."
-      },
-      {
-        "toaq": "Chỏqgı hóı jỏemu da.",
-        "english": "That skill is useful."
       }
     ],
     "fields": []
@@ -11109,7 +11105,7 @@
     "fields": []
   },
   {
-    "toaq": "muo gỉ",
+    "toaq": "muo gı",
     "type": "predicate",
     "english": "▯ is perfect.",
     "gloss": "perfect",
@@ -12205,7 +12201,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "nũ",
+        "toaq": "nû",
         "english": "like this; like that"
       }
     ],
@@ -13071,11 +13067,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Kỏy súq nò hı zủ moq?",
+        "toaq": "Deoq súq nô hí zu?",
         "english": "In what language are you communicating?"
       },
       {
-        "toaq": "nò Fáraqse",
+        "toaq": "nô Fáraqse",
         "english": "in French"
       }
     ],
@@ -13164,7 +13160,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Nỏa chỏa ní kủqtoaı da.",
+        "toaq": "Noa choa ní kuqtoaı da.",
         "english": "This sentence is difficult to pronounce."
       }
     ],
@@ -14209,7 +14205,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Nủı ní pè báq hẻlu da.",
+        "toaq": "Nuı ní pê báq elu.",
         "english": "This one is small for an elephant."
       }
     ],
@@ -14270,7 +14266,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "pèa sa dảqne",
+        "toaq": "pêa sá daqne",
         "english": "some time ago"
       }
     ],
@@ -14397,19 +14393,19 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "rào sa rảı",
+        "toaq": "râo sá",
         "english": "some time; at some point"
       },
       {
-        "toaq": "rào sıa dảqmoa",
+        "toaq": "râo sía daqmoa",
         "english": "never, at no moment"
       },
       {
-        "toaq": "rào tu chảq",
+        "toaq": "râo tú chaq",
         "english": "every day"
       },
       {
-        "toaq": "rào tu dảqmoa",
+        "toaq": "râo tú daqmoa",
         "english": "always, at every moment"
       }
     ],
@@ -15005,7 +15001,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "rõa",
+        "toaq": "châ roa",
         "english": "naturally"
       }
     ],
@@ -15174,11 +15170,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Chỏ jí ní rẻo.",
+        "toaq": "Cho jí ní reo.",
         "english": "I like this colour."
       },
       {
-        "toaq": "Rẻo ní hı rảı moq.",
+        "toaq": "Reo ní hí moq.",
         "english": "What colour is this?, What colour does this have?"
       }
     ],
@@ -16669,11 +16665,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "sıa pỏq",
+        "toaq": "sía poq",
         "english": "no-one"
       },
       {
-        "toaq": "sıa rảı",
+        "toaq": "sía raı",
         "english": "nothing"
       }
     ]
@@ -16889,7 +16885,7 @@
     "fields": []
   },
   {
-    "toaq": "soq gỉ",
+    "toaq": "soq gı",
     "type": "predicate",
     "english": "▯ is the best among ▯.",
     "gloss": "best",
@@ -16903,7 +16899,7 @@
     "fields": []
   },
   {
-    "toaq": "soq hủı",
+    "toaq": "soq huı",
     "type": "predicate",
     "english": "▯ is the worst among ▯.",
     "gloss": "worst",
@@ -16917,7 +16913,7 @@
     "fields": []
   },
   {
-    "toaq": "soq nủı",
+    "toaq": "soq nuı",
     "type": "predicate",
     "english": "▯ is the smallest among ▯.",
     "gloss": "smallest",
@@ -16931,7 +16927,7 @@
     "fields": []
   },
   {
-    "toaq": "soq pủı",
+    "toaq": "soq puı",
     "type": "predicate",
     "english": "▯ are the most numerous among ▯.",
     "gloss": "most",
@@ -16945,7 +16941,7 @@
     "fields": []
   },
   {
-    "toaq": "soq sảo",
+    "toaq": "soq sao",
     "type": "predicate",
     "english": "▯ is the biggest among ▯.",
     "gloss": "biggest",
@@ -17195,11 +17191,7 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Sẻoqtue rủqshua da.",
-        "english": "The weather is rainy."
-      },
-      {
-        "toaq": "Sẻoqtue rûqshua da.",
+        "toaq": "Seoqtue ꝡä ruqshua.",
         "english": "The weather is rainy. [The weather is, it rains.]"
       }
     ],
@@ -17296,7 +17288,7 @@
     "fields": []
   },
   {
-    "toaq": "taq tủa mủaq",
+    "toaq": "taq tua muaq",
     "type": "predicate",
     "english": "▯ commits suicide / kills themselves.",
     "gloss": "commit.suicide",
@@ -17459,11 +17451,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "tútu pỏq",
+        "toaq": "tútu poq",
         "english": "everyone"
       },
       {
-        "toaq": "tútu rảı",
+        "toaq": "tútu raı",
         "english": "everything; anything"
       }
     ]
@@ -17478,11 +17470,11 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "tú pỏq",
+        "toaq": "tú poq",
         "english": "everyone; each person"
       },
       {
-        "toaq": "tú rảı",
+        "toaq": "tú raı",
         "english": "everything; each thing"
       }
     ]
@@ -17555,7 +17547,7 @@
     "fields": []
   },
   {
-    "toaq": "tua bủo",
+    "toaq": "tua buo",
     "type": "predicate",
     "english": "▯ prepares ▯ for satisfying property ▯.",
     "gloss": "prepare",
@@ -17569,7 +17561,7 @@
     "fields": []
   },
   {
-    "toaq": "tua dủa",
+    "toaq": "tua dua",
     "type": "predicate",
     "english": "▯ tells ▯ that ▯ is the case; ▯ makes ▯ know ▯.",
     "gloss": "tell",
@@ -17583,7 +17575,7 @@
     "fields": []
   },
   {
-    "toaq": "tua dỉa",
+    "toaq": "tua dıa",
     "type": "predicate",
     "english": "▯ lowers ▯ in how much it satisfies property ▯.",
     "gloss": "lower",
@@ -17597,7 +17589,7 @@
     "fields": []
   },
   {
-    "toaq": "tua gảı",
+    "toaq": "tua gaı",
     "type": "predicate",
     "english": "▯ shows ▯ state of affairs ▯; ▯ makes ▯ observe ▯.",
     "gloss": "show",
@@ -17611,7 +17603,7 @@
     "fields": []
   },
   {
-    "toaq": "tua hỏaq",
+    "toaq": "tua hoaq",
     "type": "predicate",
     "english": "▯ ignites ▯; ▯ sets fire to ▯.",
     "gloss": "ignite",
@@ -17625,7 +17617,7 @@
     "fields": []
   },
   {
-    "toaq": "tua jẻaq",
+    "toaq": "tua jeaq",
     "type": "predicate",
     "english": "▯ raises ▯ in how much it satisfies property ▯.",
     "gloss": "raise",
@@ -17639,7 +17631,7 @@
     "fields": []
   },
   {
-    "toaq": "tua jẻaq gẻa",
+    "toaq": "tua jeaq gea",
     "type": "predicate",
     "english": "▯ raises ▯.",
     "gloss": "raise",
@@ -17653,7 +17645,7 @@
     "fields": []
   },
   {
-    "toaq": "tua jẻaq nỉa",
+    "toaq": "tua jeaq nıa",
     "type": "predicate",
     "english": "▯ lowers ▯.",
     "gloss": "lower",
@@ -17667,7 +17659,7 @@
     "fields": []
   },
   {
-    "toaq": "tua kảqgaı",
+    "toaq": "tua kaqgaı",
     "type": "predicate",
     "english": "▯ shows ▯ state of affairs ▯; ▯ makes ▯ see ▯.",
     "gloss": "show",
@@ -17681,7 +17673,7 @@
     "fields": []
   },
   {
-    "toaq": "tua nỉe",
+    "toaq": "tua nıe",
     "type": "predicate",
     "english": "▯ puts ▯ inside ▯.",
     "gloss": "put.inside",
@@ -17695,7 +17687,7 @@
     "fields": []
   },
   {
-    "toaq": "tua nẻo",
+    "toaq": "tua neo",
     "type": "predicate",
     "english": "▯ puts ▯ onto ▯.",
     "gloss": "put.onto",
@@ -17723,7 +17715,7 @@
     "fields": []
   },
   {
-    "toaq": "tua shỉe",
+    "toaq": "tua shıe",
     "type": "predicate",
     "english": "▯ wakes ▯ up; ▯ awakens ▯.",
     "gloss": "wake",
@@ -17737,7 +17729,7 @@
     "fields": []
   },
   {
-    "toaq": "tua tỉ",
+    "toaq": "tua tı",
     "type": "predicate",
     "english": "▯ puts ▯ at ▯.",
     "gloss": "put",
@@ -17751,7 +17743,7 @@
     "fields": []
   },
   {
-    "toaq": "tua tỉrıu",
+    "toaq": "tua tırıu",
     "type": "predicate",
     "english": "▯ puts ▯ back at ▯.",
     "gloss": "put.back",
@@ -17765,7 +17757,7 @@
     "fields": []
   },
   {
-    "toaq": "tua zủy",
+    "toaq": "tua zueq",
     "type": "predicate",
     "english": "▯ breaks/destroys ▯; ▯ makes ▯ broken/inoperable.",
     "gloss": "break",
@@ -18501,11 +18493,11 @@
     ],
     "examples": [
       {
-        "toaq": "Pủ tỏı hó jí da.",
+        "toaq": "Pu toı nháo jí sá.",
         "english": "They did something to me."
       },
       {
-        "toaq": "Tỏı pảıruo súq hó ba.",
+        "toaq": "Toı paıruo súq nháo ba.",
         "english": "Act towards them in a friendly way."
       },
       {
@@ -18555,7 +18547,12 @@
     "short": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "Ma pu soa súq hú tẹhıao kune.",
+        "english": "Did you help that injured dog?"
+      }
+    ]
   },
   {
     "toaq": "te",
@@ -18570,12 +18567,8 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "Tẻ hỉao ní kủne da.",
+        "toaq": "Te hıao ní kune da.",
         "english": "This dog is injured."
-      },
-      {
-        "toaq": "Mả pủ sỏa súq hóı hỉaote kủne moq.",
-        "english": "Did you help that injured dog?"
       }
     ],
     "fields": []
