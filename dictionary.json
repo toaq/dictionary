@@ -4336,7 +4336,7 @@
   {
     "toaq": "fana",
     "type": "predicate",
-    "english": "▯ is a motion eventt towards ▯.",
+    "english": "▯ is a motion event towards ▯.",
     "gloss": "towards",
     "short": "",
     "keywords": [],
@@ -11917,8 +11917,8 @@
   {
     "toaq": "meıme",
     "type": "predicate",
-    "english": "▯ is the mountains.",
-    "gloss": "mountains",
+    "english": "▯ is a mountain range.",
+    "gloss": "mountain.range",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -18445,7 +18445,7 @@
     "fields": []
   },
   {
-    "toaq": "tof",
+    "toaq": "tofu",
     "type": "predicate",
     "english": "▯ is tofu.",
     "gloss": "tofu",
