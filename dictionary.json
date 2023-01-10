@@ -388,6 +388,20 @@
     "fields": []
   },
   {
+    "toaq": "Usonagua",
+    "type": "predicate",
+    "english": "▯ are the USA.",
+    "gloss": "USA",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "uq",
     "type": "interjection",
     "english": "backchanneling, signifying that you're still following along; mhm",
@@ -527,6 +541,20 @@
     "frame": "c 1i",
     "distribution": "d d",
     "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ıqnua",
+    "type": "predicate",
+    "english": "▯, from ▯, takes/removes property ▯.",
+    "gloss": "take",
+    "short": "",
+    "keywords": [],
+    "frame": "c c 1j",
+    "distribution": "d d d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1470,20 +1498,6 @@
     "keywords": [],
     "frame": "a",
     "distribution": "d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "bonua",
-    "type": "predicate",
-    "english": "▯ takes away from ▯ possession of ▯.",
-    "gloss": "take",
-    "short": "",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
     "examples": [],
@@ -4284,6 +4298,20 @@
     "fields": []
   },
   {
+    "toaq": "deoq",
+    "type": "predicate",
+    "english": "▯ communicates to ▯ that they (the former) satisfy property ▯.",
+    "gloss": "communicate",
+    "short": "",
+    "keywords": [],
+    "frame": "c c 1i",
+    "distribution": "d d d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "fa-",
     "type": "prefix",
     "english": "telic",
@@ -4317,6 +4345,48 @@
     "frame": "c e",
     "distribution": "d d",
     "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "fafuaq",
+    "type": "predicate",
+    "english": "▯ is a movie/film.",
+    "gloss": "movie",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "fafuaqjıo",
+    "type": "predicate",
+    "english": "▯ is a cinema / movie theater.",
+    "gloss": "cinema",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "fafuaqkea",
+    "type": "predicate",
+    "english": "▯ is a film camera.",
+    "gloss": "camera",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4769,7 +4839,7 @@
     "fields": []
   },
   {
-    "toaq": "garaq",
+    "toaq": "garam",
     "type": "predicate",
     "english": "▯ is a gram.",
     "gloss": "gram",
@@ -6112,20 +6182,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "Husonagua",
-    "type": "predicate",
-    "english": "▯ are the USA.",
-    "gloss": "USA",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9086,48 +9142,6 @@
     "fields": []
   },
   {
-    "toaq": "kıq",
-    "type": "predicate",
-    "english": "▯ is a movie/film.",
-    "gloss": "movie",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kıqjıo",
-    "type": "predicate",
-    "english": "▯ is a cinema / movie theater.",
-    "gloss": "cinema",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kıqkea",
-    "type": "predicate",
-    "english": "▯ is a film camera.",
-    "gloss": "camera",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "kıa",
     "type": "predicate",
     "english": "▯ is red.",
@@ -9306,6 +9320,20 @@
     "fields": []
   },
   {
+    "toaq": "kompıuta",
+    "type": "predicate",
+    "english": "▯ is a computer.",
+    "gloss": "computer",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kopı",
     "type": "predicate",
     "english": "▯ is a copy of ▯.",
@@ -9385,20 +9413,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "koqpıuta",
-    "type": "predicate",
-    "english": "▯ is a computer.",
-    "gloss": "computer",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9567,20 +9581,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "koy",
-    "type": "predicate",
-    "english": "▯ communicates to ▯ that they (the former) satisfy property ▯.",
-    "gloss": "communicate",
-    "short": "",
-    "keywords": [],
-    "frame": "c c 1i",
-    "distribution": "d d d",
-    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -11749,7 +11749,7 @@
     "fields": []
   },
   {
-    "toaq": "mety",
+    "toaq": "meta",
     "type": "predicate",
     "english": "▯ is a meter.",
     "gloss": "meter",
@@ -12252,11 +12252,11 @@
   {
     "toaq": "nua",
     "type": "predicate",
-    "english": "▯, from ▯, takes/removes property ▯.",
+    "english": "▯ takes away from ▯ possession of ▯.",
     "gloss": "take",
     "short": "",
     "keywords": [],
-    "frame": "c c 1j",
+    "frame": "",
     "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
@@ -15524,6 +15524,20 @@
     "examples": []
   },
   {
+    "toaq": "suhobo",
+    "type": "predicate",
+    "english": "▯ is yours (2nd + 3rd person).",
+    "gloss": "your",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "súna",
     "type": "pronoun",
     "english": "2nd person plural personal pronoun; y'all (multiple listeners)",
@@ -15706,20 +15720,6 @@
     "keywords": [],
     "frame": "",
     "distribution": "d d n",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "suobo",
-    "type": "predicate",
-    "english": "▯ is yours (2nd + 3rd person).",
-    "gloss": "our",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
     "pronominal_class": "ta",
     "notes": [],
     "examples": [],
@@ -18851,7 +18851,7 @@
     "fields": []
   },
   {
-    "toaq": "zuy",
+    "toaq": "zueq",
     "type": "predicate",
     "english": "▯ is broken/inoperable.",
     "gloss": "broken",
