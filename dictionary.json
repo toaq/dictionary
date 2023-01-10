@@ -1,9 +1,29 @@
 [
   {
-    "toaq": "ả",
+    "toaq": "ꝡa",
+    "type": "complementizer",
+    "english": "opens declarative matrix clause",
+    "gloss": "COMP",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ꝡä",
+    "type": "complementizer",
+    "english": "opens declarative subordinate clause",
+    "gloss": "COMP",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "a",
     "type": "interjection",
-    "english": "discovery",
-    "gloss": "aha",
+    "english": "discovery; ah",
+    "gloss": "ah",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -26,7 +46,7 @@
   {
     "toaq": "ahı",
     "type": "interjection",
-    "english": "pain",
+    "english": "pain; ouch",
     "gloss": "ouch",
     "short": "",
     "keywords": [],
@@ -36,7 +56,7 @@
   {
     "toaq": "aja",
     "type": "interjection",
-    "english": "happiness",
+    "english": "happiness; yay",
     "gloss": "yay",
     "short": "",
     "keywords": [],
@@ -44,10 +64,52 @@
     "examples": []
   },
   {
+    "toaq": "áma",
+    "type": "pronoun",
+    "english": "1st + 2nd + 3rd person personal pronoun; we/us (me + you + them)",
+    "gloss": "1+2+3",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "n",
+    "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "amabo",
+    "type": "predicate",
+    "english": "▯ is ours (1st + 2nd + 3rd person).",
+    "gloss": "our",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "Amerıka",
     "type": "predicate",
     "english": "▯ is America (continent).",
     "gloss": "America",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "anıjıo",
+    "type": "predicate",
+    "english": "▯ is a sand castle.",
+    "gloss": "sand.castle",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -117,12 +179,26 @@
     "toaq": "áq",
     "type": "pronoun",
     "english": "reflexive pronoun",
-    "gloss": "oneself",
+    "gloss": "REFL",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "n",
     "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "aqbo",
+    "type": "predicate",
+    "english": "▯ is oneself's (of the subject of the sentence).",
+    "gloss": "oneself's",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -180,6 +256,16 @@
     "examples": []
   },
   {
+    "toaq": "aımu",
+    "type": "polarity",
+    "english": "contrastive negation: indeed not (contradicting a salient positive claim)",
+    "gloss": "NEG.CONTR",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "aıpu",
     "type": "predicate",
     "english": "▯ is a ghost/spirit.",
@@ -189,21 +275,6 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "ao",
-    "type": "predicate",
-    "english": "▯ would be the case if ▯ were the case.",
-    "gloss": "would",
-    "short": "",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d",
-    "pronominal_class": "hoq",
-    "verb_class": "modality",
     "notes": [],
     "examples": [],
     "fields": []
@@ -223,10 +294,30 @@
     "fields": []
   },
   {
+    "toaq": "ao",
+    "type": "modality",
+    "english": "subjunctive, necessary",
+    "gloss": "NEC.SUBJ",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ubaı",
     "type": "interjection",
     "english": "alas",
     "gloss": "alas",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ufu",
+    "type": "interjection",
+    "english": "relief; phew",
+    "gloss": "phew",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -257,6 +348,44 @@
     "fields": []
   },
   {
+    "toaq": "úmo",
+    "type": "pronoun",
+    "english": "1st + 2nd person personal pronoun; we/us (me + you)",
+    "gloss": "1+2",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "n",
+    "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "umobo",
+    "type": "predicate",
+    "english": "▯ is ours (1st + 2nd person).",
+    "gloss": "our",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ume",
+    "type": "interjection",
+    "english": "pleasure; mmm",
+    "gloss": "mmm",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ume",
     "type": "interjection",
     "english": "pleasure",
@@ -269,7 +398,7 @@
   {
     "toaq": "upa",
     "type": "interjection",
-    "english": "admitting a minor mistake",
+    "english": "admitting a minor mistake; oops, whoops",
     "gloss": "oops",
     "short": "",
     "keywords": [],
@@ -291,6 +420,16 @@
     "fields": []
   },
   {
+    "toaq": "uq",
+    "type": "interjection",
+    "english": "backchanneling, signifying that you're still following along; mhm",
+    "gloss": "mhm",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "uq'ujoq",
     "type": "predicate",
     "english": "▯ is the letter U.",
@@ -307,7 +446,7 @@
   {
     "toaq": "ua",
     "type": "interjection",
-    "english": "amazement",
+    "english": "amazement; wow, woah",
     "gloss": "wow",
     "short": "",
     "keywords": [],
@@ -325,10 +464,48 @@
     "examples": []
   },
   {
+    "toaq": "íme",
+    "type": "pronoun",
+    "english": "1st + 3rd person personal pronoun; we/us (me + them)",
+    "gloss": "1+3",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "n",
+    "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ımebo",
+    "type": "predicate",
+    "english": "▯ is ours (1st + 3rd person).",
+    "gloss": "our",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ına",
     "type": "interjection",
-    "english": "received and understood",
+    "english": "OK, received and understood",
     "gloss": "roger",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ınha",
+    "type": "interjection",
+    "english": "OK, will comply",
+    "gloss": "wilco",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -363,6 +540,34 @@
     "fields": []
   },
   {
+    "toaq": "ıqdo",
+    "type": "predicate",
+    "english": "▯ gives ▯ property ▯.",
+    "gloss": "impart",
+    "short": "",
+    "keywords": [],
+    "frame": "c c 1j",
+    "distribution": "d d d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ıqjuı",
+    "type": "predicate",
+    "english": "▯ almost satisfies property ▯.",
+    "gloss": "almost",
+    "short": "",
+    "keywords": [],
+    "frame": "c 1i",
+    "distribution": "d d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "ıq'ırue",
     "type": "predicate",
     "english": "▯ is the letter I.",
@@ -379,7 +584,7 @@
   {
     "toaq": "obe",
     "type": "interjection",
-    "english": "surprise",
+    "english": "surprise; oh",
     "gloss": "oh",
     "short": "",
     "keywords": [],
@@ -429,6 +634,26 @@
     "fields": []
   },
   {
+    "toaq": "oro",
+    "type": "interjection",
+    "english": "annoyance, exasperation; ugh",
+    "gloss": "ugh",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ꝡo",
+    "type": "illocution",
+    "english": "admonitive",
+    "gloss": "ADM",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "oq'oguı",
     "type": "predicate",
     "english": "▯ is the letter O.",
@@ -445,7 +670,7 @@
   {
     "toaq": "oaı",
     "type": "interjection",
-    "english": "concern or realization of a problem",
+    "english": "concern or realization of a problem; uh-oh, oh no",
     "gloss": "uh-oh",
     "short": "",
     "keywords": [],
@@ -465,6 +690,56 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "ꝡë",
+    "type": "complementizer",
+    "english": "opens restrictive relative clause",
+    "gloss": "RST",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "e",
+    "type": "event accessor",
+    "english": "derive a verb referring to the following clause's event place",
+    "gloss": "EVA",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "eju",
+    "type": "interjection",
+    "english": "searching, remembering, calculating, deciding; let's see...",
+    "gloss": "let's.see",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ele",
+    "type": "interjection",
+    "english": "I don't care either way",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "epı",
+    "type": "interjection",
+    "english": "excitement",
+    "gloss": "hooray",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "é",
@@ -543,19 +818,28 @@
     "fields": []
   },
   {
-    "toaq": "ea",
+    "toaq": "ꝡeꝡa",
     "type": "predicate",
-    "english": "▯ could be the case if ▯ were the case.",
-    "gloss": "could",
+    "english": "▯ is the letter Ꝡ.",
+    "gloss": "Ꝡ",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d d",
+    "frame": "a",
+    "distribution": "d",
     "pronominal_class": "hoq",
-    "verb_class": "modality",
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "ea",
+    "type": "modality",
+    "english": "subjunctive, possible",
+    "gloss": "POSB.SUBJ",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "Eoropa",
@@ -572,25 +856,10 @@
     "fields": []
   },
   {
-    "toaq": "yzy",
-    "type": "predicate",
-    "english": "▯ is the letter Y.",
-    "gloss": "Y",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "ba",
     "type": "illocution",
-    "english": "optative illocution",
-    "gloss": "[optative]",
-    "gloss_abbreviation": "OPT",
+    "english": "optative",
+    "gloss": "OPT",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -611,10 +880,10 @@
     "fields": []
   },
   {
-    "toaq": "baq",
+    "toaq": "báq",
     "type": "determiner",
-    "english": "X-kind; X in general",
-    "gloss": "X.kind",
+    "english": "generic; X-kind",
+    "gloss": "GEN",
     "short": "",
     "keywords": [],
     "notes": [
@@ -622,15 +891,15 @@
     ],
     "examples": [
       {
-        "toaq": "Tỉfaı baq kủne da.",
+        "toaq": "Tıfaı báq kune.",
         "english": "Dogs are widespread."
       },
       {
-        "toaq": "Mả hẻ chỏ súq baq rủa moq?",
+        "toaq": "Ma he cho súq báq rua?",
         "english": "Are you fond of flowers?"
       },
       {
-        "toaq": "Rào púchaq bı kảqgaı jí baq tỉqshoaı da.",
+        "toaq": "Râo púchaq nä kaqgaı jí báq tıqshoaı.",
         "english": "Yesterday, I saw butterflies."
       }
     ]
@@ -678,19 +947,24 @@
     "fields": []
   },
   {
-    "toaq": "bu",
-    "type": "predicate",
-    "english": "▯ is not the case / is false.",
-    "gloss": "not",
+    "toaq": "bu-",
+    "type": "prefix",
+    "english": "non-X",
+    "gloss": "NEG",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "negation",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
+  },
+  {
+    "toaq": "bu",
+    "type": "polarity",
+    "english": "not",
+    "gloss": "NEG",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "bubue",
@@ -776,6 +1050,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "buq-",
+    "type": "prefix",
+    "english": "augmentative",
+    "gloss": "AUG",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "buq",
@@ -960,10 +1244,10 @@
     "fields": []
   },
   {
-    "toaq": "bı",
-    "type": "terminator",
-    "english": "end prenex",
-    "gloss": ":",
+    "toaq": "bï",
+    "type": "topic marker",
+    "english": "marks topic",
+    "gloss": "TOP",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -1166,6 +1450,26 @@
     "fields": []
   },
   {
+    "toaq": "bo-",
+    "type": "prefix",
+    "english": "be X'd by …; passive",
+    "gloss": "PASS",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "boju",
+    "type": "interjection",
+    "english": "requesting to take the floor; may I speak?",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "bo",
     "type": "predicate",
     "english": "▯ has/possesses ▯.",
@@ -1174,20 +1478,6 @@
     "keywords": [],
     "frame": "c e",
     "distribution": "d d",
-    "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "bodoa",
-    "type": "predicate",
-    "english": "▯ gives ▯ possession of ▯.",
-    "gloss": "give",
-    "short": "",
-    "keywords": [],
-    "frame": "",
-    "distribution": "d d d",
     "pronominal_class": "ho",
     "notes": [],
     "examples": [],
@@ -1306,20 +1596,6 @@
     "fields": []
   },
   {
-    "toaq": "bóu",
-    "type": "pronoun",
-    "english": "anaphoric pronoun for demonstratives (class IX)",
-    "gloss": "it.IX",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "boı",
     "type": "predicate",
     "english": "▯ takes place from ▯ onwards.",
@@ -1346,6 +1622,26 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "be-",
+    "type": "prefix",
+    "english": "generic adjectival",
+    "gloss": "GA",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "bege",
+    "type": "interjection",
+    "english": "indifference; meh",
+    "gloss": "meh",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "be",
@@ -1418,11 +1714,10 @@
     "fields": []
   },
   {
-    "toaq": "beı",
+    "toaq": "béı",
     "type": "focus prefix",
     "english": "contrastive focus",
-    "gloss": "[contrastive.focus]",
-    "gloss_abbreviation": "FOC.contrast",
+    "gloss": "FOC.CONTR",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -1714,6 +2009,16 @@
     "fields": []
   },
   {
+    "toaq": "chacha",
+    "type": "interjection",
+    "english": "giving permission; go ahead",
+    "gloss": "go.ahead",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "cha",
     "type": "predicate",
     "english": "▯ takes place in way/form ▯.",
@@ -1812,20 +2117,14 @@
     "fields": []
   },
   {
-    "toaq": "chufaq",
-    "type": "predicate",
-    "english": "▯ is ongoing; ▯ is in the middle of taking place; ▯ is ▯-ing.",
-    "gloss": "[progressive]",
-    "gloss_abbreviation": "PRG",
+    "toaq": "chum",
+    "type": "aspect",
+    "english": "imperfective (is X-ing)",
+    "gloss": "IMPF",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d; d d",
-    "pronominal_class": "hoq",
-    "verb_class": "aspect",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "chuq",
@@ -2158,6 +2457,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "chıro",
+    "type": "interjection",
+    "english": "damn, fuck, shit",
+    "gloss": "damn",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "chıa",
@@ -2654,12 +2963,26 @@
     "toaq": "chéq",
     "type": "pronoun",
     "english": "reciprocal pronoun",
-    "gloss": "each.other",
+    "gloss": "RECP",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "n",
     "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "cheqbo",
+    "type": "predicate",
+    "english": "▯ is each other's.",
+    "gloss": "each.other's",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2974,22 +3297,11 @@
     "fields": []
   },
   {
-    "toaq": "cy",
-    "type": "terminator",
-    "english": "end complementizer phrase",
-    "gloss": "[end]",
-    "gloss_abbreviation": "END",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "da",
     "type": "illocution",
-    "english": "assertive illocution",
+    "english": "assertive",
     "gloss": "[assertive]",
-    "gloss_abbreviation": "ASS",
+    "gloss_abbreviation": "ASRT",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -2998,8 +3310,8 @@
   {
     "toaq": "dâ",
     "type": "illocution",
-    "english": "explanatory illocution",
-    "gloss": "[explanatory]",
+    "english": "explanatory",
+    "gloss": "EXPL",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -3199,23 +3511,13 @@
   },
   {
     "toaq": "daı",
-    "type": "predicate",
-    "english": "▯ is possible; ▯ is possible if ▯ is so.",
-    "gloss": "possible",
+    "type": "modality",
+    "english": "indicative, possible",
+    "gloss": "POSB.IND",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d d",
-    "pronominal_class": "hoq",
-    "verb_class": "modality",
     "notes": [],
-    "examples": [
-      {
-        "toaq": "dãı",
-        "english": "maybe; possibly"
-      }
-    ],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "daıchı",
@@ -3770,6 +4072,20 @@
     "fields": []
   },
   {
+    "toaq": "do",
+    "type": "predicate",
+    "english": "▯ gives ▯ possession of ▯.",
+    "gloss": "give",
+    "short": "",
+    "keywords": [],
+    "frame": "",
+    "distribution": "d d d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "doq",
     "type": "predicate",
     "english": "▯ is short.",
@@ -3785,17 +4101,13 @@
   },
   {
     "toaq": "doa",
-    "type": "predicate",
-    "english": "▯ gives ▯ property ▯.",
-    "gloss": "give",
+    "type": "illocution",
+    "english": "permissive",
+    "gloss": "PERM",
     "short": "",
     "keywords": [],
-    "frame": "c c 1j",
-    "distribution": "d d d",
-    "pronominal_class": "ho",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "doaq",
@@ -3884,7 +4196,7 @@
     "fields": []
   },
   {
-    "toaq": "dedoa",
+    "toaq": "dedo",
     "type": "predicate",
     "english": "▯ adorns/decorates ▯ with property ▯.",
     "gloss": "decorate",
@@ -4007,6 +4319,30 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "fa-",
+    "type": "prefix",
+    "english": "telic",
+    "gloss": "TEL",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "fana",
+    "type": "predicate",
+    "english": "▯ is a motion eventt towards ▯.",
+    "gloss": "towards",
+    "short": "",
+    "keywords": [],
+    "frame": "c e",
+    "distribution": "d d",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4215,18 +4551,14 @@
     "fields": []
   },
   {
-    "toaq": "fúy",
-    "type": "pronoun",
-    "english": "anaphoric pronoun for personal pronouns (class VIII)",
-    "gloss": "it.VIII",
+    "toaq": "fı",
+    "type": "aspect",
+    "english": "near prospective (is about to X)",
+    "gloss": "NEAR.PRSP",
     "short": "",
     "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "fıa",
@@ -4475,17 +4807,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "ga",
-    "type": "terminator",
-    "english": "end object incorporating verb or name verb",
-    "gloss": "[end]",
-    "gloss_abbreviation": "END",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "garaq",
@@ -5342,6 +5663,16 @@
     "fields": []
   },
   {
+    "toaq": "gö",
+    "type": "retroactive cleft",
+    "english": "lift top-level clause, binding hóa in the following matrix clause",
+    "gloss": "RETROCLE",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "goa",
     "type": "predicate",
     "english": "▯ is space/room.",
@@ -5480,6 +5811,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "ge-",
+    "type": "prefix",
+    "english": "diminutive",
+    "gloss": "DIM",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "ge",
@@ -5636,15 +5977,39 @@
     "fields": []
   },
   {
+    "toaq": "ha-",
+    "type": "prefix",
+    "english": "X-er; more X; comparative",
+    "gloss": "CMPR",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "há",
     "type": "pronoun",
-    "english": "▯ is one/you/they (generic impersonal pronoun).",
-    "gloss": "one",
+    "english": "generic impersonal pronoun; one/you/they/people",
+    "gloss": "3I.ANIM",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "n",
     "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "habo",
+    "type": "predicate",
+    "english": "▯ is one's (the generic/impersonal person's).",
+    "gloss": "one's",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5692,7 +6057,7 @@
     "fields": []
   },
   {
-    "toaq": "haqdoa",
+    "toaq": "haqdo",
     "type": "predicate",
     "english": "▯ feeds ▯ food ▯.",
     "gloss": "feed",
@@ -5735,18 +6100,13 @@
   },
   {
     "toaq": "haı",
-    "type": "predicate",
-    "english": "▯ is already the case; ▯ already satisfies property ▯.",
-    "gloss": "already",
+    "type": "aspect",
+    "english": "subfective (yet/already)",
+    "gloss": "SUBF",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d; d d",
-    "pronominal_class": "ta",
-    "verb_class": "aspect",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "hao",
@@ -5763,10 +6123,10 @@
     "fields": []
   },
   {
-    "toaq": "hu",
-    "type": "vocative",
-    "english": "vocative",
-    "gloss": "O",
+    "toaq": "hu-",
+    "type": "prefix",
+    "english": "derives anaphoric pronouns referring to phrases headed by the specified stem",
+    "gloss": "PREV",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -5813,6 +6173,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "hú",
+    "type": "determiner",
+    "english": "endophoric; the aforementioned X",
+    "gloss": "ENDO",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "hua",
@@ -6138,10 +6508,20 @@
     "fields": []
   },
   {
-    "toaq": "hı",
+    "toaq": "hí",
     "type": "determiner",
-    "english": "which?",
+    "english": "which X? / what X?",
     "gloss": "which",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "hıq",
+    "type": "aspect",
+    "english": "near retrospective (has just X'd)",
+    "gloss": "NEAR.RETR",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -6321,6 +6701,20 @@
     "fields": []
   },
   {
+    "toaq": "hobo",
+    "type": "predicate",
+    "english": "▯ is hó's (the referent of the recent animate DP's).",
+    "gloss": "its",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "hora",
     "type": "predicate",
     "english": "▯ is an hour.",
@@ -6368,6 +6762,20 @@
     "fields": []
   },
   {
+    "toaq": "hoqbo",
+    "type": "predicate",
+    "english": "▯ is hóq's (the referent of the recent abstract DP's).",
+    "gloss": "its",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "hoqkuı",
     "type": "predicate",
     "english": "▯ is therefore the case.",
@@ -6390,7 +6798,7 @@
     "toaq": "hóa",
     "type": "pronoun",
     "english": "relative pronoun whose antecedent is the head of the containing relative clause",
-    "gloss": "it",
+    "gloss": "RSM",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -6430,24 +6838,19 @@
   },
   {
     "toaq": "hoaı",
-    "type": "predicate",
-    "english": "▯ is still the case; ▯ still satisfies property ▯.",
-    "gloss": "still",
+    "type": "aspect",
+    "english": "superfective (still)",
+    "gloss": "SPRF",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d; d d",
-    "pronominal_class": "ta",
-    "verb_class": "aspect",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
-    "toaq": "hoı",
-    "type": "determiner",
-    "english": "the aforementioned",
-    "gloss": "the.aforementioned",
+    "toaq": "hóı",
+    "type": "vocative",
+    "english": "vocative",
+    "gloss": "VOC",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -6469,19 +6872,13 @@
   },
   {
     "toaq": "he",
-    "type": "predicate",
-    "english": "▯ is generally the case; ▯ is how things generally are. (gnomic aspect)",
-    "gloss": "[gnomic]",
-    "gloss_abbreviation": "GNO",
+    "type": "aspect",
+    "english": "gnomic (X happens as a general rule)",
+    "gloss": "GNO",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "aspect",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "hehaq",
@@ -6549,6 +6946,20 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "heqtı",
+    "type": "predicate",
+    "english": "▯ is a member of genus Anas (containing various species of dabbling duck).",
+    "gloss": "duck",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6666,10 +7077,10 @@
     "fields": []
   },
   {
-    "toaq": "ja",
+    "toaq": "já",
     "type": "determiner",
     "english": "lambda",
-    "gloss": "lambda",
+    "gloss": "X",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -6680,6 +7091,16 @@
     "type": "interjection",
     "english": "hi/hello",
     "gloss": "hi",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "jaga",
+    "type": "interjection",
+    "english": "congratulations, I'm happy for you",
+    "gloss": "congratulations",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -6910,6 +7331,16 @@
     "fields": []
   },
   {
+    "toaq": "jü",
+    "type": "complementizer",
+    "english": "opens incidental relative clause",
+    "gloss": "NRST",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ju",
     "type": "free modifier",
     "english": "begin incidental clause",
@@ -6934,6 +7365,20 @@
     "fields": []
   },
   {
+    "toaq": "juna",
+    "type": "predicate",
+    "english": "▯ is true / is the case.",
+    "gloss": "is.true",
+    "short": "",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "juq",
     "type": "predicate",
     "english": "▯ gets/acquires property ▯.",
@@ -6941,20 +7386,6 @@
     "short": "",
     "keywords": [],
     "frame": "c 1i",
-    "distribution": "d d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "juqgı",
-    "type": "predicate",
-    "english": "▯ benefits ▯.",
-    "gloss": "benefit",
-    "short": "",
-    "keywords": [],
-    "frame": "c e",
     "distribution": "d d",
     "pronominal_class": "ta",
     "notes": [],
@@ -6990,7 +7421,7 @@
     "fields": []
   },
   {
-    "toaq": "juaq",
+    "toaq": "júaq",
     "type": "focus prefix",
     "english": "even",
     "gloss": "even",
@@ -7151,13 +7582,13 @@
   {
     "toaq": "jí",
     "type": "pronoun",
-    "english": "1st person personal pronoun",
-    "gloss": "me",
+    "english": "1st person personal pronoun; I/me",
+    "gloss": "1S",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "n",
-    "pronominal_class": "fuy",
+    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7206,19 +7637,13 @@
   },
   {
     "toaq": "jıa",
-    "type": "predicate",
-    "english": "▯ will happen.",
-    "gloss": "[future]",
-    "gloss_abbreviation": "FUT",
+    "type": "tense",
+    "english": "future",
+    "gloss": "FUT",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jıachaq",
@@ -7236,33 +7661,23 @@
   },
   {
     "toaq": "jıajao",
-    "type": "predicate",
-    "english": "▯ will happen a long time from now.",
-    "gloss": "a.long.time.from.now",
+    "type": "tense",
+    "english": "remote future",
+    "gloss": "REM.FUT",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jıajuı",
-    "type": "predicate",
-    "english": "▯ will happen in a short time from now.",
-    "gloss": "a.short.time.from.now",
+    "type": "tense",
+    "english": "near future",
+    "gloss": "NEAR.FUT",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jıashao",
@@ -7737,6 +8152,26 @@
     "fields": []
   },
   {
+    "toaq": "jeha",
+    "type": "polarity",
+    "english": "contrastive affirmation: indeed (contradicting a salient negative claim)",
+    "gloss": "AFF.CONTR",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "jela",
+    "type": "tense",
+    "english": "existential future",
+    "gloss": "EXS.FUT",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "je",
     "type": "sentence connector",
     "english": "new topic / taking the floor",
@@ -7874,7 +8309,7 @@
     "fields": []
   },
   {
-    "toaq": "jeaqdoa",
+    "toaq": "jeaqdo",
     "type": "predicate",
     "english": "▯, to ▯, adds ▯.",
     "gloss": "add",
@@ -7931,32 +8366,13 @@
   },
   {
     "toaq": "jeo",
-    "type": "predicate",
-    "english": "▯ is true / is the case.",
-    "gloss": "is.true",
+    "type": "polarity",
+    "english": "truly/indeed",
+    "gloss": "AFF",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "negation",
     "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "jeojuı",
-    "type": "predicate",
-    "english": "▯ is almost the case; ▯ almost satisfies property ▯.",
-    "gloss": "almost",
-    "short": "",
-    "keywords": [],
-    "frame": "c 1i",
-    "distribution": "d d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "jeonue",
@@ -7989,7 +8405,7 @@
   {
     "toaq": "ka",
     "type": "illocution",
-    "english": "performative illocution",
+    "english": "performative",
     "gloss": "hereby",
     "short": "",
     "keywords": [],
@@ -8062,6 +8478,20 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kaqga",
+    "type": "predicate",
+    "english": "▯ bites ▯.",
+    "gloss": "bite",
+    "short": "",
+    "keywords": [],
+    "frame": "c e",
+    "distribution": "d d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8263,11 +8693,44 @@
     "fields": []
   },
   {
-    "toaq": "ku",
+    "toaq": "kudao",
+    "type": "interjection",
+    "english": "longing, yearning, craving",
+    "gloss": "sigh",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "kusu",
+    "type": "predicate",
+    "english": "▯ is a squash/gourd/pumpkin.",
+    "gloss": "gourd",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kushe",
+    "type": "interjection",
+    "english": "sorry",
+    "gloss": "sorry",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "kú",
     "type": "focus prefix",
     "english": "non-contrastive focus",
-    "gloss": "[focus]",
-    "gloss_abbreviation": "FOC",
+    "gloss": "FOC",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -8639,22 +9102,18 @@
     "fields": []
   },
   {
-    "toaq": "kúy",
-    "type": "pronoun",
-    "english": "anaphoric pronoun for LU phrases (class VI)",
-    "gloss": "it.VI",
+    "toaq": "kı-",
+    "type": "prefix",
+    "english": "adjective",
+    "gloss": "ADJ",
     "short": "",
     "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "kı",
-    "type": "terminator",
+    "type": "end parenthetical",
     "english": "end parenthetical",
     "gloss": ")",
     "short": "",
@@ -8827,7 +9286,7 @@
     "fields": []
   },
   {
-    "toaq": "kıo",
+    "toaq": "kïo",
     "type": "start-parenthetical",
     "english": "start parenthetical",
     "gloss": "(",
@@ -9187,10 +9646,10 @@
     "fields": []
   },
   {
-    "toaq": "ke",
+    "toaq": "ké",
     "type": "determiner",
-    "english": "definite quantifier",
-    "gloss": "the",
+    "english": "exophoric; this X (not previously mentioned)",
+    "gloss": "EXO",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -9319,9 +9778,9 @@
     "fields": []
   },
   {
-    "toaq": "keo",
-    "type": "sentence connector",
-    "english": "but/however",
+    "toaq": "kéo",
+    "type": "connective",
+    "english": "but, however",
     "gloss": "but",
     "short": "",
     "keywords": [],
@@ -9329,21 +9788,10 @@
     "examples": []
   },
   {
-    "toaq": "ky",
-    "type": "terminator",
-    "english": "end free relative",
-    "gloss": "[end]",
-    "gloss_abbreviation": "END",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "la",
+    "toaq": "lä",
     "type": "complementizer",
-    "english": "declarative or non-polar interrogative",
-    "gloss": "that",
+    "english": "opens property clause",
+    "gloss": "λ",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -9587,19 +10035,13 @@
   },
   {
     "toaq": "luı",
-    "type": "predicate",
-    "english": "▯ has taken place.",
-    "gloss": "[perfect]",
-    "gloss_abbreviation": "PRF",
+    "type": "aspect",
+    "english": "retrospective (have X'd)",
+    "gloss": "RETR",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "aspect",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "luıne",
@@ -9952,6 +10394,16 @@
     "fields": []
   },
   {
+    "toaq": "ló",
+    "type": "determiner",
+    "english": "allomorph of the endophoric definite determiner (◌́) used for object incorporation",
+    "gloss": "the",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "Lojıbaq",
     "type": "predicate",
     "english": "▯ is the Lojban language.",
@@ -10282,8 +10734,28 @@
   {
     "toaq": "ma",
     "type": "complementizer",
-    "english": "polar interrogative",
+    "english": "opens polar question matrix clause",
     "gloss": "whether",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "mä",
+    "type": "complementizer",
+    "english": "opens polar question subordinate clause",
+    "gloss": "whether",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "mala",
+    "type": "tense",
+    "english": "existential past",
+    "gloss": "EXS.PST",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -10318,6 +10790,20 @@
     "fields": []
   },
   {
+    "toaq": "marao",
+    "type": "predicate",
+    "english": "▯ dances.",
+    "gloss": "dance",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "mateoq",
     "type": "predicate",
     "english": "▯ is a polar yes-no question.",
@@ -10341,6 +10827,20 @@
     "frame": "a",
     "distribution": "n",
     "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "maqbo",
+    "type": "predicate",
+    "english": "▯ is máq's (the referent of the recent inanimate DP's).",
+    "gloss": "its",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -10388,7 +10888,7 @@
     "fields": []
   },
   {
-    "toaq": "mao",
+    "toaq": "máo",
     "type": "focus prefix",
     "english": "also",
     "gloss": "also",
@@ -10412,32 +10912,14 @@
     "fields": []
   },
   {
-    "toaq": "máy",
-    "type": "pronoun",
-    "english": "1st + 2nd + 3rd person personal pronoun",
-    "gloss": "us",
+    "toaq": "mu-",
+    "type": "prefix",
+    "english": "un-X; forms antonyms",
+    "gloss": "OPP",
     "short": "",
     "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
     "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "maybo",
-    "type": "predicate",
-    "english": "▯ is ours (1st + 2nd + 3rd person).",
-    "gloss": "our",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "mu",
@@ -10758,24 +11240,10 @@
     "fields": []
   },
   {
-    "toaq": "múy",
-    "type": "pronoun",
-    "english": "1st + 2nd person personal pronoun",
-    "gloss": "us",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "muybo",
-    "type": "predicate",
-    "english": "▯ is ours (1st + 2nd person).",
-    "gloss": "our",
+    "toaq": "mımo",
+    "type": "name quote",
+    "english": "turns following quote X, terminated with teo, into verb: ▯ is called X.",
+    "gloss": "NAME.QUOTE",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -10788,8 +11256,8 @@
   {
     "toaq": "mı",
     "type": "name verb",
-    "english": "turns following phrase X into verb: ▯ is called X.",
-    "gloss": "called",
+    "english": "turns following word X into verb: ▯ is called X.",
+    "gloss": "NAME",
     "short": "",
     "keywords": [],
     "frame": "a",
@@ -11052,52 +11520,24 @@
     "fields": []
   },
   {
-    "toaq": "míy",
-    "type": "pronoun",
-    "english": "1st + 3rd person personal pronoun",
-    "gloss": "us",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "fuy",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "mıybo",
-    "type": "predicate",
-    "english": "▯ is ours (1st + 3rd person).",
-    "gloss": "our",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "d",
-    "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "mo",
     "type": "text-quote",
     "english": "begin full-text quote",
-    "gloss": "«",
+    "gloss": "QUOTE",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "d",
-    "pronominal_class": "",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
   },
   {
-    "toaq": "moq",
+    "toaq": "móq",
     "type": "illocution",
-    "english": "interrogative illocution",
-    "gloss": "?",
+    "english": "interrogative",
+    "gloss": "INT",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -11106,8 +11546,8 @@
   {
     "toaq": "môq",
     "type": "illocution",
-    "english": "rhetorical interrogative illocution",
-    "gloss": "?",
+    "english": "rhetorical interrogative",
+    "gloss": "RHET.INT",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -11475,6 +11915,20 @@
     "fields": []
   },
   {
+    "toaq": "meıme",
+    "type": "predicate",
+    "english": "▯ is the mountains.",
+    "gloss": "mountains",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "meı",
     "type": "predicate",
     "english": "▯ is a mountain/hill.",
@@ -11545,18 +11999,17 @@
     "fields": []
   },
   {
-    "toaq": "na",
-    "type": "terminator",
-    "english": "end statement",
-    "gloss": "[end]",
-    "gloss_abbreviation": "END",
+    "toaq": "nä",
+    "type": "cleft verb",
+    "english": "raise argument to the front of the clause",
+    "gloss": "CLE",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "naby",
+    "toaq": "nam",
     "type": "predicate",
     "english": "▯ is bread.",
     "gloss": "bread",
@@ -11610,6 +12063,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "na-",
+    "type": "prefix",
+    "english": "conjunctionizer",
+    "gloss": "CONJ",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "naq",
@@ -11725,16 +12188,38 @@
   },
   {
     "toaq": "naı",
-    "type": "predicate",
-    "english": "▯ happens now.",
-    "gloss": "[present]",
-    "gloss_abbreviation": "PRE",
+    "type": "tense",
+    "english": "present",
+    "gloss": "PRS",
     "short": "",
     "keywords": [],
-    "frame": "",
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "naokusu",
+    "type": "predicate",
+    "english": "▯ is a watermelon.",
+    "gloss": "watermelon",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "naomı",
+    "type": "predicate",
+    "english": "▯ is an ocean.",
+    "gloss": "ocean",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -11922,6 +12407,20 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nuıduo",
+    "type": "predicate",
+    "english": "▯ lasts for a little while.",
+    "gloss": "little.while",
+    "short": "",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12123,14 +12622,52 @@
     "fields": []
   },
   {
-    "toaq": "nha",
-    "type": "illocution",
-    "english": "promissive illocution",
-    "gloss": "[promissive]",
+    "toaq": "nha-",
+    "type": "prefix",
+    "english": "derives ad-hoc variable out of following material",
+    "gloss": "VAR",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "nha",
+    "type": "illocution",
+    "english": "promissive",
+    "gloss": "PROM",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "nhána",
+    "type": "pronoun",
+    "english": "3rd person plural personal pronoun; they/them",
+    "gloss": "3P",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "n",
+    "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nhanabo",
+    "type": "predicate",
+    "english": "▯ is theirs (multiple 3rd persons').",
+    "gloss": "their",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "nhanhoq",
@@ -12149,13 +12686,13 @@
   {
     "toaq": "nháo",
     "type": "pronoun",
-    "english": "3rd person personal pronoun",
-    "gloss": "they",
+    "english": "3rd person singular personal pronoun; he/she/they / him/her/them",
+    "gloss": "3S",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "n",
-    "pronominal_class": "fuy",
+    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12179,6 +12716,30 @@
     "type": "sentence connector",
     "english": "return to old topic",
     "gloss": "anyway",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "nhuq",
+    "type": "predicate",
+    "english": "▯ benefits ▯.",
+    "gloss": "benefit",
+    "short": "",
+    "keywords": [],
+    "frame": "c e",
+    "distribution": "d d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "nhó",
+    "type": "interjection",
+    "english": "is that so?",
+    "gloss": "yes?",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -12209,18 +12770,14 @@
     "fields": []
   },
   {
-    "toaq": "nı",
-    "type": "predicate",
-    "english": "▯ is this/that; ▯ is this/that/those thing(s) satisfying property ▯.",
+    "toaq": "ní",
+    "type": "determiner",
+    "english": "demonstrative; this/that X",
     "gloss": "this",
     "short": "",
     "keywords": [],
-    "frame": "c 1i",
-    "distribution": "n d",
-    "pronominal_class": "bou",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "nıchaq",
@@ -12251,32 +12808,24 @@
     "fields": []
   },
   {
-    "toaq": "nıjao",
-    "type": "predicate",
-    "english": "▯ is that far away thing.",
-    "gloss": "far.away",
+    "toaq": "níjao",
+    "type": "determiner",
+    "english": "distal demonstrative; that X over there",
+    "gloss": "DIST",
     "short": "",
     "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "bou",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
-    "toaq": "nıjuı",
-    "type": "predicate",
-    "english": "▯ is this nearby thing.",
-    "gloss": "nearby",
+    "toaq": "níjuı",
+    "type": "determiner",
+    "english": "proximal demonstrative; this X over here",
+    "gloss": "PROX",
     "short": "",
     "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "bou",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "nınuaq",
@@ -12902,6 +13451,20 @@
     "fields": []
   },
   {
+    "toaq": "paqda",
+    "type": "predicate",
+    "english": "▯ is a panda.",
+    "gloss": "panda",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "paq",
     "type": "predicate",
     "english": "▯ is a part of ▯.",
@@ -13043,19 +13606,13 @@
   },
   {
     "toaq": "pu",
-    "type": "predicate",
-    "english": "▯ happened / occured / was the case.",
-    "gloss": "[past]",
-    "gloss_abbreviation": "PST",
+    "type": "tense",
+    "english": "past",
+    "gloss": "PST",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "puchaq",
@@ -13073,33 +13630,23 @@
   },
   {
     "toaq": "pujao",
-    "type": "predicate",
-    "english": "▯ happened a long time ago.",
-    "gloss": "long.ago",
+    "type": "tense",
+    "english": "remote past",
+    "gloss": "REM.PST",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "pujuı",
-    "type": "predicate",
-    "english": "▯ happened a short time ago.",
-    "gloss": "shortly.ago",
+    "type": "tense",
+    "english": "near past",
+    "gloss": "NEAR.PST",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "tense",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "puq",
@@ -13124,7 +13671,7 @@
     "keywords": [],
     "frame": "a",
     "distribution": "n",
-    "pronominal_class": "fuy",
+    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13840,8 +14387,8 @@
     "fields": []
   },
   {
-    "toaq": "ra",
-    "type": "conjunction",
+    "toaq": "rá",
+    "type": "connective",
     "english": "inclusive or",
     "gloss": "or",
     "short": "",
@@ -13965,8 +14512,8 @@
     "fields": []
   },
   {
-    "toaq": "ru",
-    "type": "conjunction",
+    "toaq": "rú",
+    "type": "connective",
     "english": "and",
     "gloss": "and",
     "short": "",
@@ -14148,6 +14695,16 @@
     "fields": []
   },
   {
+    "toaq": "ruı-",
+    "type": "prefix",
+    "english": "atelic",
+    "gloss": "ATEL",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ruı",
     "type": "predicate",
     "english": "▯ is gray.",
@@ -14246,8 +14803,8 @@
     "fields": []
   },
   {
-    "toaq": "rı",
-    "type": "conjunction",
+    "toaq": "rí",
+    "type": "connective",
     "english": "connective question",
     "gloss": "or?",
     "short": "",
@@ -14368,7 +14925,7 @@
     "fields": []
   },
   {
-    "toaq": "rıudoa",
+    "toaq": "rıudo",
     "type": "predicate",
     "english": "▯ gives ▯ back property ▯.",
     "gloss": "give.back",
@@ -14480,8 +15037,8 @@
     "fields": []
   },
   {
-    "toaq": "ro",
-    "type": "conjunction",
+    "toaq": "ró",
+    "type": "connective",
     "english": "exclusive or",
     "gloss": "xor",
     "short": "",
@@ -14593,22 +15150,8 @@
     "fields": []
   },
   {
-    "toaq": "róu",
-    "type": "pronoun",
-    "english": "anaphoric pronoun for fifth-tone clauses (class V)",
-    "gloss": "it.V",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "roı",
-    "type": "conjunction",
+    "toaq": "róı",
+    "type": "connective",
     "english": "plural and",
     "gloss": "and",
     "short": "",
@@ -14780,7 +15323,7 @@
     "fields": []
   },
   {
-    "toaq": "sa",
+    "toaq": "sá",
     "type": "determiner",
     "english": "existential quantifier",
     "gloss": "some",
@@ -14789,16 +15332,12 @@
     "notes": [],
     "examples": [
       {
-        "toaq": "sa pỏq",
+        "toaq": "sá poq",
         "english": "someone; somebody"
       },
       {
-        "toaq": "sa rảı",
+        "toaq": "sá raı",
         "english": "something"
-      },
-      {
-        "toaq": "sa tủq rảı",
-        "english": "all things (together)"
       }
     ]
   },
@@ -14812,6 +15351,20 @@
     "frame": "a",
     "distribution": "d",
     "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sahu",
+    "type": "predicate",
+    "english": "▯ is false / is not the case.",
+    "gloss": "is.true",
+    "short": "",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14929,6 +15482,20 @@
     "fields": []
   },
   {
+    "toaq": "saoduo",
+    "type": "predicate",
+    "english": "▯ lasts for a long while.",
+    "gloss": "long.while",
+    "short": "",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sao",
     "type": "predicate",
     "english": "▯ is big/large.",
@@ -14971,6 +15538,26 @@
     "fields": []
   },
   {
+    "toaq": "sula",
+    "type": "tense",
+    "english": "unrestricted existential",
+    "gloss": "EXS",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "su-",
+    "type": "prefix",
+    "english": "X-est; most X; superlative",
+    "gloss": "SUP",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "su",
     "type": "predicate",
     "english": "▯ are [previous predicate].",
@@ -14999,6 +15586,48 @@
     "fields": []
   },
   {
+    "toaq": "súho",
+    "type": "pronoun",
+    "english": "2nd + 3rd person personal pronoun; you + them",
+    "gloss": "2+3",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "n",
+    "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "súna",
+    "type": "pronoun",
+    "english": "2nd person plural personal pronoun; you (multiple listeners)",
+    "gloss": "2P",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "n",
+    "pronominal_class": "",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "sunabo",
+    "type": "predicate",
+    "english": "▯ is y'all's (multiple listeners').",
+    "gloss": "your",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "sushı",
     "type": "predicate",
     "english": "▯ is sushi.",
@@ -15015,13 +15644,13 @@
   {
     "toaq": "súq",
     "type": "pronoun",
-    "english": "2nd person personal pronoun",
-    "gloss": "you",
+    "english": "2nd person singular personal pronoun; you",
+    "gloss": "2S",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "n",
-    "pronominal_class": "fuy",
+    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15049,7 +15678,7 @@
     "keywords": [],
     "frame": "a",
     "distribution": "n",
-    "pronominal_class": "fuy",
+    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15167,20 +15796,6 @@
     "fields": []
   },
   {
-    "toaq": "súo",
-    "type": "pronoun",
-    "english": "2nd + 3rd person personal pronoun",
-    "gloss": "you.all",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "fuy",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
     "toaq": "suobo",
     "type": "predicate",
     "english": "▯ is yours (2nd + 3rd person).",
@@ -15249,6 +15864,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "shadı",
+    "type": "interjection",
+    "english": "welcome",
+    "gloss": "welcome",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "sha",
@@ -15379,13 +16004,13 @@
   {
     "toaq": "shu",
     "type": "word-quote",
-    "english": "turn next word into quote predicate",
-    "gloss": "the.word",
+    "english": "turn next word X into quote predicate: ▯ is the word X.",
+    "gloss": "WORD",
     "short": "",
     "keywords": [],
     "frame": "a",
     "distribution": "d",
-    "pronominal_class": "",
+    "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15595,7 +16220,7 @@
     "keywords": [],
     "frame": "a",
     "distribution": "n",
-    "pronominal_class": "fuy",
+    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15909,16 +16534,6 @@
     "fields": []
   },
   {
-    "toaq": "shou",
-    "type": "illocution",
-    "english": "permissive illocution",
-    "gloss": "[permissive]",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "shoı",
     "type": "predicate",
     "english": "▯ screams/shouts/yells/cries.",
@@ -15948,18 +16563,13 @@
   },
   {
     "toaq": "she",
-    "type": "predicate",
-    "english": "▯ is the case if ▯ is the case.",
-    "gloss": "if",
+    "type": "modality",
+    "english": "indicative, necessary",
+    "gloss": "NEC.IND",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d d",
-    "pronominal_class": "hoq",
-    "verb_class": "modality",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "shea",
@@ -16144,7 +16754,7 @@
     "fields": []
   },
   {
-    "toaq": "sıa",
+    "toaq": "sía",
     "type": "determiner",
     "english": "zero quantifier",
     "gloss": "no",
@@ -16690,6 +17300,30 @@
     "fields": []
   },
   {
+    "toaq": "tabo",
+    "type": "predicate",
+    "english": "▯ is tá's (the referent of the recent adjectival DP's).",
+    "gloss": "its",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tam",
+    "type": "aspect",
+    "english": "perfective",
+    "gloss": "PERF",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "tá",
     "type": "pronoun",
     "english": "anaphoric pronoun for adjective DPs (class IV)",
@@ -16711,6 +17345,20 @@
     "short": "",
     "keywords": [],
     "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tası",
+    "type": "predicate",
+    "english": "▯ is a taxi.",
+    "gloss": "taxi",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
     "distribution": "d",
     "pronominal_class": "maq",
     "notes": [],
@@ -16872,25 +17520,6 @@
     "fields": []
   },
   {
-    "toaq": "tu",
-    "type": "determiner",
-    "english": "universal quantifier",
-    "gloss": "every",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "tu pỏq",
-        "english": "everyone"
-      },
-      {
-        "toaq": "tu rảı",
-        "english": "everything; anything"
-      }
-    ]
-  },
-  {
     "toaq": "tuchao",
     "type": "predicate",
     "english": "▯ is a bus/omnibus.",
@@ -16919,17 +17548,45 @@
     "fields": []
   },
   {
-    "toaq": "tushı",
+    "toaq": "tútu",
+    "type": "determiner",
+    "english": "universal quantifier",
+    "gloss": "every",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "tútu pỏq",
+        "english": "everyone"
+      },
+      {
+        "toaq": "tútu rảı",
+        "english": "everything; anything"
+      }
+    ]
+  },
+  {
+    "toaq": "tú",
     "type": "determiner",
     "english": "singular universal quantifier",
     "gloss": "each",
     "short": "",
     "keywords": [],
     "notes": [],
-    "examples": []
+    "examples": [
+      {
+        "toaq": "tú pỏq",
+        "english": "everyone; each person"
+      },
+      {
+        "toaq": "tú rảı",
+        "english": "everything; each thing"
+      }
+    ]
   },
   {
-    "toaq": "tuq",
+    "toaq": "túq",
     "type": "determiner",
     "english": "collective universal quantifier",
     "gloss": "all",
@@ -16962,6 +17619,20 @@
     "frame": "c e",
     "distribution": "d d",
     "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tuaja",
+    "type": "predicate",
+    "english": "▯ is brave/courageous.",
+    "gloss": "courageous",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ho",
     "notes": [],
     "examples": [],
     "fields": []
@@ -17556,6 +18227,20 @@
     "fields": []
   },
   {
+    "toaq": "tıqra",
+    "type": "predicate",
+    "english": "▯ is a tiger.",
+    "gloss": "tiger",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "tıq",
     "type": "predicate",
     "english": "▯ is a tile.",
@@ -17658,7 +18343,17 @@
   {
     "toaq": "tıo",
     "type": "complementizer",
-    "english": "quantitative interrogative",
+    "english": "opens degree question matrix clause",
+    "gloss": "how.much",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "tïo",
+    "type": "complementizer",
+    "english": "opens degree question subordinate clause",
     "gloss": "how.much",
     "short": "",
     "keywords": [],
@@ -17750,10 +18445,24 @@
     "fields": []
   },
   {
-    "toaq": "to",
-    "type": "separator",
-    "english": "helper particle in forethought conjunctions: to + conj ▯ to ▯",
-    "gloss": "CONJ",
+    "toaq": "tof",
+    "type": "predicate",
+    "english": "▯ is tofu.",
+    "gloss": "tofu",
+    "short": "",
+    "keywords": [],
+    "frame": "a",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tó",
+    "type": "focus prefix",
+    "english": "only",
+    "gloss": "only",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -17858,16 +18567,6 @@
     "fields": []
   },
   {
-    "toaq": "tou",
-    "type": "focus prefix",
-    "english": "only",
-    "gloss": "only",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "toıdue",
     "type": "predicate",
     "english": "▯ is morally/ethically right/correct.",
@@ -17945,6 +18644,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "te-",
+    "type": "prefix",
+    "english": "have been X'd by …; passive perfect",
+    "gloss": "PPF",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "te",
@@ -18097,9 +18806,9 @@
   },
   {
     "toaq": "teo",
-    "type": "terminator",
-    "english": "end full-text quote.",
-    "gloss": "»",
+    "type": "end quote",
+    "english": "end full-text quote",
+    "gloss": "UNQUOTE",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -18137,19 +18846,13 @@
   },
   {
     "toaq": "za",
-    "type": "predicate",
-    "english": "▯ is about to be the case.",
-    "gloss": "[inchoative]",
-    "gloss_abbreviation": "INCH",
+    "type": "aspect",
+    "english": "prospective (have yet to)",
+    "gloss": "PRSP",
     "short": "",
     "keywords": [],
-    "frame": "",
-    "distribution": "d",
-    "pronominal_class": "hoq",
-    "verb_class": "aspect",
     "notes": [],
-    "examples": [],
-    "fields": []
+    "examples": []
   },
   {
     "toaq": "zaq",
@@ -18194,16 +18897,6 @@
     "fields": []
   },
   {
-    "toaq": "zay",
-    "type": "illocution",
-    "english": "warning illocution",
-    "gloss": "[warning]",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "zu",
     "type": "predicate",
     "english": "▯ is a language.",
@@ -18212,6 +18905,20 @@
     "keywords": [],
     "frame": "a",
     "distribution": "d",
+    "pronominal_class": "hoq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "zuo",
+    "type": "predicate",
+    "english": "▯ is for purpose ▯.",
+    "gloss": "have.purpose",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
     "pronominal_class": "hoq",
     "notes": [],
     "examples": [],
@@ -18244,6 +18951,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "zí",
+    "type": "interjection",
+    "english": "isn't it?",
+    "gloss": "no?",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "zı",
@@ -18307,20 +19024,6 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "zé",
-    "type": "pronoun",
-    "english": "anaphoric pronoun for PO phrases (class VII)",
-    "gloss": "it.VII",
-    "short": "",
-    "keywords": [],
-    "frame": "a",
-    "distribution": "n",
-    "pronominal_class": "",
     "notes": [],
     "examples": [],
     "fields": []

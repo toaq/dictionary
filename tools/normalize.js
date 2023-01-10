@@ -28,7 +28,7 @@ function sortify(s) {
 
 d = d.sort((a, b) => {
   const [aToaq, bToaq] = [a.toaq, b.toaq].map(sortify);
-  if (aToaq == bToaq && a.type === "predicate" && b_.type === "predicate")
+  if (aToaq == bToaq && a.type === "predicate" && b.type === "predicate")
     throw new Error(`duplicate entries: «${a.toaq}» and «${b.toaq}»!`);
 
   let [aParts, bParts] = [aToaq, bToaq].map((_) =>
@@ -48,6 +48,7 @@ const verbyTypes = [
   "pronoun",
   "object incorporating verb",
   "name verb",
+  "name quote",
   "word-quote",
   "text-quote",
 ];
