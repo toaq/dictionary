@@ -698,6 +698,16 @@
     "fields": []
   },
   {
+    "toaq": "oe",
+    "type": "interjection",
+    "english": "getting someone's attention; hey there",
+    "gloss": "hey.there",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ꝡë",
     "type": "complementizer",
     "english": "opens restrictive relative clause",
@@ -6359,6 +6369,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "hıchu",
+    "type": "interjection",
+    "english": "soliciting a response",
+    "gloss": "oi",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "hí",
@@ -16124,6 +16144,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "sheba",
+    "type": "interjection",
+    "english": "clear the way / move / excuse me",
+    "gloss": "please.move",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "she",
