@@ -6118,6 +6118,20 @@
     "fields": []
   },
   {
+    "toaq": "huaqtojemu",
+    "type": "predicate",
+    "english": "▯ is amazingly fantastic.",
+    "gloss": "fantastic",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "huaq",
     "type": "predicate",
     "english": "▯ is more than ▯ in property ▯.",
