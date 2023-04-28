@@ -102,6 +102,20 @@
     "fields": []
   },
   {
+    "toaq": "anıguaq",
+    "type": "predicate",
+    "english": "▯ is a desert.",
+    "gloss": "desert",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "anıjıo",
     "type": "predicate",
     "english": "▯ is a sand castle.",
@@ -120,20 +134,6 @@
     "type": "predicate",
     "english": "▯ is sand.",
     "gloss": "sand",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "anıguaq",
-    "type": "predicate",
-    "english": "▯ is a desert.",
-    "gloss": "desert",
     "short": "",
     "keywords": [],
     "frame": "c",
