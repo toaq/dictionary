@@ -1703,6 +1703,16 @@
     "examples": []
   },
   {
+    "toaq": "beı-",
+    "type": "focus particle prefix form",
+    "english": "contrastive focus",
+    "gloss": "FOC.CONTR",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "beo",
     "type": "predicate",
     "english": "▯ changes; ▯ changes in property ▯.",
@@ -7296,6 +7306,16 @@
     "examples": []
   },
   {
+    "toaq": "juaq-",
+    "type": "focus particle prefix form",
+    "english": "even",
+    "gloss": "even",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "juaı",
     "type": "predicate",
     "english": "▯ is serious/earnest.",
@@ -8596,6 +8616,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "ku-",
+    "type": "focus particle prefix form",
+    "english": "non-contrastive focus",
+    "gloss": "FOC",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "kuq",
@@ -10588,6 +10618,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "mao-",
+    "type": "focus particle prefix form",
+    "english": "also",
+    "gloss": "also",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "mu-",
@@ -17781,6 +17821,16 @@
   {
     "toaq": "tó",
     "type": "focus particle",
+    "english": "only",
+    "gloss": "only",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "to-",
+    "type": "focus particle prefix form",
     "english": "only",
     "gloss": "only",
     "short": "",
