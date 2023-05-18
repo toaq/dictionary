@@ -11,13 +11,10 @@ function render_entry(entry) {
                         `<span class="value">${v}</span></li>`);
   }
   let frame = strip_frame_indices(entry.frame);
-  let frame_name = frame_names[frame];
-  if(!frame_name) {
-    if(frame)
-      throw new Error(
-        `frame ‘${frame}’ from entry «${entry.toaq}» ` +
-        `does not have a namesake`);
-  } else attr('frame', `${frame_name} (${frame})`);
+  if(frame) {
+    let frame_name = frame_names[frame];
+    attr('frame', frame_name ? `${frame_name} (${frame})` : frame);
+  }
   let english = entry.english;
   if(entry.distribution) {
     english = english.split('; ');
