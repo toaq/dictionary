@@ -1044,7 +1044,7 @@
     "fields": []
   },
   {
-    "toaq": "buzy",
+    "toaq": "buza",
     "type": "interjection",
     "english": "expressing a lack of knowledge",
     "gloss": "dunno",
@@ -2753,7 +2753,7 @@
     "fields": []
   },
   {
-    "toaq": "choakoy",
+    "toaq": "choadeoq",
     "type": "predicate",
     "english": "▯ talks to ▯.",
     "gloss": "talk",
@@ -4606,6 +4606,16 @@
     "fields": []
   },
   {
+    "toaq": "fo",
+    "type": "sentence connector",
+    "english": "go on tangent",
+    "gloss": "by.the.way",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "foa",
     "type": "predicate",
     "english": "▯ feels ▯ (good or bad); ▯ is ▯ (ill or well).",
@@ -4646,16 +4656,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "fou",
-    "type": "sentence connector",
-    "english": "go on tangent",
-    "gloss": "by.the.way",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "foı",
@@ -7475,6 +7475,16 @@
     "examples": []
   },
   {
+    "toaq": "jıbı",
+    "type": "vocative",
+    "english": "self-vocative",
+    "gloss": "this.is",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "jıbo",
     "type": "predicate",
     "english": "▯ is mine.",
@@ -7774,16 +7784,6 @@
     "notes": [],
     "examples": [],
     "fields": []
-  },
-  {
-    "toaq": "jıy",
-    "type": "vocative",
-    "english": "self-vocative",
-    "gloss": "this.is",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
   },
   {
     "toaq": "jo",
@@ -15546,7 +15546,7 @@
     "fields": []
   },
   {
-    "toaq": "suy",
+    "toaq": "sueq",
     "type": "predicate",
     "english": "▯ is a wave.",
     "gloss": "wave",
@@ -16032,6 +16032,20 @@
     "fields": []
   },
   {
+    "toaq": "shıao",
+    "type": "predicate",
+    "english": "▯ disappears / leaves perception.",
+    "gloss": "disappear",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "shıu",
     "type": "predicate",
     "english": "▯ is before / in the past of ▯.",
@@ -16139,20 +16153,6 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "ho",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "shıy",
-    "type": "predicate",
-    "english": "▯ disappears / leaves perception.",
-    "gloss": "disappear",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "ta",
     "notes": [],
     "examples": [],
     "fields": []
@@ -17335,7 +17335,7 @@
     "fields": []
   },
   {
-    "toaq": "tuımy",
+    "toaq": "tuıfua",
     "type": "predicate",
     "english": "▯ is a seat/chair/stool/bench.",
     "gloss": "seat",
@@ -17853,6 +17853,20 @@
     "examples": []
   },
   {
+    "toaq": "torea",
+    "type": "predicate",
+    "english": "▯ is a knife.",
+    "gloss": "knife",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "toq",
     "type": "predicate",
     "english": "▯ is a board.",
@@ -18011,20 +18025,6 @@
     "frame": "c c c",
     "distribution": "d d d",
     "pronominal_class": "ta",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "toemy",
-    "type": "predicate",
-    "english": "▯ is a knife.",
-    "gloss": "knife",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "maq",
     "notes": [],
     "examples": [],
     "fields": []
