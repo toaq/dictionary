@@ -738,36 +738,6 @@
     "examples": []
   },
   {
-    "toaq": "ele",
-    "type": "interjection",
-    "english": "I don't care either way",
-    "gloss": "",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "epı",
-    "type": "interjection",
-    "english": "excitement",
-    "gloss": "hooray",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
-    "toaq": "é",
-    "type": "interjection",
-    "english": "huh? / what? / come again?",
-    "gloss": "huh?",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "eku",
     "type": "predicate",
     "english": "▯ is an equine/member of genus Equus (the horses, donkeys, and zebras).",
@@ -796,10 +766,40 @@
     "fields": []
   },
   {
+    "toaq": "ele",
+    "type": "interjection",
+    "english": "I don't care either way",
+    "gloss": "",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "ém",
+    "type": "interjection",
+    "english": "huh? / what? / come again?",
+    "gloss": "huh?",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "enı",
     "type": "interjection",
     "english": "here / take this / look at this",
     "gloss": "here",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "epı",
+    "type": "interjection",
+    "english": "excitement",
+    "gloss": "hooray",
     "short": "",
     "keywords": [],
     "notes": [],
