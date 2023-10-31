@@ -250,6 +250,21 @@
     "fields": []
   },
   {
+    "toaq": "aı",
+    "type": "predicate",
+    "english": "▯ has the nature of/resembles/has traits that are typical of ▯; ▯ is ▯-ish/-y.",
+    "gloss": "ish",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "pronominal_class": "ta",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "aıba",
     "type": "interjection",
     "english": "encouraging/hurrying",
@@ -580,6 +595,38 @@
     "distribution": "d d d",
     "pronominal_class": "ho",
     "agent_subject": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Iqlı",
+    "type": "predicate",
+    "english": "▯ is English.",
+    "gloss": "English",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "agent_subject": false,
+    "notes": [
+      "Related to the English language or the Anglosphere, especially England."
+    ],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "Iqlızu",
+    "type": "predicate",
+    "english": "▯ is the English language.",
+    "gloss": "English.language",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "agent_subject": false,
     "notes": [],
     "examples": [],
     "fields": []
@@ -2090,6 +2137,36 @@
     "fields": []
   },
   {
+    "toaq": "cueq",
+    "type": "predicate",
+    "english": "▯ is public.",
+    "gloss": "public",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "cueqtua",
+    "type": "predicate",
+    "english": "▯ publishes ▯.",
+    "gloss": "publish",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "pronominal_class": "ho",
+    "agent_subject": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "chacha",
     "type": "interjection",
     "english": "giving permission; go ahead",
@@ -2677,6 +2754,21 @@
     "short": "",
     "keywords": [],
     "frame": "c 1i",
+    "distribution": "d d",
+    "pronominal_class": "ho",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "chıeche",
+    "type": "predicate",
+    "english": "▯ is a student of subject ▯.",
+    "gloss": "student",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
     "agent_subject": false,
@@ -3389,6 +3481,21 @@
     "type": "predicate",
     "english": "▯ is a sack/bag/pocket.",
     "gloss": "sack",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "ceaq",
+    "type": "predicate",
+    "english": "▯ is a nail/claw/hoof.",
+    "gloss": "nail",
     "short": "",
     "keywords": [],
     "frame": "c",
@@ -5968,6 +6075,21 @@
     "examples": []
   },
   {
+    "toaq": "goso",
+    "type": "predicate",
+    "english": "▯ is a chicken.",
+    "gloss": "chicken",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "goa",
     "type": "predicate",
     "english": "▯ is space/room.",
@@ -6839,6 +6961,21 @@
     "examples": []
   },
   {
+    "toaq": "hıa",
+    "type": "predicate",
+    "english": "question verb: what does ▯ satisfy?",
+    "gloss": "what",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "hıaq",
     "type": "predicate",
     "english": "▯ is poor in relation ▯; ▯ is in relation ▯ to/with few things.",
@@ -7208,6 +7345,21 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "hoq",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "hezo",
+    "type": "predicate",
+    "english": "▯ is something other than ▯, both of which satisfy property ▯.",
+    "gloss": "another",
+    "short": "",
+    "keywords": [],
+    "frame": "c c 1i",
+    "distribution": "d d d",
+    "pronominal_class": "ta",
     "agent_subject": false,
     "notes": [],
     "examples": [],
@@ -7958,6 +8110,21 @@
     "distribution": "d",
     "pronominal_class": "ta",
     "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "jıto",
+    "type": "predicate",
+    "english": "▯ guesses, correctly or not, that ▯ is the case.",
+    "gloss": "guess",
+    "short": "",
+    "keywords": [],
+    "frame": "c 0",
+    "distribution": "d d",
+    "pronominal_class": "ho",
+    "agent_subject": true,
     "notes": [],
     "examples": [],
     "fields": []
@@ -8808,6 +8975,21 @@
     "fields": []
   },
   {
+    "toaq": "kanı",
+    "type": "predicate",
+    "english": "▯ is a rabbit.",
+    "gloss": "rabbit",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kato",
     "type": "predicate",
     "english": "▯ is a cat.",
@@ -8988,6 +9170,21 @@
     "fields": []
   },
   {
+    "toaq": "kaqsıu",
+    "type": "predicate",
+    "english": "▯ is visually similar to / looks like ▯.",
+    "gloss": "looks.like",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "pronominal_class": "ta",
+    "agent_subject": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kaıchuo",
     "type": "predicate",
     "english": "▯ is a writing implement.",
@@ -9088,6 +9285,36 @@
     "examples": []
   },
   {
+    "toaq": "kune",
+    "type": "predicate",
+    "english": "▯ is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).",
+    "gloss": "dog",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kurı",
+    "type": "predicate",
+    "english": "▯ is a berry.",
+    "gloss": "berry",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "kusu",
     "type": "predicate",
     "english": "▯ is a squash/gourd/pumpkin.",
@@ -9121,36 +9348,6 @@
     "keywords": [],
     "notes": [],
     "examples": []
-  },
-  {
-    "toaq": "kune",
-    "type": "predicate",
-    "english": "▯ is a member of the genus Canis (the wolves, coyotes, jackals, dingoes, and dogs).",
-    "gloss": "dog",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "ho",
-    "agent_subject": false,
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "kurı",
-    "type": "predicate",
-    "english": "▯ is a berry.",
-    "gloss": "berry",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "maq",
-    "agent_subject": false,
-    "notes": [],
-    "examples": [],
-    "fields": []
   },
   {
     "toaq": "ku-",
@@ -9478,6 +9675,21 @@
     "distribution": "d n d",
     "pronominal_class": "ho",
     "agent_subject": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "kırı",
+    "type": "predicate",
+    "english": "▯ is cute/adorable.",
+    "gloss": "cute",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "agent_subject": false,
     "notes": [],
     "examples": [],
     "fields": []
@@ -10105,6 +10317,21 @@
     "keywords": [],
     "notes": [],
     "examples": []
+  },
+  {
+    "toaq": "keoı",
+    "type": "predicate",
+    "english": "▯ talks to ▯.",
+    "gloss": "talk.to",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "pronominal_class": "ho",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
   },
   {
     "toaq": "lä",
@@ -11385,6 +11612,21 @@
     "fields": []
   },
   {
+    "toaq": "muqceaq",
+    "type": "predicate",
+    "english": "▯ is a fingernail.",
+    "gloss": "fingernail",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "maq",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "muqdea",
     "type": "predicate",
     "english": "▯ punches ▯.",
@@ -11559,6 +11801,21 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "muıjeq",
+    "type": "predicate",
+    "english": "▯ means the same thing as ▯.",
+    "gloss": "mean.the.same",
+    "short": "",
+    "keywords": [],
+    "frame": "c c",
+    "distribution": "d d",
+    "pronominal_class": "hoq",
     "agent_subject": false,
     "notes": [],
     "examples": [],
@@ -12637,6 +12894,21 @@
     "fields": []
   },
   {
+    "toaq": "naıhe",
+    "type": "predicate",
+    "english": "▯ is generally the case lately/nowadays.",
+    "gloss": "lately",
+    "short": "",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "naı",
     "type": "tense",
     "english": "present",
@@ -13245,6 +13517,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "nheo",
+    "type": "illocution",
+    "english": "agreeing with an established claim",
+    "gloss": "yeah",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "ní",
@@ -15115,6 +15397,16 @@
     "examples": []
   },
   {
+    "toaq": "rúbu",
+    "type": "conjunction",
+    "english": "and not",
+    "gloss": "and.not",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "ruq",
     "type": "predicate",
     "english": "▯ is rain.",
@@ -16413,6 +16705,21 @@
     "fields": []
   },
   {
+    "toaq": "suaqse",
+    "type": "predicate",
+    "english": "▯ is a song.",
+    "gloss": "song",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "agent_subject": true,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "suaı",
     "type": "predicate",
     "english": "▯ is fast/quick.",
@@ -16706,6 +17013,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "shúq",
+    "type": "focus particle",
+    "english": "merely, simply, just",
+    "gloss": "merely",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "shua",
@@ -17722,6 +18039,21 @@
     "fields": []
   },
   {
+    "toaq": "sono",
+    "type": "predicate",
+    "english": "▯ is the case a little bit.",
+    "gloss": "a.little",
+    "short": "",
+    "keywords": [],
+    "frame": "0",
+    "distribution": "d",
+    "pronominal_class": "hoq",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "soq",
     "type": "predicate",
     "english": "▯, among ▯, satisfies property ▯ the most.",
@@ -18398,7 +18730,7 @@
   {
     "toaq": "tuao",
     "type": "predicate",
-    "english": "▯ is the case a little bit.",
+    "english": "▯ is little / not much the case.",
     "gloss": "little",
     "short": "",
     "keywords": [],
@@ -19224,6 +19556,21 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
+    "agent_subject": false,
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
+    "toaq": "tetabo",
+    "type": "predicate",
+    "english": "▯ is a turtle/tortoise.",
+    "gloss": "turtle",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
     "agent_subject": false,
     "notes": [],
     "examples": [],
