@@ -1179,7 +1179,7 @@
     "frame": "c 1i",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1544,7 +1544,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "free",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1619,7 +1619,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "hoq",
-    "subject": "proposition",
+    "subject": "event",
     "notes": [],
     "examples": [],
     "fields": []
@@ -1809,7 +1809,7 @@
     "frame": "c 2ix",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -2009,7 +2009,7 @@
     "frame": "c c 1x",
     "distribution": "d d d",
     "pronominal_class": "ta",
-    "subject": "shape",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3184,7 +3184,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3836,7 +3836,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -3851,7 +3851,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4046,7 +4046,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4302,7 +4302,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [
       {
@@ -4386,7 +4386,7 @@
     "frame": "c 1i",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "free",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4622,7 +4622,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "hoq",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4779,7 +4779,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -4964,7 +4964,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5001,7 +5001,7 @@
     "frame": "c ci 1i",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [
       "The third place property is maintained for as long as the second place property is being satisfied."
     ],
@@ -5083,7 +5083,7 @@
     "frame": "c c 1i",
     "distribution": "d d d",
     "pronominal_class": "ta",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5128,7 +5128,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5143,7 +5143,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5278,7 +5278,7 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5637,7 +5637,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6698,7 +6698,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6773,7 +6773,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -6953,7 +6953,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [
       {
@@ -6973,7 +6973,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7328,7 +7328,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7463,7 +7463,7 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7713,7 +7713,7 @@
     "frame": "c 1i",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -7883,7 +7883,7 @@
     "frame": "c c 1j",
     "distribution": "d d d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [
       {
@@ -8107,7 +8107,7 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8277,7 +8277,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -8877,7 +8877,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -9697,7 +9697,7 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12015,7 +12015,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -12262,7 +12262,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ze",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13705,7 +13705,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -13892,7 +13892,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14072,7 +14072,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14192,7 +14192,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14237,7 +14237,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14312,7 +14312,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14327,7 +14327,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14372,7 +14372,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14387,7 +14387,7 @@
     "frame": "c c",
     "distribution": "d n",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14402,7 +14402,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -14902,7 +14902,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15204,7 +15204,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15659,7 +15659,7 @@
     "frame": "c c",
     "distribution": "d n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "shape",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15674,7 +15674,7 @@
     "frame": "c 1i",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -15779,7 +15779,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16057,7 +16057,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -16897,7 +16897,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -17257,7 +17257,7 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "ho",
-    "subject": "individual",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -17596,7 +17596,7 @@
     "frame": "c 0",
     "distribution": "d d",
     "pronominal_class": "hoq",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -17881,7 +17881,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -18101,7 +18101,7 @@
     "frame": "c 1i",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -18660,7 +18660,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -18675,7 +18675,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -18690,7 +18690,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ta",
-    "subject": "agent",
+    "subject": "individual",
     "notes": [],
     "examples": [],
     "fields": []
@@ -18876,7 +18876,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
@@ -19224,7 +19224,7 @@
     "frame": "c",
     "distribution": "n",
     "pronominal_class": "ta",
-    "subject": "individual",
+    "subject": "free",
     "notes": [],
     "examples": [],
     "fields": []
