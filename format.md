@@ -14,6 +14,13 @@ Please insert your fields as you need them (not too much, though) – the format
 * `keywords` - a list of English words that one might search for when trying to find the headword; synonyms of the gloss or of the main words found in the sentential definition
 * `frame` – frame definition, if known; `"variable"` means that the word doesn't have a set frame (possibly anaphoric)
 * `distribution` - a string of the same format as `frame` where each slot type is replaced with either of ‘d’ or ‘n’ (for ‘distributive’ and ‘non-distributive’); `"variable"` – as above
+* `subject` - describes how the subject is constrained. Useful for semantics analysis. One of six string values:
+  * `"event"` is for subjects that are necessarily events (like **bıe**).
+  * `"proposition"` is for subjects that are necessarily propositions (like **guosıa**).
+  * `"individual"` is for verbs whose subjects _can't_ be events or propositions, and so they should subject-share, like **jaı**.
+  * `"agent"` implies `"individual"` and also syntactic ergativity. An example is **koı**.
+  * `"free"` is for verbs whose subjects can be anything, like **gı**. This implies _no_ subject-sharing.
+  * `"shape"` is kinda weird. It's for subjects that have a "shape", like **sao**. I don't know if we want to pretend events have "shapes", but I think it's kind of nice. Then **Koı jí sâo** means I walk and the event is spatio-temporally big. So if people agree with this I will change all the `"shape"`s to `"free"`, otherwise I will change them to `"individual"`.
 * `namesake` – whether this word is the name used to refer to its frametype
 * `notes` – array of strings
 * `examples` – array of objects:

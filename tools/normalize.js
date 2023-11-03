@@ -72,8 +72,7 @@ d = d.map((obj) => {
   ensureField(["keywords"], []);
 
   if (verbyTypes.includes(type)) {
-    ensureField(["frame", "distribution", "pronominal_class"], "");
-    ensureField(["agent_subject"], false);
+    ensureField(["frame", "distribution", "pronominal_class", "subject"], "");
     ensureField(["verb_class", "namesake"]);
     ensureField(["notes", "examples"], []);
     ensureField(["fields"], []);
