@@ -8714,7 +8714,7 @@
   },
   {
     "toaq": "jeı",
-    "type": "object incorporating verb",
+    "type": "predicatizer",
     "english": "turns following phrase X into verb: ▯ is X.",
     "gloss": "identical",
     "short": "",
@@ -12254,7 +12254,7 @@
   },
   {
     "toaq": "mea",
-    "type": "object incorporating verb",
+    "type": "predicatizer",
     "english": "turns following phrase X into verb: ▯ is among X.",
     "gloss": "among",
     "short": "",
@@ -14739,7 +14739,7 @@
   },
   {
     "toaq": "po",
-    "type": "object incorporating verb",
+    "type": "predicatizer",
     "english": "turns following phrase X into verb: ▯ is of X; ▯ is associated with X.",
     "gloss": "of",
     "short": "",
