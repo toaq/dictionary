@@ -6311,16 +6311,6 @@
     "fields": []
   },
   {
-    "toaq": "hu-",
-    "type": "prefix",
-    "english": "derives anaphoric pronouns referring to phrases headed by the specified stem",
-    "gloss": "PREV",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "hupı",
     "type": "predicate",
     "english": "▯ is a fox.",
@@ -6355,6 +6345,16 @@
     "type": "determiner",
     "english": "endophoric; the aforementioned X",
     "gloss": "ENDO",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
+    "toaq": "hu-",
+    "type": "mixed determiner prefix form and pronominalizer",
+    "english": "for verbs: fills object of verb with hú (endophoric; the aforementioned X); for other parts of speech: derives anaphoric pronouns referring to phrases headed by the specified stem",
+    "gloss": "PREV",
     "short": "",
     "keywords": [],
     "notes": [],
