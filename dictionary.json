@@ -1595,6 +1595,21 @@
     "fields": []
   },
   {
+    "toaq": "bore",
+    "type": "predicate",
+    "english": "▯ is flat.",
+    "gloss": "flat",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "bose",
     "type": "predicate",
     "english": "▯ is a wasp.",
