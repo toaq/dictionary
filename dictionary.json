@@ -1595,6 +1595,21 @@
     "fields": []
   },
   {
+    "toaq": "bore",
+    "type": "predicate",
+    "english": "▯ is flat.",
+    "gloss": "flat",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "bose",
     "type": "predicate",
     "english": "▯ is a wasp.",
@@ -12802,6 +12817,21 @@
     "fields": []
   },
   {
+    "toaq": "nuam",
+    "type": "predicate",
+    "english": "▯ is an arch; ▯ arches.",
+    "gloss": "arch",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "nuaq",
     "type": "predicate",
     "english": "▯ is a night.",
@@ -12856,21 +12886,6 @@
     "frame": "c",
     "distribution": "d",
     "pronominal_class": "maq",
-    "subject": "individual",
-    "notes": [],
-    "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "nuao",
-    "type": "predicate",
-    "english": "▯ is an arch; ▯ arches.",
-    "gloss": "arch",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "ta",
     "subject": "individual",
     "notes": [],
     "examples": [],
@@ -15145,7 +15160,7 @@
     "fields": []
   },
   {
-    "toaq": "ruqnuao",
+    "toaq": "ruqnuam",
     "type": "predicate",
     "english": "▯ is a rainbow.",
     "gloss": "rainbow",
