@@ -12,15 +12,8 @@ function sortify(s) {
       .normalize("NFD")
       .toLowerCase()
       .replace(/ı/g, "i")
+      .replace(/ꝡ/g, "v")
       .replace(/[^a-z\ ]/g, "")
-      // Prioritize q over vowels
-      // (` comes early codepoint-wise).
-      .replace(/q/g, "`")
-      // Prioritize compounds over serial predicates
-      // (~ comes last codepoint-wise).
-      .replace(/ /g, "~")
-      // Toaq-like vowel ordering (auioe).
-      .replace(/[ue]/g, (s) => (s == "e" ? "u" : "e"))
       // Handle the empty onset.
       .replace(/(?<= |^)(?=[aeiouy])/, "'")
   );
