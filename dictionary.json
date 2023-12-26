@@ -960,6 +960,16 @@
     ]
   },
   {
+    "toaq": "baq-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with báq (generic; X-kind)",
+    "gloss": "of:GEN",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "baı",
     "type": "predicate",
     "english": "▯ builds/assembles/makes ▯.",
@@ -9998,6 +10008,16 @@
     "fields": []
   },
   {
+    "toaq": "ke-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with ké (exophoric; this X (not previously mentioned))",
+    "gloss": "of:EXO",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "keq",
     "type": "predicate",
     "english": "▯ are feces; ▯ is excrement/shit/poo.",
@@ -13337,6 +13357,16 @@
     "fields": []
   },
   {
+    "toaq": "nı-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with ní (demonstrative; this/that X)",
+    "gloss": "of:this",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "nıq",
     "type": "predicate",
     "english": "▯ is new; ▯ is new to ▯.",
@@ -16063,6 +16093,16 @@
     "fields": []
   },
   {
+    "toaq": "sa-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with sá (existential quantifier)",
+    "gloss": "of:some",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "saq",
     "type": "predicate",
     "english": "▯ are three in number.",
@@ -17542,6 +17582,16 @@
     "fields": []
   },
   {
+    "toaq": "sıa-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with sía (zero quantifier)",
+    "gloss": "of:no",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "sıaq",
     "type": "predicate",
     "english": "▯ is to the right of ▯.",
@@ -18295,6 +18345,16 @@
     ]
   },
   {
+    "toaq": "tu-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with tú (singular universal quantifier)",
+    "gloss": "of:each",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
+  },
+  {
     "toaq": "túq",
     "type": "determiner",
     "english": "collective universal quantifier",
@@ -18333,6 +18393,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "tuq-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with túq (collective universal quantifier)",
+    "gloss": "of:all",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "tuaja",
