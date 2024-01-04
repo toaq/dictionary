@@ -13,6 +13,11 @@ function sortify(s) {
     .replace(/ı/g, "i")
     .replace(/ꝡ/g, "v")
     .replace(/[^a-z\ ]/g, "");
+
+  // It doesn't look like Array.sort is stable, so we'll tack on the original
+  // string at the end of the sort key. For example "dâ" is sorted as "da,dâ".
+  // This basically has the effect of ignoring diacritics in a primary sort but
+  // then deferring to them as a tie-breaker.
   return normal + "," + s;
 }
 
