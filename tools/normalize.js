@@ -7,12 +7,13 @@ process.chdir(__dirname);
 let d = require("./../dictionary.json");
 
 function sortify(s) {
-  return s
+  const normal = s
     .normalize("NFD")
     .toLowerCase()
     .replace(/ı/g, "i")
     .replace(/ꝡ/g, "v")
     .replace(/[^a-z\ ]/g, "");
+  return normal + "," + s;
 }
 
 d = d.sort((a, b) => {

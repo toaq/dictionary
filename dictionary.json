@@ -395,16 +395,6 @@
     "fields": []
   },
   {
-    "toaq": "be-",
-    "type": "prefix",
-    "english": "generic adjectival",
-    "gloss": "GA",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "be",
     "type": "predicate",
     "english": "▯ is an infant; ▯ is a baby.",
@@ -418,6 +408,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "be-",
+    "type": "prefix",
+    "english": "generic adjectival",
+    "gloss": "GA",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "bea",
@@ -475,8 +475,8 @@
     "examples": []
   },
   {
-    "toaq": "béı",
-    "type": "focus particle",
+    "toaq": "beı-",
+    "type": "focus particle prefix form",
     "english": "contrastive focus",
     "gloss": "FOC.CONTR",
     "short": "",
@@ -485,8 +485,8 @@
     "examples": []
   },
   {
-    "toaq": "beı-",
-    "type": "focus particle prefix form",
+    "toaq": "béı",
+    "type": "focus particle",
     "english": "contrastive focus",
     "gloss": "FOC.CONTR",
     "short": "",
@@ -745,21 +745,6 @@
     "fields": []
   },
   {
-    "toaq": "bo-",
-    "type": "prefix",
-    "english": "be X'd by …; passive",
-    "gloss": "PASS",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Choqgı hú bọjoe da.",
-        "english": "That skill is useful."
-      }
-    ]
-  },
-  {
     "toaq": "bo",
     "type": "predicate",
     "english": "▯ has/possesses ▯.",
@@ -773,6 +758,21 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "bo-",
+    "type": "prefix",
+    "english": "be X'd by …; passive",
+    "gloss": "PASS",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Choqgı hú bọjoe da.",
+        "english": "That skill is useful."
+      }
+    ]
   },
   {
     "toaq": "boaq",
@@ -935,9 +935,9 @@
     "fields": []
   },
   {
-    "toaq": "bu-",
-    "type": "prefix",
-    "english": "non-X",
+    "toaq": "bu",
+    "type": "polarity",
+    "english": "not",
     "gloss": "NEG",
     "short": "",
     "keywords": [],
@@ -945,9 +945,9 @@
     "examples": []
   },
   {
-    "toaq": "bu",
-    "type": "polarity",
-    "english": "not",
+    "toaq": "bu-",
+    "type": "prefix",
+    "english": "non-X",
     "gloss": "NEG",
     "short": "",
     "keywords": [],
@@ -4048,16 +4048,6 @@
     "fields": []
   },
   {
-    "toaq": "fa-",
-    "type": "prefix",
-    "english": "telic",
-    "gloss": "TEL",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "fa",
     "type": "predicate",
     "english": "▯ goes to ▯.",
@@ -4071,6 +4061,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "fa-",
+    "type": "prefix",
+    "english": "telic",
+    "gloss": "TEL",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "fafuaq",
@@ -4744,16 +4744,6 @@
     "fields": []
   },
   {
-    "toaq": "ge-",
-    "type": "prefix",
-    "english": "diminutive",
-    "gloss": "DIM",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "ge",
     "type": "predicate",
     "english": "▯ is a stimulus.",
@@ -4767,6 +4757,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "ge-",
+    "type": "prefix",
+    "english": "diminutive",
+    "gloss": "DIM",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "gea",
@@ -8299,8 +8299,8 @@
     "fields": []
   },
   {
-    "toaq": "júaq",
-    "type": "focus particle",
+    "toaq": "juaq-",
+    "type": "focus particle prefix form",
     "english": "even",
     "gloss": "even",
     "short": "",
@@ -8309,8 +8309,8 @@
     "examples": []
   },
   {
-    "toaq": "juaq-",
-    "type": "focus particle prefix form",
+    "toaq": "júaq",
+    "type": "focus particle",
     "english": "even",
     "gloss": "even",
     "short": "",
@@ -8947,20 +8947,20 @@
     "fields": []
   },
   {
-    "toaq": "kı-",
-    "type": "prefix",
-    "english": "adjective",
-    "gloss": "ADJ",
+    "toaq": "kı",
+    "type": "end parenthetical",
+    "english": "end parenthetical",
+    "gloss": ")",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "kı",
-    "type": "end parenthetical",
-    "english": "end parenthetical",
-    "gloss": ")",
+    "toaq": "kı-",
+    "type": "prefix",
+    "english": "adjective",
+    "gloss": "ADJ",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -10925,8 +10925,8 @@
     "fields": []
   },
   {
-    "toaq": "máo",
-    "type": "focus particle",
+    "toaq": "mao-",
+    "type": "focus particle prefix form",
     "english": "also",
     "gloss": "also",
     "short": "",
@@ -10935,8 +10935,8 @@
     "examples": []
   },
   {
-    "toaq": "mao-",
-    "type": "focus particle prefix form",
+    "toaq": "máo",
+    "type": "focus particle",
     "english": "also",
     "gloss": "also",
     "short": "",
@@ -11826,16 +11826,6 @@
     "examples": []
   },
   {
-    "toaq": "mu-",
-    "type": "prefix",
-    "english": "un-X; forms antonyms",
-    "gloss": "OPP",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "mu",
     "type": "predicate",
     "english": "▯ and ▯ are in relation ▯ with the first and second places swapped.",
@@ -11854,6 +11844,16 @@
       }
     ],
     "fields": []
+  },
+  {
+    "toaq": "mu-",
+    "type": "prefix",
+    "english": "un-X; forms antonyms",
+    "gloss": "OPP",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "mua",
@@ -12564,20 +12564,20 @@
     "fields": []
   },
   {
-    "toaq": "nha-",
-    "type": "prefix",
-    "english": "derives ad-hoc variable out of following material",
-    "gloss": "VAR",
+    "toaq": "nha",
+    "type": "illocution",
+    "english": "promissive",
+    "gloss": "PROM",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "nha",
-    "type": "illocution",
-    "english": "promissive",
-    "gloss": "PROM",
+    "toaq": "nha-",
+    "type": "prefix",
+    "english": "derives ad-hoc variable out of following material",
+    "gloss": "VAR",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -12664,20 +12664,20 @@
     "fields": []
   },
   {
-    "toaq": "nhó",
+    "toaq": "nho",
     "type": "interjection",
-    "english": "is that so?",
-    "gloss": "yes?",
+    "english": "yes",
+    "gloss": "yes",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "nho",
+    "toaq": "nhó",
     "type": "interjection",
-    "english": "yes",
-    "gloss": "yes",
+    "english": "is that so?",
+    "gloss": "yes?",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -12709,20 +12709,20 @@
     "fields": []
   },
   {
-    "toaq": "nı-",
-    "type": "determiner prefix form",
-    "english": "fills object of verb with ní (demonstrative; this/that X)",
-    "gloss": "of:this",
+    "toaq": "ní",
+    "type": "determiner",
+    "english": "demonstrative; this/that X",
+    "gloss": "this",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "ní",
-    "type": "determiner",
-    "english": "demonstrative; this/that X",
-    "gloss": "this",
+    "toaq": "nı-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with ní (demonstrative; this/that X)",
+    "gloss": "of:this",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -15679,16 +15679,6 @@
     "fields": []
   },
   {
-    "toaq": "ruı-",
-    "type": "prefix",
-    "english": "atelic",
-    "gloss": "ATEL",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "ruı",
     "type": "predicate",
     "english": "▯ is gray.",
@@ -15702,6 +15692,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "ruı-",
+    "type": "prefix",
+    "english": "atelic",
+    "gloss": "ATEL",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "ruo",
@@ -17542,16 +17542,6 @@
     "fields": []
   },
   {
-    "toaq": "su-",
-    "type": "prefix",
-    "english": "X-est; most X; superlative",
-    "gloss": "SUP",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "su",
     "type": "predicate",
     "english": "▯ are [previous predicate].",
@@ -17565,6 +17555,16 @@
     "notes": [],
     "examples": [],
     "fields": []
+  },
+  {
+    "toaq": "su-",
+    "type": "prefix",
+    "english": "X-est; most X; superlative",
+    "gloss": "SUP",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "sua",
@@ -18077,21 +18077,6 @@
     "fields": []
   },
   {
-    "toaq": "te-",
-    "type": "prefix",
-    "english": "have been X'd by …; passive perfect",
-    "gloss": "PPF",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Ma pu soa súq hú kune tẹhıao?",
-        "english": "Did you help that injured dog?"
-      }
-    ]
-  },
-  {
     "toaq": "te",
     "type": "predicate",
     "english": "▯ has been ▯-ed (property).",
@@ -18110,6 +18095,21 @@
       }
     ],
     "fields": []
+  },
+  {
+    "toaq": "te-",
+    "type": "prefix",
+    "english": "have been X'd by …; passive perfect",
+    "gloss": "PPF",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": [
+      {
+        "toaq": "Ma pu soa súq hú kune tẹhıao?",
+        "english": "Did you help that injured dog?"
+      }
+    ]
   },
   {
     "toaq": "tea",
