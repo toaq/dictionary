@@ -345,16 +345,6 @@
     "fields": []
   },
   {
-    "toaq": "baq-",
-    "type": "determiner prefix form",
-    "english": "fills object of verb with báq (generic; X-kind)",
-    "gloss": "of:GEN",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "báq",
     "type": "determiner",
     "english": "generic; X-kind",
@@ -378,6 +368,16 @@
         "english": "Yesterday, I saw butterflies."
       }
     ]
+  },
+  {
+    "toaq": "baq-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with báq (generic; X-kind)",
+    "gloss": "of:GEN",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "batata",
@@ -475,8 +475,8 @@
     "examples": []
   },
   {
-    "toaq": "beı-",
-    "type": "focus particle prefix form",
+    "toaq": "béı",
+    "type": "focus particle",
     "english": "contrastive focus",
     "gloss": "FOC.CONTR",
     "short": "",
@@ -485,8 +485,8 @@
     "examples": []
   },
   {
-    "toaq": "béı",
-    "type": "focus particle",
+    "toaq": "beı-",
+    "type": "focus particle prefix form",
     "english": "contrastive focus",
     "gloss": "FOC.CONTR",
     "short": "",
@@ -5843,20 +5843,20 @@
     "fields": []
   },
   {
-    "toaq": "ha-",
-    "type": "prefix",
-    "english": "X-er; more X; comparative",
-    "gloss": "CMPR",
+    "toaq": "há",
+    "type": "pronoun",
+    "english": "generic impersonal pronoun; one/you/they/people",
+    "gloss": "3I.ANIM",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "há",
-    "type": "pronoun",
-    "english": "generic impersonal pronoun; one/you/they/people",
-    "gloss": "3I.ANIM",
+    "toaq": "ha-",
+    "type": "prefix",
+    "english": "X-er; more X; comparative",
+    "gloss": "CMPR",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -6593,20 +6593,20 @@
     "fields": []
   },
   {
-    "toaq": "hu-",
-    "type": "prefix",
-    "english": "derives anaphoric pronouns referring to phrases headed by the specified stem",
-    "gloss": "PREV",
+    "toaq": "hú",
+    "type": "determiner",
+    "english": "endophoric; the aforementioned X",
+    "gloss": "ENDO",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "hú",
-    "type": "determiner",
-    "english": "endophoric; the aforementioned X",
-    "gloss": "ENDO",
+    "toaq": "hu-",
+    "type": "prefix",
+    "english": "derives anaphoric pronouns referring to phrases headed by the specified stem",
+    "gloss": "PREV",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -8299,8 +8299,8 @@
     "fields": []
   },
   {
-    "toaq": "juaq-",
-    "type": "focus particle prefix form",
+    "toaq": "júaq",
+    "type": "focus particle",
     "english": "even",
     "gloss": "even",
     "short": "",
@@ -8309,8 +8309,8 @@
     "examples": []
   },
   {
-    "toaq": "júaq",
-    "type": "focus particle",
+    "toaq": "juaq-",
+    "type": "focus particle prefix form",
     "english": "even",
     "gloss": "even",
     "short": "",
@@ -8788,20 +8788,20 @@
     "fields": []
   },
   {
-    "toaq": "ke-",
-    "type": "determiner prefix form",
-    "english": "fills object of verb with ké (exophoric; this X (not previously mentioned))",
-    "gloss": "of:EXO",
+    "toaq": "ké",
+    "type": "determiner",
+    "english": "exophoric; this X (not previously mentioned)",
+    "gloss": "EXO",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "ké",
-    "type": "determiner",
-    "english": "exophoric; this X (not previously mentioned)",
-    "gloss": "EXO",
+    "toaq": "ke-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with ké (exophoric; this X (not previously mentioned))",
+    "gloss": "of:EXO",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -9422,8 +9422,8 @@
     "fields": []
   },
   {
-    "toaq": "ku-",
-    "type": "focus particle prefix form",
+    "toaq": "kú",
+    "type": "focus particle",
     "english": "non-contrastive focus",
     "gloss": "FOC",
     "short": "",
@@ -9432,8 +9432,8 @@
     "examples": []
   },
   {
-    "toaq": "kú",
-    "type": "focus particle",
+    "toaq": "ku-",
+    "type": "focus particle prefix form",
     "english": "non-contrastive focus",
     "gloss": "FOC",
     "short": "",
@@ -10925,8 +10925,8 @@
     "fields": []
   },
   {
-    "toaq": "mao-",
-    "type": "focus particle prefix form",
+    "toaq": "máo",
+    "type": "focus particle",
     "english": "also",
     "gloss": "also",
     "short": "",
@@ -10935,8 +10935,8 @@
     "examples": []
   },
   {
-    "toaq": "máo",
-    "type": "focus particle",
+    "toaq": "mao-",
+    "type": "focus particle prefix form",
     "english": "also",
     "gloss": "also",
     "short": "",
@@ -12157,20 +12157,20 @@
     "fields": []
   },
   {
-    "toaq": "na-",
-    "type": "prefix",
-    "english": "conjunctionizer",
-    "gloss": "CONJ",
+    "toaq": "nä",
+    "type": "cleft verb",
+    "english": "raise argument to the front of the clause",
+    "gloss": "CLE",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "nä",
-    "type": "cleft verb",
-    "english": "raise argument to the front of the clause",
-    "gloss": "CLE",
+    "toaq": "na-",
+    "type": "prefix",
+    "english": "conjunctionizer",
+    "gloss": "CONJ",
     "short": "",
     "keywords": [],
     "notes": [],
@@ -15829,16 +15829,6 @@
     "fields": []
   },
   {
-    "toaq": "sa-",
-    "type": "determiner prefix form",
-    "english": "fills object of verb with sá (existential quantifier)",
-    "gloss": "of:some",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "sá",
     "type": "determiner",
     "english": "existential quantifier",
@@ -15856,6 +15846,16 @@
         "english": "something"
       }
     ]
+  },
+  {
+    "toaq": "sa-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with sá (existential quantifier)",
+    "gloss": "of:some",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "sabaq",
@@ -18700,8 +18700,8 @@
     "examples": []
   },
   {
-    "toaq": "to-",
-    "type": "focus particle prefix form",
+    "toaq": "tó",
+    "type": "focus particle",
     "english": "only",
     "gloss": "only",
     "short": "",
@@ -18710,8 +18710,8 @@
     "examples": []
   },
   {
-    "toaq": "tó",
-    "type": "focus particle",
+    "toaq": "to-",
+    "type": "focus particle prefix form",
     "english": "only",
     "gloss": "only",
     "short": "",
@@ -18923,16 +18923,6 @@
     "fields": []
   },
   {
-    "toaq": "tu-",
-    "type": "determiner prefix form",
-    "english": "fills object of verb with tú (singular universal quantifier)",
-    "gloss": "of:each",
-    "short": "",
-    "keywords": [],
-    "notes": [],
-    "examples": []
-  },
-  {
     "toaq": "tú",
     "type": "determiner",
     "english": "singular universal quantifier",
@@ -18950,6 +18940,16 @@
         "english": "everything; each thing"
       }
     ]
+  },
+  {
+    "toaq": "tu-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with tú (singular universal quantifier)",
+    "gloss": "of:each",
+    "short": "",
+    "keywords": [],
+    "notes": [],
+    "examples": []
   },
   {
     "toaq": "tua",
@@ -19208,20 +19208,20 @@
     "fields": []
   },
   {
-    "toaq": "tuq-",
-    "type": "determiner prefix form",
-    "english": "fills object of verb with túq (collective universal quantifier)",
-    "gloss": "of:all",
+    "toaq": "túq",
+    "type": "determiner",
+    "english": "collective universal quantifier",
+    "gloss": "all",
     "short": "",
     "keywords": [],
     "notes": [],
     "examples": []
   },
   {
-    "toaq": "túq",
-    "type": "determiner",
-    "english": "collective universal quantifier",
-    "gloss": "all",
+    "toaq": "tuq-",
+    "type": "determiner prefix form",
+    "english": "fills object of verb with túq (collective universal quantifier)",
+    "gloss": "of:all",
     "short": "",
     "keywords": [],
     "notes": [],

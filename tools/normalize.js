@@ -12,7 +12,7 @@ function sortify(s) {
     .toLowerCase()
     .replace(/ı/g, "i")
     .replace(/ꝡ/g, "v")
-    .replace(/[^a-z\ ]/g, "");
+    .replace(/[^a-z\ -]/g, "");
 
   // It doesn't look like Array.sort is stable, so we'll tack on the original
   // string at the end of the sort key. For example "dâ" is sorted as "da,dâ".
