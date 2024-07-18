@@ -11826,26 +11826,6 @@
     "examples": []
   },
   {
-    "toaq": "mu",
-    "type": "predicate",
-    "english": "▯ and ▯ are in relation ▯ with the first and second places swapped.",
-    "gloss": "-ed",
-    "short": "",
-    "keywords": [],
-    "frame": "c c 2ji",
-    "distribution": "d d d",
-    "pronominal_class": "ta",
-    "subject": "free",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Mu kaqgaı nháo.",
-        "english": "They are being seen."
-      }
-    ],
-    "fields": []
-  },
-  {
     "toaq": "mu-",
     "type": "prefix",
     "english": "un-X; forms antonyms",
@@ -18059,26 +18039,6 @@
     "subject": "individual",
     "notes": [],
     "examples": [],
-    "fields": []
-  },
-  {
-    "toaq": "te",
-    "type": "predicate",
-    "english": "▯ has been ▯-ed (property).",
-    "gloss": "-ed",
-    "short": "",
-    "keywords": [],
-    "frame": "c 2xi",
-    "distribution": "d d",
-    "pronominal_class": "ta_strong",
-    "subject": "free",
-    "notes": [],
-    "examples": [
-      {
-        "toaq": "Te hıao ní kune da.",
-        "english": "This dog is injured."
-      }
-    ],
     "fields": []
   },
   {
