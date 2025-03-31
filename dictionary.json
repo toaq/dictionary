@@ -4437,6 +4437,21 @@
     "fields": []
   },
   {
+    "toaq": "foıge",
+    "type": "predicate",
+    "english": "▯ is boring.",
+    "gloss": "boring",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ta",
+    "subject": "free",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "foto",
     "type": "predicate",
     "english": "▯ is a photograph.",
