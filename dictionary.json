@@ -1060,6 +1060,21 @@
     "fields": []
   },
   {
+    "toaq": "buetı",
+    "type": "predicate",
+    "english": "▯ is at their home.",
+    "gloss": "at.home",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "buı",
     "type": "predicate",
     "english": "▯ is outside of ▯.",
