@@ -5498,6 +5498,21 @@
     "fields": []
   },
   {
+    "toaq": "goso",
+    "type": "predicate",
+    "english": "▯ is a chicken; ▯ is a member of genus Gallus.",
+    "gloss": "chicken",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "gu",
     "type": "predicate",
     "english": "▯ are two in number.",
