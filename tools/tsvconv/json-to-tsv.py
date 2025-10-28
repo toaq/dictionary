@@ -36,7 +36,7 @@ def reordered(entry):
 	)
 	diff = set(entry.keys()) - set(order)
 	if diff != set():
-		n = "" if len(set) == 1 else "S"
+		n = "" if len(diff) == 1 else "S"
 		print(F"FOREIGN KEY({n}) FOUND: {str(diff)}")
 	return dict(
 		(key, entry[key]) for key in order if key in entry)
