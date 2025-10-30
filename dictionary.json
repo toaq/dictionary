@@ -12194,7 +12194,7 @@
   {
     "toaq": "na-",
     "type": "prefix",
-    "english": "conjunctionizer",
+    "english": "conjunctionizer: converts a transitive verb into a conjunction.",
     "gloss": "CONJ",
     "short": "",
     "keywords": [],
