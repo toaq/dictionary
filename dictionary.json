@@ -16248,6 +16248,21 @@
     "fields": []
   },
   {
+    "toaq": "selaq",
+    "type": "predicate",
+    "english": "▯ is a shark (superorder Selachimorpha/Selachii).",
+    "gloss": "shark",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "seta",
     "type": "predicate",
     "english": "▯ are 10<sup>21</sup> (1,000,000,000,000,000,000,000) in number; ▯ are a sextillion.",
