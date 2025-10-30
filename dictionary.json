@@ -16183,6 +16183,21 @@
     "fields": []
   },
   {
+    "toaq": "selaq",
+    "type": "predicate",
+    "english": "▯ is a shark (superorder Selachimorpha/Selachii).",
+    "gloss": "shark",
+    "short": "",
+    "keywords": [],
+    "frame": "c",
+    "distribution": "d",
+    "pronominal_class": "ho",
+    "subject": "individual",
+    "notes": [],
+    "examples": [],
+    "fields": []
+  },
+  {
     "toaq": "seo",
     "type": "predicate",
     "english": "▯ is a spouse of ▯.",
@@ -16245,21 +16260,6 @@
         "english": "The weather is rainy. [The weather is, it rains.]"
       }
     ],
-    "fields": []
-  },
-  {
-    "toaq": "selaq",
-    "type": "predicate",
-    "english": "▯ is a shark (superorder Selachimorpha/Selachii).",
-    "gloss": "shark",
-    "short": "",
-    "keywords": [],
-    "frame": "c",
-    "distribution": "d",
-    "pronominal_class": "ho",
-    "subject": "individual",
-    "notes": [],
-    "examples": [],
     "fields": []
   },
   {
