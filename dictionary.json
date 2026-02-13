@@ -11883,7 +11883,7 @@
   {
     "toaq": "mua",
     "type": "predicate",
-    "english": "▯ is an example of ▯.",
+    "english": "▯ is an example of what satisfies property ▯.",
     "gloss": "example",
     "short": "",
     "keywords": [],
