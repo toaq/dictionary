@@ -1099,7 +1099,7 @@
     "frame": "c c",
     "distribution": "d d",
     "pronominal_class": "ho",
-    "subject": "shape",
+    "subject": "agent",
     "notes": [],
     "examples": [],
     "fields": []
@@ -5256,7 +5256,7 @@
     "keywords": [],
     "frame": "c",
     "distribution": "d",
-    "pronominal_class": "maq",
+    "pronominal_class": "ta",
     "subject": "free",
     "notes": [],
     "examples": [],
